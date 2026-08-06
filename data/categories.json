@@ -1,25 +1,25 @@
 [
   {
-    "slug": "collection-1",
-    "name": "Collection 1",
+    "slug": "flesh-of-gods",
+    "name": "Flesh of Gods",
     "description": "Dark fantasy characters, monsters, and busts.",
     "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/3-month-loyalty-reward-archlich-sovereign-730250/1.jpg"
   },
   {
-    "slug": "collection-2",
-    "name": "Collection 2",
+    "slug": "rescale-miniatures",
+    "name": "Rescale Miniatures",
     "description": "Dragons, dungeon monsters, and modular fantasy warbands.",
     "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/deep-dragon-adult-807175/d7113cc5be04.jpg"
   },
   {
-    "slug": "collection-3",
-    "name": "Collection 3",
+    "slug": "yks-miniatures",
+    "name": "YKS Miniatures",
     "description": "D&D-ready fantasy creatures and characters.",
     "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-3/loxodon-druid-244954/1.jpg"
   },
   {
-    "slug": "collection-4",
-    "name": "Collection 4",
+    "slug": "dm-stash",
+    "name": "DM Stash",
     "description": "Fantasy figures, monsters, and terrain.",
     "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/erina-of-amarth-proctor-of-canos/1.jpg"
   }
