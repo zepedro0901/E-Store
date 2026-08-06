@@ -1,0 +1,57 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/versions
+
+# testing
+/coverage
+
+# next.js
+/.next/
+/out/
+
+# production
+/build
+
+# misc
+.DS_Store
+*.pem
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# env files (can opt-in for committing if needed)
+.env*
+
+# vercel
+.vercel
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+
+# personal catalog-source download credentials (order/key tied to this account, never commit)
+/pricing/private/
+dev-server.log
+
+# internal catalog import scripts, kept local only
+/scripts/import-collection-4-batch.js
+
+# personal, local-only notes
+/Claude.txt
+
+# product photography — migrated to Cloudflare R2, kept locally as a working copy
+/public/images/collection-1/
+/public/images/collection-2/
+/public/images/collection-3/
+/public/images/collection-4/

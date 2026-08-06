@@ -1,0 +1,141 @@
+"use client";
+
+import Image from "next/image";
+import Link from "next/link";
+import { useCartStore } from "@/lib/cart-store";
+import { formatPrice } from "@/lib/format";
+
+export function CartView() {
+  const hasHydrated = useCartStore((s) => s.hasHydrated);
+  const items = useCartStore((s) => s.items);
+  const setQuantity = useCartStore((s) => s.setQuantity);
+  const removeItem = useCartStore((s) => s.removeItem);
+  const clear = useCartStore((s) => s.clear);
+
+  if (!hasHydrated) return null;
+
+  if (items.length === 0) {
+    return (
+      <div className="flex flex-col items-center gap-4 py-20 text-center">
+        <p className="text-foreground/60">Your cart is empty.</p>
+        <Link
+          href="/products"
+          className="rounded-full bg-accent px-6 py-3 text-sm font-semibold uppercase tracking-wide text-accent-foreground transition-colors hover:bg-accent-hover"
+        >
+          Browse All Products
+        </Link>
+      </div>
+    );
+  }
+
+  const subtotal = items.reduce((sum, i) => sum + i.price * i.quantity, 0);
+
+  return (
+    <div className="flex flex-col gap-8">
+      <div className="flex flex-col divide-y divide-border border border-border">
+        {items.map((item) => (
+          <div key={item.productId} className="flex items-center gap-4 p-4">
+            <Link
+              href={`/products/${item.slug}`}
+              className="relative h-20 w-20 shrink-0 overflow-hidden bg-surface-2"
+            >
+              <Image
+                src={item.image}
+                alt={item.name}
+                fill
+                sizes="80px"
+                className="object-cover"
+              />
+            </Link>
+            <div className="flex flex-1 flex-col gap-1">
+              <Link
+                href={`/products/${item.slug}`}
+                className="text-sm font-semibold hover:text-accent"
+              >
+                {item.name}
+              </Link>
+              <span className="font-mono text-xs text-foreground/50">
+                {formatPrice(item.price, "EUR")} each
+              </span>
+            </div>
+            <div className="flex items-center border border-border">
+              <button
+                type="button"
+                onClick={() => setQuantity(item.productId, item.quantity - 1)}
+                aria-label="Decrease quantity"
+                className="flex h-8 w-8 items-center justify-center text-base transition-colors hover:text-accent"
+              >
+                &minus;
+              </button>
+              <span className="w-8 text-center text-sm font-medium">
+                {item.quantity}
+              </span>
+              <button
+                type="button"
+                onClick={() => setQuantity(item.productId, item.quantity + 1)}
+                aria-label="Increase quantity"
+                className="flex h-8 w-8 items-center justify-center text-base transition-colors hover:text-accent"
+              >
+                +
+              </button>
+            </div>
+            <span className="w-20 shrink-0 text-right text-sm font-semibold text-accent">
+              {formatPrice(item.price * item.quantity, "EUR")}
+            </span>
+            <button
+              type="button"
+              onClick={() => removeItem(item.productId)}
+              aria-label={`Remove ${item.name}`}
+              className="shrink-0 text-foreground/40 transition-colors hover:text-red-400"
+            >
+              <svg
+                aria-hidden
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                strokeWidth={1.5}
+                className="h-5 w-5"
+              >
+                <path
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                  d="M6 18L18 6M6 6l12 12"
+                />
+              </svg>
+            </button>
+          </div>
+        ))}
+      </div>
+
+      <div className="flex flex-col items-end gap-4">
+        <div className="flex items-center gap-3">
+          <span className="text-sm text-foreground/55">Subtotal</span>
+          <span className="font-display text-2xl font-bold text-accent">
+            {formatPrice(subtotal, "EUR")}
+          </span>
+        </div>
+        <div className="flex flex-wrap gap-3">
+          <button
+            type="button"
+            onClick={clear}
+            className="border border-border px-6 py-3 text-sm font-semibold uppercase tracking-wide text-foreground/70 transition-colors hover:border-red-400/50 hover:text-red-400"
+          >
+            Clear Cart
+          </button>
+          <Link
+            href="/products"
+            className="border border-border px-6 py-3 text-sm font-semibold uppercase tracking-wide text-foreground/80 transition-colors hover:border-accent/50 hover:text-accent"
+          >
+            Continue Shopping
+          </Link>
+          <Link
+            href="/checkout"
+            className="bg-accent px-6 py-3 text-sm font-semibold uppercase tracking-wide text-accent-foreground transition-colors hover:bg-accent-hover"
+          >
+            Request to Order
+          </Link>
+        </div>
+      </div>
+    </div>
+  );
+}
