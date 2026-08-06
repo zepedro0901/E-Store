@@ -1,19 +1,24 @@
-import { getCategories } from "@/lib/products";
+import { getCategories, getThemes } from "@/lib/products";
 
 export function FilterBar({
   action,
   category,
+  theme,
   sort,
   q,
   showCategoryFilter = false,
+  showThemeFilter = false,
 }: {
   action: string;
   category?: string;
+  theme?: string;
   sort?: string;
   q?: string;
   showCategoryFilter?: boolean;
+  showThemeFilter?: boolean;
 }) {
   const categories = getCategories();
+  const themes = getThemes();
 
   return (
     <form
@@ -43,7 +48,7 @@ export function FilterBar({
             htmlFor="category"
             className="text-xs font-medium text-foreground/55"
           >
-            Category
+            Studio
           </label>
           <select
             id="category"
@@ -51,10 +56,33 @@ export function FilterBar({
             defaultValue={category ?? ""}
             className="rounded-lg border border-border bg-background px-3 py-2 text-sm outline-none transition-colors focus:border-accent"
           >
-            <option value="">All categories</option>
+            <option value="">All studios</option>
             {categories.map((c) => (
               <option key={c.slug} value={c.slug}>
                 {c.name}
+              </option>
+            ))}
+          </select>
+        </div>
+      )}
+      {showThemeFilter && (
+        <div className="flex flex-col gap-1">
+          <label
+            htmlFor="theme"
+            className="text-xs font-medium text-foreground/55"
+          >
+            Theme
+          </label>
+          <select
+            id="theme"
+            name="theme"
+            defaultValue={theme ?? ""}
+            className="rounded-lg border border-border bg-background px-3 py-2 text-sm outline-none transition-colors focus:border-accent"
+          >
+            <option value="">All themes</option>
+            {themes.map((t) => (
+              <option key={t.slug} value={t.slug}>
+                {t.name}
               </option>
             ))}
           </select>

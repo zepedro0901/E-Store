@@ -1,0 +1,56 @@
+[
+  {
+    "slug": "dragons",
+    "name": "Dragons",
+    "description": "Dragons, wyrms, drakes, and wyverns.",
+    "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/xu-quin-skyward-dragon-champion-377826/1.jpg"
+  },
+  {
+    "slug": "humanoids",
+    "name": "Humanoids",
+    "description": "Adventurers and NPCs across all the classic fantasy races.",
+    "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/tansy-oath-of-the-ancients-halfling-paladin-371003/1.jpg"
+  },
+  {
+    "slug": "monsters-beasts",
+    "name": "Monsters & Beasts",
+    "description": "Monstrosities, beasts, and giants.",
+    "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/the-crusher-370985/1.jpg"
+  },
+  {
+    "slug": "undead",
+    "name": "Undead",
+    "description": "Zombies, skeletons, vampires, and other things that shouldn't move.",
+    "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/vampire-warrior-377821/1.jpg"
+  },
+  {
+    "slug": "demons-fiends",
+    "name": "Demons & Fiends",
+    "description": "Devils, demons, and other hellish threats.",
+    "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/masked-trickster-oni-377815/1.jpg"
+  },
+  {
+    "slug": "celestials",
+    "name": "Celestials",
+    "description": "Angels and other divine beings.",
+    "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/the-one-eyed-queen-370993/1.jpg"
+  },
+  {
+    "slug": "constructs",
+    "name": "Constructs",
+    "description": "Golems, warforged, and other animated constructs.",
+    "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/war-guardian-377813/1.jpg"
+  },
+  {
+    "slug": "terrain-scenery",
+    "name": "Terrain & Scenery",
+    "description": "Dungeon terrain, ruins, and scenery pieces.",
+    "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/ivy-shrine-raider-elf-rogue-371001/1.jpg"
+  },
+  {
+    "slug": "busts",
+    "name": "Busts",
+    "description": "Display busts.",
+    "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/suke-wandering-sword-bust-377852/1.jpg"
+  }
+]

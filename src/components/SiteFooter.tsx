@@ -1,13 +1,14 @@
 import Image from "next/image";
 import Link from "next/link";
-import { getCategories } from "@/lib/products";
+import { getCategories, getThemes } from "@/lib/products";
 
 export function SiteFooter() {
   const categories = getCategories();
+  const themes = getThemes();
 
   return (
     <footer className="border-t border-border bg-surface">
-      <div className="mx-auto grid w-full max-w-6xl gap-10 px-6 py-14 sm:grid-cols-3">
+      <div className="mx-auto grid w-full max-w-6xl gap-10 px-6 py-14 sm:grid-cols-2 lg:grid-cols-4">
         <div className="flex flex-col gap-3">
           <Link
             href="/"
@@ -33,7 +34,7 @@ export function SiteFooter() {
 
         <div>
           <h3 className="text-xs font-semibold uppercase tracking-wide text-accent/80">
-            Collections
+            Studios
           </h3>
           <ul className="mt-4 flex flex-col gap-2 text-sm">
             {categories.map((category) => (
@@ -43,6 +44,24 @@ export function SiteFooter() {
                   className="text-foreground/65 transition-colors hover:text-accent"
                 >
                   {category.name}
+                </Link>
+              </li>
+            ))}
+          </ul>
+        </div>
+
+        <div>
+          <h3 className="text-xs font-semibold uppercase tracking-wide text-accent/80">
+            Themes
+          </h3>
+          <ul className="mt-4 flex flex-col gap-2 text-sm">
+            {themes.map((theme) => (
+              <li key={theme.slug}>
+                <Link
+                  href={`/theme/${theme.slug}`}
+                  className="text-foreground/65 transition-colors hover:text-accent"
+                >
+                  {theme.name}
                 </Link>
               </li>
             ))}

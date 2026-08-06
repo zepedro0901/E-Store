@@ -1,11 +1,18 @@
 "use client";
 
 import { useState } from "react";
-import type { Product } from "@/types/product";
+import Link from "next/link";
+import type { Product, Theme } from "@/types/product";
 import { ProductGallery } from "@/components/ProductGallery";
 import { ProductOptions } from "@/components/ProductOptions";
 
-export function ProductDetail({ product }: { product: Product }) {
+export function ProductDetail({
+  product,
+  themes,
+}: {
+  product: Product;
+  themes: Theme[];
+}) {
   const variations = product.variations ?? [];
   const [variationId, setVariationId] = useState(variations[0]?.id);
   const [activeImageIndex, setActiveImageIndex] = useState(0);
@@ -45,6 +52,19 @@ export function ProductDetail({ product }: { product: Product }) {
           <dt className="text-foreground/55">Material</dt>
           <dd className="capitalize">{product.material}</dd>
         </dl>
+        {themes.length > 0 && (
+          <div className="flex flex-wrap gap-2">
+            {themes.map((theme) => (
+              <Link
+                key={theme.slug}
+                href={`/theme/${theme.slug}`}
+                className="rounded-full bg-accent/10 px-3 py-1 text-xs font-medium text-accent transition-colors hover:bg-accent/20"
+              >
+                {theme.name}
+              </Link>
+            ))}
+          </div>
+        )}
         {product.tags.length > 0 && (
           <div className="flex flex-wrap gap-2">
             {product.tags.map((tag) => (

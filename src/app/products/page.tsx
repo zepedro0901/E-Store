@@ -14,6 +14,7 @@ export default async function ProductsPage({
 }: {
   searchParams: Promise<{
     category?: string;
+    theme?: string;
     sort?: string;
     q?: string;
     page?: string;
@@ -21,6 +22,7 @@ export default async function ProductsPage({
 }) {
   const params = await searchParams;
   const category = params.category || undefined;
+  const theme = params.theme || undefined;
   const q = params.q || undefined;
   const sort: SortOption = SORT_OPTIONS.includes(params.sort as SortOption)
     ? (params.sort as SortOption)
@@ -32,11 +34,12 @@ export default async function ProductsPage({
     total,
     totalPages,
     page: currentPage,
-  } = listProducts({ category, q, sort, page });
+  } = listProducts({ category, theme, q, sort, page });
 
   const buildHref = (targetPage: number) => {
     const usp = new URLSearchParams();
     if (category) usp.set("category", category);
+    if (theme) usp.set("theme", theme);
     if (q) usp.set("q", q);
     if (sort !== "newest") usp.set("sort", sort);
     if (targetPage > 1) usp.set("page", String(targetPage));
@@ -53,9 +56,11 @@ export default async function ProductsPage({
       <FilterBar
         action="/products"
         category={category}
+        theme={theme}
         sort={sort}
         q={q}
         showCategoryFilter
+        showThemeFilter
       />
       <ProductGrid products={items} />
       <Pagination

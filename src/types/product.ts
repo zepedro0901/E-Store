@@ -11,6 +11,7 @@ export interface Product {
   slug: string;
   name: string;
   category: string;
+  themes: string[];
   tags: string[];
   price: number; // cents
   currency: "EUR" | "USD";
@@ -26,6 +27,13 @@ export interface Product {
 }
 
 export interface Category {
+  slug: string;
+  name: string;
+  description?: string;
+  image?: string;
+}
+
+export interface Theme {
   slug: string;
   name: string;
   description?: string;

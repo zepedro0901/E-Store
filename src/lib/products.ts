@@ -1,8 +1,10 @@
 import categoriesData from "../../data/categories.json";
+import themesData from "../../data/themes.json";
 import productsData from "../../data/products.json";
-import type { Category, Product, SortOption } from "@/types/product";
+import type { Category, Product, SortOption, Theme } from "@/types/product";
 
 const categories = categoriesData as Category[];
+const themes = themesData as Theme[];
 const products = (productsData as Product[]).filter((p) => !p.hidden);
 
 export const PAGE_SIZE = 48;
@@ -19,6 +21,14 @@ export function getCategories(): Category[] {
 
 export function getCategoryBySlug(slug: string): Category | undefined {
   return categories.find((c) => c.slug === slug);
+}
+
+export function getThemes(): Theme[] {
+  return themes;
+}
+
+export function getThemeBySlug(slug: string): Theme | undefined {
+  return themes.find((t) => t.slug === slug);
 }
 
 export function getAllProducts(): Product[] {
@@ -64,6 +74,7 @@ function sortProducts(items: Product[], sort: SortOption): Product[] {
 
 export interface ListProductsParams {
   category?: string;
+  theme?: string;
   q?: string;
   sort?: SortOption;
   page?: number;
@@ -80,6 +91,7 @@ export interface ListProductsResult {
 
 export function listProducts({
   category,
+  theme,
   q,
   sort = "newest",
   page = 1,
@@ -89,6 +101,10 @@ export function listProducts({
 
   if (category) {
     filtered = filtered.filter((p) => p.category === category);
+  }
+
+  if (theme) {
+    filtered = filtered.filter((p) => p.themes.includes(theme));
   }
 
   const needle = q?.trim().toLowerCase();

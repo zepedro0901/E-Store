@@ -6,6 +6,7 @@ import {
   getAllProducts,
   getCategoryBySlug,
   getProductBySlug,
+  getThemeBySlug,
 } from "@/lib/products";
 
 export function generateStaticParams() {
@@ -32,6 +33,9 @@ export default async function ProductPage({
   if (!product) notFound();
 
   const category = getCategoryBySlug(product.category);
+  const themes = product.themes
+    .map((slug) => getThemeBySlug(slug))
+    .filter((t): t is NonNullable<typeof t> => Boolean(t));
 
   return (
     <div className="mx-auto w-full max-w-5xl px-6 py-10">
@@ -51,7 +55,7 @@ export default async function ProductPage({
           </>
         )}
       </nav>
-      <ProductDetail product={product} />
+      <ProductDetail product={product} themes={themes} />
     </div>
   );
 }
