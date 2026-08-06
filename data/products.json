@@ -421,7 +421,8 @@
       "spirit",
       "oni",
       "yokai",
-      "masked"
+      "masked",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -1176,7 +1177,8 @@
       "wraith",
       "eater",
       "spirit",
-      "sin"
+      "sin",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -2130,7 +2132,9 @@
     "slug": "3-month-loyalty-reward-dreadrider-349845",
     "name": "3-Month Loyalty Reward - Dreadrider",
     "category": "flesh-of-gods",
-    "tags": [],
+    "tags": [
+      "variations"
+    ],
     "price": 0,
     "currency": "EUR",
     "description": "PRESUPPORTED BY ATLAS SUPPORT SOLUTIONS DREADRIDER Size: Medium (25 mm base) and Large (mounted - 50 mm base) Scale: 32 mm",
@@ -2491,7 +2495,8 @@
       "troll",
       "ape",
       "siege",
-      "trolls"
+      "trolls",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -2536,7 +2541,8 @@
       "zombie",
       "Fallen",
       "fiend",
-      "infantry"
+      "infantry",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -2583,7 +2589,8 @@
       "Bastion",
       "armored",
       "monstrosity",
-      "gnawers"
+      "gnawers",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -2629,7 +2636,8 @@
       "rhinoceros",
       "Breaker",
       "PIKE",
-      "Rhinofolk"
+      "Rhinofolk",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -2917,7 +2925,8 @@
       "sand",
       "dust",
       "Mephit",
-      "imp"
+      "imp",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -3572,7 +3581,8 @@
       "beastfolk",
       "Gnoll",
       "bandits",
-      "witherling"
+      "witherling",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -3971,7 +3981,8 @@
       "warlock",
       "sorceress",
       "cleric",
-      "Shelly"
+      "Shelly",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -4009,7 +4020,8 @@
       "wrath",
       "paladin",
       "swordsman",
-      "sigurth"
+      "sigurth",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -4048,7 +4060,8 @@
       "paladin",
       "splendor",
       "garland",
-      "absolute"
+      "absolute",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -4165,7 +4178,8 @@
       "zombie",
       "knights",
       "construct",
-      "Dread"
+      "Dread",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -4788,7 +4802,8 @@
       "cursed",
       "Reapers",
       "ravenous",
-      "rabid"
+      "rabid",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -5265,7 +5280,8 @@
       "assassin",
       "cultist",
       "sorcerer",
-      "npc"
+      "npc",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -5387,7 +5403,8 @@
       "swarm",
       "Mutation",
       "body-horror",
-      "amalgamite"
+      "amalgamite",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -5620,7 +5637,9 @@
     "slug": "6-month-loyalty-reward-hell-knight-730253",
     "name": "6-Month Loyalty Reward - Hell Knight",
     "category": "flesh-of-gods",
-    "tags": [],
+    "tags": [
+      "variations"
+    ],
     "price": 0,
     "currency": "EUR",
     "description": "PRESUPPORTED BY ATLAS SUPPORT SOLUTIONS Size Mounted: Large (50 mm base) Size Unmounted: Medium (25 mm base) Scale: 32 mm",
@@ -6294,7 +6313,8 @@
       "fiend",
       "imp",
       "goblinoid",
-      "devilish"
+      "devilish",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -6849,7 +6869,8 @@
       "aberration",
       "acolyte",
       "body-horror",
-      "NecroTech"
+      "NecroTech",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -6938,7 +6959,8 @@
       "undead",
       "zombie",
       "fire",
-      "candle-men"
+      "candle-men",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -7463,7 +7485,8 @@
       "devil",
       "Witch",
       "DEEP",
-      "hag"
+      "hag",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -7734,7 +7757,8 @@
       "gargantuan",
       "baphomet",
       "archdevil",
-      "Entity"
+      "Entity",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -7978,7 +8002,8 @@
       "army",
       "orc",
       "orcs",
-      "Ravager"
+      "Ravager",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -8129,7 +8154,8 @@
       "elite",
       "uruk",
       "hai",
-      "urukhai"
+      "urukhai",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -8638,7 +8664,8 @@
       "soldier",
       "undead",
       "zombie",
-      "cursed"
+      "cursed",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -9204,7 +9231,8 @@
       "poison",
       "plague",
       "servants",
-      "Mutation"
+      "Mutation",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -9850,7 +9878,8 @@
       "draconian",
       "kobold",
       "kobolds",
-      "blackwing"
+      "blackwing",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -10426,7 +10455,8 @@
       "spawn",
       "cursed",
       "abyssal",
-      "Fishfolk"
+      "Fishfolk",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -11059,7 +11089,8 @@
     "tags": [
       "armor",
       "knight",
-      "mimic"
+      "mimic",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -11581,7 +11612,8 @@
       "skull",
       "fire",
       "flame",
-      "flameskulls"
+      "flameskulls",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -12246,7 +12278,8 @@
       "Stalker",
       "winged",
       "imp",
-      "Glacier"
+      "Glacier",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -12321,7 +12354,8 @@
       "warrior",
       "winter",
       "paladin",
-      "crimson"
+      "crimson",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -13047,7 +13081,8 @@
       "giant",
       "spider",
       "marauder",
-      "void"
+      "void",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -13704,7 +13739,8 @@
       "beholder",
       "Planar",
       "devourer",
-      "void"
+      "void",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -13917,7 +13953,8 @@
       "velociraptor",
       "Raptor",
       "tyranid",
-      "xenoraptor"
+      "xenoraptor",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -14463,7 +14500,8 @@
       "Villager",
       "cursed",
       "possessed",
-      "deadite"
+      "deadite",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -15100,7 +15138,8 @@
       "iron",
       "steel",
       "Eberron",
-      "magitek"
+      "magitek",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -15178,7 +15217,8 @@
       "Warforged",
       "Eberron",
       "forgeborn",
-      "magitek"
+      "magitek",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -15943,7 +15983,8 @@
       "Folk",
       "cursed",
       "unholy",
-      "commoner"
+      "commoner",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -16904,7 +16945,8 @@
       "cyclop",
       "gazer",
       "nothic",
-      "aberrant"
+      "aberrant",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -17241,7 +17283,8 @@
       "arcane",
       "mimic",
       "grimoire",
-      "arkanum"
+      "arkanum",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -17948,7 +17991,8 @@
       "hell",
       "hound",
       "wolf",
-      "fiend"
+      "fiend",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -17999,7 +18043,8 @@
       "cursed",
       "armored",
       "antipaladin",
-      "demonoid"
+      "demonoid",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -18707,7 +18752,8 @@
       "metallic",
       "stance",
       "2024",
-      "2025"
+      "2025",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -18792,7 +18838,8 @@
       "DnD",
       "t",
       "lotp",
-      "razoraptor"
+      "razoraptor",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -18848,7 +18895,8 @@
       "rider",
       "D&D",
       "DnD",
-      "lotp"
+      "lotp",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -18944,7 +18992,8 @@
       "DnD",
       "Pteranodon",
       "lotp",
-      "zycoalt"
+      "zycoalt",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -19055,7 +19104,8 @@
       "Sneaky",
       "lotp",
       "sneak",
-      "murkborn"
+      "murkborn",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -19181,7 +19231,8 @@
       "Lizardman",
       "lizardmen",
       "lotp",
-      "grimscale"
+      "grimscale",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -19304,7 +19355,8 @@
       "Lizardman",
       "lizardmen",
       "lotp",
-      "warfang"
+      "warfang",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -19402,7 +19454,8 @@
       "Lizardman",
       "lizardmen",
       "lotp",
-      "dreadscale"
+      "dreadscale",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -19467,7 +19520,8 @@
       "D&D",
       "DnD",
       "valor",
-      "lotp"
+      "lotp",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -19637,7 +19691,8 @@
       "DnD",
       "drow",
       "warcry",
-      "lotp"
+      "lotp",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -19832,7 +19887,8 @@
       "Dwarves",
       "Artificer",
       "lotp",
-      "Molten"
+      "Molten",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -19995,7 +20051,8 @@
       "Dwarves",
       "lotp",
       "Molten",
-      "Proxies"
+      "Proxies",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -20136,7 +20193,8 @@
       "DnD",
       "lotp",
       "Molten",
-      "velatrix"
+      "velatrix",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -20256,7 +20314,8 @@
       "glory",
       "lotp",
       "Molten",
-      "Proxies"
+      "Proxies",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -20353,7 +20412,8 @@
       "proxy",
       "lotp",
       "Molten",
-      "velocisaurus"
+      "velocisaurus",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -20433,7 +20493,8 @@
       "mounted",
       "lotp",
       "Molten",
-      "avispyror"
+      "avispyror",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -20536,7 +20597,8 @@
       "Nazgul",
       "sorcerer",
       "lotp",
-      "Draconic"
+      "Draconic",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -20626,7 +20688,8 @@
       "Saddle",
       "armored",
       "sorcerer",
-      "lotp"
+      "lotp",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -20718,7 +20781,8 @@
       "warior",
       "Nazgul",
       "sorcerer",
-      "lotp"
+      "lotp",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -20817,7 +20881,8 @@
       "D&D",
       "DnD",
       "lotp",
-      "icetroll"
+      "icetroll",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -20876,7 +20941,8 @@
       "DnD",
       "spawn",
       "lotp",
-      "dragonspawn"
+      "dragonspawn",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -20969,7 +21035,8 @@
       "cultist",
       "sorcerer",
       "tiamat",
-      "lotp"
+      "lotp",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -21090,7 +21157,8 @@
       "1/1",
       "five",
       "tiamat",
-      "lotp"
+      "lotp",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -21128,7 +21196,9 @@
     "slug": "pack-goblins-807199",
     "name": "Goblins",
     "category": "rescale-miniatures",
-    "tags": [],
+    "tags": [
+      "variations"
+    ],
     "price": 0,
     "currency": "EUR",
     "description": "> Pack Goblins (25mm base) - 2 Archer- 2 Twin Blades- 3 Axemen- 3 Fireball Throwers- 5 Swordmen • Supported files : supports for confirmed user • Beefed files: 20% thicker support tips, user friendly supports • Lys files: lychee files for edit • Unsupported files",
@@ -21180,7 +21250,9 @@
     "slug": "pack-hobgoblins-807191",
     "name": "Hobgoblins",
     "category": "rescale-miniatures",
-    "tags": [],
+    "tags": [
+      "variations"
+    ],
     "price": 0,
     "currency": "EUR",
     "description": "> Pack Hobgoblins (50mm base) - Hobgoblin Hook (75mm base)- Hobgoblin Smasher A- Hobgoblin Smasher B • Supported files : supports for confirmed user • Beefed files: 20% thicker support tips, user friendly supports • Lys files: lychee files for edit • Unsupported files",
@@ -21270,7 +21342,8 @@
       "warband",
       "Crowns",
       "lotp",
-      "huntsmen"
+      "huntsmen",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -21345,7 +21418,8 @@
       "spearman",
       "Crowns",
       "axeman",
-      "lotp"
+      "lotp",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -21401,7 +21475,8 @@
       "humanoid",
       "warband",
       "lotp",
-      "Sands"
+      "Sands",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -21541,7 +21616,8 @@
       "druid",
       "drow",
       "deepwood",
-      "lotp"
+      "lotp",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -21666,7 +21742,8 @@
       "deepwood",
       "whip",
       "lotp",
-      "crawlers"
+      "crawlers",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -21740,7 +21817,8 @@
       "knights",
       "humanoid",
       "bahamut",
-      "lotp"
+      "lotp",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -21849,7 +21927,8 @@
       "wyvern",
       "mounted",
       "Vanguard",
-      "lotp"
+      "lotp",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -21921,7 +22000,8 @@
       "Humanoids",
       "lotp",
       "rite",
-      "untamed"
+      "untamed",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -22035,7 +22115,8 @@
       "Humanoids",
       "lotp",
       "rite",
-      "untamed"
+      "untamed",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -22102,7 +22183,8 @@
       "Humanoids",
       "lotp",
       "unchained",
-      "dysnaty"
+      "dysnaty",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -22259,7 +22341,8 @@
       "Humanoids",
       "lotp",
       "unchained",
-      "dysnaty"
+      "dysnaty",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -22323,7 +22406,8 @@
       "BBEG",
       "lotp",
       "unchained",
-      "dysnaty"
+      "dysnaty",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -22378,7 +22462,8 @@
       "maw",
       "coven",
       "lotp",
-      "Immortalis"
+      "Immortalis",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -22450,7 +22535,8 @@
       "BBEG",
       "nocturne",
       "lotp",
-      "Immortalis"
+      "Immortalis",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -22540,7 +22626,8 @@
       "BBEG",
       "lotp",
       "Immortalis",
-      "graveward"
+      "graveward",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -22634,7 +22721,8 @@
       "npc",
       "lotp",
       "Immortalis",
-      "fleshforged"
+      "fleshforged",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -22699,7 +22787,8 @@
       "lotp",
       "frostborn",
       "frostborne",
-      "vargir"
+      "vargir",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -22766,7 +22855,8 @@
       "lotp",
       "frostborn",
       "frostborne",
-      "vargir"
+      "vargir",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -22872,7 +22962,8 @@
       "frostborne",
       "vargir",
       "frosthorn",
-      "frosthorns"
+      "frosthorns",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -22933,7 +23024,8 @@
       "frostborne",
       "shardfangs",
       "shardfang",
-      "wintershardfangs"
+      "wintershardfangs",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -22991,7 +23083,8 @@
       "frost",
       "lotp",
       "frostborn",
-      "frostborne"
+      "frostborne",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -23037,7 +23130,8 @@
       "DnD",
       "horned",
       "infernal",
-      "lotp"
+      "lotp",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -23167,7 +23261,8 @@
       "DnD",
       "forged",
       "infernal",
-      "lotp"
+      "lotp",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -23265,7 +23360,8 @@
       "DnD",
       "hells",
       "infernal",
-      "lotp"
+      "lotp",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -23389,7 +23485,8 @@
       "infernal",
       "lotp",
       "brood",
-      "spawned"
+      "spawned",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -23472,7 +23569,8 @@
       "silent",
       "II",
       "lotp",
-      "purity"
+      "purity",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -23575,7 +23673,8 @@
       "II",
       "lotp",
       "purity",
-      "radiant"
+      "radiant",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -23679,7 +23778,8 @@
       "Aasimar",
       "lotp",
       "purity",
-      "ascended"
+      "ascended",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -23801,7 +23901,8 @@
       "II",
       "heavenly",
       "lotp",
-      "purity"
+      "purity",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -23903,7 +24004,8 @@
       "heavenly",
       "lotp",
       "sentinels",
-      "purity"
+      "purity",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -23982,7 +24084,8 @@
       "triad",
       "lotp",
       "Leonin",
-      "purity"
+      "purity",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -24037,7 +24140,8 @@
       "monstrosity",
       "lotp",
       "Pestilence",
-      "pestilent"
+      "pestilent",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -24138,7 +24242,8 @@
       "lotp",
       "gut",
       "Pestilence",
-      "gutspawn"
+      "gutspawn",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -24216,7 +24321,8 @@
       "lotp",
       "Pestilence",
       "eldricht",
-      "mirebound"
+      "mirebound",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -24306,7 +24412,8 @@
       "monstrosity",
       "rotten",
       "lotp",
-      "Pestilence"
+      "Pestilence",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -24442,7 +24549,8 @@
       "bombardier",
       "ratkin",
       "ratfolk",
-      "lotp"
+      "lotp",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -24529,7 +24637,8 @@
       "ratkin",
       "ratfolk",
       "lotp",
-      "mutilated"
+      "mutilated",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -24609,7 +24718,8 @@
       "DnD",
       "ratkin",
       "ratfolk",
-      "lotp"
+      "lotp",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -24689,7 +24799,8 @@
       "ratkin",
       "ratfolk",
       "monks",
-      "lotp"
+      "lotp",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -24839,7 +24950,8 @@
       "Blight",
       "ratkin",
       "ratfolk",
-      "lotp"
+      "lotp",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -24903,7 +25015,8 @@
       "eldricht",
       "draethon",
       "malgorth",
-      "nyarlok"
+      "nyarlok",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -24973,7 +25086,8 @@
       "lotp",
       "horrors",
       "devilish",
-      "fleas"
+      "fleas",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -25112,7 +25226,8 @@
       "DnD",
       "abyss",
       "lotp",
-      "skorath"
+      "skorath",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -25245,7 +25360,8 @@
       "hells",
       "Nine",
       "lotp",
-      "Cambion"
+      "Cambion",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -25348,7 +25464,8 @@
       "mounted",
       "brutal",
       "lotp",
-      "cliffside"
+      "cliffside",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -25419,7 +25536,8 @@
       "lotp",
       "saber-toothed",
       "saber-tooth",
-      "cliffside"
+      "cliffside",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -25483,7 +25601,8 @@
       "mounted",
       "lotp",
       "Brutes",
-      "cliffside"
+      "cliffside",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -25535,7 +25654,8 @@
       "mounted",
       "lotp",
       "Brutes",
-      "cliffside"
+      "cliffside",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -25611,7 +25731,8 @@
       "goblins",
       "brutal",
       "lotp",
-      "cliffside"
+      "cliffside",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -25770,7 +25891,8 @@
       "brutal",
       "lotp",
       "Brutes",
-      "cliffside"
+      "cliffside",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -25920,7 +26042,8 @@
       "DnD",
       "lotp",
       "Brutes",
-      "cliffside"
+      "cliffside",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -26072,7 +26195,8 @@
       "DnD",
       "persian",
       "skeletons",
-      "lotp"
+      "lotp",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -26208,7 +26332,8 @@
       "D&D",
       "DnD",
       "skeletons",
-      "lotp"
+      "lotp",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -26357,7 +26482,8 @@
       "lotp",
       "Gravelords",
       "Soulblight",
-      "conclave"
+      "conclave",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -26549,7 +26675,8 @@
       "chromatic",
       "lotp",
       "2024",
-      "2025"
+      "2025",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -26643,7 +26770,8 @@
       "lotp",
       "metallic",
       "2024",
-      "2025"
+      "2025",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -26726,7 +26854,8 @@
       "savage",
       "lotp",
       "strigoi",
-      "Strige"
+      "Strige",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -26892,7 +27021,8 @@
       "flesh",
       "lotp",
       "strigoi",
-      "Strige"
+      "Strige",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -27053,7 +27183,8 @@
       "mounted",
       "lotp",
       "unmounted",
-      "dabeath"
+      "dabeath",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -27150,7 +27281,8 @@
       "D&D",
       "DnD",
       "lotp",
-      "metallic"
+      "metallic",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -27254,7 +27386,8 @@
       "lotp",
       "gloom",
       "Barovia",
-      "Reapers"
+      "Reapers",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -27362,7 +27495,8 @@
       "lotp",
       "gloom",
       "Barovia",
-      "Reapers"
+      "Reapers",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -27480,7 +27614,8 @@
       "gloom",
       "Barovia",
       "doomstride",
-      "stride"
+      "stride",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -27694,7 +27829,8 @@
       "lotp",
       "gloom",
       "Barovia",
-      "wraithbound"
+      "wraithbound",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -27872,7 +28008,8 @@
       "strahd",
       "lotp",
       "gloom",
-      "Barovia"
+      "Barovia",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -27928,7 +28065,8 @@
       "D&D",
       "DnD",
       "lotp",
-      "metallic"
+      "metallic",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -28007,7 +28145,8 @@
       "lotp",
       "purity",
       "celest",
-      "aetherium"
+      "aetherium",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -28130,7 +28269,8 @@
       "purity",
       "Aurelian",
       "celest",
-      "skyblade"
+      "skyblade",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -28256,7 +28396,8 @@
       "armored",
       "lotp",
       "purity",
-      "astralyon"
+      "astralyon",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -28380,7 +28521,8 @@
       "metallic",
       "2024",
       "2025",
-      "purity"
+      "purity",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -28437,7 +28579,8 @@
       "Bastion",
       "lotp",
       "metallic",
-      "purity"
+      "purity",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -28515,7 +28658,8 @@
       "lotp",
       "purity",
       "celest",
-      "aeterna"
+      "aeterna",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -28713,7 +28857,8 @@
       "lotp",
       "purity",
       "Solaris",
-      "celest"
+      "celest",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -28857,7 +29002,8 @@
       "infantery",
       "lotp",
       "purity",
-      "celest"
+      "celest",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -28996,7 +29142,8 @@
       "lotp",
       "gryph",
       "purity",
-      "celest"
+      "celest",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -34577,7 +34724,8 @@
     "tags": [
       "the-dire-end",
       "aberration",
-      "monster"
+      "monster",
+      "variations"
     ],
     "price": 349,
     "currency": "EUR",
@@ -34857,7 +35005,8 @@
     "tags": [
       "the-arcane-university",
       "aberration",
-      "monster"
+      "monster",
+      "variations"
     ],
     "price": 440,
     "currency": "EUR",
@@ -35346,7 +35495,8 @@
     "tags": [
       "welcome-to-the-arena",
       "beastfolk",
-      "monster"
+      "monster",
+      "variations"
     ],
     "price": 597,
     "currency": "EUR",
@@ -36595,7 +36745,8 @@
     "tags": [
       "hell-at-heaven-s-gate",
       "undead",
-      "monster"
+      "monster",
+      "variations"
     ],
     "price": 300,
     "currency": "EUR",
@@ -37180,7 +37331,8 @@
       "rogue",
       "warlock",
       "elf",
-      "npc"
+      "npc",
+      "variations"
     ],
     "price": 342,
     "currency": "EUR",
@@ -37748,7 +37900,8 @@
     "tags": [
       "the-great-crusade",
       "undead",
-      "monster"
+      "monster",
+      "variations"
     ],
     "price": 300,
     "currency": "EUR",
@@ -38318,7 +38471,8 @@
       "gunslinger",
       "rogue",
       "human",
-      "npc"
+      "npc",
+      "variations"
     ],
     "price": 300,
     "currency": "EUR",
@@ -38737,7 +38891,8 @@
       "a-wild-hunt",
       "beast",
       "shapeshifter",
-      "monster"
+      "monster",
+      "variations"
     ],
     "price": 351,
     "currency": "EUR",
@@ -39546,7 +39701,8 @@
       "paladin",
       "celestial",
       "human",
-      "npc"
+      "npc",
+      "variations"
     ],
     "price": 337,
     "currency": "EUR",
@@ -39813,7 +39969,8 @@
       "fighter",
       "ranger",
       "vampire",
-      "npc"
+      "npc",
+      "variations"
     ],
     "price": 300,
     "currency": "EUR",
@@ -40366,7 +40523,8 @@
       "drow-from-beyond",
       "aberration",
       "drow",
-      "monster"
+      "monster",
+      "variations"
     ],
     "price": 323,
     "currency": "EUR",
@@ -40911,7 +41069,8 @@
     "tags": [
       "blood-on-the-sails",
       "undead",
-      "monster"
+      "monster",
+      "variations"
     ],
     "price": 322,
     "currency": "EUR",
@@ -41636,7 +41795,8 @@
       "ranger",
       "beastfolk",
       "dragonfolk",
-      "npc"
+      "npc",
+      "variations"
     ],
     "price": 455,
     "currency": "EUR",
@@ -41966,7 +42126,8 @@
       "the-fey-court",
       "construct",
       "fey",
-      "monster"
+      "monster",
+      "variations"
     ],
     "price": 313,
     "currency": "EUR",
@@ -42638,7 +42799,8 @@
       "fighter",
       "beastfolk",
       "monster",
-      "npc"
+      "npc",
+      "variations"
     ],
     "price": 339,
     "currency": "EUR",
@@ -43075,7 +43237,8 @@
       "gunslinger",
       "ranger",
       "human",
-      "npc"
+      "npc",
+      "variations"
     ],
     "price": 300,
     "currency": "EUR",
@@ -43612,7 +43775,8 @@
     "tags": [
       "cogs-of-revolution",
       "automaton",
-      "monster"
+      "monster",
+      "variations"
     ],
     "price": 372,
     "currency": "EUR",
@@ -44060,7 +44224,8 @@
       "fiend",
       "tiefling",
       "monster",
-      "npc"
+      "npc",
+      "variations"
     ],
     "price": 355,
     "currency": "EUR",
@@ -44216,7 +44381,8 @@
       "fighter",
       "paladin",
       "celestial",
-      "npc"
+      "npc",
+      "variations"
     ],
     "price": 367,
     "currency": "EUR",
@@ -44491,7 +44657,8 @@
       "rogue",
       "sorcerer",
       "serpentfolk",
-      "npc"
+      "npc",
+      "variations"
     ],
     "price": 300,
     "currency": "EUR",
@@ -45020,7 +45187,8 @@
       "gunslinger",
       "rogue",
       "human",
-      "npc"
+      "npc",
+      "variations"
     ],
     "price": 311,
     "currency": "EUR",
@@ -45362,7 +45530,8 @@
       "bound-in-the-bloodmoon",
       "beastfolk",
       "werewolf",
-      "monster"
+      "monster",
+      "variations"
     ],
     "price": 335,
     "currency": "EUR",
@@ -45409,7 +45578,8 @@
     "tags": [
       "bound-in-the-bloodmoon",
       "vampire",
-      "monster"
+      "monster",
+      "variations"
     ],
     "price": 300,
     "currency": "EUR",
@@ -45811,7 +45981,8 @@
     "tags": [
       "dwarves-of-the-deep",
       "monstrosity",
-      "monster"
+      "monster",
+      "variations"
     ],
     "price": 300,
     "currency": "EUR",
@@ -46237,7 +46408,8 @@
     "tags": [
       "war-of-the-elements",
       "elemental",
-      "monster"
+      "monster",
+      "variations"
     ],
     "price": 3996,
     "currency": "EUR",
@@ -46643,7 +46815,8 @@
     "tags": [
       "aberrant-ascensions",
       "aberration",
-      "monster"
+      "monster",
+      "variations"
     ],
     "price": 409,
     "currency": "EUR",
@@ -46935,7 +47108,8 @@
     "category": "dm-stash",
     "tags": [
       "a-grim-fate",
-      "terrain"
+      "terrain",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -47087,7 +47261,8 @@
     "tags": [
       "a-grim-fate",
       "aberration",
-      "monster"
+      "monster",
+      "variations"
     ],
     "price": 400,
     "currency": "EUR",
@@ -47499,7 +47674,8 @@
       "adventure-continues",
       "beastfolk",
       "dragonfolk",
-      "monster"
+      "monster",
+      "variations"
     ],
     "price": 300,
     "currency": "EUR",
@@ -47576,7 +47752,8 @@
       "adventure-continues",
       "giant",
       "orc",
-      "monster"
+      "monster",
+      "variations"
     ],
     "price": 2158,
     "currency": "EUR",
@@ -47840,7 +48017,8 @@
     "tags": [
       "crucible-of-the-chosen",
       "tiefling",
-      "monster"
+      "monster",
+      "variations"
     ],
     "price": 630,
     "currency": "EUR",
@@ -47914,7 +48092,8 @@
     "tags": [
       "crucible-of-the-chosen",
       "elemental",
-      "monster"
+      "monster",
+      "variations"
     ],
     "price": 793,
     "currency": "EUR",
@@ -48370,7 +48549,8 @@
     "tags": [
       "a-new-leaf",
       "fey",
-      "monster"
+      "monster",
+      "variations"
     ],
     "price": 787,
     "currency": "EUR",
@@ -48416,7 +48596,8 @@
     "tags": [
       "a-new-leaf",
       "fey",
-      "monster"
+      "monster",
+      "variations"
     ],
     "price": 300,
     "currency": "EUR",
@@ -48786,7 +48967,8 @@
       "drow",
       "elf",
       "undead",
-      "monster"
+      "monster",
+      "variations"
     ],
     "price": 353,
     "currency": "EUR",
@@ -48866,7 +49048,8 @@
       "ranger",
       "drow",
       "elf",
-      "npc"
+      "npc",
+      "variations"
     ],
     "price": 300,
     "currency": "EUR",
@@ -49136,7 +49319,8 @@
       "ranger",
       "rogue",
       "human",
-      "npc"
+      "npc",
+      "variations"
     ],
     "price": 508,
     "currency": "EUR",
@@ -49455,7 +49639,8 @@
     "tags": [
       "a-colossal-threat",
       "giant",
-      "monster"
+      "monster",
+      "variations"
     ],
     "price": 4877,
     "currency": "EUR",
@@ -49501,7 +49686,8 @@
     "tags": [
       "a-colossal-threat",
       "giant",
-      "monster"
+      "monster",
+      "variations"
     ],
     "price": 3690,
     "currency": "EUR",
@@ -49973,7 +50159,8 @@
       "paladin",
       "beastfolk",
       "dragonfolk",
-      "npc"
+      "npc",
+      "variations"
     ],
     "price": 444,
     "currency": "EUR",
@@ -50023,7 +50210,8 @@
       "paladin",
       "beastfolk",
       "dragonfolk",
-      "npc"
+      "npc",
+      "variations"
     ],
     "price": 616,
     "currency": "EUR",
@@ -50374,7 +50562,8 @@
       "beyond-heaven-and-hell",
       "fiend",
       "tiefling",
-      "monster"
+      "monster",
+      "variations"
     ],
     "price": 383,
     "currency": "EUR",
@@ -50732,7 +50921,8 @@
     "tags": [
       "spirits-from-the-east",
       "fiend",
-      "monster"
+      "monster",
+      "variations"
     ],
     "price": 1583,
     "currency": "EUR",
@@ -51497,7 +51687,8 @@
       "ranger",
       "wizard",
       "half-orc",
-      "npc"
+      "npc",
+      "variations"
     ],
     "price": 507,
     "currency": "EUR",
@@ -51755,7 +51946,8 @@
     "category": "dm-stash",
     "tags": [
       "the-siege-of-nirloom",
-      "terrain"
+      "terrain",
+      "variations"
     ],
     "price": 0,
     "currency": "EUR",
@@ -52822,7 +53014,8 @@
       "of-elves-men",
       "fighter",
       "elf",
-      "npc"
+      "npc",
+      "variations"
     ],
     "price": 850,
     "currency": "EUR",
@@ -53192,7 +53385,8 @@
       "of-elves-men",
       "fighter",
       "human",
-      "npc"
+      "npc",
+      "variations"
     ],
     "price": 300,
     "currency": "EUR",
@@ -53367,7 +53561,8 @@
     "tags": [
       "darkest-depths",
       "aberration",
-      "monster"
+      "monster",
+      "variations"
     ],
     "price": 1554,
     "currency": "EUR",
@@ -53458,7 +53653,8 @@
     "tags": [
       "darkest-depths",
       "monstrosity",
-      "monster"
+      "monster",
+      "variations"
     ],
     "price": 330,
     "currency": "EUR",
@@ -53738,7 +53934,8 @@
       "sorcerer",
       "alchemist",
       "goblin",
-      "monster"
+      "monster",
+      "variations"
     ],
     "price": 336,
     "currency": "EUR",
@@ -58101,7 +58298,8 @@
       "barbarian",
       "fighter",
       "goliath",
-      "npc"
+      "npc",
+      "variations"
     ],
     "price": 2695,
     "currency": "EUR",
