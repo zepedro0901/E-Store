@@ -34451,7 +34451,7 @@
       "monster",
       "npc"
     ],
-    "price": 1188,
+    "price": 1200,
     "currency": "EUR",
     "description": "A pair bonded from youth, raised as siblings. Skjolnir riding atop his brother Haarn is a fearsome sight that can leave even the sturdiest warriors fleeing for their lives. Whilst they are usually far from the fringes of civilization, the pair have become caught in the web of Dragonblight in Limlight, having briefly visited the town to trade furs for supplies.",
     "scale": "Large",
@@ -34671,7 +34671,7 @@
       "aberration",
       "monster"
     ],
-    "price": 594,
+    "price": 600,
     "currency": "EUR",
     "description": "A giant boar of the forest. Local hunters referred to Nogoron as an old spirit of the Fey, one who had lived thousands of years as a creation of Renmaeth. Whether any of that holds true is uncertain, even to the most well-versed druids. Yet one thing now is certain: Dragonblight has gripped Nogoron, and the enormous boar has become a relentless threat to the survivors of the Limlight outbreak.",
     "scale": "Large",
@@ -34776,7 +34776,7 @@
       "aberration",
       "monster"
     ],
-    "price": 3653,
+    "price": 3700,
     "currency": "EUR",
     "description": "An amalgamation of many perished villagers of Limlight. This creature indicates that some sort of force is driving this infestation: something intelligent. Whether the form of this creature is intended as a mockery to the divine, or is its own delusion that it is something holy, is up for debate. What is certain, however, is that it will add any unfortunate enough to cross its path into its amalgamated flesh.",
     "scale": "Huge",
@@ -35055,7 +35055,7 @@
       "construct",
       "monster"
     ],
-    "price": 887,
+    "price": 900,
     "currency": "EUR",
     "description": "The University of Canos does not keep their contraband books under lock and key. They instead are animated in the form of a Golem that would deliver a devastating beating to any students who might be attempting to take them without permission. Its hostilities can be disabled, should the student know the passcode to do so. It changes regularly, however, and only Lady Elara and Headmistress Delacour know the code.",
     "scale": "Large",
@@ -35082,7 +35082,7 @@
       "elemental",
       "monster"
     ],
-    "price": 2080,
+    "price": 2100,
     "currency": "EUR",
     "description": "A Djinni that has lived in a long-since discarded trinket at the bottom of the University’s vaults. A student, delving through the old rubble beneath the new buildings, found the bottle, opening it and unwittingly causing a small calamity. Rabasa is a Djinni of tricks and monkey-paw wishes, and is causing havoc across the school. Should he not be stopped, he may cost someone their life.",
     "scale": "Medium",
@@ -35107,7 +35107,7 @@
       "aberration",
       "monster"
     ],
-    "price": 456,
+    "price": 500,
     "currency": "EUR",
     "description": "Frederik, having felt there was no other way, ingested the Dragonblight strain he had altered, hoping to ascend to some sort of divine form similar to Hendrak himself. The risk he took was calculated, but it has not paid off. Instead he is bound in a grotesque form that is constant agony for him, stuck as a passenger in his own mutated body as something else steers it. Now he watches helplessly as he realises the folly of his own ways, and the undoing of his life’s work.",
     "scale": "Large",
@@ -35550,7 +35550,7 @@
       "beastfolk",
       "monster"
     ],
-    "price": 608,
+    "price": 650,
     "currency": "EUR",
     "description": "A Centaur taken from the savannah of Sudd Tohst. Magnus the Hateful has well earned his name as a powerful foe in the Crucible, desecrating and dismembering the corpses of his foes. A spectacle which draws both awe and ire from spectators, as the gruesome sight can leave even the hardiest veterans queasy.",
     "scale": "Large",
@@ -35578,7 +35578,7 @@
       "monstrosity",
       "monster"
     ],
-    "price": 580,
+    "price": 600,
     "currency": "EUR",
     "description": "A rat infused with a strain of Dragonblight in clandestine experimentation by an unknown party. It was donated to the Crucible, with the organizers unaware of the beast’s true nature, believing themselves to simply have another powerful creature in their midst. It will prove to be much more of a problem than they first thought.",
     "scale": "Large",
@@ -35605,7 +35605,7 @@
       "giant",
       "monster"
     ],
-    "price": 2392,
+    "price": 2400,
     "currency": "EUR",
     "description": "An Ettin from the highlands of Nan Thalias, Flim & Krim are recent additions to the arena, and currently undefeated. With each combatant slain, the pair add an extra trophy and more gear to their bodies. Bucklers and shields from the slain adorn their body. Even the most experienced of the Crucible veterans do not wish to battle this creature.",
     "scale": "Huge",
@@ -35630,7 +35630,7 @@
       "fey",
       "monster"
     ],
-    "price": 1456,
+    "price": 1500,
     "currency": "EUR",
     "description": "A treant captured from Duskweave Isle and brought in stasis to Belfrie by the University of Ardris for study. Several years after its arrival, it suddenly disappeared from the University’s archives, and now resides within the Crucible, kept as a worthy contender for its combatants for its regenerative properties that make it a creature that they can continuously reuse.",
     "scale": "Huge",
@@ -35656,7 +35656,7 @@
       "monstrosity",
       "monster"
     ],
-    "price": 1988,
+    "price": 2000,
     "currency": "EUR",
     "description": "A Chimera caught from the grassy plains of Belfrie’s northeast. The Capricalion is a vicious breed of Chimera that is far more territorial than most of its kin. This particular one seems to be infected with some strange plague, making it an even deadlier foe. For while its strength and aggression remain the same, any who suffer its claws or fangs may find their death long after their battle.",
     "scale": "Huge",
@@ -35850,7 +35850,7 @@
       "colossal",
       "npc"
     ],
-    "price": 373,
+    "price": 400,
     "currency": "EUR",
     "description": "A Colossal born and raised far from her ancestral homeland of Oldavor. Ice Heart once took contracts for the World Explorers and Hunters League, though finding they seldom scratched her itch for battle. More often than not their weeks of trekking would result in a pitiful fight against a beast at best, or nothing at worst. Now she is able to hone both her arcane and martial skills together in the crucible, becoming a well-loved fighter amongst its patrons.",
     "scale": "Medium",
@@ -36011,7 +36011,7 @@
       "undead",
       "monster"
     ],
-    "price": 1285,
+    "price": 1300,
     "currency": "EUR",
     "description": "An atronach of flesh, conjured and animated by the Wandering Mage. The Sown One does not suffer, for it feels nothing; it is nothing. A mindless amalgamation that is a terrifying facsimile of a humanoid, it only knows its masters will. Such a will sees that it would bring a violent end to any who dare tread in his realm.",
     "scale": "Large",
@@ -36410,7 +36410,7 @@
       "dragon",
       "monster"
     ],
-    "price": 3593,
+    "price": 3600,
     "currency": "EUR",
     "description": "An age old friend of the Wandering Mage, Gintharax has agreed to take part in his gauntlet as one of the final challenges, in exchange for his own bargain. Gintharax knows most that face him will fall, but ensures that if they do, they are given a swift rebirth within a better life, or a place in the halls of Syelden.",
     "scale": "Huge",
@@ -36436,7 +36436,7 @@
       "aberration",
       "monster"
     ],
-    "price": 3310,
+    "price": 3350,
     "currency": "EUR",
     "description": "An aberration held within the depths of the Bastion, its sole purpose being to prowl its halls, searching for intruders. It is a conjuration of Aaron Drafthold, seemingly born from his own manipulation of Minera’s Breath. It is just as real and deadly as its cousins, however, and boasts lethal beams in its eyes that can instantly ruin the day of any unfortunate adventurer.",
     "scale": "Large",
@@ -36855,7 +36855,7 @@
       "undead",
       "monster"
     ],
-    "price": 443,
+    "price": 450,
     "currency": "EUR",
     "description": "Fourth of Mindoriel’s Spawn. Idinhelieth was not known to the Tharameni for some time as his part in the Sibling War was mostly covert. It was thought that the disease and emptiness that gripped the land was the work of Myrothlir and his unholy abominations, when in truth Idinhelieth had been concocting his own means to dwindle the numbers of Tharador’s mortals. Sickness, starvation and suffering were his means to such an end, leaving the lands barren and wasted.",
     "scale": "Large",
@@ -36881,7 +36881,7 @@
       "fiend",
       "monster"
     ],
-    "price": 3429,
+    "price": 3450,
     "currency": "EUR",
     "description": "Flesh and bone are scoffed up like butter by the gargantuan amorphous blob that is Bodge the Ravenous. This putrid pile of flesh is the antithesis to temperance, engorging itself on the corpses of its enemies and whatever unfortunate Nosmeni enter its domain. In the depths of Syelden, it has made itself a new abode, luring in those seeking refuge with the aid of Seroca. Any unfortunate enough to follow will find themselves as another meal for the insatiable devils.",
     "scale": "Huge",
@@ -36940,7 +36940,7 @@
       "celestial",
       "npc"
     ],
-    "price": 456,
+    "price": 500,
     "currency": "EUR",
     "description": "One of the many wardens of Namneri who prowl the halls of Syelden, ensuring everything is as it should be. As Namneri designed it. They are mostly instilled to keep watch of malevolent forces that might infiltrate the home of the divine, and punish those who have tainted the holy place in their afterlife.",
     "scale": "Medium",
@@ -36995,7 +36995,7 @@
       "human",
       "npc"
     ],
-    "price": 318,
+    "price": 350,
     "currency": "EUR",
     "description": "Cursed with an incurable pestilence by Idinehleith, Arch Paladin Tyrius III vowed to act as the leader of his order until his body and mind failed him. He persevered, but his final expedition into the desert of Sudd Tohst saw his end, as he heroically sacrificed himself in a final show of strength to save his comrades. In such a selfless end, and devotion to Erdrydion in life, he was given a place among his patron’s Selvaneri.",
     "scale": "Medium",
@@ -37055,7 +37055,7 @@
       "human",
       "npc"
     ],
-    "price": 1175,
+    "price": 1200,
     "currency": "EUR",
     "description": "Death long sought Leopold after the destruction of Namneri’s Chalice. Having gruesomely perished during the fighting in Sundestra as Hendrak ascended, Leopold awoke five days later, finding himself very much alive. Driven by his Erdrydion’s will, he was led to find remnants of Namneri’s shattered Chalice, yet half a dozen more times he was slain in his quest, awaking again and again. Finally, when the chalice was remade with the shards scattered across Tharador, Leopold found his final rest, and earned a place among Erdrydion’s Selvaneri in Syelden.",
     "scale": "Large",
@@ -37110,7 +37110,7 @@
       "celestial",
       "npc"
     ],
-    "price": 314,
+    "price": 350,
     "currency": "EUR",
     "description": "Erdrydion was born alongside his twin brother Horauthin. In the most desperate time of Tharador they were born, made to defeat the forces of Mindoriel and Myrothlir as they rained destruction upon the subjects and lands of Tharador. Erdrydion was given a great power in the infusions of radiant energy beamed from the great sun Glanion that he wielded like a bolt of raw energy. This radiance would skewer and turn to ash any undead creatures Myrothlir could conjure, and indeed could injure Myrothlir himself like no other forces could.",
     "scale": "Medium",
@@ -37136,7 +37136,7 @@
       "celestial",
       "monster"
     ],
-    "price": 4337,
+    "price": 4350,
     "currency": "EUR",
     "description": "A concoction of the Tharameni that represents the Firstborn, as well as Horauthin. Cherubim is a creature that has long guarded the land that surrounds Syelden, and now in the face of invasion, will be used to its utmost degree. However, its power and fortitude are not endless, whilst the waves of Mindoriel’s Spawn indeed seem to be. It cannot stanch the flood of evil forever.",
     "scale": "Huge",
@@ -37414,7 +37414,7 @@
       "undead",
       "monster"
     ],
-    "price": 1173,
+    "price": 1200,
     "currency": "EUR",
     "description": "An ancient monstrosity of Seroca that has been summoned by the Serocan Cultists near Hinatal. This herald of destruction and doom is one of the Spawn of Secret’s more overt creations, though its nature as being mistaken as a creation of Myrothlir often serves its purpose of distracting and panicking those whom Seroca seeks to manipulate. Thus in Hinatal its purpose is intended to demoralise its populace, more than feast upon them.",
     "scale": "Huge",
@@ -37441,7 +37441,7 @@
       "monstrosity",
       "monster"
     ],
-    "price": 8062,
+    "price": 8100,
     "currency": "EUR",
     "description": "One of the largest predators to stalk the sands of Sudd Tohst’s deserts. The local Sun Elf tribes revere the Algaira as a warden of the desert, for its enormous presence shifts dunes overnight, turning the terrain into a labyrinth to confuse and disorientate those who might do them harm. Yet, the creature does not discriminate in what it feasts on, and many over-zealous Sun Elves who worship it have met their end as its next meal. It is particularly drawn to the vibration of large groups travelling through the sea of sand, for each mouth will receive its own feed.",
     "scale": "Huge",
@@ -37798,7 +37798,7 @@
       "human",
       "npc"
     ],
-    "price": 858,
+    "price": 900,
     "currency": "EUR",
     "description": "A devout exactor of Erdrydion’s Justice, Jeanne is one of the most respected members of her order in her homeland of Greypeak. Despite her age, she has led many conquests against the dark forces of Mindoriel that pervade her homeland. She was among the first to storm the walls of Strassen, at the age of only nineteen. Four years later she would lead her own army into the halls of Castle Beaufax, eviscerating the vampiric menace that had bred there. Now she is one of the commanders leading the Church of the Tharameni into Sudd Tohst, commanding admiration and respect from all who follow her.",
     "scale": "Large",
@@ -37959,7 +37959,7 @@
       "undead",
       "monster"
     ],
-    "price": 6503,
+    "price": 6550,
     "currency": "EUR",
     "description": "A dragon whose fetid remains have boiled beneath the deserts of Sudd Tohst since time immemorial. Shingorion was among the many dragons to perish during the war between Mindoriel and Tharador. His own corpse fell into the ashen sands that would one day become Sudd Tohst, where until now, they have dwelt undisturbed. With Ridan’s rise from the sands, Shingorion has emerged with him, enthralled by the will of the ancient Colossal King, whose own will is bound by Myrothlir.",
     "scale": "Huge",
@@ -38015,7 +38015,7 @@
       "colossal",
       "npc"
     ],
-    "price": 347,
+    "price": 350,
     "currency": "EUR",
     "description": "Colossals seldom worship the Tharameni beyond Horauthin: many see them as being directly responsible for the ruin of their civilization. Uktakun is one of the few exceptions to this, having a brush with death where Namneri spoke to him in a vision. When he awoke, an owl sat upon his chest, guiding him to safety. Uktakun saw the divine intervention for what it was: a call to a higher purpose. He has never strayed from that path since.",
     "scale": "Medium",
@@ -38580,7 +38580,7 @@
       "beast",
       "monster"
     ],
-    "price": 610,
+    "price": 650,
     "currency": "EUR",
     "description": "An Owlbear raised in cartel captivity, kept as a pet by Marchese di Houf at first, before becoming a machination of his war waged against the gangs of Grimgate. With a saddle for mounting, Old Betty is the warmount of the Nova-Rossa whose extraordinary power can make even the steadiest legs quake in fear.",
     "scale": "Large",
@@ -38848,7 +38848,7 @@
       "fey",
       "monster"
     ],
-    "price": 2178,
+    "price": 2200,
     "currency": "EUR",
     "description": "When Conrad Elstein fled into Tryamin Forest, the foul ichor of Idinhelieth and Seroca left in his wake took hold on much of the flora and fauna of the region. The Thornmother is one such corrupted creature.",
     "scale": "Huge",
@@ -38873,7 +38873,7 @@
       "aberration",
       "monster"
     ],
-    "price": 1263,
+    "price": 1300,
     "currency": "EUR",
     "description": "Beneath the city of Tradver, the Devouring Eye has made its home. An aberration with a penchant for gold and jewels, it was naturally drawn to Belfrie’s trade centre, where gold flows just as readily through its canals as water.",
     "scale": "Huge",
@@ -38949,7 +38949,7 @@
       "dragon",
       "monster"
     ],
-    "price": 3388,
+    "price": 3400,
     "currency": "EUR",
     "description": "Long has Ramulek rested in the bowels of a forgotten ruin, buried beneath the sands of Idinhelieth’s Desert. Time has ravaged the guardian’s mind.",
     "scale": "Huge",
@@ -38975,7 +38975,7 @@
       "dragon",
       "monster"
     ],
-    "price": 50688,
+    "price": 50700,
     "currency": "EUR",
     "description": "In the Age of Creation, Pentelia was one of the first creations of the Tharameni to be used as a weapon purely against the dark forces of Mindoriel. She was also one of the first to betray her creators.",
     "scale": "Gargantuan",
@@ -39008,7 +39008,7 @@
       "giant",
       "monster"
     ],
-    "price": 2196,
+    "price": 2200,
     "currency": "EUR",
     "description": "A cyclops which was the subject of experimentation in Baldur’s infamous “Project Glass Ceiling” research. The research site which housed Deimos in the Teryn Highlands was raided.",
     "scale": "Huge",
@@ -39033,7 +39033,7 @@
       "beast",
       "monster"
     ],
-    "price": 1254,
+    "price": 1300,
     "currency": "EUR",
     "description": "A megafauna arthropod native to the mountains of Sudd Tohst and Dornat Al Karit, the Ashqarid, or Sand Strider as it is commonly referred to, is one of Tharador’s deadliest hunters.",
     "scale": "Large",
@@ -39281,7 +39281,7 @@
       "orc",
       "npc"
     ],
-    "price": 303,
+    "price": 350,
     "currency": "EUR",
     "description": "Hailing from the Orc colony of Mastania off Belfrie’s coast, Brox lived there as a hunter for many years, until King Trendium saw it necessary to levy Orc soldiers.",
     "scale": "Medium",
@@ -39469,7 +39469,7 @@
       "giant",
       "monster"
     ],
-    "price": 2091,
+    "price": 2100,
     "currency": "EUR",
     "description": "An enormous fire giant that has found a home in the icy peaks on the northern side of Nordheim, not far from the border into Oldavor.",
     "scale": "Huge",
@@ -39602,7 +39602,7 @@
       "monstrosity",
       "monster"
     ],
-    "price": 2583,
+    "price": 2600,
     "currency": "EUR",
     "description": "A gargantuan creature that prowls the foothills and mountains on the northern edge of Nordheim, between forest and mountain.",
     "scale": "Huge",
@@ -39763,7 +39763,7 @@
       "undead",
       "monster"
     ],
-    "price": 447,
+    "price": 450,
     "currency": "EUR",
     "description": "A servant of the Lykteholder, the Beinvaettr is tied to its master’s will, though it holds its own place in the folklore of residents in Nordheim.",
     "scale": "Large",
@@ -39869,7 +39869,7 @@
       "vampire",
       "npc"
     ],
-    "price": 338,
+    "price": 350,
     "currency": "EUR",
     "description": "For more than a century, Sanguine and Melancholy have been bound together as both partners in performance and in love.",
     "scale": "Huge",
@@ -40033,7 +40033,7 @@
       "vampire",
       "monster"
     ],
-    "price": 1049,
+    "price": 1050,
     "currency": "EUR",
     "description": "An ancient ancestor of Baroness de Blanc that has lived in the deep catacombs of Castle Beaufax for millennia.",
     "scale": "Medium",
@@ -40264,7 +40264,7 @@
       "construct",
       "monster"
     ],
-    "price": 407,
+    "price": 450,
     "currency": "EUR",
     "description": "A silent watcher from atop the spires of Castle Beaufax. The Bell Tower Gargoyle has watched over the eerie fortress for centuries.",
     "scale": "Medium",
@@ -40513,7 +40513,7 @@
       "monstrosity",
       "monster"
     ],
-    "price": 5355,
+    "price": 5400,
     "currency": "EUR",
     "description": "An abhorrent spawn of proliferating corruption from planes far beyond Minera. Vaezirak was an outcast in his world, yet it was this banishment that spurred him into the monstrous form he takes today.",
     "scale": "Gargantuan",
@@ -40592,7 +40592,7 @@
       "monstrosity",
       "monster"
     ],
-    "price": 5534,
+    "price": 5550,
     "currency": "EUR",
     "description": "A regular bat which once exposed to Eldraeth, grew in gargantuan proportions over the coming weeks. Now it towers four men tall.",
     "scale": "Huge",
@@ -40648,7 +40648,7 @@
       "monstrosity",
       "monster"
     ],
-    "price": 1277,
+    "price": 1300,
     "currency": "EUR",
     "description": "When the Eldraeth first brought Vaezirak to the plane of Minera, other creatures were transported as collateral through the Web of Worlds.",
     "scale": "Large",
@@ -41166,7 +41166,7 @@
       "monstrosity",
       "monster"
     ],
-    "price": 5586,
+    "price": 5600,
     "currency": "EUR",
     "description": "A Leviathan of the deep, holding no relation to the Vosinderi of Inderimaeth. Old Mawgrin is an ancient spawn of Quorenderi.",
     "scale": "Gargantuan",
@@ -41612,7 +41612,7 @@
       "dragon",
       "monster"
     ],
-    "price": 15165,
+    "price": 15200,
     "currency": "EUR",
     "description": "Once the ruler of Dragonmaw Keep, cast down by his lesser in a bid of betrayal. His wings clipped, and his pride shattered.",
     "scale": "Gargantuan",
@@ -41869,7 +41869,7 @@
       "dragon",
       "monster"
     ],
-    "price": 3979,
+    "price": 4000,
     "currency": "EUR",
     "description": "The ruler of Dragonmaw Keep and the archnemesis of Sovram. Azmordion cast down the Black Dragon when the time was right.",
     "scale": "Huge",
@@ -42125,7 +42125,7 @@
       "beastfolk",
       "monster"
     ],
-    "price": 781,
+    "price": 800,
     "currency": "EUR",
     "description": "The Head of House Jernbark, Gungnir's House has called Steinved Forest their home for generations.",
     "scale": "Large",
@@ -42204,7 +42204,7 @@
       "fey",
       "monster"
     ],
-    "price": 1275,
+    "price": 1300,
     "currency": "EUR",
     "description": "The Sentinel of Steinved Forest, Faenror has seen empires rise and crumble, all from the groves of his woods.",
     "scale": "Huge",
@@ -42310,7 +42310,7 @@
       "fey",
       "monster"
     ],
-    "price": 578,
+    "price": 600,
     "currency": "EUR",
     "description": "An Ancient Fey spirit and guardian of Renmaeth's forests. She can take the form of her choosing in spirit.",
     "scale": "Large",
@@ -42609,7 +42609,7 @@
       "human",
       "npc"
     ],
-    "price": 485,
+    "price": 500,
     "currency": "EUR",
     "description": "Once a renowned mercenary and officer within the Golden Griffins, Lydia spilt rivers of blood during the Liturium War.",
     "scale": "Medium",
@@ -42879,7 +42879,7 @@
       "dragon",
       "monster"
     ],
-    "price": 4551,
+    "price": 4600,
     "currency": "EUR",
     "description": "A Dragon trapped and studied as part of Project Glass Ceiling. Uncovered from an unmarked island south of Baldur.",
     "scale": "Huge",
@@ -43126,7 +43126,7 @@
       "monstrosity",
       "monster"
     ],
-    "price": 1207,
+    "price": 1250,
     "currency": "EUR",
     "description": "A beast that was until recently, held in captivity within a secret lab outside of Grimhelm, one of the earlier experiments of Project Glass Ceiling.",
     "scale": "Huge",
@@ -43564,7 +43564,7 @@
     "tags": [
       "loyalty-rewards"
     ],
-    "price": 555,
+    "price": 600,
     "currency": "EUR",
     "description": "Dawn Shell is a hero in a half shell! He comes with 16 alternative weapon/hand poses, giving 121 possible weapon combos.",
     "scale": "",
@@ -43591,7 +43591,7 @@
     "tags": [
       "loyalty-rewards"
     ],
-    "price": 20804,
+    "price": 20850,
     "currency": "EUR",
     "description": "Gardan – a beast of a mini with a 5 part assembly made easy with keys at 32mm plus a 2 part base perfect for dioramas.",
     "scale": "",
@@ -43669,7 +43669,7 @@
       "automaton",
       "monster"
     ],
-    "price": 2189,
+    "price": 2200,
     "currency": "EUR",
     "description": "The latest and greatest creation of Tomas Lumens, aimed to be the vanguard of might in his revolution.",
     "scale": "Huge",
@@ -43755,7 +43755,7 @@
       "monster",
       "npc"
     ],
-    "price": 748,
+    "price": 750,
     "currency": "EUR",
     "description": "An Orc who was subjected to a plethora of experimentations and enhancements under the watch of a secretive sect of Baldur's scientists.",
     "scale": "Large",
@@ -43784,7 +43784,7 @@
       "orc",
       "monster"
     ],
-    "price": 711,
+    "price": 750,
     "currency": "EUR",
     "description": "An Orc who was subjected to a plethora of experimentations and enhancements under the watch of a secretive sect of Baldur's scientists.",
     "scale": "Large",
@@ -44156,7 +44156,7 @@
       "fiend",
       "monster"
     ],
-    "price": 2258,
+    "price": 2300,
     "currency": "EUR",
     "description": "Last of Mindoriel's Spawn and that which caused the ultimate demise of the Dark Divine.",
     "scale": "Large",
@@ -44210,7 +44210,7 @@
       "undead",
       "monster"
     ],
-    "price": 1378,
+    "price": 1400,
     "currency": "EUR",
     "description": "The animated skull of a servant who failed Nosmarka in the recent past. Now their brainless head will be put to better use.",
     "scale": "Large",
@@ -44320,7 +44320,7 @@
       "celestial",
       "npc"
     ],
-    "price": 1010,
+    "price": 1050,
     "currency": "EUR",
     "description": "A champion of Horauthin and one of the Selvaneri, Syelros was a great warrior, a Colossal who lead the remnants of his people.",
     "scale": "Large",
@@ -44345,7 +44345,7 @@
       "celestial",
       "monster"
     ],
-    "price": 8307,
+    "price": 8350,
     "currency": "EUR",
     "description": "A powerful Selvaneri wrought of bone and coursing with Minera's Breath. It is seen as a bringer of end times.",
     "scale": "Huge",
@@ -44754,7 +44754,7 @@
       "dragon",
       "monster"
     ],
-    "price": 4160,
+    "price": 4200,
     "currency": "EUR",
     "description": "An Eastern Dragon under Lian She's spell, once an ancestral protector of the Mamori Mountains in the nation of Uikku.",
     "scale": "Gargantuan",
@@ -44836,7 +44836,7 @@
       "fiend",
       "monster"
     ],
-    "price": 849,
+    "price": 850,
     "currency": "EUR",
     "description": "A demon of Nosmarka's Abyss, who has used its infernal powers to bring the Cult of the Coiled Serpent to Tharador.",
     "scale": "Large",
@@ -44891,7 +44891,7 @@
       "shapeshifter",
       "monster"
     ],
-    "price": 2731,
+    "price": 2750,
     "currency": "EUR",
     "description": "The matriarch of the Cult of the Coiled Serpent. All who are embroiled in the cult are done so by her charm and beauty.",
     "scale": "Huge",
@@ -44945,7 +44945,7 @@
       "elemental",
       "monster"
     ],
-    "price": 1273,
+    "price": 1300,
     "currency": "EUR",
     "description": "A hardy enforcer and guardian of the Cult, hauled from the reaches of Edrador, an intrepid force of reckoning.",
     "scale": "Huge",
@@ -45158,7 +45158,7 @@
       "shapeshifter",
       "monster"
     ],
-    "price": 615,
+    "price": 650,
     "currency": "EUR",
     "description": "Chests left in the false vault beneath the casino that are in place to deal with any would-be thieves.",
     "scale": "Large",
@@ -45345,7 +45345,7 @@
       "elemental",
       "monster"
     ],
-    "price": 1260,
+    "price": 1300,
     "currency": "EUR",
     "description": "A security measure installed within the depths of the Crescent Casino's vault, a deadly trap for unprepared adventurers.",
     "scale": "Large",
@@ -45687,7 +45687,7 @@
       "monstrosity",
       "monster"
     ],
-    "price": 3254,
+    "price": 3300,
     "currency": "EUR",
     "description": "Wretched creations devised by Celine to gather corpses across Tharador in the wake of the destruction of Namneri's Chalice.",
     "scale": "Huge",
@@ -45742,7 +45742,7 @@
       "werewolf",
       "monster"
     ],
-    "price": 1066,
+    "price": 1100,
     "currency": "EUR",
     "description": "A monstrous ancient abomination: a relic of darkness from the Age of Creation that has called Saltmist Isle its home for millennia.",
     "scale": "Large",
@@ -45825,7 +45825,7 @@
       "werewolf",
       "monster"
     ],
-    "price": 687,
+    "price": 700,
     "currency": "EUR",
     "description": "A Werewolf that was the subject of much experimentation while held captive by Celine de la Rouge, forced into permanent transmogrification.",
     "scale": "Large",
@@ -45935,7 +45935,7 @@
       "monstrosity",
       "monster"
     ],
-    "price": 1837,
+    "price": 1850,
     "currency": "EUR",
     "description": "The companion and mount of Korthart, a creature he bonded with while lampooning as an ally to his Drow captors.",
     "scale": "Huge",
@@ -45962,7 +45962,7 @@
       "elemental",
       "monster"
     ],
-    "price": 1829,
+    "price": 1850,
     "currency": "EUR",
     "description": "Creatures from deep within the crust of Tharador, unleashed upon the world above as the calamitous Rupture tore the layers of the crust asunder.",
     "scale": "Large",
@@ -46389,7 +46389,7 @@
       "beast",
       "monster"
     ],
-    "price": 1396,
+    "price": 1400,
     "currency": "EUR",
     "description": "Marine creatures native to the coasts of Abunen Kolden, used as mounts or draught beasts by Water and Air Elemi.",
     "scale": "Large",
@@ -46472,7 +46472,7 @@
       "monster",
       "variations"
     ],
-    "price": 1332,
+    "price": 1350,
     "currency": "EUR",
     "description": "Golems representing three of Maethromin's Faces: Fire, Water and Earth, conjured by the Strike Forces of Abunen Kolden.",
     "scale": "Large",
@@ -46495,19 +46495,19 @@
         "id": "figure-1",
         "label": "Figure 1",
         "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/the-three-faces-elemental-golems/1.jpg",
-        "price": 1332
+        "price": 1350
       },
       {
         "id": "figure-2",
         "label": "Figure 2",
         "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/the-three-faces-elemental-golems/3.jpg",
-        "price": 1332
+        "price": 1350
       },
       {
         "id": "figure-3",
         "label": "Figure 3",
         "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/the-three-faces-elemental-golems/5.jpg",
-        "price": 1332
+        "price": 1350
       }
     ]
   },
@@ -46551,7 +46551,7 @@
       "monstrosity",
       "monster"
     ],
-    "price": 2611,
+    "price": 2650,
     "currency": "EUR",
     "description": "A great frog on a log in a swamp exposed to the dark magics of the witches of Hyarven centuries ago, cursed with nigh immortality.",
     "scale": "Huge",
@@ -46693,7 +46693,7 @@
       "beastfolk",
       "npc"
     ],
-    "price": 355,
+    "price": 400,
     "currency": "EUR",
     "description": "Adopted heir of the noble Bai family, a potent wielder of magic, banished after his younger brother's death.",
     "scale": "Medium",
@@ -46774,7 +46774,7 @@
       "aberration",
       "monster"
     ],
-    "price": 5670,
+    "price": 5700,
     "currency": "EUR",
     "description": "One of the final forms of the Dragonblight lifecycle, a result of the combined mass of nearly a dozen Amalgamations.",
     "scale": "Huge",
@@ -46801,7 +46801,7 @@
       "undead",
       "monster"
     ],
-    "price": 6941,
+    "price": 6950,
     "currency": "EUR",
     "description": "A young Green Dragon originally enthralled by Hendrak's pawn Karthys, used as the first means to unleash Dragonblight upon Eredel.",
     "scale": "Huge",
@@ -46830,7 +46830,7 @@
       "undead",
       "monster"
     ],
-    "price": 545,
+    "price": 550,
     "currency": "EUR",
     "description": "Known as Henrique in his mortal life, one of the founders of the Psithars, now walking the darkest path to return to Terra.",
     "scale": "Medium",
@@ -46856,7 +46856,7 @@
       "aberration",
       "monster"
     ],
-    "price": 1546,
+    "price": 1550,
     "currency": "EUR",
     "description": "In the depths of Duoarastat, the corpse of the Shapeshifter Flayer lay frozen for nigh three years until Hendrak reanimated it.",
     "scale": "Large",
@@ -46931,7 +46931,7 @@
       "aberration",
       "monster"
     ],
-    "price": 1345,
+    "price": 1350,
     "currency": "EUR",
     "description": "Creatures from the depths of Nosmarka's Abyss, risen from the underworld by Hendrak and converted to be his subservient dogs.",
     "scale": "Large",
@@ -47226,7 +47226,7 @@
       "aberration",
       "monster"
     ],
-    "price": 731,
+    "price": 750,
     "currency": "EUR",
     "description": "Non-human races who meet a gruesome fate at the end of Dragonblight's lifecycle, forming enormous megabrains from their gathered brains.",
     "scale": "Huge",
@@ -47252,7 +47252,7 @@
       "aberration",
       "monster"
     ],
-    "price": 2077,
+    "price": 2100,
     "currency": "EUR",
     "description": "As Dragonblight victims' bodies break down, they merge into large colony-like entities, towering behemoths of dripping flesh.",
     "scale": "Huge",
@@ -47526,7 +47526,7 @@
       "colossal",
       "npc"
     ],
-    "price": 371,
+    "price": 400,
     "currency": "EUR",
     "description": "A Colossal hailing from the Druidic Circle of Brel Endra in Oldavor. Turak’tali left her homeland to become the head of a smaller satellite coven of the Western Pillar of Brel Alda. It was her and her kin that first bore witness to the terrible affliction of Dragonsblight, and Turak’tali and her disciples have desperately travelled across Draksborne to contain the illness, before it can wreak further havoc on the densely populated cities of the kingdom. Canos is the largest city on the mainland, and Turak’tali feels it is her charge to save whatever she can, in spite of her failures to contain the illness when it first sprouted at her doorstep.",
     "scale": "Medium",
@@ -47607,7 +47607,7 @@
       "dragon",
       "monster"
     ],
-    "price": 9464,
+    "price": 9500,
     "currency": "EUR",
     "description": "A young Green Dragon who escaped the dreaded Hollow several months ago, living in the valleys within Eredel Duchy soon after, brought there by a beckoning presence. Though it left the Hollow for freedom, it found itself bound in servitude to a master who held a hatchling, the youngest of their species. Midorius now will do as bid by its master Karthys, whose true plans for it are much more insidious than it realises.",
     "scale": "Huge",
@@ -47636,7 +47636,7 @@
       "monstrosity",
       "monster"
     ],
-    "price": 1924,
+    "price": 1950,
     "currency": "EUR",
     "description": "An apex nocturnal predator of the forests and crags in the valleys of Eredel. Solitary hunters that occasionally hunt in pairs when mating, two of these creatures are enough to decimate a large contingent of soldiers, making them a terrifying foe. In all of the WEHL’s centuries of history, only seven have been slain, and one captured alive. Their elusive nature makes them difficult to track and hunt.",
     "scale": "Huge",
@@ -47662,7 +47662,7 @@
       "beast",
       "monster"
     ],
-    "price": 875,
+    "price": 900,
     "currency": "EUR",
     "description": "A distinct breed of Owlbear native to the mountains and valleys of northern Draksborne and southern Karkanoth, these creatures are remarked for their unique flat faces, resembling masks. Elves native to the region call them Moon Owlbears, owing to their face resembling a crescent moon. These Owlbears however are some of the deadliest on Tharador, and are responsible for dozens of deaths every year, able to easily gore a whole squad of unprepared soldiers.",
     "scale": "Large",
@@ -47831,7 +47831,7 @@
       "monster",
       "variations"
     ],
-    "price": 719,
+    "price": 750,
     "currency": "EUR",
     "description": "In the crags of the valleys across Eredel Duchy, Ettins make their homes, preying upon wandering livestock and poorly defended caravans. Though they are often pursued by hunters from the WEHL, they have adapted to become rather elusive, despite their enormous size, able to blend in with their rocky surrounds with ease and move camps at a moment’s notice, covering their tracks behind them. The Droggod Tribe takes this a step further, having magi in their midst to even magically mislead their trackers, or lull their prey into a false sense of security.",
     "scale": "Large",
@@ -47855,19 +47855,19 @@
         "id": "figure-1",
         "label": "Figure 1",
         "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/droggod-tribe-ettin-savages/1.jpg",
-        "price": 719
+        "price": 750
       },
       {
         "id": "figure-2",
         "label": "Figure 2",
         "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/droggod-tribe-ettin-savages/3.jpg",
-        "price": 719
+        "price": 750
       },
       {
         "id": "figure-3",
         "label": "Figure 3",
         "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/droggod-tribe-ettin-savages/5.jpg",
-        "price": 719
+        "price": 750
       }
     ]
   },
@@ -48072,7 +48072,7 @@
       "fey",
       "monster"
     ],
-    "price": 2607,
+    "price": 2650,
     "currency": "EUR",
     "description": "A direct spawn of Melwyn, descended from the Wrathful Spirit’s own soul. Torgothrin aimed to continue where his father failed, ensuring the eradication of all humans near the lands of the Reach and the Fringe. Though he was defeated and killed, now used for entertainment by the divine as his punishment, forced to fight as a combatant in the Crucible.",
     "scale": "Huge",
@@ -48149,7 +48149,7 @@
       "dragon",
       "monster"
     ],
-    "price": 3407,
+    "price": 3450,
     "currency": "EUR",
     "description": "Strength and Constitution are the main boons of this Drake, who can take a heavily pummeling just as well as they can dish it out. Beware it charging with its horn, as anyone unfortunate enough to be caught by it will be hurled up into the air, and then stomped on by the Drake just as they land on the ground.",
     "scale": "Huge",
@@ -48227,7 +48227,7 @@
       "beastfolk",
       "npc"
     ],
-    "price": 382,
+    "price": 400,
     "currency": "EUR",
     "description": "A Swordmaster of Uikku, a continent in the far East of Edrador. Known as the Swordmaster of the South in his homeland, he has earned his reputation as one of the most proficient but expensive ronin of Uikku. A job taking him to Tharador ended poorly when his employer was betrayed, and Susaneko hunted across the city, ultimately bested by the power of the flintlock firearm. Markamin has taken the dying catfolk and used him as his wildcard entry into the Crucible of Champions, promising him with resurrection and returning him to his homeland.",
     "scale": "Medium",
@@ -48334,7 +48334,7 @@
       "elf",
       "npc"
     ],
-    "price": 626,
+    "price": 650,
     "currency": "EUR",
     "description": "A sorcerer who saw his death in the Liturium War. His soul vanished into oblivion after, yet his latest memories after his death were being thrown into a Crucible of the Gods, alongside his kinsman, Netros. Both were sent forth by Brinilmin as interlopers into the Crucible, though the Tharameni have seen the mischievous work of their estranged brother as a welcome addition to their crucible.",
     "scale": "Medium",
@@ -48762,7 +48762,7 @@
       "fey",
       "monster"
     ],
-    "price": 1623,
+    "price": 1650,
     "currency": "EUR",
     "description": "An ancient treant of Tryamin whose body and soul were ensnared by the evils of Idinhelieth and Seroca sixty years ago during the Fall of Elen Estel. When all eyes were on the evils of Quorenderi, they were blind to the conjurations of his siblings. Garamundis is now a stalwart foe, being one of the most powerful treants of Tryamin turned to evil.",
     "scale": "Huge",
@@ -48787,7 +48787,7 @@
       "monstrosity",
       "monster"
     ],
-    "price": 2749,
+    "price": 2750,
     "currency": "EUR",
     "description": "The Duke of Tradver up until recently, when his place as a High Priest of Seroca was outed. Not willing to face a hanging, the Duke fled, opening a portal to Lo Fuin’s Underground. There he had many allies, followers of Irinax, a false god created by his own dark divine to lead the Drow astray, moulding them to become valuable puppets and allies.",
     "scale": "Gargantuan",
@@ -48813,7 +48813,7 @@
       "fey",
       "monster"
     ],
-    "price": 940,
+    "price": 950,
     "currency": "EUR",
     "description": "A Dryad from the Fringe who had merged with her treant partner as they lay dying. In her new form, Verda has taken on the barky skin of her partner, and learn how to wield them in deadly fashion to protect her woods, learning how to use the firearms of Baldurian Men against them. Though a new threat rises in the west, and she must leave her home of the Fringe to protect it from whatever grave threat is stirring in the Tryamin Woods.",
     "scale": "Large",
@@ -48978,7 +48978,7 @@
       "beast",
       "monster"
     ],
-    "price": 1753,
+    "price": 1800,
     "currency": "EUR",
     "description": "A Phase Spider Broodmother under the control of Duke Conrad. A highly intelligent creature with dozens of progeny in the Underground, Xylanth is seen as a saint by many Irinaxi followers. As many provide her with a constant supply of food or birthing bodies she can lay eggs in, she tolerates them. At times when she grows tired of them, she will use her ability to phase shift to relocate to a new den for a time, until they find her.",
     "scale": "Huge",
@@ -49033,7 +49033,7 @@
       "beast",
       "monster"
     ],
-    "price": 581,
+    "price": 600,
     "currency": "EUR",
     "description": "Bioluminescence is common in the Underground, as the glowing crystalline and fungal structures act as beacons in the dark. Salansi take advantage of this, being adapted to seamlessly blend in to ambush prey that use their light as guidance, or that graze near crystalline structures for fungi and lichen.",
     "scale": "Large",
@@ -49194,7 +49194,7 @@
       "monstrosity",
       "monster"
     ],
-    "price": 1131,
+    "price": 1150,
     "currency": "EUR",
     "description": "The Duke of Tradver up until recently, when his place as a High Priest of Seroca was outed. Not willing to face a hanging, the Duke fled, opening a portal to Lo Fuin’s Underground. There he had many allies, followers of Irinax, a false god created by his own dark divine to lead the Drow astray, moulding them to become valuable puppets and allies.",
     "scale": "Large",
@@ -49391,7 +49391,7 @@
       "aberration",
       "monster"
     ],
-    "price": 1626,
+    "price": 1650,
     "currency": "EUR",
     "description": "A lesser aberration hiding in the bowels of Tradver’s forgotten and flooded dungeons. From beneath it pulls the strings of the city above for its own personal gain. In its truth, the creature acts as a servant to Seroca, the God of Secrets, and its own personal gains are the gains of its dark divine.",
     "scale": "Huge",
@@ -49716,7 +49716,7 @@
       "giant",
       "monster"
     ],
-    "price": 4154,
+    "price": 4200,
     "currency": "EUR",
     "description": "The Leader of the Ugadrin Rebellion. Vurimandi was one of the forebears of the Giants and a mason within the great citadel of Khandara, a city intended to be a hidden sanctuary from Men if they were to topple the Empire. But as the war grew direr and his master’s grew harsher, Vurimandi and his kin overthrew their creators and enslavers. The Colossal population of the foundling city was slaughtered, and Vurimandi declared himself King of the Giants, rallying people under his banner. Oldavor’s response was swift, shackling Vurimandi to his throne and slaughtering many of his bannermen. But when the Vavanasai destroyed the Empire, Vurimandi and his kin were forgotten, and have dwelled in Khandara ever since, growing madder as centuries flew by.",
     "scale": "Gargantuan",
@@ -49742,7 +49742,7 @@
       "monster",
       "variations"
     ],
-    "price": 1626,
+    "price": 1650,
     "currency": "EUR",
     "description": "In the twilight years of the Colossal War, the Oldavori Empire succumbed to desperate measures to stave off the resilient and unrelenting humans. Before there were Shapeshifters and Psyflayers, there were giants. Beings that were stretched to the very limits of their potential, to be used as soldiers in the war against Men, and slaves and servants in the cities of the empire. Those entombed in Khandara were those loyal to their King Vurimandi in his attempted rebellion against their Colossal creators. Over a thousand years later they still roam the halls, though their minds ring hollow, and madness has taken them all.",
     "scale": "Huge",
@@ -49765,19 +49765,19 @@
         "id": "figure-1",
         "label": "Figure 1",
         "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/the-ugadrin-snow-giants/1.jpg",
-        "price": 1626
+        "price": 1650
       },
       {
         "id": "figure-2",
         "label": "Figure 2",
         "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/the-ugadrin-snow-giants/3.jpg",
-        "price": 1626
+        "price": 1650
       },
       {
         "id": "figure-3",
         "label": "Figure 3",
         "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/the-ugadrin-snow-giants/5.jpg",
-        "price": 1626
+        "price": 1650
       }
     ]
   },
@@ -49792,7 +49792,7 @@
       "monster",
       "variations"
     ],
-    "price": 1230,
+    "price": 1250,
     "currency": "EUR",
     "description": "Those entombed in Khandara are not limited to the first giants and the experiments that were conducted here. A family of trolls, at one point or another, chose to settle in the depths. With a very small genetic pool, they have grown grotesque, inbred and even duller than their surface-dwelling counterparts. This has not made them any less deadly however, and the arms and armour of the giants in Khandara is well-fit to their boisterous forms.",
     "scale": "Huge",
@@ -49815,19 +49815,19 @@
         "id": "figure-1",
         "label": "Figure 1",
         "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/tulva-drolls-snow-trolls-of-the-deep/1.jpg",
-        "price": 1230
+        "price": 1250
       },
       {
         "id": "figure-2",
         "label": "Figure 2",
         "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/tulva-drolls-snow-trolls-of-the-deep/3.jpg",
-        "price": 1230
+        "price": 1250
       },
       {
         "id": "figure-3",
         "label": "Figure 3",
         "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/tulva-drolls-snow-trolls-of-the-deep/5.jpg",
-        "price": 1230
+        "price": 1250
       }
     ]
   },
@@ -49841,7 +49841,7 @@
       "beast",
       "monster"
     ],
-    "price": 2347,
+    "price": 2350,
     "currency": "EUR",
     "description": "The deadly, undying pet of Vurimandi that has wandered the halls of Khandara for millennia. In the tongue of Budnal, Sabka means “warden.” It lives up to its name with how it patrols the halls of the citadel, stalking any prey it sees that might be trying to escape. Though some of the more sane residents know escape is impossible, and believe Sabka simply enjoys the thrill of the hunt, and the misery inflicted on those who fail and become its next meal.",
     "scale": "Huge",
@@ -49926,7 +49926,7 @@
       "colossal",
       "npc"
     ],
-    "price": 312,
+    "price": 350,
     "currency": "EUR",
     "description": "A Sanguine Blood Mage who had lived in hermitude in the Sekatan mountains for a century. He preyed upon small groups of Wastewalkers or Watchers to sate his unceasing thirst for power. Rangers in the Watchers called him the “Snowbound Vampire,” while the Colossal Wastewalkers called him the “Blood Bandit.” On a peculiar occasion, Raktavin’s ambush failed, and when he awoke after being mortally wounded, he found himself trapped in the labyrinth of Khandara.",
     "scale": "Medium",
@@ -50154,7 +50154,7 @@
       "fey",
       "monster"
     ],
-    "price": 19360,
+    "price": 19400,
     "currency": "EUR",
     "description": "An ancient green dragon who dedicated herself to Renmaeth in repentance for her sins in the Age of Creation. Becoming a creature of the Fey, Underthwyn has sought to act as a guardian to the creatures of the Hollow, ensuring it remains bountiful for those beneath, and does not impact the dwellings of Renmaeth’s Dream below, or Tharador above.",
     "scale": "Gargantuan",
@@ -50238,7 +50238,7 @@
       "dragon",
       "monster"
     ],
-    "price": 7268,
+    "price": 7300,
     "currency": "EUR",
     "description": "In hush whispers he is called “The Red Tyrant.” An Ancient Red Dragon who hold sole dominion over The Hollow and its inhabitants. He has ruled for centuries with an iron fist, quelling many rebellions from his kin, doing so with utmost prejudice and violence. His tactics have worked, as many now fear to rebel lest they see the annihilation of their draconic lines.",
     "scale": "Gargantuan",
@@ -50403,7 +50403,7 @@
       "beastfolk",
       "npc"
     ],
-    "price": 306,
+    "price": 350,
     "currency": "EUR",
     "description": "A Dragon Hunter with a bounty on his head that has pushed him into the remote reaches of northern Tharador. Olamize has made many enemies in his time as a renowned figure among the continent’s gambling circles. All the good luck is now cashing in though, and without a means to make coin through gambling dens in Greypeak, Olamize must resort to his old profession of monster hunting.",
     "scale": "Medium",
@@ -50490,7 +50490,7 @@
       "celestial",
       "monster"
     ],
-    "price": 1160,
+    "price": 1200,
     "currency": "EUR",
     "description": "Unsettling to most mortals who witness it, Erathis is the counter to Seroca that the Selvaneri employ. A thousand eyes drawn over flowers, vines and wings that is able to dispel the illusions of evil and unmask treachery and deceit wherever it lies. This creation of Erdrydion very rarely seen outside the bounds of Syelden. But when it is, awe and fear overcome those who witness it.",
     "scale": "Large",
@@ -50597,7 +50597,7 @@
       "fiend",
       "monster"
     ],
-    "price": 2009,
+    "price": 2050,
     "currency": "EUR",
     "description": "Ruler of the Sixth Reverie of the Nocturnal Abyss. Kavaramon is known as the Devil of Deceit, he is the Arch Devil of the Sixth Reverie of Treachery. He is said to be the father of all lies, and his rule in the realm was built upon treachery and betrayal. Now he seeks to sow discord in the lands of Tharador, a vengeance he seeks in retribution of Nosmarka, the mother of all evils.",
     "scale": "Huge",
@@ -50649,7 +50649,7 @@
       "fiend",
       "monster"
     ],
-    "price": 18779,
+    "price": 18800,
     "currency": "EUR",
     "description": "The true ruler of the Sixth Reverie of the Nocturnal Abyss. Edramundis is the puppet master of Kavaramon, pulling the strings of all the deceit, subterfuge and betrayal that ensnares all the Reveries of the Abyss. But this too spills into the surface world, and any Nosmeni of Tharador descended from those who once dwelt in the Sixth Reverie can easily be manipulated by Edramundis, completely unbeknownst to them.",
     "scale": "Huge",
@@ -50759,7 +50759,7 @@
       "celestial",
       "npc"
     ],
-    "price": 343,
+    "price": 350,
     "currency": "EUR",
     "description": "A champion of Horauthin and one of the Selvaneri, Syelros was a great warrior, a Colossal who lead the remnants of his people in a desperate charge against the Psyflayers before they could be unleashed on the world. If it were not for his actions, thousands more would roam the world today. Thus his bravery had him reborn as Horauthin’s agent upon Tharador, the Selvaneri who was unparalleled in martial prowess.",
     "scale": "Medium",
@@ -50927,7 +50927,7 @@
       "human",
       "npc"
     ],
-    "price": 314,
+    "price": 350,
     "currency": "EUR",
     "description": "The most mischievous and free spirited of the Spirit Samurai. Sora’s place among the group is well regarded for his cheery optimism and resilience against adversity. Though his past is one of turmoil, it bears little influence to the way Sora now lives among the Spirit Samurai in service of his ancestral spirit.",
     "scale": "Medium",
@@ -50981,7 +50981,7 @@
       "dragon",
       "monster"
     ],
-    "price": 8488,
+    "price": 8500,
     "currency": "EUR",
     "description": "Said to be the gatekeeper to the underworld where spirits dwell. Yamarochi no Yomi is one of the most revered Great Spirits among the people of Uikku and the splintered realms of the Takani Empire.Said to be the judge and balancer of the spirits of good and evil, something has gone amiss in Yamarochi’s mind as Spirits are beginning to turn to Oni en masse across the country. The Great Spirit has ignored all attempts at council among his followers and something appears deeply amiss.",
     "scale": "Gargantuan",
@@ -51010,7 +51010,7 @@
       "monster",
       "npc"
     ],
-    "price": 514,
+    "price": 550,
     "currency": "EUR",
     "description": "Once a man, though his name long forgotten. Now he is a demon, and one of the most powerful that walk this earth. Owaranai Oni is responsible for the current surge of Oni across Uikku, taking advantage of the country’s devastation to begin his own demonic invasion in the land. Many have said to have cut down Owaranai in the past, but it seems he always relents and returns.",
     "scale": "Medium",
@@ -51039,7 +51039,7 @@
       "monster",
       "variations"
     ],
-    "price": 528,
+    "price": 550,
     "currency": "EUR",
     "description": "Oni of Uikku’s underworld. Spirits who have become malformed, twisted and rage-filled after mistreatment. Usually this is in the form of ancestral spirits whose lines have ended or whose remaining family have dwindled in prayers and rituals done in their honour. Very few Oni exist that were not benevolent spirits at some prior time.",
     "scale": "Large",
@@ -51063,19 +51063,19 @@
         "id": "figure-1",
         "label": "Figure 1",
         "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/oni-onslaughters/1.jpg",
-        "price": 528
+        "price": 550
       },
       {
         "id": "figure-2",
         "label": "Figure 2",
         "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/oni-onslaughters/2.jpg",
-        "price": 528
+        "price": 550
       },
       {
         "id": "figure-3",
         "label": "Figure 3",
         "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/oni-onslaughters/5.jpg",
-        "price": 528
+        "price": 550
       }
     ]
   },
@@ -51091,7 +51091,7 @@
       "beastfolk",
       "npc"
     ],
-    "price": 459,
+    "price": 500,
     "currency": "EUR",
     "description": "Revered as a goddess of beauty, cunning and luck. Kyubi no Shojo is said to have once been an emperor’s daughter, exiled into the woods to die after she fell in love with a commoner. But from those woods she emerged as a powerful spirit, the Girl With Nine Tails. Her lover was killed and she then cursed the Emperor’s bloodline so he and all his heirs would never have children again and their dynasty would die out. Now she is one of the few remaining spirits to guide the Seirei no Samura in this time of strife, guiding them against the surge of Oni.",
     "scale": "Medium",
@@ -51118,7 +51118,7 @@
       "dragon",
       "monster"
     ],
-    "price": 604,
+    "price": 650,
     "currency": "EUR",
     "description": "Dragon Turtles in the Shallow Sea are far removed from their cousins found in western and southern waters. This breed of Dragon Turtle has a distinctly different look and a much more tranquil demeanour. They are known colloquially as “Eastern Sea Dragons” and this is what they have also been called by foreigners as well.",
     "scale": "Gargantuan",
@@ -51145,7 +51145,7 @@
       "fey",
       "monster"
     ],
-    "price": 605,
+    "price": 650,
     "currency": "EUR",
     "description": "The Wolf Spirit, the ancestral guardian of Kaoru’s family. Amaru is a powerful spirit who has imbued her champion with unrivalled sword fighting skills and a penchant for tracking and hunting. She now is one of the few guardian spirits left within the Seirei no Samurai that has retained her sanity or dared to show herself among mortals in a time where the balance of Yomi is tipped so far against the benevolent spirits.",
     "scale": "Large",
@@ -51202,7 +51202,7 @@
       "human",
       "npc"
     ],
-    "price": 432,
+    "price": 450,
     "currency": "EUR",
     "description": "Cool, calm and collected is the demeanour of Kazuhira, always known as the level headed and laid back guy among his peers. Though from the comes an aura of mystery, for the Serpent is secretive, keeping his past vague and hidden whereas those around him are open about the traumatic events that led to their places in the Seirei no Samurai",
     "scale": "Medium",
@@ -51231,7 +51231,7 @@
       "human",
       "npc"
     ],
-    "price": 351,
+    "price": 400,
     "currency": "EUR",
     "description": "Usually mistaken as a courtier for her unassuming dress, Izumi often uses this to her advantage. Seldom is she expected to be as deadly as she is, and that underestimation is often the downfall of her foes, at least those who get a chance to meet her before the find a blade in their throat.",
     "scale": "Medium",
@@ -51344,7 +51344,7 @@
       "goblin",
       "npc"
     ],
-    "price": 442,
+    "price": 450,
     "currency": "EUR",
     "description": "The Goblins of Gazza’s Gore Boiz. They act mostly as fodder and scouts. Goblins have always sat on the lowest rung of Khuraltai’s hierarchy. The Orcs see the Goblins as pests hanging onto the coattails of their success in founding and upkeeping the marvel that is Khuraltai and the most coherent Orcish society on Minera. Without the Orcs, the Yellow Goblins of Berogtor would likely be living in caves or dugouts beneath the sands. Though the Goblins aren’t incredibly fond of where they do find themselves: sleeping with rats in the lowest tier of the mountain city where light seldom treads. But when fighting emerges, the usually docile and mischievous Goblins become rabid and unhinged; baring little regard for their own lives or safety. It is for this reason the Orcs see them as such exceptional fodder.",
     "scale": "Medium",
@@ -51373,7 +51373,7 @@
       "dragon",
       "monster"
     ],
-    "price": 63472,
+    "price": 63500,
     "currency": "EUR",
     "description": "Dragon Turtles certainly aren’t a common sight in the sandy dunes of Berogtor. Kilgoola was born near the inland Orange Sea that sits on the barren land’s south. It’s first moments were in captivity, part of an experimental animal taming program purported by the Yellow Orcs. Still, it received better treatment than most beasts in captivity on Minera, and now acts as a war beast for Bruz the Basher.",
     "scale": "Huge",
@@ -51401,7 +51401,7 @@
       "beast",
       "monster"
     ],
-    "price": 45271,
+    "price": 45300,
     "currency": "EUR",
     "description": "Goragora is one of several ancient Great Beasts that was kept in stasis by the Anshani for research purposes. When the Empire’s populace suddenly vanished, many stayed in their suspended state until they were discovered or awoke. Goragora was found by Gazza in the sands beneath Berogtor, the location of the Anshani Lab that held him memorized by Gazza during his own time living in an Anshani ruin. When the Great Beast awoke, its roar left several of Gazza’s Gore Boiz dead, and deafened many more. But Gazza was not dismayed. Using a shaman, he spoke to the beast and told it all that had happened in its time of sleep, asking it to join him in a pursuit of vengeance against the descendants of those who imprisoned it.",
     "scale": "Gargantuan",
@@ -51428,7 +51428,7 @@
       "orc",
       "npc"
     ],
-    "price": 787,
+    "price": 800,
     "currency": "EUR",
     "description": "One of the most respected Warbosses in the armies of Berogtor’s Yellow Orcs. Gazza was once a wonderer, living in the harsh arid land of the fallen Anshani Empire. He accrued a sizeable warband in this time, made up of Orcs, Goblins and Bugbears. He earned a name for himself among the wastes, eventually attracting the attention of the high rulers of Khurultai who gave him and his Boiz a place in their society in exchange for their loyalty.",
     "scale": "Large",
@@ -51455,7 +51455,7 @@
       "orc",
       "npc"
     ],
-    "price": 352,
+    "price": 400,
     "currency": "EUR",
     "description": "Bruz was raised in the high tiers of Khurultai, one of many sons of the High Shaman of Kheppy, the lonely god. The position Bruz held in society from this resulted in him and his siblings being raised like royalty, though Bruz cared little for it. He always wanted to be far away from the city, in the sands of Berogtor among a war party or clearing through the Pass of Kheppy to Arrakana. He was granted such a wish, as he often was, and assigned to the warband of Gazza’s Gore Boiz. Quickly he impressed the Warmaster, earning the title of Gazza’s Second in Charge.",
     "scale": "Medium",
@@ -51669,7 +51669,7 @@
       "dragon",
       "monster"
     ],
-    "price": 1138,
+    "price": 1150,
     "currency": "EUR",
     "description": "Testidi, or Dragon Turtle Hatchlings as they are known in Common, are sizable omnivorous reptiles native to the warm oceanic regions of Minera, particularly drawn to the equator and the bustling shores of Godless Isle. Despite their young age, Testidi already measure an impressive 3 to 4 meters at birth, equipped with sharp, powerful jaws that serve as a stern warning to overly curious explorers. While amphibious, these creatures prefer the water, venturing on land primarily for food or to escape predators. Each year during the Equinox, the beaches of Godless Isle come alive as countless Testidi make their inaugural journey from nest to sea – a fascinating spectacle that underscores the relentless cycle of life and survival.",
     "scale": "Large",
@@ -51777,7 +51777,7 @@
       "dragon",
       "monster"
     ],
-    "price": 26751,
+    "price": 26800,
     "currency": "EUR",
     "description": "A Dragon that has rested on Godless Isle since the Age of Creation. It has just awoken from its slumber. What has caused this sudden awakening is unknown, but the results have been devastating to say the least. Camps set up by Tharadori and Edradori explorers have been completely destroyed, and only one secluded camp now remains on the isle thanks to the dragonfire.",
     "scale": "Gargantuan",
@@ -51857,7 +51857,7 @@
       "monstrosity",
       "monster"
     ],
-    "price": 1221,
+    "price": 1250,
     "currency": "EUR",
     "description": "Serpent-like creatures with a gliding ability that hunt from the tree tops of Godless Isle’s jungle. Hyatiri are monstrous beasts with monstrous appetites. Few have been studied by taxologists in person, usually due to their escape artists nature and the fact that few are able to actually slay such a beast. It is thought that they can store up to five men in their stomachs at once to save for later before beginning digestion. Some prey such as smaller animals or halflings are often swallowed whole, though the Orcs native to Godless Isle have stories of folk heroes cutting their way out of the stomachs of the beasts.",
     "scale": "Large",
@@ -51883,7 +51883,7 @@
       "monstrosity",
       "monster"
     ],
-    "price": 957,
+    "price": 1000,
     "currency": "EUR",
     "description": "Estraniths are native to Godless Isle and fearsome beasts like this are usually found in the forests of Zandorion, leading scholars to believe that Godless Isle may in fact be an isle of Zandorion that drifted far from the Twins. It was first thought to be a foreign kind of panther on first sighting, but only for its dark colour and swift motion. To the taxologist who first sighted it, it was merely a black blur on four legs.",
     "scale": "Large",
@@ -51939,7 +51939,7 @@
       "elemi",
       "npc"
     ],
-    "price": 496,
+    "price": 500,
     "currency": "EUR",
     "description": "A Fire Elemi from Abunen Kolden. Scorcher found the wars of his progenitors to feel fruitless, feeling as though Vlagbinok would disapprove of his children warring among each other on the physical plane. Thus he aimed to find a better way to serve his creator on the physical plane, joining an organisation that dedicated itself to unearthing Edrador’s mysteries.",
     "scale": "Medium",
@@ -51991,7 +51991,7 @@
       "beastfolk",
       "npc"
     ],
-    "price": 324,
+    "price": 350,
     "currency": "EUR",
     "description": "Noble are the Minotaurs of Myitelnari, though their existence is kept as a secret to most. Hannes is one such noble, son of a Duke. The Minotaurs rule their people in secret, and though they are worshipped in most ceremonies of their homeland, Minotaurs are mostly thought of as mythical creatures or evil beings that prowl the depths of labyrinths and caverns, moreso than the shrewd diplomats and rulers that they truly are.",
     "scale": "Medium",
@@ -52205,7 +52205,7 @@
       "construct",
       "monster"
     ],
-    "price": 3062,
+    "price": 3100,
     "currency": "EUR",
     "description": "Orodver golems are one of the most expensive but most powerful of the Arcane Golem series in Leacianus. These enormous creations wield the powerful Arcane Glaives that are used by the Leacianan military’s artillery, but as normal weapons. Thus any wounds they inflict are permanent, unless dispelled by some form of anti-magic.",
     "scale": "Large",
@@ -52233,7 +52233,7 @@
       "elf",
       "npc"
     ],
-    "price": 303,
+    "price": 350,
     "currency": "EUR",
     "description": "The best of the best. Twelve are handpicked by the Nirloom, The Arch Holder and The Arch Marshall. Usually through rigorous trials of combat, or through acts of valour in the battlefield. Though the Crownsguard may not always be at the Triachy’s side, and often may act as their agents or executioners in other matters. Still, a single Crownsguard is a deadly as some of the strongest Leacianan officers.",
     "scale": "Medium",
@@ -52262,7 +52262,7 @@
       "elf",
       "npc"
     ],
-    "price": 395,
+    "price": 400,
     "currency": "EUR",
     "description": "Born blind to noble parents, Irivyl was kept cloistered for many of her earliest days. When she drowned within the Prendael River as a child, she awoke with sight blessed through magic, a miracle. Though her sight was not that of any regular elves, she could see Breath and any beings it coursed through. Magical items, any living creatures and magical spells became her vision. With this she became a wonder within noble courts, able to instantly discern the properties of magical artifacts and even uncover truths buried deep within the minds of prisoners without speaking a word to them. Such powers were unparalleled, and she had her own role made within The Magistrates to accommodate her powers in aiding the Triumvirate. Though in her time she aided outsiders in a matter she saw that was greater than the Liturium War, and for this Valius Hanar had her eyes sliced out. Now she plots against her rulers, waiting to strike when the time is right.",
     "scale": "Medium",
@@ -52287,7 +52287,7 @@
       "dragon",
       "monster"
     ],
-    "price": 9438,
+    "price": 9450,
     "currency": "EUR",
     "description": "An ancient Mana Wyrm born from the earliest arcane experiments on Arcane Dragon eggs, wields immense power over Minera’s Breath. A veteran of countless battles, his presence on the battlefield both inspires allies and terrifies enemies. Although wearied by centuries of conflict, Fyroth remains a steadfast servant to the High Elves, and his unyielding loyalty and formidable abilities symbolize their enduring determination to protect their kingdom.",
     "scale": "Gargantuan",
@@ -52397,7 +52397,7 @@
       "dragon",
       "monster"
     ],
-    "price": 4175,
+    "price": 4200,
     "currency": "EUR",
     "description": "An Ancient Golden Dragon that has walked the plane of Minera since the time of the first Elves. Aurestia has always had her heart dedicated to peace and justice, finding herself tied to Horauthin and Erdrydion as her father figures during the Age of Creation. For the first time in thousands of years she fights again, joining forces with the Coalition of Belfrie and Formen to bring an end to a war that now threatens to destroy the continent of Tharador.",
     "scale": "Gargantuan",
@@ -52481,7 +52481,7 @@
       "human",
       "npc"
     ],
-    "price": 533,
+    "price": 550,
     "currency": "EUR",
     "description": "The King of Formen and the man who declared war against the High Elves of Leacianus after they assassinated his father and framed Belfrian messengers as his murderers. Hjolmir has been itching to place the skulls of the Leacianan Triarchy on his throne, and now he may finally get his chance: justice and vengeance will be dealt in Nirloom this day, Hjolmir is sure of it.",
     "scale": "Medium",
@@ -52677,7 +52677,7 @@
       "human",
       "npc"
     ],
-    "price": 337,
+    "price": 350,
     "currency": "EUR",
     "description": "Zyril, once a commoner in Tara, became known as the “One-Man Army” after a mysterious, violet fire erupted from his body, allowing him to defeat nearly a hundred enemy soldiers during the Coalition’s assault on his town. Dubbed “Brinilmin’s Blessing,” this extraordinary power earned Zyril a knighthood and a mission to protect the Blind Seeress Irivyl. Under the tutelage of Teverys, a Paladin of the Arcane, Zyril honed his abilities, including sprouting arcane wings for flight. Now, with a strong bond to Teverys, Zyril fights on the frontline, using his newfound powers to protect his homeland in the ongoing war.",
     "scale": "Medium",
@@ -52729,7 +52729,7 @@
       "construct",
       "monster"
     ],
-    "price": 1074,
+    "price": 1100,
     "currency": "EUR",
     "description": "Quisterian, the Arcane Phoenix, was once a human pyromancer and a member of the Golden Griffins, who was captured by the Leacianan forces after causing significant damage to their ranks. Subjected to two years of brutal experimentation by the twisted inventor Netros, her body was broken down and merged with arcane technologies to create a powerful airborne construct. Now encased in an armored metal shell and perpetually shrouded in raging arcane flames, Quisterian soars through the skies as a tragic symbol of the horrors of war and the depths both sides have sunk to in their quest for victory.",
     "scale": "Large",
@@ -52783,7 +52783,7 @@
       "construct",
       "monster"
     ],
-    "price": 486,
+    "price": 500,
     "currency": "EUR",
     "description": "The Netronid is a small, lethal construct designed by the renowned inventor Netros. Initially created for battlefield maintenance, these 2-3 feet tall, spider-like creatures have become efficient killers, ambushing unsuspecting soldiers with their powerful claws, mandibles, and basic but deadly magic. As the Liturium War intensifies, Netros refines the Netronids’ design, but whispers of his growing madness raise concerns about their potential uncontrollable nature. Despite these fears, the Leacianan military continues to deploy these fearsome constructs against their enemies.",
     "scale": "Medium",
@@ -52813,7 +52813,7 @@
       "dragon",
       "monster"
     ],
-    "price": 3295,
+    "price": 3300,
     "currency": "EUR",
     "description": "A powerful male Mana Wyrm born from arcane experiments on Arcane Dragon eggs, wields a mastery over Minera’s Breath, leveling battlefields and striking fear into the hearts of enemies and allies alike. The aggressive creature, shaped by further experimentation, serves the Leacianan military as an invaluable asset, and his raw power and fearsome reputation make him a symbol of their relentless pursuit of victory.",
     "scale": "Large",
@@ -52892,7 +52892,7 @@
       "beast",
       "monster"
     ],
-    "price": 1048,
+    "price": 1050,
     "currency": "EUR",
     "description": "Myreni, a mighty Pegasus once part of a noble herd in Leacianus, now serves as a fierce aerial mount for the Golden Griffins. Sold to the mercenary company during their alliance with the Leacianans, Myreni and his kin were treated harshly by their former elven masters. When the alliance crumbled, the vengeful Pegasi eagerly joined the human ranks against the Leacianans. Though their bloodlust remains concealed from most, those attuned to beasts can sense the deep-seated fury driving these majestic creatures as they fight to reclaim their lost freedom and dignity.",
     "scale": "Large",
@@ -52999,7 +52999,7 @@
       "goliath",
       "npc"
     ],
-    "price": 340,
+    "price": 350,
     "currency": "EUR",
     "description": "A high ranking officer of the Golden Griffins with a renowned temper. Brogvar once wished to retire in his tanning shop in Huvuden, but time and again the fires of war have kept him from the peaceful life he wishes to lead. Now his temper is at its peak, and woe will come to any who cross his path in his rage.",
     "scale": "Medium",
@@ -53244,7 +53244,7 @@
       "construct",
       "monster"
     ],
-    "price": 1094,
+    "price": 1100,
     "currency": "EUR",
     "description": "The Vanguard variant of the Orodwys Golems. The Orodvylian are the bruisers of the Leacianan army. Made to be larger and more intimidating than the Orodwys, they are in fact installed with lesser armour for how disposable they are in battle – used more as a demoralisation tool than an actual combat construct. Still, even on the front lines the Orodvylian is capable of effectively neutralizing large amounts of targets before it falls if it is able to close the distance and enter melee range of its enemies.",
     "scale": "Large",
@@ -53272,7 +53272,7 @@
       "elf",
       "npc"
     ],
-    "price": 346,
+    "price": 350,
     "currency": "EUR",
     "description": "The staple sorcerer of Cyrindeth’s squad. Karydian does not have much love for his empathetic leader. In Leacianus’ schools of sorcery there is little room for empathy, only ascendance. Karydian has done his best to ascend, but still there are scores of better sorcerers than he. He feels his rank as master is only ceremonious, and won’t rest until he has earned it on the battlefield.",
     "scale": "Medium",
@@ -53297,7 +53297,7 @@
       "dragon",
       "monster"
     ],
-    "price": 1073,
+    "price": 1100,
     "currency": "EUR",
     "description": "A young Mana Wyrm under the control of Leacianan forces. The manoeuvrability, speed and agility of Fyrindel and its kin make it a devastating tool of Leacianus in war. There are no natural creatures that can so precisely move in the sky as Fyrindel and other Mana Wyrms do. Therefore even a juvenile one can assure air superiority for Leacianus, and in missions like the assault on the Spetsigs, air presence matters.",
     "scale": "Large",
@@ -53405,7 +53405,7 @@
       "human",
       "npc"
     ],
-    "price": 303,
+    "price": 350,
     "currency": "EUR",
     "description": "An enigmatic assassin whose life before was to be a cleric of Erdrydion. All of that changed when Serran’s parents were slain by a beholder. Barely surviving himself, Serran holds remnants of The Beholder’s powers, using them to his aid as a silent assassin. He’s now one of the highest ranks in the Golden Griffins, well respected by the few who know of his existence.",
     "scale": "Medium",
@@ -53458,7 +53458,7 @@
       "human",
       "npc"
     ],
-    "price": 387,
+    "price": 400,
     "currency": "EUR",
     "description": "Monks are rare to find in the Golden Griffins, but Kheye has cemented his place. Detached from the plane of reality, Kheye has dedicated his life to Namneri, the god of death and rebirth. Such that it is he sees death as a sacred right that all must go through. Kheye signed on with the Griffins so that he may be surrounded by death and seek to further understand it. So much understanding has come to him since he joined that he transcended any fear or misunderstanding he had of death. Ironically this newfound sense of mortality has left him nigh immortal.",
     "scale": "Medium",
@@ -53487,7 +53487,7 @@
       "monster",
       "npc"
     ],
-    "price": 1545,
+    "price": 1550,
     "currency": "EUR",
     "description": "With Ash of Goltia far gone from the Golden Griffins, a new rider and face was needed to bring awe into the hearts of its soldiers. It came as a great irony that the one chosen was none other than Rolen of Hinatal, a man who once swore an oath of vengeance to slay Ash for what evils he had enacted in their homeland of Hinatal.",
     "scale": "Large, Medium",
@@ -53667,7 +53667,7 @@
       "aberration",
       "monster"
     ],
-    "price": 609,
+    "price": 650,
     "currency": "EUR",
     "description": "Grunts of the armies of Quorenderi. The Angler Gluglin’s were once fishfolk that lived in the unmapped depths between lands. Quorenderi enslaved their people when he found them, torturing them, twisting them and breeding them to create a new race of hardy creatures that would do his and his officer’s bidding, and could take many blows from a sword before they fell.",
     "scale": "Large",
@@ -53693,7 +53693,7 @@
       "monster",
       "variations"
     ],
-    "price": 777,
+    "price": 800,
     "currency": "EUR",
     "description": "The second of Mindoriel’s Spawn. Quorenderi was not always like he was. Eldrinderi was once his name and his form was much fairer. But he was slain when his mother was defeated, dying alongside her. His body was recovered by his brother Myrothlir, Harbinger of Undeath. He was stitched together with his own eldritch creations and given a new life, though held by his brother’s puppet strings. Quorenderi was his new name as he rose, and his nature had changed to be even more malicious than ever. Now his sites are set on the final destruction of Tharador, vengeance for his mother and his lost fair form.",
     "scale": "Large",
@@ -53714,13 +53714,13 @@
         "id": "figure-1",
         "label": "Figure 1",
         "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/quorenderi-lord-of-the-depths/1.jpg",
-        "price": 777
+        "price": 800
       },
       {
         "id": "figure-2",
         "label": "Figure 2",
         "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/quorenderi-lord-of-the-depths/2.jpg",
-        "price": 777
+        "price": 800
       }
     ]
   },
@@ -53735,7 +53735,7 @@
       "monstrosity",
       "monster"
     ],
-    "price": 7067,
+    "price": 7100,
     "currency": "EUR",
     "description": "Vosinderi are rare to fall, these Leviathans are ancient creatures with scales like diamonds and teeth like pikes. Though in the event one is caught offguard or alone, they become susceptible to the influence and corruption of Quorenderi. There are few of these malevolent Leviathans in the seas around Tharador, and most sailors regard them as a myth. However, Erathul is living proof that they are very real.",
     "scale": "Gargantuan",
@@ -53761,7 +53761,7 @@
       "monstrosity",
       "monster"
     ],
-    "price": 3794,
+    "price": 3800,
     "currency": "EUR",
     "description": "Deep in the jungles of Zandorion prowls ancient predators the size of buildings. Often these predators will find themselves chasing prey out to sea. As such they have even learned to dive and swim with expertise despite their enormous size. However, those that swim too far or dive too deep are quick to regret it. There lies Quorenderi’s grasp, and such predators are quick to be assimilated, experimented and changed for his own benefit – to become servants in his armies. The Eldrasorous is one of many such creatures.",
     "scale": "Huge",
@@ -54014,7 +54014,7 @@
       "aberration",
       "monster"
     ],
-    "price": 7011,
+    "price": 7050,
     "currency": "EUR",
     "description": "One of the more powerful spawns from the great creature of the deep, Quorenderi. The Voice guides its Listeners through telepathic means, each of its Listeners dedicated to a single mission of The Voices’ accord. The Voice is enormous, and should it die, one of its Listeners will go through the rigorous process to evolve to take its place.",
     "scale": "Huge",
@@ -54358,7 +54358,7 @@
       "monstrosity",
       "monster"
     ],
-    "price": 1413,
+    "price": 1450,
     "currency": "EUR",
     "description": "An enigmatic creature said to be a wish granter or oracle. The Sphinx Tizariel sits upon the western-most mountain of the Great Havel Range. Many men have travelled to her in search of fortune, glory or guidance; few have returned. Those that did speak little of their encounter with the creature. The Sphinx has a powerful control on both humanoids and beasts in swaying their hearts and minds.",
     "scale": "Large",
@@ -54383,7 +54383,7 @@
       "giant",
       "monster"
     ],
-    "price": 1065,
+    "price": 1100,
     "currency": "EUR",
     "description": "Trolls that spend most their life in the caves throughout the landscape of Brightstone and Greypeak, Cave Trolls are a common term, though Hyol Droll refers specifically to the subspecies local to northern Tharador. Hyol Droll’s are more aggressive and much less reasonable than their cousins found in Tharador’s central lands. Because of this Hex Hunters approach these creatures with a “Attack on Sight” mentality.",
     "scale": "Large",
@@ -54408,7 +54408,7 @@
       "giant",
       "monster"
     ],
-    "price": 1962,
+    "price": 2000,
     "currency": "EUR",
     "description": "Hill Giants are relics of the Oldavori Empire that have enjoyed their freedom from their oppressors in a relatively rustic lifestyle, keeping to hillocks and clearings in the forests upon the hillsides of the Great Havel Range. They have little care for the musings of Men, but sometimes might see a lost traveller as an easy meal, often invoking the wrath of townsfolk and a contract sent to the Hex Hunters for a Giant’s head.",
     "scale": "Huge",
@@ -54433,7 +54433,7 @@
       "monstrosity",
       "monster"
     ],
-    "price": 567,
+    "price": 600,
     "currency": "EUR",
     "description": "Hill Harpies native to the mountains and foothills of the Great Havel Range. More disorganised than their southern cousins, the Hill Harpies of Brightstone usually attack indiscriminately with little regard for self preservation, making them a menace to most travellers in Brightstone’s north, particularly caravans en route to the Watchers at Oldavor’s borders.",
     "scale": "Medium",
@@ -54680,7 +54680,7 @@
       "fey",
       "monster"
     ],
-    "price": 368,
+    "price": 400,
     "currency": "EUR",
     "description": "Treants newly sprouted. Some naturally, some in ways more grim. The Volys are usually numerous with short lifespans from when they first sprout. Like all plants, they find growth and long life in fertilizer made from a nutritious carcass.",
     "scale": "Medium",
@@ -54707,7 +54707,7 @@
       "monstrosity",
       "monster"
     ],
-    "price": 4240,
+    "price": 4250,
     "currency": "EUR",
     "description": "One of the greatest and most deadly beasts of Tharador too exists in counterparts in the Fey. Volitra is one of a few Fey Touched Hydra, powerful descendants of the first Dragons. Volitra and the others each have the ability to phase shift between Fey and Tharador, but mostly choose the comforts of the Fey. However Volitra is under the dominion of Torgothrin, who has asked for its loyalty in driving humans from their land.",
     "scale": "Huge",
@@ -54760,7 +54760,7 @@
       "elemental",
       "monster"
     ],
-    "price": 961,
+    "price": 1000,
     "currency": "EUR",
     "description": "The childhood companion, guardian and warrior dedicated to Verina, his creator. Originally no more than a pile of pebbles and twigs given life, throughout the years Lazlus has gathered further and further mass to his body, as the branch and vines that binded him grew longer and stronger. When Verina and Lazlus came to the aid of Gwynevel in halting Melwyn’s evils, Lazlus was mortally wounded, collapsing into a pile of rocks in the earth. Now he has been remade, broken but sturdy. He searches for his soulmate Verina, but is caught in haze and rage until he finds her again.",
     "scale": "Large",
@@ -54786,7 +54786,7 @@
       "fey",
       "monster"
     ],
-    "price": 520,
+    "price": 550,
     "currency": "EUR",
     "description": "Creatures of Tharador often find counterparts of themselves within the Fey. Owlbears are no exception, and their Fey counterparts are every bit more deadly than their mundane cousins from the physical world. Firalyn especially is aggressive, driven with wrath by the whisperings of its master Torgothrin.",
     "scale": "Large",
@@ -54812,7 +54812,7 @@
       "fey",
       "monster"
     ],
-    "price": 593,
+    "price": 600,
     "currency": "EUR",
     "description": "One of the apex predators of the Fey. A Caryd is a beast not to be trifled with, though few have ever seen one and lived to tell the tale for the Caryd is only seen when it wishes to be seen. It can otherwise seamlessly blend with its environment in the forest, mistaken easily for scrubs or dangling vines from a tree. Even Feywalker Druids fear to find themselves in sight from a Caryd.",
     "scale": "Gargantuan",
@@ -54869,7 +54869,7 @@
       "elf",
       "npc"
     ],
-    "price": 444,
+    "price": 450,
     "currency": "EUR",
     "description": "A sprightly hybrid Dryad Centaur that has lived within the Fey Realm of Renmaeth’s Dream for centuries. Though usually occupied with the happenings in the west of the Fey’s equivalent of Nan Thalias and Belfrie, the recent surge in plane shifts have caused her to investigate the realm that once belonged to Melwyn, one of the first Fey Spirits before Renmaeth had even entered her great slumber.",
     "scale": "Large",
@@ -55015,7 +55015,7 @@
       "dragon",
       "monster"
     ],
-    "price": 2649,
+    "price": 2650,
     "currency": "EUR",
     "description": "Minera’s first conceived child, though born only months ago. Glanbeli has existed as a celestial body above Minera since time itself began. She was the first great light, before Glanion, the Sun. Before anything else. Like an egg, the Moon held her for millennia, until finally the working of the Drow brought her to hatch and take form on Tharador. Now she has none to raise her. The Tharameni fear her innate and unused power and her siblings are all spent in their own. Confused and alone, she flies through Tharador, trying to return to her home above the clouds and take aid from anyone willing, or unwilling to help her.",
     "scale": "Gargantuan",
@@ -55046,7 +55046,7 @@
       "dragonfolk",
       "npc"
     ],
-    "price": 360,
+    "price": 400,
     "currency": "EUR",
     "description": "A great knight and warrior of Brazatul who invokes his ancestor’s name in combat against those who would do harm to him. Tharvian is a master of many weapons, and a keen smith at that as well, forging most of his own weapons to his liking. With the power of Brazatul’s Breath, his items are tempered in Dragon Flame, making them more powerful than the mere crafts of Greypeak’s mortals, and with such items he is an unstoppable force.",
     "scale": "Medium",
@@ -55188,7 +55188,7 @@
       "dragon",
       "monster"
     ],
-    "price": 7058,
+    "price": 7100,
     "currency": "EUR",
     "description": "An ancient Dragon that helped the children of the Tharameni in the Age of Creation and the Sibling War. Since then Brazatul has remained in relative peace within the mountains of northern Tharador, having seen both the Oldavori Empire rise and fall beneath his domain. Now the humans are his neighbours, and they bring tribute to him respectfully, though his existence is a secret to most.",
     "scale": "Gargantuan",
@@ -55366,7 +55366,7 @@
       "monster",
       "npc"
     ],
-    "price": 997,
+    "price": 1000,
     "currency": "EUR",
     "description": "Once a great hero famed across all Tharador. Yinsylim earned his fame slaying the Lich Kelathar who had cursed Duskweave Isle. Though with the Lich arising once again seven years later, Yinsylim found his ego shaken. He became obsessed with Lich’s after, travelling Tharador to find and slay any more that might remain. This took him to Mammoth Isle, where he found Thirazar, a forgotten human necromancer from the Second Era that had been frozen in ice, yet not dead to reanimate in his phylactery. When Yinsylim tried to slay the Lich, he was killed, finding himself resurrected soon after and under the creature’s spell, having his mind and heart corrupted to become a Knight of Thirazar’s.",
     "scale": "Large, Medium",
@@ -55420,7 +55420,7 @@
       "undead",
       "monster"
     ],
-    "price": 2077,
+    "price": 2100,
     "currency": "EUR",
     "description": "A Mammoth long fallen and decaying in a glacier within the Hjolheim Range. Fallen during the First Era, this creature has now been risen from its long slumber to bring terror and carnage to the villages of men, descendents of those who slew it. The mammoth’s rage still burns within, even in its frozen and shambling corpse.",
     "scale": "Huge",
@@ -55447,7 +55447,7 @@
       "undead",
       "monster"
     ],
-    "price": 3916,
+    "price": 3950,
     "currency": "EUR",
     "description": "A Drake long dead under the ice from the ancient battles of the First Era. Nerevin now has been lifted from his icy tomb to bring suffering and death to the race of Men once again. Even though he is undead, the Lich Thirazar who raised him let the Drake retain much of his own will, Nerevin’s soul was unresting and wandering for thousands of years, and in that time the Drake had stewed in his hatred of Men.",
     "scale": "Huge",
@@ -55502,7 +55502,7 @@
       "undead",
       "monster"
     ],
-    "price": 366,
+    "price": 400,
     "currency": "EUR",
     "description": "Warriors of the First Era that have lain fallen beneath dirt, ice and snow for thousands of years. Many died fighting the last of the Colossal strongholds on Mammoth Isle, though it seems in vain for so little is known of their sacrifice or the battles and campaigns that took place on the isle. Now from their rest they are risen by Thirazar, fighting with the same ancient weapons they once held that have been frozen for thousands of years.",
     "scale": "Medium",
@@ -55665,7 +55665,7 @@
       "beastfolk",
       "npc"
     ],
-    "price": 431,
+    "price": 450,
     "currency": "EUR",
     "description": "The firstborn son of Clan Bjornstain, an ancient Werebear clan that resides between the forests near the small town of Winderig in Karkanoth and the Reichberg Mountains in Greypeak. Orik is foreign to the comforts of human civilization, and though the people of Winderig know him through occasional encounters, they think of him as a wood-hermit with an eccentric personality and family. None know his true nature, though many know the legends of the Man-Bears that prowl the forests at night.",
     "scale": "Medium",
@@ -55778,7 +55778,7 @@
       "fey",
       "monster"
     ],
-    "price": 1009,
+    "price": 1050,
     "currency": "EUR",
     "description": "A monster thought of by most as a tall children’s tale to stop the young from wandering into the woods at night, though any hunters or trackers in north Karkanoth know that the Moon Devil is as real as wake of bodies it leaves behind of any hunters foolish enough to poach in the forest on a night bathed in moonlight.",
     "scale": "Large",
@@ -55806,7 +55806,7 @@
       "undead",
       "monster"
     ],
-    "price": 652,
+    "price": 700,
     "currency": "EUR",
     "description": "A Fey Guardian turned into a monstrosity through ill magick. Likely the work of a powerful Lich or something even worse. Only the most powerful of creatures could slay a beast like Fjornath, let alone bring it to life once more in a decaying and decrepit state to fulfill evil deeds.",
     "scale": "Large",
@@ -55832,7 +55832,7 @@
       "beast",
       "monster"
     ],
-    "price": 408,
+    "price": 450,
     "currency": "EUR",
     "description": "Direwolves are exceptionally common in Tharador’s colder northern climates. From Karkanoth northwards they roam in large packs. Even the most prepared party can meet an unfortunate end if ambushed by these man-sized canines.Though they ill-like fire, being perhaps a traveler’s only defense in a moment where they find themselves surrounded.",
     "scale": "Medium",
@@ -56107,7 +56107,7 @@
       "monstrosity",
       "monster"
     ],
-    "price": 1186,
+    "price": 1200,
     "currency": "EUR",
     "description": "A great spider that holds the midst of one of the caverns leading to the surface by Iriksha. It lives in almost utter darkness, save for the own light it illuminates itself from its body, using the luminescence to attract prey which it quickly devours. It is revered by the cultists of Irinax as a saint, though they still fear it for the creature is indiscriminate against its prey.",
     "scale": "Large",
@@ -56133,7 +56133,7 @@
       "monstrosity",
       "monster"
     ],
-    "price": 795,
+    "price": 800,
     "currency": "EUR",
     "description": "A horrific parasite that manifests itself as only a worm at first, that eventually grows into an enormous monstrosity of consumption, capable of adding any other biological organisms to its endless mass. Only their death or starvation will see their growth end, otherwise with each consumed creature the mass will endlessly grow.",
     "scale": "Huge",
@@ -56159,7 +56159,7 @@
       "beast",
       "monster"
     ],
-    "price": 969,
+    "price": 1000,
     "currency": "EUR",
     "description": "A carnivorous crustacean that can kill a man in a single supersonic shot from its “cannon claw.” The shot has been seen to completely eviscerate smaller animals and can still dismember the limbs of a full grown man. They are known as dangerous hunters and the hard chitin exoskeleton makes them hard to take down even if grouped up against.",
     "scale": "Large",
@@ -56382,7 +56382,7 @@
       "giant",
       "monster"
     ],
-    "price": 2718,
+    "price": 2750,
     "currency": "EUR",
     "description": "A biological weapon of Baldur, set loose in a sudden rampage. The human kingdom failed all attempts at containing and repossessing the monster and it has continued to run amok eastwards. Tortured, anguished and in constant pain, the monster has well since passed the point of reasoning. Though cyclops’ are dull, they are often able to be reasoned with. Duragdor however sees all “baby people” as his tormentors and now attacks without recourse or thought.",
     "scale": "Huge",
@@ -56488,7 +56488,7 @@
       "monstrosity",
       "monster"
     ],
-    "price": 309,
+    "price": 350,
     "currency": "EUR",
     "description": "The Queen of a large Harpy family that lives in the mountains west of Sharprahk. Mostly isolated, occasionally picking off goats or Dwarven livestock that ventured too close to their territory. Suddenly Kiziri and her brood have grown much bolder, attacking farmers on the outskirts of the towns of Torarol and Torsid, as well as wiping out entire caravans between the two towns. Whether their behaviour is motivated by some greater power or they have become more daring in food is unknown.",
     "scale": "Medium",
@@ -56541,7 +56541,7 @@
       "beast",
       "monster"
     ],
-    "price": 2121,
+    "price": 2150,
     "currency": "EUR",
     "description": "A great Sea Lizard from the depths of Lo Fuin, none match the legend of Tarraan that is told by sailors all over Tharador. A Leviathan with legs, some call it, the Kraken’s Bane it’s known by others. Many chalk up Tarraan as a sailors myth used to impress landlubbers when they reach shore, but any seasoned sailor knows Tarraan is very real. Unfortunately for the citizenry of Varekan, a Dwarven sea town, Tarraan has decided to confirm its existence in their city.",
     "scale": "Huge",
@@ -56624,7 +56624,7 @@
       "elemental",
       "monster"
     ],
-    "price": 1504,
+    "price": 1550,
     "currency": "EUR",
     "description": "Found in the heart of Karignen, Fire Peak, Sorngaar has been said to be the benevolent guardian of the volcanic mountain for time immemorial. Dwarves have always held the Lord of Karignen with respect, yet it seems in recent times he has grown displeased with the Dwarves. Now he poses a great threat to them and their way of life, and the Dwarves feel they must act swiftly against The Cindering One before he spells their doom.",
     "scale": "Huge",
@@ -56860,7 +56860,7 @@
       "monstrosity",
       "monster"
     ],
-    "price": 1159,
+    "price": 1200,
     "currency": "EUR",
     "description": "A Chimera struck by lighting and granted immortality through the imbued essence of Air. Vilamin was revered by many of the Elemi monks that lived within its domain. It was mostly peaceful with them, but in time grew agitated as civilization built around the foothills of the mountain it called home. It would often feast upon the livestock of the town and even the occasional shepherd would be taken by Vilamin if they took a route too close to the mountain. Left with little choice after the decries of locals, the monks captured Vilamin and entombed him so that he may not bring harm to others.",
     "scale": "Large",
@@ -56885,7 +56885,7 @@
       "elemental",
       "monster"
     ],
-    "price": 991,
+    "price": 1000,
     "currency": "EUR",
     "description": "Dragged from the depths of the Katarn Sea, Sukurin is a great and angered Water Spirit that brings death and destruction in all its hours of waking. Formed of water, the spirit takes on the shape of a Kraken to strike fear into the hearts of sailors when it rises, adorning itself with the armour and materials of sunken ships, weapons and even deceased sea monsters. It finally lay frozen and dormant for a time, kept in a temple in Tenger to be watched and worshiped.",
     "scale": "Huge",
@@ -56911,7 +56911,7 @@
       "elemental",
       "monster"
     ],
-    "price": 1945,
+    "price": 1950,
     "currency": "EUR",
     "description": "When the first Elemi fled from Edrador, they took many keepsakes with them. One such family stole away a precious Fire Elemi artifact, thought to be the egg of a phoenix. Though what hatched was far more mischievous. Kyubiko, the Nine Tailed Fire Fox came from the egg, and like a moth he was drawn to all flames around him, yet he consumed them to grow himself. As his hunger and size grew, Water Elemi managed to seize him and douse his flames. Now he is watched over in slumber, his flames faded long ago. Worry builds that should he awake, he will make for the Mountain of Fire in the Dwarven Kingdom.",
     "scale": "Large",
@@ -56936,7 +56936,7 @@
       "elemental",
       "monster"
     ],
-    "price": 3691,
+    "price": 3700,
     "currency": "EUR",
     "description": "Within the Dreamscape of Maethromin, Agatol was given rise in the Plane of Earth. Formed from crystals, stone and dirt, the great beast still bares the appetite of any other beast. When Agatol awoke on the physical plane, it found itself in the Underground of Lo Fuin and Abunos. There it made great trails that connected it to the Queendoms of the Drow. Using the gems on it as a baiting light, it consumed any drawn by it. When the Earth Elemi heard of the beast, they saw their best detain it and hold it in Abunae, lest it continue its rampage.",
     "scale": "Huge",
@@ -56963,7 +56963,7 @@
       "elemi",
       "npc"
     ],
-    "price": 331,
+    "price": 350,
     "currency": "EUR",
     "description": "Alongside his cousin Gorozai, Tuzugo began a small uprising of Fire Elemi who sided with the crusaders in the Abunen Kolden War. Seeing the Fire Elemi rulers as tyrants and dictators over the others, they wished for a unified Elemi kingdom as it was in times long past. Rewarded for their bravery, the cousins were given the holy task of overseeing the guarding and containment of Kyubiko, a great Fire Spirit in the form of a Fox that resided on Tharador. A task that was of great religious significance to the Elemi, but of little risk, usually.",
     "scale": "Medium",
@@ -57139,7 +57139,7 @@
     "tags": [
       "fire-fey"
     ],
-    "price": 931,
+    "price": 950,
     "currency": "EUR",
     "description": "The War Chief and his War Ram, Gorty. Kartol is one of few War Chief’s, having command of all military forces in East Alimroth. This encompasses everything from the smallest grunt to the greatest Airships. Kartol is not just a military genius either, his body and armour are hulking and many of his subordinates have watched him crush the skulls of his enemies with only his bare hands. Gorty, the mount of War Chief Kartol is an exceptional steed able to carry nigh a tonne upon its back, and an anger in its heart.",
     "scale": "",
@@ -57162,7 +57162,7 @@
       "beast",
       "monster"
     ],
-    "price": 715,
+    "price": 750,
     "currency": "EUR",
     "description": "The mount of War Chief Kartol. An exceptional steed able to carry nigh a tonne upon its back, and an anger in its heart. The beast is as ravenous and steadfast as other Alimrothi soldiers, but transports the War Chief wherever he is needed on the battlefield, able to carry his weapon of choice upon it, or even operate his weapon of its own accord through auto targeting connected to the Ram’s own line of sight.",
     "scale": "Large",
@@ -57240,7 +57240,7 @@
       "human",
       "npc"
     ],
-    "price": 482,
+    "price": 500,
     "currency": "EUR",
     "description": "War Chief is an ancient and argued to be dated title in modern Alimroth society, yet it still bestows a great responsibility and honour upon those who carry it. Kartol is one of few War Chief’s, having command of all military forces in East Alimroth. This encompasses everything from the smallest grunt to the greatest Airships. Kartol is not just a military genius either, his body and armour are hulking and many of his subordinates have watched him crush the skulls of his enemies with only his bare hands. Truly a remarkable soldier and commander who has earned the love and adoration of all his men.",
     "scale": "Medium",
@@ -57291,7 +57291,7 @@
       "vehicle",
       "monster"
     ],
-    "price": 879,
+    "price": 900,
     "currency": "EUR",
     "description": "The sixth edition in a long line of multi-purpose steam-mechs. The Jotun is an industrial-strength mech purposed in many aspects of Alimrothi life. With removable attachments it is capable of being an asset in warehousing, transport, manufacturing, agriculture, forestry and even warfare. This particular edition is the SPW, standing for Steam-Powered-Warfare, indicating its power source (steam) and its purpose (warfare). It sits sister to the CPF mechs, which are the Coal-Powered-Forestry mechs, able to constantly be topped up with coals by other workers in the woods. The Jotun is the benchmark of Alimrothi progress and hailed by many as a sign of the times and the vision of Alimroth’s future.",
     "scale": "Large",
@@ -57343,7 +57343,7 @@
       "fey",
       "monster"
     ],
-    "price": 4726,
+    "price": 4750,
     "currency": "EUR",
     "description": "Within each of the Four Pillars lives a great ancestral guardian spirit. Aspects of Renmaeth’s Dream? Or perhaps the guardian spirits combined of the ancient druids that sacrificed themselves in the growing of the Trees? Little know, but the spirits are revered, loved and praised by the druidic circles that guard them. Rolyn is the Guardian of Brel Vardra, and only a handful of times has he appeared to smite trespassers on his grove: once several hundred years prior when a warband from Halvoy thought it might reap the fertile lands of Brel Vardra. With a single swoop did dozens of men become impaled on thorny branches that shot from its wings, and dozens more choked on a poisonous air it screeched at them. Others, long before. Now it rears its head once more as the industrialized armies of Alimroth sit upon its borders, eager to light Brel Vardra ablaze.",
     "scale": "Huge",
@@ -57370,7 +57370,7 @@
       "fey",
       "monster"
     ],
-    "price": 1024,
+    "price": 1050,
     "currency": "EUR",
     "description": "Within the Fey, many creatures and monsters that are regular to our world have their own reflected variant. The Barkette is one such variant, a dream of Renmaeth or the creation of some long-forgotten Arch Druid? It’s unknown. But regardless, Barkette’s exist plentiful both in the Fey World and around the Four Pillars that connect the Fey World to the physical world. Curious beasts that can quickly turn deadly for the wrong traveler, they are friends to druids and banes to foresters.",
     "scale": "Large",
@@ -57397,7 +57397,7 @@
       "halfling",
       "npc"
     ],
-    "price": 326,
+    "price": 350,
     "currency": "EUR",
     "description": "A young student of ecology and biology from Belfrie’s University of Ardris. Cordelia spent much of her childhood in love with the gardens of her small-folk homeland of Grans. For her to discover her powers of manipulation with such gardens brought her wonderful joy, but none more than her fascination with the fungii that grew in the woods just beyond her home. For with them she held the most influence, able to change them at will. Now as part of her learning she has traveled to each of the Four Pillars for academic purposes, to inspect and take samples of the fungi that sprout in their shadows. Though her trip to Brel Vardra has gone much more poorly than her other visits.",
     "scale": "Medium",
@@ -57448,7 +57448,7 @@
       "fey",
       "monster"
     ],
-    "price": 3113,
+    "price": 3150,
     "currency": "EUR",
     "description": "An ancient defender of the forest. As industrialization scoured the most beautiful forests and meadows of Alimroth, Garamoud was forced to retreat to the confines of the druidic circle of Brel Vardra. There he has stewed in vengeance and anger for nigh a century, the fires of man lighting a fire within his own heart. Garamoud however is gentle and loving with those who are friends of the forest, and acts as a wise sage in councils held at the Circle of Vardra.",
     "scale": "Huge",
@@ -57527,7 +57527,7 @@
       "fiend",
       "monster"
     ],
-    "price": 356,
+    "price": 400,
     "currency": "EUR",
     "description": "The final child of Mindoriel. Nosmarka did not see a long nor prosperous life. She was born for the purpose of chaos and destruction in the deepest depths of Mindoriel’s rage and hatred. As she came to be she evoked the body of Glancalnos and covered the armies of Goliaths and Elves that stood against her mother’s forces in tides of flame. Quick was Glanion to react to this, slaying Nosmarka who evoked his own child’s body as part of hers through Glancalnos. Shortly after when Nosmarka was brought back to life she was kept in a sleep beneath the sea to not invoke the flames of Glancalnos again. Her dreams became Minera’s hellscapes, the infernal planes where demons, devils and infernal-touched beings originate from. Though she is chaotic so these beings range in creation from evil to good at random and many learnt to cross to the physical world after time.",
     "scale": "Medium",
@@ -57798,7 +57798,7 @@
       "vehicle",
       "monster"
     ],
-    "price": 922,
+    "price": 950,
     "currency": "EUR",
     "description": "Glaive Throwers form the backbone of Leacianus’ military. Enormous siege machines with anti-infantry design, they are made to clear swathes of men or forest and break down the hope of enemies. No crew is required physically to man the Glaives, as they are each held together with an arcane core within that uses telepathy to load, aim and fire any glaives. The results are horrific, with the glaives each imbued with a magic that prevents any harm they deal to be unhealable unless such magic is first dispelled. This results in extraordinary loss of life even beyond the initial hits that bisect dozens unfortunate enough to be caught by them.",
     "scale": "Large",
@@ -57824,7 +57824,7 @@
       "elemental",
       "monster"
     ],
-    "price": 939,
+    "price": 950,
     "currency": "EUR",
     "description": "The main production of Arcane creations within Leacianus are golems such as Orodwys. These act as cannon fodder in the front lines of battle, for easy are they to replace in contrast to the ancient lives of the High Elves. Though Orodwys is unlike many of its counterparts, for it is a prototype model imbued with the soul of a great sorcerer who would see themselves transferred into it as save from a deathly disease that had struck them. Thus a greater intelligence and autonomy is afforded to this particular golem and perhaps greater power too, though it has yet to be field tested.",
     "scale": "Large",
@@ -57851,7 +57851,7 @@
       "beast",
       "monster"
     ],
-    "price": 325,
+    "price": 350,
     "currency": "EUR",
     "description": "Through years of selective breeding and arcane infusions the seers of Leacianus were able to create a breed of dog that can tap into Minera’s Breath in similar ways to themselves. Though their ability is rudimentary it gives them a competitive edge over most wildlife and the hounds act as superior hunting companions and provide effective mobility in battle to overrun enemy positions when unleashed by the dozens. Hyan is one such Blink Hound, though an older breed he was made stronger than the new pups that brave the front lines of war.",
     "scale": "Medium",
@@ -57878,7 +57878,7 @@
       "dragon",
       "monster"
     ],
-    "price": 2657,
+    "price": 2700,
     "currency": "EUR",
     "description": "The dragons that lived within the mountains of Leacianus were also subject to their bodies and souls being infused with Breath from the Prendael River. So too did Byrilwyn’s ancestors who were often at odds with the people of Nirloom until eventually a truce was brokered between the two. Though as time passed the dragons dwindled from their heritage, each offspring becoming more infused with Breath than the last. Byrilwyn is one such dragon, a young adult attempting to find its identity as an outcast by its own kind.",
     "scale": "Huge",
@@ -57904,7 +57904,7 @@
       "elemental",
       "monster"
     ],
-    "price": 805,
+    "price": 850,
     "currency": "EUR",
     "description": "Those that work for the Supreme Holder of Leacianus have many tasks that test the depths of the Breath’s power. Many are focused on animation of lifeless material such as golems, yet some aim instead to bring life into the Breath’s purest form. Arcelen is such an example, an essence of breath extracted from the rivers within the Prendael river and given form. It is a powerful font of magic, holding stronger control over it than almost any living beings as it is the purest, untainted form of Breath. Yet on its creation it held no master, much like its forefather Brinilmin it broke the chains that tried to bind it, killing its creators and disappearing in the depths of the Prendael River. Now with the war entering Leacianus it has awoken.",
     "scale": "Large",
@@ -58012,7 +58012,7 @@
       "elf",
       "npc"
     ],
-    "price": 839,
+    "price": 850,
     "currency": "EUR",
     "description": "Born on a full moon within the glowing waters of the river Prendael, Glynbel was raised from birth in the love and care of the Brinilmin Church. Those dedicated to worshipping the divine entity of Brinilmin that imbues its magical essences into the waters of Leacianus. Glynbel, now coming of age acts as a Priestess within The Magistrates, continuing her path towards the title of Matriarch she learns under the wisdom of the Blind Seeress, Irivyl as she fulfils her duties to Brinilmin.",
     "scale": "Large",
@@ -58064,7 +58064,7 @@
       "elemental",
       "monster"
     ],
-    "price": 858,
+    "price": 900,
     "currency": "EUR",
     "description": "A product of The University of Ardris, Artyr is just one of many mass-produced Belfrian Gargoyles that inhabit Tharador. His will is meant to be bound to that of his master, though Duke Strauss has never before activated Artyr so their wills were never entwined. Instead the Gargoyle sat perched upon the tower of the main gate. When he came to of his own, he found his will was his own and entered a panic for his lack of attachment, though this was quickly soothed by a stone succubus calling herself Vehryn.",
     "scale": "Large",
@@ -58091,7 +58091,7 @@
       "fiend",
       "monster"
     ],
-    "price": 462,
+    "price": 500,
     "currency": "EUR",
     "description": "An elite spawn of Nosmarka, goddess of Chaos and Destruction. Tiranite was one of many Obsidian Demons that fought for Mindoriel against Tharador in the Sibling War. These demons were great fire breathers and used as artillery from the rear lines of the army. When Mindoriel was defeated, Tiranite and many of his kin fell dormant, and those that would discover them centuries later would think them to be ancient statues, ignorant to their darker nature. Now he has risen in the catacombs of Gehr Keep, unaware of his surroundings and situation save for what he has been told by a lone succubus.",
     "scale": "Large",
@@ -58117,7 +58117,7 @@
       "celestial",
       "monster"
     ],
-    "price": 2503,
+    "price": 2550,
     "currency": "EUR",
     "description": "An ancient statue that has stood the test of time. It existed in Gehr Keep before the keep was built, with the main gate being built around the statue when it was constructed. A fallen angel turned to stone, Torde aims to restore his honour through actions in hopes he can one day return to the realm of Syelden and be amongst his kin.",
     "scale": "Huge",
@@ -58144,7 +58144,7 @@
       "fiend",
       "monster"
     ],
-    "price": 903,
+    "price": 950,
     "currency": "EUR",
     "description": "Carved from stone centuries ago, Brohd was the commission of a mad wizard who had turned his dabblings of necromancy a touch too far. Animating the stone sculpture saw the wizard’s demise, who wrongly thought that he would have complete control over the creature. Brohd was quickly put to sleep by the wizard’s colleagues when they had learned of his fate, with a small Liturium gem lodged into stonework. When it was removed by Vehryn, Brohd came to life once more.",
     "scale": "Large",
@@ -58223,7 +58223,7 @@
       "vampire",
       "monster"
     ],
-    "price": 335,
+    "price": 350,
     "currency": "EUR",
     "description": "An elder vampire with unknown motives. A leader of the enormous mercenary company The Golden Griffins, his true nature there is unknown to most. Turned during the Age of Creation, before men walked upon Minera. A thrall and student of Almenhier, Etherian though an elder considers himself to be in constant service of Almenhier who to him acts as a wise fatherly figure. The two have been preachers of good in Thrasliche clans across Tharador, for only the Thrasliche have true free will. Now they aim to remind Duke Strauss of their creeds, having seen and heard his powers being used against their teachings.",
     "scale": "Medium",
@@ -58330,7 +58330,7 @@
       "goliath",
       "npc"
     ],
-    "price": 383,
+    "price": 400,
     "currency": "EUR",
     "description": "Direwolves have made themselves friends to Goliaths for centuries in Oldavor, for those that remained and did not migrate south from the endless white had little option but to ally with Goliaths. Wajoski himself is a loner, much of a social outcast who finds better company in direwolves than his own pack. He has earnt a trust and respect with them that most Goliaths would need to see to believe.",
     "scale": "Medium",
@@ -58409,7 +58409,7 @@
       "goliath",
       "npc"
     ],
-    "price": 373,
+    "price": 400,
     "currency": "EUR",
     "description": "The wise woman of Pahadi, Driga has lived longer than any others in the village though still retains an image of youth through ancient Goliath blood magic. She is the village healer, counselor and mentor to all, moreso than Chief Tygrin. Driga is more welcoming of outsiders than most, though their appearance is generally rarer than days of sun in Oldavor.",
     "scale": "Medium",
@@ -58437,7 +58437,7 @@
       "npc",
       "variations"
     ],
-    "price": 1348,
+    "price": 1350,
     "currency": "EUR",
     "description": "Enormous even by Goliath Standards, Touches-The-Sky is one who has had the fortune of travelling beyond Oldavor and returning. Aided by his enormous mammoth steed Skari, he is able to travel beyond the border mostly unopposed. Now he brings aid to his people in his home village of Pahadi, bringing foreign technologies and spells to aid in their survival. One day he hopes to bring them all beyond Oldavor, though knows that may result in too many deaths to bare.",
     "scale": "Huge",
@@ -58458,13 +58458,13 @@
         "id": "figure-1",
         "label": "Figure 1",
         "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/touches-the-sky-mammoth-rider/1.jpg",
-        "price": 1348
+        "price": 1350
       },
       {
         "id": "figure-2",
         "label": "Figure 2",
         "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/touches-the-sky-mammoth-rider/2.jpg",
-        "price": 1348
+        "price": 1350
       }
     ]
   },
@@ -58504,7 +58504,7 @@
       "shapeshifter",
       "monster"
     ],
-    "price": 996,
+    "price": 1000,
     "currency": "EUR",
     "description": "The central hivemind of the Shapeshifters. Though each Shapeshifters has their own colonies and entities, they each answer to Elthakar, a Shapeshifter recovered by the Psyflayers that was tamed and taught. Unlocking a latent psionic ability after it consumed a Psyflayer, Elthakar now uses it to control and speak with Shapeshifters across Tharador to bring them sentience and direction. In Elthakar’s death many would resort to their beast-like state void of any intellect.",
     "scale": "Large",
@@ -58529,7 +58529,7 @@
       "aberration",
       "monster"
     ],
-    "price": 1145,
+    "price": 1150,
     "currency": "EUR",
     "description": "The all-seeing eye used by The Flayers to project their vision across all of Tharador. An abomination of mixed Fey, Kraken and Psyflayer genes this enormous beast is ever watchful. Paranoia always takes their mind for all that they see, and the form they despise most is their own appearance",
     "scale": "Large",
@@ -58554,7 +58554,7 @@
       "aberration",
       "monster"
     ],
-    "price": 1212,
+    "price": 1250,
     "currency": "EUR",
     "description": "The Psyflayers had learned the science and art of gene splicing from their Goliath creators long before the empire’s fall. With it they were able to begin crafting their own monstrosities from what they could find around them. Greypeak Mudcrabs served as an excellent base, when mixed with their own genes to create the Hardshells, monstrous crab-like beings that also possessed psychic affinity like their creators.",
     "scale": "Large",
@@ -58580,7 +58580,7 @@
       "aberration",
       "monster"
     ],
-    "price": 813,
+    "price": 850,
     "currency": "EUR",
     "description": "One of the first Psyflayers to be brought into the world. Thilinos was conscious for all this time of torment in the first age, and was one of the first instigators of the Psyflayer rebellion. Now he acts as a puppet master, an alpha Psyflayer that commands the rest spread across the continent who each have their tendrils dug into the minds of the elite.",
     "scale": "Medium",
@@ -58714,7 +58714,7 @@
       "monster",
       "npc"
     ],
-    "price": 449,
+    "price": 450,
     "currency": "EUR",
     "description": "A ranger sent to Letzte Uhr for exile: murdering his wife’s lover. His own life forfeited to his liege for his crime, Jorrick was given to The Watchers for his crime. Finding his new life difficult at first, the former stablemaster befriended only the animals of Letzte Uhr and its surrounds. Even after fifteen years in the Watchers he still keeps mostly to himself, though is welcoming towards newcomers should they approach him, offering sage advice regarding Oldavor and its inhabitants to those he deems worthy of receiving such.",
     "scale": "Medium",
@@ -58742,7 +58742,7 @@
       "beast",
       "monster"
     ],
-    "price": 1996,
+    "price": 2000,
     "currency": "EUR",
     "description": "One of the most feared creatures of the wastes next to Shapeshifters. Nix Centipedes can stretch up to sixty feet long and are capable of bisecting a man with a single bite from their enormous tendrils. Even in snow that is only shin deep they are able to almost completely conceal themselves by lying flat and stretching their chitin sideway, elongating their body. Nix’s are the worst enemies of the Watchers, for horses and rangers alike will take sudden falls in the snow, disappearing below as they are dragged away at dozens of miles per hour, their screams quickly being stifled beneath the snow cover.",
     "scale": "Gargantuan",
@@ -58768,7 +58768,7 @@
       "elemental",
       "monster"
     ],
-    "price": 1312,
+    "price": 1350,
     "currency": "EUR",
     "description": "When the arcana pools of Oldavor were left unattended after the empire fell, they began to stir and react bizarrely to their surroundings. Some such pools began transmogrifying ice or snow that would drip into them. One such pool felt the wrath of a blizzard enter its chamber, and each snowflake that touched the fountain was morphed to a being like the Yokun Golems. Ice elementals that roam the wastes. Mostly harmless until they see a source of fire, in which case the Golem will enrage, aiming to extinguish the fire and attacking anyone near it as well.",
     "scale": "Large",
@@ -58795,7 +58795,7 @@
       "shapeshifter",
       "monster"
     ],
-    "price": 396,
+    "price": 400,
     "currency": "EUR",
     "description": "What an unfortunate reindeer looks like after an encounter with a shapeshifter. This particular one is sharp, separating its form in two when in danger, doubling its odds of survival or its attacking power if fighting a group of enemies. Relentless in its onslaught, it won’t rest until anything around it becomes part of it.",
     "scale": "Medium",
@@ -58823,7 +58823,7 @@
       "monster",
       "npc"
     ],
-    "price": 435,
+    "price": 450,
     "currency": "EUR",
     "description": "A ranger lost to a blizzard on her expedition into the wastes. Unfortunately for her was that it was not the cold that took her, rather a shapeshifter morphed to the form of her lost horse. As Adana cradled a fire, praying to any gods that would answer, her horse appeared through the blizzard. As she ran to mount it, the beast opened to a mass of teeth and tentacles, holding her down and slowly and terrifyingly consuming her. Now in her shapeshifted form, the entity cannot mimic her voice, instead acting as though her voice has been taken by illness. At its first chance it will make it to travel beyond Oldavor, to find a village or group it can consume entirely.",
     "scale": "Medium",
@@ -58852,7 +58852,7 @@
       "dragon",
       "monster"
     ],
-    "price": 5526,
+    "price": 5550,
     "currency": "EUR",
     "description": "A cursed experiment conducted by the Psyflayers to interweave their own genes with draconic genes. The result is Nilth, an abomination thought abhorrent by all draconic beings, though marvelled by the Psyflayers. Now he lives within the ruins of Duorastat, the once capital of Oldavor. At the will of his masters, he will fly to where he is needed, capable of his own forms of mind domination and psychic illusions along with the inherent fear driven into the hearts of mortals with his draconic presence. He is an insurmountable foe even to the strongest of warriors.",
     "scale": "Gargantuan",
@@ -58879,7 +58879,7 @@
       "dragon",
       "monster"
     ],
-    "price": 3165,
+    "price": 3200,
     "currency": "EUR",
     "description": "Ekerin’s family has lived in service to the Destra family of Draksborne for centuries. First found living in the mountains of Sundestra Isle, Ekerin’s ancestors were tamed by the men shortly after the settlement of the isle. Ekerin is just another link in a chain of the Drakes that service the Destra’s. Acting of his own accord, Ekerin offers guidance and wisdom in secret councils, acting as a member of the Darkwing Guard as both a weapon and councillor. He wishes to see the empire restored, intending that his kin will be deployed across the realm as new lands are conquered, to act as councillors and peacekeepers in the newly occupied lands.",
     "scale": "Huge",
@@ -59120,7 +59120,7 @@
       "human",
       "npc"
     ],
-    "price": 468,
+    "price": 500,
     "currency": "EUR",
     "description": "The Attican line can trace itself to the founding days of Draksborne. Always was House Attican loyal to the emperor of Draksborne. When the empire fell, so too did the prestige of their house, for as the Marshall’s of the realm they were those who oversaw much of the war efforts against the revolting kingdoms. Now Brax aims to restore that prestige, dedicating himself to the Darkwing, he often leaves in service of Draksborne’s future, accompanying Agents on voyages across the sea or leading raids against constitutionalists across Draksborne, cutting off their heads wherever they may sprout.",
     "scale": "Large",
@@ -59418,7 +59418,7 @@
       "monster",
       "npc"
     ],
-    "price": 959,
+    "price": 1000,
     "currency": "EUR",
     "description": "The childhood companion, guardian and warrior dedicated to Verina, his creator. Originally no more than a pile of pebbles and twigs given life, throughout the years Lazlus has gathered further and further mass to his body, as the branch and vines that binded him grew longer and stronger. From pebbles to boulders he now stands enormous over most forest trespassers, his stony form nigh impervious to the attacks of men.",
     "scale": "Huge",
@@ -59522,7 +59522,7 @@
       "fey",
       "monster"
     ],
-    "price": 388,
+    "price": 400,
     "currency": "EUR",
     "description": "A tree spirit given form by the twin siblings Gwynevel and Melwyn, him sharing the grace and love of nature of Gwynevel and the strength and wrath of Melwyn. More than just a mindless puppet, Zelafel indeed holds his own soul, though seemingly non verbal to most, his voice can be heard by those who speak druidic. Holding little contempt for humans, his body and spirit and phase between Fey and Tharador at will, and wherever his creators need him he treads, leading the forces of the fey against their enemies.",
     "scale": "Medium",
@@ -59550,7 +59550,7 @@
       "fey",
       "monster"
     ],
-    "price": 491,
+    "price": 500,
     "currency": "EUR",
     "description": "An ancient forest spirit given life by Renmaeth herself. His form once fair and beautiful has become twisted and mortified from centuries of horrors to his forest at the hands of the men of Baldur. Physically his body sits within the Fey World, yet his spirit projects to Tharador a twisted and painful mess, a reflection of his forest’s state. He has grown vengeful, killing on site any man that enter his forest, and too he sits suspicious of even elves and druids that enter. In his forest he has watered the trees and animals with a great brew, making the trees giant with iron bark and the animals sizes to match. If it’s not his direct wrath in the forest men face, it may be a giant bear, wolf or fox that takes them.",
     "scale": "Huge",
@@ -59578,7 +59578,7 @@
       "fey",
       "monster"
     ],
-    "price": 963,
+    "price": 1000,
     "currency": "EUR",
     "description": "An ancient forest spirit given life by Renmaeth herself. She can take the form of her choosing in spirit. For physically she resides in the Fey World, yet can project her spiritual form into Tharador’s physical plane. There she provides guidance and care to the residents of her forest, given to her by Renmaeth. Though she once shared the forest with her brother Melwyn, it was cut in twain by man, her brother residing in its eastern half, vengeance growing deep in his heart and twisting his form. Though vigilant of men herself, Gwynevel is graceful in her attempts at ridding them, only resorting to violence when all else has failed.",
     "scale": "Huge",
@@ -59605,7 +59605,7 @@
       "fey",
       "monster"
     ],
-    "price": 1424,
+    "price": 1450,
     "currency": "EUR",
     "description": "The childhood companion, guardian and warrior dedicated to Verina, his creator. Originally no more than a pile of pebbles and twigs given life, throughout the years Lazlus has gathered further and further mass to his body, as the branch and vines that binded him grew longer and stronger. From pebbles to boulders he now stands enormous over most forest trespassers, his stony form nigh impervious to the attacks of men.",
     "scale": "Large",
@@ -59715,7 +59715,7 @@
       "werewolf",
       "npc"
     ],
-    "price": 6365,
+    "price": 6400,
     "currency": "EUR",
     "description": "A once great Paladin of Erdrydion, corrupted and ensnared by the Lich Kelathar after washing ashore in shipwreck over a decade past. The paladin’s will quickly was broken down by the lich, as their will of righteousness was lost to the control of the lich. Thus they acted as the blade of Kelathar, their will too becoming ensnared in the lich’s.",
     "scale": "Huge",
@@ -59742,7 +59742,7 @@
       "undead",
       "monster"
     ],
-    "price": 779,
+    "price": 800,
     "currency": "EUR",
     "description": "Once a keeper of the forest and a spirit that would tend to the groves and trees of the island, as well as the herder and wise-one of the animals that lived there. Though when the lich Kelathar came to power this spirit was slain along with many other creatures of the isle. Brought back undead, The Nightwalker as it was hence known became a corruptor of the forest and a weapon of Kelathar.",
     "scale": "Medium",
@@ -59768,7 +59768,7 @@
       "undead",
       "monster"
     ],
-    "price": 507,
+    "price": 550,
     "currency": "EUR",
     "description": "Darkest and most known of liches within Tharador. Single handedly he brought Baldur’s Liturium production to its knees by enshrouding the one isle that the rare metal was found in a thick and cursed fog. Growing his army overtime with Baldur’s failed attempts at reclamation, he was himself slain by the great Paladin Yinsylim and his companions in The Battle of Duskweave seven years prior. With the help of his servant Morian Fairhair, he is now revived and enshrouds Duskweave once more in his miasmatic fog of undeath.",
     "scale": "Medium",
@@ -59794,7 +59794,7 @@
       "werewolf",
       "monster"
     ],
-    "price": 428,
+    "price": 450,
     "currency": "EUR",
     "description": "The pack leader of the largest surviving werewolf pack left on Duskweave. Responsibility burdens him like a lead chains, for the survival of his kind upon the isle is left solely on his own leadership and decisions. Now the once decisive leader is filled with doubt as Kelathar’s return spells their return to war against the colonizing mortals.",
     "scale": "Huge, Medium",
@@ -59849,7 +59849,7 @@
       "undead",
       "monster"
     ],
-    "price": 13765,
+    "price": 13800,
     "currency": "EUR",
     "description": "A great dragon ensnared in undeath by The Immortal Lich Kelathar, swept up from his body’s resting place upon Bloodtrail Isles, far to Tharador’s south. One of the old ones from the age of creation – his reanimated and putrid corpse now serves as little more than a puppet to the lich that raised him.",
     "scale": "Gargantuan",
@@ -59876,7 +59876,7 @@
       "werewolf",
       "monster"
     ],
-    "price": 435,
+    "price": 450,
     "currency": "EUR",
     "description": "One of the armoured werewolf knights of Blackborne Pack. Fitted with plate and steeled claws, Loghain and the other knights are the fast and heavy hitting shock cavalry of the unholy armies that aim to reclaim Duskweave. Loghain himself spending his whole life on the isle sees it as taking back his own homeland.",
     "scale": "Medium",
@@ -60008,7 +60008,7 @@
       "human",
       "npc"
     ],
-    "price": 1034,
+    "price": 1050,
     "currency": "EUR",
     "description": "The Sultan of The United Sultanate of Sudd Tohst. He rules on a throne of gold and rubies from Dahabi Palace in Torish Istrath. Inherited from the conquest of his great great grandfather one-hundred and twenty years prior, Hakim enjoys all the wealth and power with none of the hardship his forefathers endured. He rules with an iron fist and a mind of wine.",
     "scale": "Medium",
@@ -60087,7 +60087,7 @@
       "human",
       "npc"
     ],
-    "price": 839,
+    "price": 850,
     "currency": "EUR",
     "description": "One of the members of the Torish Istrath heavy cavalry squadrons. Rhino Riders often close in on their enemies with a peppering of arrows from afar, before finally skewering them with large lances and the horns of their rhinos on charge. Yazir is one such soldier, bought into service by the waterfalls of gold in the vaults beneath Dahabi Palace.",
     "scale": "Large",
@@ -60221,7 +60221,7 @@
       "elf",
       "npc"
     ],
-    "price": 496,
+    "price": 500,
     "currency": "EUR",
     "description": "A half-caste and a lowborn, Dreytin was fated for little more than being an Outrider – one of the most perilous jobs of Hinatal’s military. Scavenging for food and sacked or abandoned caravans on the surface was the job of the outriders, but now their knowledge of the land above proved invaluable in the coming battles, making their once lowly rank now equal to most mid-level officers. Dreytin has let this status change affect his own personality quite dramatically.",
     "scale": "Large",
@@ -60274,7 +60274,7 @@
       "human",
       "npc"
     ],
-    "price": 351,
+    "price": 400,
     "currency": "EUR",
     "description": "A jarl’s daughter that took more fascination with the inner workings of machines than blades. Forgoing the lessons of blade and shield that were uniform for noble children such as herself, she now is one of the more renowned engineers in the Alimrothi fleet.",
     "scale": "Medium",
@@ -60379,7 +60379,7 @@
       "vehicle",
       "monster"
     ],
-    "price": 57560,
+    "price": 57600,
     "currency": "EUR",
     "description": "(LARGE SCALE – 300mm LENGTH) The menacing Airship of Alimroth. Its weapons, speed and flight make it a nigh impossible foe for the horse driven society of Mayreth to compete against and the Alimrothi raiders know this well.",
     "scale": "Gargantuan",
@@ -60590,7 +60590,7 @@
       "monster",
       "npc"
     ],
-    "price": 687,
+    "price": 700,
     "currency": "EUR",
     "description": "An elite fighting duo that are legendary amongst the front line and special operatives of The Golden Griffins. Just the sight of the elf atop his armoured griffin is enough to spike moral in the Griffins, and plummet it against their enemies. Time and time again they have turned the tides of battles.",
     "scale": "Large",
@@ -60990,7 +60990,7 @@
       "monstrosity",
       "monster"
     ],
-    "price": 368,
+    "price": 400,
     "currency": "EUR",
     "description": "Thyralmir is one of the last of his kind: A Northern Moon Griffin. Shocked are most who see him (though often he will be the last thing they see) as his appearance greatly deviates from the common depiction of the Griffin, with a head more like a falcon or eagle than the drake-like appearance of Thyralmir and his kin.",
     "scale": "Large",
