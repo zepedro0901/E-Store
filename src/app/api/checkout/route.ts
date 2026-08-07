@@ -9,6 +9,8 @@ const cartItemSchema = z.object({
   price: z.number().int().nonnegative(),
   image: z.string().min(1),
   quantity: z.number().int().positive().max(99),
+  variationId: z.string().optional(),
+  variationLabel: z.string().optional(),
 });
 
 const requestSchema = z.object({

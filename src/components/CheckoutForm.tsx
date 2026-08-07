@@ -148,9 +148,15 @@ export function CheckoutForm() {
         </h2>
         <div className="flex flex-col gap-3">
           {items.map((item) => (
-            <div key={item.productId} className="flex justify-between gap-3 text-sm">
+            <div
+              key={`${item.productId}-${item.variationId ?? "base"}`}
+              className="flex justify-between gap-3 text-sm"
+            >
               <span className="text-foreground/80">
-                {item.name}{" "}
+                {item.name}
+                {item.variationLabel && (
+                  <span className="text-foreground/50"> ({item.variationLabel})</span>
+                )}{" "}
                 <span className="text-foreground/45">&times;{item.quantity}</span>
               </span>
               <span className="shrink-0 font-mono text-foreground/70">

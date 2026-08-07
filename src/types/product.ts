@@ -47,6 +47,8 @@ export interface CartItem {
   price: number;
   image: string;
   quantity: number;
+  variationId?: string;
+  variationLabel?: string;
 }
 
 export type SortOption = "newest" | "price-asc" | "price-desc" | "name-asc";

@@ -32,7 +32,11 @@ export async function sendOrderRequestEmail(
     .map(
       (i) =>
         `<tr>
-          <td style="padding:6px 12px;border-bottom:1px solid #eee;">${escapeHtml(i.name)}</td>
+          <td style="padding:6px 12px;border-bottom:1px solid #eee;">${escapeHtml(i.name)}${
+            i.variationLabel
+              ? `<br/><span style="color:#666;font-size:0.85em;">${escapeHtml(i.variationLabel)}</span>`
+              : ""
+          }</td>
           <td style="padding:6px 12px;border-bottom:1px solid #eee;text-align:center;">${i.quantity}</td>
           <td style="padding:6px 12px;border-bottom:1px solid #eee;text-align:right;">${formatPrice(i.price, "EUR")}</td>
           <td style="padding:6px 12px;border-bottom:1px solid #eee;text-align:right;">${formatPrice(i.price * i.quantity, "EUR")}</td>

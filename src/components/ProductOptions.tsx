@@ -38,6 +38,8 @@ export function ProductOptions({
         name: product.name,
         price: unitPrice,
         image: activeVariation?.image ?? product.images[0],
+        variationId: activeVariation?.id,
+        variationLabel: activeVariation?.label,
       },
       quantity,
     );

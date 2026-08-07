@@ -7,16 +7,12 @@ import { AddToCartButton } from "@/components/AddToCartButton";
 
 export function ProductCard({ product }: { product: Product }) {
   const { min, max } = getProductPriceRange(product);
-  const defaultVariation = product.variations?.[0];
-  const unitPrice = defaultVariation?.price ?? product.price;
-  const inStock = defaultVariation?.inStock ?? product.inStock;
-  const image = defaultVariation?.image ?? product.images[0];
 
   return (
-    <div className="group flex flex-col overflow-hidden rounded-lg border border-border bg-surface transition-colors hover:border-accent/40">
+    <div className="group flex flex-col rounded-lg border border-border bg-surface transition-colors hover:border-accent/40">
       <Link
         href={`/products/${product.slug}`}
-        className="relative block aspect-square w-full overflow-hidden bg-background"
+        className="relative block aspect-square w-full overflow-hidden rounded-t-lg bg-background"
       >
         <Image
           src={product.images[0]}
@@ -32,7 +28,7 @@ export function ProductCard({ product }: { product: Product }) {
           </span>
         )}
       </Link>
-      <div className="flex flex-1 flex-col gap-1 border-t border-border p-4">
+      <div className="flex flex-1 flex-col gap-1 rounded-b-lg border-t border-border p-4">
         <Link href={`/products/${product.slug}`}>
           <h3 className="text-sm font-semibold leading-snug transition-colors hover:text-accent">
             {product.name}
@@ -51,9 +47,11 @@ export function ProductCard({ product }: { product: Product }) {
             productId={product.id}
             slug={product.slug}
             name={product.name}
-            price={unitPrice}
-            image={image}
-            inStock={inStock}
+            price={product.price}
+            image={product.images[0]}
+            inStock={product.inStock}
+            currency={product.currency}
+            variations={product.variations}
           />
         </div>
       </div>

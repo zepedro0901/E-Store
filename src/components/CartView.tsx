@@ -34,7 +34,10 @@ export function CartView() {
     <div className="flex flex-col gap-8">
       <div className="flex flex-col divide-y divide-border border border-border">
         {items.map((item) => (
-          <div key={item.productId} className="flex items-center gap-4 p-4">
+          <div
+            key={`${item.productId}-${item.variationId ?? "base"}`}
+            className="flex items-center gap-4 p-4"
+          >
             <Link
               href={`/products/${item.slug}`}
               className="relative h-20 w-20 shrink-0 overflow-hidden bg-surface-2"
@@ -54,6 +57,11 @@ export function CartView() {
               >
                 {item.name}
               </Link>
+              {item.variationLabel && (
+                <span className="text-xs text-foreground/55">
+                  {item.variationLabel}
+                </span>
+              )}
               <span className="font-mono text-xs text-foreground/50">
                 {formatPrice(item.price, "EUR")} each
               </span>
@@ -61,7 +69,9 @@ export function CartView() {
             <div className="flex items-center border border-border">
               <button
                 type="button"
-                onClick={() => setQuantity(item.productId, item.quantity - 1)}
+                onClick={() =>
+                  setQuantity(item.productId, item.quantity - 1, item.variationId)
+                }
                 aria-label="Decrease quantity"
                 className="flex h-8 w-8 items-center justify-center text-base transition-colors hover:text-accent"
               >
@@ -72,7 +82,9 @@ export function CartView() {
               </span>
               <button
                 type="button"
-                onClick={() => setQuantity(item.productId, item.quantity + 1)}
+                onClick={() =>
+                  setQuantity(item.productId, item.quantity + 1, item.variationId)
+                }
                 aria-label="Increase quantity"
                 className="flex h-8 w-8 items-center justify-center text-base transition-colors hover:text-accent"
               >
@@ -84,7 +96,7 @@ export function CartView() {
             </span>
             <button
               type="button"
-              onClick={() => removeItem(item.productId)}
+              onClick={() => removeItem(item.productId, item.variationId)}
               aria-label={`Remove ${item.name}`}
               className="shrink-0 text-foreground/40 transition-colors hover:text-red-400"
             >
