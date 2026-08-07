@@ -34727,7 +34727,7 @@
       "monster",
       "variations"
     ],
-    "price": 349,
+    "price": 300,
     "currency": "EUR",
     "description": "Soldiers of Draksborne who have become infected with the most aggressive forms of Dragonblight. It seems that in those with martial prowess and weaponry, the disease bolsters its hold, focusing additional energy into growing masses of flesh that it uses as weapons, as well as armour.",
     "scale": "Medium",
@@ -34749,17 +34749,20 @@
       {
         "id": "figure-1",
         "label": "Figure 1",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/the-blights-warriors-blighted-knights/1.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/the-blights-warriors-blighted-knights/1.jpg",
+        "price": 300
       },
       {
         "id": "figure-2",
         "label": "Figure 2",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/the-blights-warriors-blighted-knights/2.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/the-blights-warriors-blighted-knights/2.jpg",
+        "price": 300
       },
       {
         "id": "figure-3",
         "label": "Figure 3",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/the-blights-warriors-blighted-knights/4.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/the-blights-warriors-blighted-knights/4.jpg",
+        "price": 300
       }
     ]
   },
@@ -35003,7 +35006,7 @@
       "monster",
       "variations"
     ],
-    "price": 440,
+    "price": 300,
     "currency": "EUR",
     "description": "Students that have become unintentionally stricken with Dragonblight during classes with Professor Frederik Vahlen. Rather than attempt to cure them (and since there is no known cure), the professor has instead confined the students to a secret chamber beneath the University. There he has studied them, attempting to alter the strain of the plague to unlock its psionic potential, without harming the hosts. It is in this hope, that he could potentially unlock the latent psionic powers that exist in all humans, and the memories of their past lives.",
     "scale": "Medium",
@@ -35025,17 +35028,20 @@
       {
         "id": "figure-1",
         "label": "Figure 1",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/the-progressed-dragonblight-stricken-students/1.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/the-progressed-dragonblight-stricken-students/1.jpg",
+        "price": 300
       },
       {
         "id": "figure-2",
         "label": "Figure 2",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/the-progressed-dragonblight-stricken-students/3.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/the-progressed-dragonblight-stricken-students/3.jpg",
+        "price": 300
       },
       {
         "id": "figure-3",
         "label": "Figure 3",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/the-progressed-dragonblight-stricken-students/5.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/the-progressed-dragonblight-stricken-students/5.jpg",
+        "price": 300
       }
     ]
   },
@@ -35493,7 +35499,7 @@
       "monster",
       "variations"
     ],
-    "price": 597,
+    "price": 300,
     "currency": "EUR",
     "description": "Ratfolk loyal to the Königsratte, they have all become infected with the strain of Dragonblight that sits within their regent. Their minds are quickly eroding, and they attack with a ferocity that is unrelentless, disregarding their own safety and preservation so long as their foes would perish with them.",
     "scale": "Medium",
@@ -35517,17 +35523,20 @@
       {
         "id": "figure-1",
         "label": "Figure 1",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/scabbers-ratfolk-warriors/1.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/scabbers-ratfolk-warriors/1.jpg",
+        "price": 300
       },
       {
         "id": "figure-2",
         "label": "Figure 2",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/scabbers-ratfolk-warriors/2.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/scabbers-ratfolk-warriors/2.jpg",
+        "price": 300
       },
       {
         "id": "figure-3",
         "label": "Figure 3",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/scabbers-ratfolk-warriors/5.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/scabbers-ratfolk-warriors/5.jpg",
+        "price": 300
       }
     ]
   },
@@ -36766,17 +36775,20 @@
       {
         "id": "figure-1",
         "label": "Figure 1",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/the-plagueborne-plague-carriers/1.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/the-plagueborne-plague-carriers/1.jpg",
+        "price": 300
       },
       {
         "id": "figure-2",
         "label": "Figure 2",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/the-plagueborne-plague-carriers/2.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/the-plagueborne-plague-carriers/2.jpg",
+        "price": 300
       },
       {
         "id": "figure-3",
         "label": "Figure 3",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/the-plagueborne-plague-carriers/3.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/the-plagueborne-plague-carriers/3.jpg",
+        "price": 300
       }
     ]
   },
@@ -37324,7 +37336,7 @@
       "npc",
       "variations"
     ],
-    "price": 342,
+    "price": 300,
     "currency": "EUR",
     "description": "The Cult of Seroca that lives among the desert plains of Sudd Tohst. This particular sect was once a nomadic tribe of Sun Elves, lured to the service of the Dark Spawn of Secrets. Discordant whispers set them against their Hinatali brethren, those in golden towers and manses who lived in luxury while their kin beyond their walls suffered in the agony of the desert. Now they are Seroca’s tools, enacting the will of the dark divine to undo Hinatal from within.",
     "scale": "Medium",
@@ -37347,17 +37359,20 @@
       {
         "id": "figure-1",
         "label": "Figure 1",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/serocas-devout-dark-cultist-warriors/1.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/serocas-devout-dark-cultist-warriors/1.jpg",
+        "price": 300
       },
       {
         "id": "figure-2",
         "label": "Figure 2",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/serocas-devout-dark-cultist-warriors/3.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/serocas-devout-dark-cultist-warriors/3.jpg",
+        "price": 300
       },
       {
         "id": "figure-3",
         "label": "Figure 3",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/serocas-devout-dark-cultist-warriors/5.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/serocas-devout-dark-cultist-warriors/5.jpg",
+        "price": 300
       }
     ]
   },
@@ -37916,17 +37931,20 @@
       {
         "id": "figure-1",
         "label": "Figure 1",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/the-fallen-damned-lost-crusaders/1.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/the-fallen-damned-lost-crusaders/1.jpg",
+        "price": 300
       },
       {
         "id": "figure-2",
         "label": "Figure 2",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/the-fallen-damned-lost-crusaders/3.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/the-fallen-damned-lost-crusaders/3.jpg",
+        "price": 300
       },
       {
         "id": "figure-3",
         "label": "Figure 3",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/the-fallen-damned-lost-crusaders/5.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/the-fallen-damned-lost-crusaders/5.jpg",
+        "price": 300
       }
     ]
   },
@@ -38481,17 +38499,20 @@
       {
         "id": "figure-1",
         "label": "Figure 1",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/soldiers-of-the-underkeepers-mafia-brigands/1.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/soldiers-of-the-underkeepers-mafia-brigands/1.jpg",
+        "price": 300
       },
       {
         "id": "figure-2",
         "label": "Figure 2",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/soldiers-of-the-underkeepers-mafia-brigands/3.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/soldiers-of-the-underkeepers-mafia-brigands/3.jpg",
+        "price": 300
       },
       {
         "id": "figure-3",
         "label": "Figure 3",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/soldiers-of-the-underkeepers-mafia-brigands/5.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/soldiers-of-the-underkeepers-mafia-brigands/5.jpg",
+        "price": 300
       }
     ]
   },
@@ -38879,7 +38900,7 @@
       "monster",
       "variations"
     ],
-    "price": 351,
+    "price": 300,
     "currency": "EUR",
     "description": "A pack of hunting hounds kept by the Watchers upon Oldavor’s border. These unfortunate hounds met a gruesome end in the maw of a rabid shapeshifter.",
     "scale": "Medium",
@@ -38901,17 +38922,20 @@
       {
         "id": "figure-1",
         "label": "Figure 1",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/slagsting-shapeshifted-blood-hounds/1.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/slagsting-shapeshifted-blood-hounds/1.jpg",
+        "price": 300
       },
       {
         "id": "figure-2",
         "label": "Figure 2",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/slagsting-shapeshifted-blood-hounds/3.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/slagsting-shapeshifted-blood-hounds/3.jpg",
+        "price": 300
       },
       {
         "id": "figure-3",
         "label": "Figure 3",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/slagsting-shapeshifted-blood-hounds/5.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/slagsting-shapeshifted-blood-hounds/5.jpg",
+        "price": 300
       }
     ]
   },
@@ -39689,7 +39713,7 @@
       "npc",
       "variations"
     ],
-    "price": 337,
+    "price": 300,
     "currency": "EUR",
     "description": "Shieldmaidens in life, and death. These prestigious warriors were risen from their graves by Hel, so legend tells.",
     "scale": "Medium",
@@ -39712,17 +39736,20 @@
       {
         "id": "figure-1",
         "label": "Figure 1",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/daughters-of-death-valkyrie-shieldmaidens/1.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/daughters-of-death-valkyrie-shieldmaidens/1.jpg",
+        "price": 300
       },
       {
         "id": "figure-2",
         "label": "Figure 2",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/daughters-of-death-valkyrie-shieldmaidens/3.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/daughters-of-death-valkyrie-shieldmaidens/3.jpg",
+        "price": 300
       },
       {
         "id": "figure-3",
         "label": "Figure 3",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/daughters-of-death-valkyrie-shieldmaidens/5.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/daughters-of-death-valkyrie-shieldmaidens/5.jpg",
+        "price": 300
       }
     ]
   },
@@ -39979,17 +40006,20 @@
       {
         "id": "figure-1",
         "label": "Figure 1",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/vampire-socialites-guests-of-the-masquerade/1.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/vampire-socialites-guests-of-the-masquerade/1.jpg",
+        "price": 300
       },
       {
         "id": "figure-2",
         "label": "Figure 2",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/vampire-socialites-guests-of-the-masquerade/3.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/vampire-socialites-guests-of-the-masquerade/3.jpg",
+        "price": 300
       },
       {
         "id": "figure-3",
         "label": "Figure 3",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/vampire-socialites-guests-of-the-masquerade/5.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/vampire-socialites-guests-of-the-masquerade/5.jpg",
+        "price": 300
       }
     ]
   },
@@ -40511,7 +40541,7 @@
       "monster",
       "variations"
     ],
-    "price": 323,
+    "price": 300,
     "currency": "EUR",
     "description": "Among the Drow of Irinax, the Blessed were the first to give themselves entirely to the service of their prophet Vaezirak.",
     "scale": "Medium",
@@ -40534,17 +40564,20 @@
       {
         "id": "figure-1",
         "label": "Figure 1",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/the-blessed-servants-of-vaezirak/1.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/the-blessed-servants-of-vaezirak/1.jpg",
+        "price": 300
       },
       {
         "id": "figure-2",
         "label": "Figure 2",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/the-blessed-servants-of-vaezirak/3.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/the-blessed-servants-of-vaezirak/3.jpg",
+        "price": 300
       },
       {
         "id": "figure-3",
         "label": "Figure 3",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/the-blessed-servants-of-vaezirak/5.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/the-blessed-servants-of-vaezirak/5.jpg",
+        "price": 300
       }
     ]
   },
@@ -41057,7 +41090,7 @@
       "monster",
       "variations"
     ],
-    "price": 322,
+    "price": 300,
     "currency": "EUR",
     "description": "The mutinous crew of the Damned Galleon, cursed in their dying breaths to be bound to their rotting corpses.",
     "scale": "Medium",
@@ -41080,17 +41113,20 @@
       {
         "id": "figure-1",
         "label": "Figure 1",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/undying-scallywags-crew-of-the-damned-galleon/1.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/undying-scallywags-crew-of-the-damned-galleon/1.jpg",
+        "price": 300
       },
       {
         "id": "figure-2",
         "label": "Figure 2",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/undying-scallywags-crew-of-the-damned-galleon/3.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/undying-scallywags-crew-of-the-damned-galleon/3.jpg",
+        "price": 300
       },
       {
         "id": "figure-3",
         "label": "Figure 3",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/undying-scallywags-crew-of-the-damned-galleon/5.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/undying-scallywags-crew-of-the-damned-galleon/5.jpg",
+        "price": 300
       }
     ]
   },
@@ -41783,7 +41819,7 @@
       "npc",
       "variations"
     ],
-    "price": 455,
+    "price": 300,
     "currency": "EUR",
     "description": "Elite knights who have been raised in a crucible of fire and blood. Scars are common, for sparring often ends in mortal wounds.",
     "scale": "Medium",
@@ -41806,17 +41842,20 @@
       {
         "id": "figure-1",
         "label": "Figure 1",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/azmordions-chosen-silver-dragonkin-knights/1.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/azmordions-chosen-silver-dragonkin-knights/1.jpg",
+        "price": 300
       },
       {
         "id": "figure-2",
         "label": "Figure 2",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/azmordions-chosen-silver-dragonkin-knights/3.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/azmordions-chosen-silver-dragonkin-knights/3.jpg",
+        "price": 300
       },
       {
         "id": "figure-3",
         "label": "Figure 3",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/azmordions-chosen-silver-dragonkin-knights/5.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/azmordions-chosen-silver-dragonkin-knights/5.jpg",
+        "price": 300
       }
     ]
   },
@@ -42114,7 +42153,7 @@
       "monster",
       "variations"
     ],
-    "price": 313,
+    "price": 300,
     "currency": "EUR",
     "description": "Armour of the fallen, those perished in the Liturium War. Their flesh and bone lost to time and scavengers.",
     "scale": "Medium",
@@ -42137,17 +42176,20 @@
       {
         "id": "figure-1",
         "label": "Figure 1",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/forgotten-knights-vine-possessed-armour/1.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/forgotten-knights-vine-possessed-armour/1.jpg",
+        "price": 300
       },
       {
         "id": "figure-2",
         "label": "Figure 2",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/forgotten-knights-vine-possessed-armour/3.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/forgotten-knights-vine-possessed-armour/3.jpg",
+        "price": 300
       },
       {
         "id": "figure-3",
         "label": "Figure 3",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/forgotten-knights-vine-possessed-armour/5.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/forgotten-knights-vine-possessed-armour/5.jpg",
+        "price": 300
       }
     ]
   },
@@ -42787,7 +42829,7 @@
       "npc",
       "variations"
     ],
-    "price": 339,
+    "price": 300,
     "currency": "EUR",
     "description": "Creatures imported from Sudd Tohsti slavers, confined to the labyrinthine depths under Lion's Den Citadel.",
     "scale": "Medium",
@@ -42810,17 +42852,20 @@
       {
         "id": "figure-1",
         "label": "Figure 1",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/minotaurs-of-the-labyrinths-depths/1.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/minotaurs-of-the-labyrinths-depths/1.jpg",
+        "price": 300
       },
       {
         "id": "figure-2",
         "label": "Figure 2",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/minotaurs-of-the-labyrinths-depths/3.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/minotaurs-of-the-labyrinths-depths/3.jpg",
+        "price": 300
       },
       {
         "id": "figure-3",
         "label": "Figure 3",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/minotaurs-of-the-labyrinths-depths/5.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/minotaurs-of-the-labyrinths-depths/5.jpg",
+        "price": 300
       }
     ]
   },
@@ -43247,17 +43292,20 @@
       {
         "id": "figure-1",
         "label": "Figure 1",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/knights-of-the-inquisition/1.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/knights-of-the-inquisition/1.jpg",
+        "price": 300
       },
       {
         "id": "figure-2",
         "label": "Figure 2",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/knights-of-the-inquisition/3.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/knights-of-the-inquisition/3.jpg",
+        "price": 300
       },
       {
         "id": "figure-3",
         "label": "Figure 3",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/knights-of-the-inquisition/5.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/knights-of-the-inquisition/5.jpg",
+        "price": 300
       }
     ]
   },
@@ -43763,7 +43811,7 @@
       "monster",
       "variations"
     ],
-    "price": 372,
+    "price": 300,
     "currency": "EUR",
     "description": "Workers and warriors created by Tomas Lumens after a decade of trial and error and fruitless pursuits.",
     "scale": "Medium",
@@ -43786,17 +43834,20 @@
       {
         "id": "figure-1",
         "label": "Figure 1",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/minor-venators-clockwork-simulacrums/1.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/minor-venators-clockwork-simulacrums/1.jpg",
+        "price": 300
       },
       {
         "id": "figure-2",
         "label": "Figure 2",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/minor-venators-clockwork-simulacrums/3.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/minor-venators-clockwork-simulacrums/3.jpg",
+        "price": 300
       },
       {
         "id": "figure-3",
         "label": "Figure 3",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/minor-venators-clockwork-simulacrums/5.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/minor-venators-clockwork-simulacrums/5.jpg",
+        "price": 300
       }
     ]
   },
@@ -44217,7 +44268,7 @@
       "npc",
       "variations"
     ],
-    "price": 355,
+    "price": 300,
     "currency": "EUR",
     "description": "Nosmeni from the Second Reverie of Hatred brought to the mortal plane in a desperate bid to halt the reconstruction of Namneri's Chalice.",
     "scale": "Medium",
@@ -44241,17 +44292,20 @@
       {
         "id": "figure-1",
         "label": "Figure 1",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/demons-of-the-abyss-nosmeni-warriors/1.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/demons-of-the-abyss-nosmeni-warriors/1.jpg",
+        "price": 300
       },
       {
         "id": "figure-2",
         "label": "Figure 2",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/demons-of-the-abyss-nosmeni-warriors/3.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/demons-of-the-abyss-nosmeni-warriors/3.jpg",
+        "price": 300
       },
       {
         "id": "figure-3",
         "label": "Figure 3",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/demons-of-the-abyss-nosmeni-warriors/5.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/demons-of-the-abyss-nosmeni-warriors/5.jpg",
+        "price": 300
       }
     ]
   },
@@ -44374,7 +44428,7 @@
       "npc",
       "variations"
     ],
-    "price": 367,
+    "price": 300,
     "currency": "EUR",
     "description": "Warriors of the Divine, all once mortals, ascended to status as divine servants after their deaths.",
     "scale": "Medium",
@@ -44396,17 +44450,20 @@
       {
         "id": "figure-1",
         "label": "Figure 1",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/angels-of-syelden-selvaneri-warriors/1.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/angels-of-syelden-selvaneri-warriors/1.jpg",
+        "price": 300
       },
       {
         "id": "figure-2",
         "label": "Figure 2",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/angels-of-syelden-selvaneri-warriors/3.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/angels-of-syelden-selvaneri-warriors/3.jpg",
+        "price": 300
       },
       {
         "id": "figure-3",
         "label": "Figure 3",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/angels-of-syelden-selvaneri-warriors/5.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/angels-of-syelden-selvaneri-warriors/5.jpg",
+        "price": 300
       }
     ]
   },
@@ -44670,17 +44727,20 @@
       {
         "id": "figure-1",
         "label": "Figure 1",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/shyasara-snakemen-cultists/1.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/shyasara-snakemen-cultists/1.jpg",
+        "price": 300
       },
       {
         "id": "figure-2",
         "label": "Figure 2",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/shyasara-snakemen-cultists/3.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/shyasara-snakemen-cultists/3.jpg",
+        "price": 300
       },
       {
         "id": "figure-3",
         "label": "Figure 3",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/shyasara-snakemen-cultists/5.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/shyasara-snakemen-cultists/5.jpg",
+        "price": 300
       }
     ]
   },
@@ -45180,7 +45240,7 @@
       "npc",
       "variations"
     ],
-    "price": 311,
+    "price": 300,
     "currency": "EUR",
     "description": "The rank and file members of the Rossa Cartel, the kind that are on the street shaking down shopkeeps for protection money.",
     "scale": "Medium",
@@ -45202,17 +45262,20 @@
       {
         "id": "figure-1",
         "label": "Figure 1",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/rossa-cartel-enforcers/1.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/rossa-cartel-enforcers/1.jpg",
+        "price": 300
       },
       {
         "id": "figure-2",
         "label": "Figure 2",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/rossa-cartel-enforcers/3.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/rossa-cartel-enforcers/3.jpg",
+        "price": 300
       },
       {
         "id": "figure-3",
         "label": "Figure 3",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/rossa-cartel-enforcers/5.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/rossa-cartel-enforcers/5.jpg",
+        "price": 300
       }
     ]
   },
@@ -45523,7 +45586,7 @@
       "monster",
       "variations"
     ],
-    "price": 335,
+    "price": 300,
     "currency": "EUR",
     "description": "Werewolves trapped on Saltmist Isle, all once captives of Arthur Belfrie's Coven, some escaping to unite against a common enemy.",
     "scale": "Medium",
@@ -45546,17 +45609,20 @@
       {
         "id": "figure-1",
         "label": "Figure 1",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/werewolf-warriors/1.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/werewolf-warriors/1.jpg",
+        "price": 300
       },
       {
         "id": "figure-2",
         "label": "Figure 2",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/werewolf-warriors/3.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/werewolf-warriors/3.jpg",
+        "price": 300
       },
       {
         "id": "figure-3",
         "label": "Figure 3",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/werewolf-warriors/5.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/werewolf-warriors/5.jpg",
+        "price": 300
       }
     ]
   },
@@ -45594,17 +45660,20 @@
       {
         "id": "figure-1",
         "label": "Figure 1",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/vampire-thralls-of-the-coven/1.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/vampire-thralls-of-the-coven/1.jpg",
+        "price": 300
       },
       {
         "id": "figure-2",
         "label": "Figure 2",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/vampire-thralls-of-the-coven/3.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/vampire-thralls-of-the-coven/3.jpg",
+        "price": 300
       },
       {
         "id": "figure-3",
         "label": "Figure 3",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/vampire-thralls-of-the-coven/5.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/vampire-thralls-of-the-coven/5.jpg",
+        "price": 300
       }
     ]
   },
@@ -45997,12 +46066,14 @@
       {
         "id": "figure-1",
         "label": "Figure 1",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/trogg-cannibals/1.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/trogg-cannibals/1.jpg",
+        "price": 300
       },
       {
         "id": "figure-2",
         "label": "Figure 2",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/trogg-cannibals/3.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/trogg-cannibals/3.jpg",
+        "price": 300
       }
     ]
   },
@@ -46401,7 +46472,7 @@
       "monster",
       "variations"
     ],
-    "price": 3996,
+    "price": 1332,
     "currency": "EUR",
     "description": "Golems representing three of Maethromin's Faces: Fire, Water and Earth, conjured by the Strike Forces of Abunen Kolden.",
     "scale": "Large",
@@ -46423,17 +46494,20 @@
       {
         "id": "figure-1",
         "label": "Figure 1",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/the-three-faces-elemental-golems/1.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/the-three-faces-elemental-golems/1.jpg",
+        "price": 1332
       },
       {
         "id": "figure-2",
         "label": "Figure 2",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/the-three-faces-elemental-golems/3.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/the-three-faces-elemental-golems/3.jpg",
+        "price": 1332
       },
       {
         "id": "figure-3",
         "label": "Figure 3",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/the-three-faces-elemental-golems/5.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/the-three-faces-elemental-golems/5.jpg",
+        "price": 1332
       }
     ]
   },
@@ -46808,7 +46882,7 @@
       "monster",
       "variations"
     ],
-    "price": 409,
+    "price": 300,
     "currency": "EUR",
     "description": "Flayers that were once humans, turned into servants of Hendrak after he uncovered the secret of metamorphosis.",
     "scale": "Medium",
@@ -46830,17 +46904,20 @@
       {
         "id": "figure-1",
         "label": "Figure 1",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/ascended-flayers-of-hendrak/1.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/ascended-flayers-of-hendrak/1.jpg",
+        "price": 300
       },
       {
         "id": "figure-2",
         "label": "Figure 2",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/ascended-flayers-of-hendrak/3.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/ascended-flayers-of-hendrak/3.jpg",
+        "price": 300
       },
       {
         "id": "figure-3",
         "label": "Figure 3",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/ascended-flayers-of-hendrak/5.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/ascended-flayers-of-hendrak/5.jpg",
+        "price": 300
       }
     ]
   },
@@ -47101,7 +47178,7 @@
       "terrain",
       "variations"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "As Dragonblight's grip tightens on the city of Canos, its corruption transforms mundane objects into horrific creatures.",
     "scale": "",
@@ -47122,17 +47199,20 @@
       {
         "id": "figure-1",
         "label": "Figure 1",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/plagued-streets-of-canos/1.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/plagued-streets-of-canos/1.jpg",
+        "price": 300
       },
       {
         "id": "figure-2",
         "label": "Figure 2",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/plagued-streets-of-canos/3.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/plagued-streets-of-canos/3.jpg",
+        "price": 300
       },
       {
         "id": "figure-3",
         "label": "Figure 3",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/plagued-streets-of-canos/4.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/plagued-streets-of-canos/4.jpg",
+        "price": 300
       }
     ]
   },
@@ -47254,7 +47334,7 @@
       "monster",
       "variations"
     ],
-    "price": 400,
+    "price": 300,
     "currency": "EUR",
     "description": "Crows infected by Dragonblight. The nature of the disease is attempting to metamorphose them into humanoid like creatures, giving them greater intelligence but creating horrific, ungodly forms. Though their minds have swelled with intelligence, it has come at a cost of extreme aggression, with the corvids attacking and cannibalising any uninfected creatures they see on sight.",
     "scale": "Medium",
@@ -47276,17 +47356,20 @@
       {
         "id": "figure-1",
         "label": "Figure 1",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/ravenous-crows-corvid-abominations/1.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/ravenous-crows-corvid-abominations/1.jpg",
+        "price": 300
       },
       {
         "id": "figure-2",
         "label": "Figure 2",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/ravenous-crows-corvid-abominations/3.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/ravenous-crows-corvid-abominations/3.jpg",
+        "price": 300
       },
       {
         "id": "figure-3",
         "label": "Figure 3",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/ravenous-crows-corvid-abominations/5.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/ravenous-crows-corvid-abominations/5.jpg",
+        "price": 300
       }
     ]
   },
@@ -47691,17 +47774,20 @@
       {
         "id": "figure-1",
         "label": "Figure 1",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/green-kobolds-of-midorius/1.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/green-kobolds-of-midorius/1.jpg",
+        "price": 300
       },
       {
         "id": "figure-2",
         "label": "Figure 2",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/green-kobolds-of-midorius/3.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/green-kobolds-of-midorius/3.jpg",
+        "price": 300
       },
       {
         "id": "figure-3",
         "label": "Figure 3",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/green-kobolds-of-midorius/5.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/green-kobolds-of-midorius/5.jpg",
+        "price": 300
       }
     ]
   },
@@ -47745,7 +47831,7 @@
       "monster",
       "variations"
     ],
-    "price": 2158,
+    "price": 719,
     "currency": "EUR",
     "description": "In the crags of the valleys across Eredel Duchy, Ettins make their homes, preying upon wandering livestock and poorly defended caravans. Though they are often pursued by hunters from the WEHL, they have adapted to become rather elusive, despite their enormous size, able to blend in with their rocky surrounds with ease and move camps at a moment’s notice, covering their tracks behind them. The Droggod Tribe takes this a step further, having magi in their midst to even magically mislead their trackers, or lull their prey into a false sense of security.",
     "scale": "Large",
@@ -47768,17 +47854,20 @@
       {
         "id": "figure-1",
         "label": "Figure 1",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/droggod-tribe-ettin-savages/1.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/droggod-tribe-ettin-savages/1.jpg",
+        "price": 719
       },
       {
         "id": "figure-2",
         "label": "Figure 2",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/droggod-tribe-ettin-savages/3.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/droggod-tribe-ettin-savages/3.jpg",
+        "price": 719
       },
       {
         "id": "figure-3",
         "label": "Figure 3",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/droggod-tribe-ettin-savages/5.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/droggod-tribe-ettin-savages/5.jpg",
+        "price": 719
       }
     ]
   },
@@ -48010,7 +48099,7 @@
       "monster",
       "variations"
     ],
-    "price": 630,
+    "price": 300,
     "currency": "EUR",
     "description": "Prisoners entrapped in the depths of Nosmarka’s Nocturnal Abyss. These were captured during the Infernal Invasion of Velandria in Autumn. Now the Gods offer their souls redemption in the blood and fire of the Crucible, and should they fight with honour, Horauthin and Erdrydion have promised to unbound their shackles and allow them a place in Syelden.",
     "scale": "Medium",
@@ -48033,17 +48122,20 @@
       {
         "id": "figure-1",
         "label": "Figure 1",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/nosmeni-chain-devils/1.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/nosmeni-chain-devils/1.jpg",
+        "price": 300
       },
       {
         "id": "figure-2",
         "label": "Figure 2",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/nosmeni-chain-devils/3.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/nosmeni-chain-devils/3.jpg",
+        "price": 300
       },
       {
         "id": "figure-3",
         "label": "Figure 3",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/nosmeni-chain-devils/5.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/nosmeni-chain-devils/5.jpg",
+        "price": 300
       }
     ]
   },
@@ -48085,7 +48177,7 @@
       "monster",
       "variations"
     ],
-    "price": 793,
+    "price": 300,
     "currency": "EUR",
     "description": "Elite Warriors pulled directly from the Elemental Plane of Maethromin’s Dreamscape. The Elemi of Tharador often use these creatures in martial training but the Tharameni have procured some to use as combatants against their champions in the Crucible. The corresponding element of each Myrmidon greatly dictates their behaviour and abilities.",
     "scale": "Large",
@@ -48107,17 +48199,20 @@
       {
         "id": "figure-1",
         "label": "Figure 1",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/maethromins-myrmidons/1.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/maethromins-myrmidons/1.jpg",
+        "price": 300
       },
       {
         "id": "figure-2",
         "label": "Figure 2",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/maethromins-myrmidons/3.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/maethromins-myrmidons/3.jpg",
+        "price": 300
       },
       {
         "id": "figure-3",
         "label": "Figure 3",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/maethromins-myrmidons/5.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/maethromins-myrmidons/5.jpg",
+        "price": 300
       }
     ]
   },
@@ -48542,7 +48637,7 @@
       "monster",
       "variations"
     ],
-    "price": 787,
+    "price": 300,
     "currency": "EUR",
     "description": "Young treants stagnated in their growth from the miasmatic corruption of Idinhelieth. Now they act as his footsoldiers in the bog he has carved out in secret in the Tryamin Woods. To the unsuspecting victim they may look like regular trees or friendly treants, but a darkness lurks beneath, obscured by illusions.",
     "scale": "Medium",
@@ -48564,17 +48659,20 @@
       {
         "id": "figure-1",
         "label": "Figure 1",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/yilvorys-wicked-treants/1.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/yilvorys-wicked-treants/1.jpg",
+        "price": 300
       },
       {
         "id": "figure-2",
         "label": "Figure 2",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/yilvorys-wicked-treants/3.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/yilvorys-wicked-treants/3.jpg",
+        "price": 300
       },
       {
         "id": "figure-3",
         "label": "Figure 3",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/yilvorys-wicked-treants/5.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/yilvorys-wicked-treants/5.jpg",
+        "price": 300
       }
     ]
   },
@@ -48611,17 +48709,20 @@
       {
         "id": "figure-1",
         "label": "Figure 1",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/syldi-feral-faeries/1.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/syldi-feral-faeries/1.jpg",
+        "price": 300
       },
       {
         "id": "figure-2",
         "label": "Figure 2",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/syldi-feral-faeries/3.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/syldi-feral-faeries/3.jpg",
+        "price": 300
       },
       {
         "id": "figure-3",
         "label": "Figure 3",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/syldi-feral-faeries/5.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/syldi-feral-faeries/5.jpg",
+        "price": 300
       }
     ]
   },
@@ -48960,7 +49061,7 @@
       "monster",
       "variations"
     ],
-    "price": 353,
+    "price": 300,
     "currency": "EUR",
     "description": "A fungal plague has wreaked havoc on many small villages of Glanbelian Drow in the Underground. Victims of the plague have their bodies deformed and their minds twisted, becoming little more than mindless drones. Yet they all seem to act in unison, suggesting some sort of greater being controlling all the affected.",
     "scale": "Medium",
@@ -48984,17 +49085,20 @@
       {
         "id": "figure-1",
         "label": "Figure 1",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/myceloid-minions-fungal-puppets/1.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/myceloid-minions-fungal-puppets/1.jpg",
+        "price": 300
       },
       {
         "id": "figure-2",
         "label": "Figure 2",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/myceloid-minions-fungal-puppets/3.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/myceloid-minions-fungal-puppets/3.jpg",
+        "price": 300
       },
       {
         "id": "figure-3",
         "label": "Figure 3",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/myceloid-minions-fungal-puppets/5.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/myceloid-minions-fungal-puppets/5.jpg",
+        "price": 300
       }
     ]
   },
@@ -49063,17 +49167,20 @@
       {
         "id": "figure-1",
         "label": "Figure 1",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/irinaxs-chosen-drow-soldiers/1.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/irinaxs-chosen-drow-soldiers/1.jpg",
+        "price": 300
       },
       {
         "id": "figure-2",
         "label": "Figure 2",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/irinaxs-chosen-drow-soldiers/3.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/irinaxs-chosen-drow-soldiers/3.jpg",
+        "price": 300
       },
       {
         "id": "figure-3",
         "label": "Figure 3",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/irinaxs-chosen-drow-soldiers/5.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/irinaxs-chosen-drow-soldiers/5.jpg",
+        "price": 300
       }
     ]
   },
@@ -49312,7 +49419,7 @@
       "npc",
       "variations"
     ],
-    "price": 508,
+    "price": 300,
     "currency": "EUR",
     "description": "A relatively new organised crime syndicate operating along Belfrie’s Tradver River, including within the sister cities of Velandria and Tradver. Made up mostly from petty thieves and low-ranking members of the Rossa Cartel who left after not wishing to adhere to the rules and creeds of their organisation.",
     "scale": "Medium",
@@ -49334,17 +49441,20 @@
       {
         "id": "figure-1",
         "label": "Figure 1",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/dusty-dirks-bandits/1.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/dusty-dirks-bandits/1.jpg",
+        "price": 300
       },
       {
         "id": "figure-2",
         "label": "Figure 2",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/dusty-dirks-bandits/3.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/dusty-dirks-bandits/3.jpg",
+        "price": 300
       },
       {
         "id": "figure-3",
         "label": "Figure 3",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/dusty-dirks-bandits/5.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/dusty-dirks-bandits/5.jpg",
+        "price": 300
       }
     ]
   },
@@ -49632,7 +49742,7 @@
       "monster",
       "variations"
     ],
-    "price": 4877,
+    "price": 1626,
     "currency": "EUR",
     "description": "In the twilight years of the Colossal War, the Oldavori Empire succumbed to desperate measures to stave off the resilient and unrelenting humans. Before there were Shapeshifters and Psyflayers, there were giants. Beings that were stretched to the very limits of their potential, to be used as soldiers in the war against Men, and slaves and servants in the cities of the empire. Those entombed in Khandara were those loyal to their King Vurimandi in his attempted rebellion against their Colossal creators. Over a thousand years later they still roam the halls, though their minds ring hollow, and madness has taken them all.",
     "scale": "Huge",
@@ -49654,17 +49764,20 @@
       {
         "id": "figure-1",
         "label": "Figure 1",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/the-ugadrin-snow-giants/1.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/the-ugadrin-snow-giants/1.jpg",
+        "price": 1626
       },
       {
         "id": "figure-2",
         "label": "Figure 2",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/the-ugadrin-snow-giants/3.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/the-ugadrin-snow-giants/3.jpg",
+        "price": 1626
       },
       {
         "id": "figure-3",
         "label": "Figure 3",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/the-ugadrin-snow-giants/5.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/the-ugadrin-snow-giants/5.jpg",
+        "price": 1626
       }
     ]
   },
@@ -49679,7 +49792,7 @@
       "monster",
       "variations"
     ],
-    "price": 3690,
+    "price": 1230,
     "currency": "EUR",
     "description": "Those entombed in Khandara are not limited to the first giants and the experiments that were conducted here. A family of trolls, at one point or another, chose to settle in the depths. With a very small genetic pool, they have grown grotesque, inbred and even duller than their surface-dwelling counterparts. This has not made them any less deadly however, and the arms and armour of the giants in Khandara is well-fit to their boisterous forms.",
     "scale": "Huge",
@@ -49701,17 +49814,20 @@
       {
         "id": "figure-1",
         "label": "Figure 1",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/tulva-drolls-snow-trolls-of-the-deep/1.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/tulva-drolls-snow-trolls-of-the-deep/1.jpg",
+        "price": 1230
       },
       {
         "id": "figure-2",
         "label": "Figure 2",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/tulva-drolls-snow-trolls-of-the-deep/3.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/tulva-drolls-snow-trolls-of-the-deep/3.jpg",
+        "price": 1230
       },
       {
         "id": "figure-3",
         "label": "Figure 3",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/tulva-drolls-snow-trolls-of-the-deep/5.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/tulva-drolls-snow-trolls-of-the-deep/5.jpg",
+        "price": 1230
       }
     ]
   },
@@ -50152,7 +50268,7 @@
       "npc",
       "variations"
     ],
-    "price": 444,
+    "price": 300,
     "currency": "EUR",
     "description": "Knights that answer to the command of Horakthar, who in turn is the voice of Rokarthion the Red Tyrant. They answer to the whims of their commander, gladly ready to throw themselves upon their own swords, or the front lines of the enemy. Honour is seen in death through battle, and all Knights of the Dragon wish to see their lives end in a glorious slaughter against Rokarthion’s enemies.",
     "scale": "Medium",
@@ -50175,17 +50291,20 @@
       {
         "id": "figure-1",
         "label": "Figure 1",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/knights-of-the-dragon/1.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/knights-of-the-dragon/1.jpg",
+        "price": 300
       },
       {
         "id": "figure-2",
         "label": "Figure 2",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/knights-of-the-dragon/3.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/knights-of-the-dragon/3.jpg",
+        "price": 300
       },
       {
         "id": "figure-3",
         "label": "Figure 3",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/knights-of-the-dragon/5.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/knights-of-the-dragon/5.jpg",
+        "price": 300
       }
     ]
   },
@@ -50203,7 +50322,7 @@
       "npc",
       "variations"
     ],
-    "price": 616,
+    "price": 300,
     "currency": "EUR",
     "description": "Death is swift to those who defy or cross the Dragon Commander of the Hollow. Innumerable are the corpses left in his wake, smouldering in the fires of his forebears, the dragons of the Hollow. Horakthar is their champion, commander of their armies and knights. Atop their backs he rides into battle, thrown into the midst of their enemies in a trail of fire and glory. Few have witnessed it and lived.",
     "scale": "Medium",
@@ -50226,17 +50345,20 @@
       {
         "id": "figure-1",
         "label": "Figure 1",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/horakthar-dragon-commander-3-poses/1.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/horakthar-dragon-commander-3-poses/1.jpg",
+        "price": 300
       },
       {
         "id": "figure-2",
         "label": "Figure 2",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/horakthar-dragon-commander-3-poses/3.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/horakthar-dragon-commander-3-poses/3.jpg",
+        "price": 300
       },
       {
         "id": "figure-3",
         "label": "Figure 3",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/horakthar-dragon-commander-3-poses/5.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/horakthar-dragon-commander-3-poses/5.jpg",
+        "price": 300
       }
     ]
   },
@@ -50555,7 +50677,7 @@
       "monster",
       "variations"
     ],
-    "price": 383,
+    "price": 300,
     "currency": "EUR",
     "description": "When a soul is rejected from Namneri’s Chalice and does not enter the bounds of Syelden, it is doomed to aimlessly wander the spiritual realm that exists alongside the physical plane. But a lure brings many away from that plane, an ephemeral glow of warmth in some far, vague place. Like moths to a flame they are drawn to it, and like moths to a flame they are singed and burned, reborn as Nosmeni, burning Children, or “The Converted” as those who live in the Nocturnal Abyss call them.",
     "scale": "Medium",
@@ -50579,17 +50701,20 @@
       {
         "id": "figure-1",
         "label": "Figure 1",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/the-converted-dwellers-of-the-nocturnal-abyss/1.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/the-converted-dwellers-of-the-nocturnal-abyss/1.jpg",
+        "price": 300
       },
       {
         "id": "figure-2",
         "label": "Figure 2",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/the-converted-dwellers-of-the-nocturnal-abyss/3.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/the-converted-dwellers-of-the-nocturnal-abyss/3.jpg",
+        "price": 300
       },
       {
         "id": "figure-3",
         "label": "Figure 3",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/the-converted-dwellers-of-the-nocturnal-abyss/5.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/the-converted-dwellers-of-the-nocturnal-abyss/5.jpg",
+        "price": 300
       }
     ]
   },
@@ -50914,7 +51039,7 @@
       "monster",
       "variations"
     ],
-    "price": 1583,
+    "price": 528,
     "currency": "EUR",
     "description": "Oni of Uikku’s underworld. Spirits who have become malformed, twisted and rage-filled after mistreatment. Usually this is in the form of ancestral spirits whose lines have ended or whose remaining family have dwindled in prayers and rituals done in their honour. Very few Oni exist that were not benevolent spirits at some prior time.",
     "scale": "Large",
@@ -50937,17 +51062,20 @@
       {
         "id": "figure-1",
         "label": "Figure 1",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/oni-onslaughters/1.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/oni-onslaughters/1.jpg",
+        "price": 528
       },
       {
         "id": "figure-2",
         "label": "Figure 2",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/oni-onslaughters/2.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/oni-onslaughters/2.jpg",
+        "price": 528
       },
       {
         "id": "figure-3",
         "label": "Figure 3",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/oni-onslaughters/5.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/oni-onslaughters/5.jpg",
+        "price": 528
       }
     ]
   },
@@ -51680,7 +51808,7 @@
       "npc",
       "variations"
     ],
-    "price": 507,
+    "price": 300,
     "currency": "EUR",
     "description": "A Tribe of Orcs that has spent many generations on Godless Isle. Descended from the Tharadori Orcs of Ukrondia, these are thought to be waylays, a tribe that somehow became lost at sea and settled on the rogue island, rather than joining their kin in Edrador. These orcs are more savage, brutal and tribal than either of their continental counterparts, and actually fit into the stereotype of orcs held by most commoners in Tharador.",
     "scale": "Medium",
@@ -51702,17 +51830,20 @@
       {
         "id": "figure-1",
         "label": "Figure 1",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/jugakthar-tribe-orc-tribals/1.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/jugakthar-tribe-orc-tribals/1.jpg",
+        "price": 300
       },
       {
         "id": "figure-2",
         "label": "Figure 2",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/jugakthar-tribe-orc-tribals/3.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/jugakthar-tribe-orc-tribals/3.jpg",
+        "price": 300
       },
       {
         "id": "figure-3",
         "label": "Figure 3",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/jugakthar-tribe-orc-tribals/5.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/jugakthar-tribe-orc-tribals/5.jpg",
+        "price": 300
       }
     ]
   },
@@ -51939,7 +52070,7 @@
       "terrain",
       "variations"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "The three levitating thrones of the Leacianan Triarchs are more than seats of power; they are tangible embodiments of their reign. Each is meticulously crafted upon the ruler’s ascendancy, uniquely reflecting the essence of its occupant. These thrones not only inspire their subjects but also serve as constant reminders of the distinct powers that guide Leacianus.",
     "scale": "Huge",
@@ -51962,17 +52093,20 @@
       {
         "id": "figure-1",
         "label": "Figure 1",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/thrones-of-the-leacianan-triarchs/1.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/thrones-of-the-leacianan-triarchs/1.jpg",
+        "price": 300
       },
       {
         "id": "figure-2",
         "label": "Figure 2",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/thrones-of-the-leacianan-triarchs/3.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/thrones-of-the-leacianan-triarchs/3.jpg",
+        "price": 300
       },
       {
         "id": "figure-3",
         "label": "Figure 3",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/thrones-of-the-leacianan-triarchs/5.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/thrones-of-the-leacianan-triarchs/5.jpg",
+        "price": 300
       }
     ]
   },
@@ -53007,7 +53141,7 @@
       "npc",
       "variations"
     ],
-    "price": 850,
+    "price": 300,
     "currency": "EUR",
     "description": "The Vanguard of Leacianus’ military is mostly made up of those who have evoked the ire of some upstanding member of Leacianan society, or simply hail from lowborn families. Still, although they are considered the most disposable of Leacianus’ military, it does not mean they are essentially seen as worthless. The Nirloom ensures that all his troops are armed to the teeth when they clash with his enemies on the frontlines.",
     "scale": "Medium",
@@ -53029,17 +53163,20 @@
       {
         "id": "figure-1",
         "label": "Figure 1",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/high-elf-soldiers-leacianan-vanguard/1.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/high-elf-soldiers-leacianan-vanguard/1.jpg",
+        "price": 300
       },
       {
         "id": "figure-2",
         "label": "Figure 2",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/high-elf-soldiers-leacianan-vanguard/2.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/high-elf-soldiers-leacianan-vanguard/2.jpg",
+        "price": 300
       },
       {
         "id": "figure-3",
         "label": "Figure 3",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/high-elf-soldiers-leacianan-vanguard/5.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/high-elf-soldiers-leacianan-vanguard/5.jpg",
+        "price": 300
       }
     ]
   },
@@ -53398,12 +53535,14 @@
       {
         "id": "figure-1",
         "label": "Figure 1",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/golden-griffin-footsoldiers/1.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/golden-griffin-footsoldiers/1.jpg",
+        "price": 300
       },
       {
         "id": "figure-2",
         "label": "Figure 2",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/golden-griffin-footsoldiers/2.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/golden-griffin-footsoldiers/2.jpg",
+        "price": 300
       }
     ]
   },
@@ -53554,7 +53693,7 @@
       "monster",
       "variations"
     ],
-    "price": 1554,
+    "price": 777,
     "currency": "EUR",
     "description": "The second of Mindoriel’s Spawn. Quorenderi was not always like he was. Eldrinderi was once his name and his form was much fairer. But he was slain when his mother was defeated, dying alongside her. His body was recovered by his brother Myrothlir, Harbinger of Undeath. He was stitched together with his own eldritch creations and given a new life, though held by his brother’s puppet strings. Quorenderi was his new name as he rose, and his nature had changed to be even more malicious than ever. Now his sites are set on the final destruction of Tharador, vengeance for his mother and his lost fair form.",
     "scale": "Large",
@@ -53574,12 +53713,14 @@
       {
         "id": "figure-1",
         "label": "Figure 1",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/quorenderi-lord-of-the-depths/1.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/quorenderi-lord-of-the-depths/1.jpg",
+        "price": 777
       },
       {
         "id": "figure-2",
         "label": "Figure 2",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/quorenderi-lord-of-the-depths/2.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/quorenderi-lord-of-the-depths/2.jpg",
+        "price": 777
       }
     ]
   },
@@ -53646,7 +53787,7 @@
       "monster",
       "variations"
     ],
-    "price": 330,
+    "price": 300,
     "currency": "EUR",
     "description": "Fair is the form of the Dyriani to any sailor unfortunate enough to behold their beauty. For their face is quick to capture the hearts of any whose eyes fall upon it, but their souls are captured even quicker as they step senselessly from their ships into the cold abyss. Though there the Siren will find them and place them in a warm, comforting embrace, before they themselves tear out the heart of their victim. There they die in tranquillity, unless they are unfortunate enough to behold the true form of the Dyriani before their death – usually that is enough to kill them alone.",
     "scale": "Medium",
@@ -53666,12 +53807,14 @@
       {
         "id": "figure-1",
         "label": "Figure 1",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/dyriani-sirens-of-the-deep/1.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/dyriani-sirens-of-the-deep/1.jpg",
+        "price": 300
       },
       {
         "id": "figure-2",
         "label": "Figure 2",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/dyriani-sirens-of-the-deep/2.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/dyriani-sirens-of-the-deep/2.jpg",
+        "price": 300
       }
     ]
   },
@@ -53927,7 +54070,7 @@
       "monster",
       "variations"
     ],
-    "price": 336,
+    "price": 300,
     "currency": "EUR",
     "description": "Mana Goblins live in the catacombs beneath the University of Ardris. There over centuries they have amassed a hoarding of stolen magical artifacts, scrolls and other trinkets that they aren’t entirely sure of. Often the items they steal end in their own demise through self-destruction, but sometimes a particularly crafty goblin might work it out for their own betterment. The best of these are the mana goblins, goblin magic wielders who have mastered the use of potions and magic: acting as a formidable foe to even seasoned adventurers. These are a far cry stronger than the common goblin one might encounter on the road clubbing a peasant to death",
     "scale": "Medium",
@@ -53950,17 +54093,20 @@
       {
         "id": "figure-1",
         "label": "Figure 1",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/mana-goblins/2.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/mana-goblins/2.jpg",
+        "price": 300
       },
       {
         "id": "figure-2",
         "label": "Figure 2",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/mana-goblins/4.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/mana-goblins/4.jpg",
+        "price": 300
       },
       {
         "id": "figure-3",
         "label": "Figure 3",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/mana-goblins/6.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/mana-goblins/6.jpg",
+        "price": 300
       }
     ]
   },
@@ -58291,7 +58437,7 @@
       "npc",
       "variations"
     ],
-    "price": 2695,
+    "price": 1348,
     "currency": "EUR",
     "description": "Enormous even by Goliath Standards, Touches-The-Sky is one who has had the fortune of travelling beyond Oldavor and returning. Aided by his enormous mammoth steed Skari, he is able to travel beyond the border mostly unopposed. Now he brings aid to his people in his home village of Pahadi, bringing foreign technologies and spells to aid in their survival. One day he hopes to bring them all beyond Oldavor, though knows that may result in too many deaths to bare.",
     "scale": "Huge",
@@ -58311,12 +58457,14 @@
       {
         "id": "figure-1",
         "label": "Figure 1",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/touches-the-sky-mammoth-rider/1.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/touches-the-sky-mammoth-rider/1.jpg",
+        "price": 1348
       },
       {
         "id": "figure-2",
         "label": "Figure 2",
-        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/touches-the-sky-mammoth-rider/2.jpg"
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/touches-the-sky-mammoth-rider/2.jpg",
+        "price": 1348
       }
     ]
   },
