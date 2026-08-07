@@ -37,7 +37,7 @@ export function ProductCard({ product }: { product: Product }) {
         <p className="text-xs uppercase tracking-wide text-foreground/50">
           {product.scale}
         </p>
-        <div className="mt-2 flex items-center justify-between gap-2">
+        <div className="mt-auto flex items-center justify-between gap-2 pt-2">
           <p className="text-base font-semibold text-accent">
             {min === max
               ? formatPrice(min, product.currency)
