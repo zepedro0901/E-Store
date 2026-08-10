@@ -2,7 +2,7 @@
   {
     "id": "mmf-730250",
     "slug": "3-month-loyalty-reward-archlich-sovereign-730250",
-    "name": "3-Month Loyalty Reward - Archlich Sovereign",
+    "name": "Archlich Sovereign",
     "category": "flesh-of-gods",
     "tags": [],
     "price": 0,
@@ -1959,7 +1959,7 @@
   {
     "id": "mmf-349845",
     "slug": "3-month-loyalty-reward-dreadrider-349845",
-    "name": "3-Month Loyalty Reward - Dreadrider",
+    "name": "Dreadrider",
     "category": "flesh-of-gods",
     "tags": [
       "variations"
@@ -2018,7 +2018,7 @@
   {
     "id": "mmf-216878",
     "slug": "3-month-loyalty-reward-war-elephant-216878",
-    "name": "3-Month Loyalty Reward - War Elephant",
+    "name": "War Elephant",
     "category": "flesh-of-gods",
     "tags": [],
     "price": 0,
@@ -5125,7 +5125,7 @@
   {
     "id": "mmf-730257",
     "slug": "12-month-loyalty-reward-marilith-general-730257",
-    "name": "12-Month Loyalty Reward - Marilith General",
+    "name": "Marilith General",
     "category": "flesh-of-gods",
     "tags": [],
     "price": 0,
@@ -5143,7 +5143,7 @@
   {
     "id": "mmf-730253",
     "slug": "6-month-loyalty-reward-hell-knight-730253",
-    "name": "6-Month Loyalty Reward - Hell Knight",
+    "name": "Hell Knight",
     "category": "flesh-of-gods",
     "tags": [
       "variations"
@@ -16624,7 +16624,7 @@
   {
     "id": "mmf-349850",
     "slug": "12-month-loyalty-reward-guardian-dragon-349850",
-    "name": "12-Month Loyalty Reward - Guardian Dragon",
+    "name": "Guardian Dragon",
     "category": "flesh-of-gods",
     "tags": [],
     "price": 0,
@@ -16646,7 +16646,7 @@
   {
     "id": "mmf-349847",
     "slug": "6-month-loyalty-reward-effigy-of-terror-349847",
-    "name": "6-Month Loyalty Reward - Effigy Of Terror",
+    "name": "Effigy Of Terror",
     "category": "flesh-of-gods",
     "tags": [],
     "price": 0,
@@ -16666,7 +16666,7 @@
   {
     "id": "mmf-266828",
     "slug": "12-month-loyalty-reward-the-sword-collector-266828",
-    "name": "12-Month Loyalty Reward - The Sword Collector",
+    "name": "The Sword Collector",
     "category": "flesh-of-gods",
     "tags": [],
     "price": 0,
@@ -16685,7 +16685,7 @@
   {
     "id": "mmf-230806",
     "slug": "6-month-loyalty-reward-the-furious-ettin-230806",
-    "name": "6-Month Loyalty Reward - The Furious Ettin",
+    "name": "The Furious Ettin",
     "category": "flesh-of-gods",
     "tags": [],
     "price": 0,
@@ -39204,7 +39204,7 @@
   {
     "id": "dmstash-58066",
     "slug": "12-month-loyalty-reward-humans-elves",
-    "name": "12 Month Loyalty Reward – Humans & Elves",
+    "name": "Humans & Elves",
     "category": "dm-stash",
     "tags": [
       "loyalty-rewards"
@@ -39233,7 +39233,7 @@
   {
     "id": "dmstash-58060",
     "slug": "9-month-loyalty-reward-temple-to-the-god-of-war",
-    "name": "9 Month Loyalty Reward – Temple to the God of War",
+    "name": "Temple to the God of War",
     "category": "dm-stash",
     "tags": [
       "loyalty-rewards"
@@ -39258,7 +39258,7 @@
   {
     "id": "dmstash-58051",
     "slug": "6-month-loyalty-reward-dawn-shell-turtlefolk-monk",
-    "name": "6 Month Loyalty Reward – Dawn Shell Turtlefolk Monk",
+    "name": "Dawn Shell Turtlefolk Monk",
     "category": "dm-stash",
     "tags": [
       "loyalty-rewards"
@@ -39285,7 +39285,7 @@
   {
     "id": "dmstash-58049",
     "slug": "3-month-loyalty-reward-gardan-mammoth-giant",
-    "name": "3 Month Loyalty Reward – Gardan Mammoth Giant",
+    "name": "Gardan Mammoth Giant",
     "category": "dm-stash",
     "tags": [
       "loyalty-rewards"
@@ -61500,7 +61500,7 @@
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/chaos-goblin-349917/1.png"
     ],
     "inStock": true,
-    "createdAt": "2026-08-10"
+    "createdAt": "2021-06-01"
   },
   {
     "id": "mmf-349917-leshen",
@@ -61518,7 +61518,7 @@
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/leshen-349917/1.png"
     ],
     "inStock": true,
-    "createdAt": "2026-08-10"
+    "createdAt": "2021-06-01"
   },
   {
     "id": "mmf-349917-the-dark-druid",
@@ -61536,7 +61536,7 @@
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/the-dark-druid-349917/1.png"
     ],
     "inStock": true,
-    "createdAt": "2026-08-10"
+    "createdAt": "2021-06-01"
   },
   {
     "id": "mmf-349917-archmage",
@@ -61554,7 +61554,7 @@
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/archmage-349917/1.png"
     ],
     "inStock": true,
-    "createdAt": "2026-08-10"
+    "createdAt": "2022-06-01"
   },
   {
     "id": "mmf-349917-raven-mage",
@@ -61572,7 +61572,7 @@
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/raven-mage-349917/1.png"
     ],
     "inStock": true,
-    "createdAt": "2026-08-10"
+    "createdAt": "2022-06-01"
   },
   {
     "id": "mmf-349917-seven-headed-terror",
@@ -61590,7 +61590,7 @@
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/seven-headed-terror-349917/1.png"
     ],
     "inStock": true,
-    "createdAt": "2026-08-10"
+    "createdAt": "2022-06-01"
   },
   {
     "id": "mmf-349917-the-fade",
@@ -61608,7 +61608,7 @@
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/the-fade-349917/1.png"
     ],
     "inStock": true,
-    "createdAt": "2026-08-10"
+    "createdAt": "2022-06-01"
   },
   {
     "id": "mmf-349917-dark-wizard",
@@ -61626,7 +61626,7 @@
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/dark-wizard-349917/1.png"
     ],
     "inStock": true,
-    "createdAt": "2026-08-10"
+    "createdAt": "2022-06-01"
   },
   {
     "id": "mmf-349917-dragonborn-knight",
@@ -61644,7 +61644,7 @@
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/dragonborn-knight-349917/1.png"
     ],
     "inStock": true,
-    "createdAt": "2026-08-10"
+    "createdAt": "2022-06-01"
   },
   {
     "id": "mmf-349917-ancient-kraken",
@@ -61662,7 +61662,7 @@
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/ancient-kraken-349917/1.jpg"
     ],
     "inStock": true,
-    "createdAt": "2026-08-10"
+    "createdAt": "2023-06-01"
   },
   {
     "id": "mmf-349917-krughor-death-dragon-rider",
@@ -61680,7 +61680,7 @@
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/krughor-death-dragon-rider-349917/1.jpg"
     ],
     "inStock": true,
-    "createdAt": "2026-08-10"
+    "createdAt": "2023-06-01"
   },
   {
     "id": "mmf-349917-ardroth-the-giant-master",
@@ -61698,7 +61698,7 @@
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/ardroth-the-giant-master-349917/1.jpg"
     ],
     "inStock": true,
-    "createdAt": "2026-08-10"
+    "createdAt": "2023-06-01"
   },
   {
     "id": "mmf-349917-grimnir-ravenlord",
@@ -61716,7 +61716,7 @@
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/grimnir-ravenlord-349917/1.jpg"
     ],
     "inStock": true,
-    "createdAt": "2026-08-10"
+    "createdAt": "2023-06-01"
   },
   {
     "id": "mmf-349917-ragrath-oathbreaker-paladin",
@@ -61734,7 +61734,7 @@
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/ragrath-oathbreaker-paladin-349917/1.jpg"
     ],
     "inStock": true,
-    "createdAt": "2026-08-10"
+    "createdAt": "2023-06-01"
   },
   {
     "id": "mmf-349916-the-aasimar-vs-the-serpent",
@@ -61752,7 +61752,7 @@
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/the-aasimar-vs-the-serpent-349916/1.jpg"
     ],
     "inStock": true,
-    "createdAt": "2026-08-10"
+    "createdAt": "2024-01-01"
   },
   {
     "id": "mmf-349916-fire-genasi",
@@ -61770,7 +61770,7 @@
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/fire-genasi-349916/1.jpg"
     ],
     "inStock": true,
-    "createdAt": "2026-08-10"
+    "createdAt": "2024-01-01"
   },
   {
     "id": "mmf-349916-the-dream-slayer",
@@ -61788,7 +61788,7 @@
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/the-dream-slayer-349916/1.jpg"
     ],
     "inStock": true,
-    "createdAt": "2026-08-10"
+    "createdAt": "2024-01-01"
   },
   {
     "id": "mmf-349916-the-lake-knight",
@@ -61806,7 +61806,7 @@
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/the-lake-knight-349916/1.jpg"
     ],
     "inStock": true,
-    "createdAt": "2026-08-10"
+    "createdAt": "2024-01-01"
   },
   {
     "id": "mmf-349916-the-ritualist",
@@ -61824,7 +61824,7 @@
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/the-ritualist-349916/1.jpg"
     ],
     "inStock": true,
-    "createdAt": "2026-08-10"
+    "createdAt": "2024-01-01"
   },
   {
     "id": "mmf-349916-bard-of-sorrow",
@@ -61842,7 +61842,7 @@
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/bard-of-sorrow-349916/1.jpg"
     ],
     "inStock": true,
-    "createdAt": "2026-08-10"
+    "createdAt": "2024-01-01"
   },
   {
     "id": "mmf-349916-dwarf-warrior",
@@ -61860,7 +61860,7 @@
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/dwarf-warrior-349916/1.jpg"
     ],
     "inStock": true,
-    "createdAt": "2026-08-10"
+    "createdAt": "2024-01-01"
   },
   {
     "id": "mmf-349916-exiled-knight",
@@ -61878,7 +61878,7 @@
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/exiled-knight-349916/1.jpg"
     ],
     "inStock": true,
-    "createdAt": "2026-08-10"
+    "createdAt": "2024-01-01"
   },
   {
     "id": "mmf-349916-fallen-cleric",
@@ -61896,7 +61896,7 @@
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/fallen-cleric-349916/1.jpg"
     ],
     "inStock": true,
-    "createdAt": "2026-08-10"
+    "createdAt": "2024-01-01"
   },
   {
     "id": "mmf-349916-high-order-assassin",
@@ -61914,7 +61914,7 @@
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/high-order-assassin-349916/1.jpg"
     ],
     "inStock": true,
-    "createdAt": "2026-08-10"
+    "createdAt": "2024-01-01"
   },
   {
     "id": "mmf-349916-high-order-priest",
@@ -61932,7 +61932,7 @@
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/high-order-priest-349916/1.jpg"
     ],
     "inStock": true,
-    "createdAt": "2026-08-10"
+    "createdAt": "2024-01-01"
   },
   {
     "id": "mmf-349916-rogue-with-a-vendetta",
@@ -61950,7 +61950,7 @@
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/rogue-with-a-vendetta-349916/1.jpg"
     ],
     "inStock": true,
-    "createdAt": "2026-08-10"
+    "createdAt": "2024-01-01"
   },
   {
     "id": "mmf-349916-the-aasimar",
@@ -61968,7 +61968,7 @@
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/the-aasimar-349916/1.jpg"
     ],
     "inStock": true,
-    "createdAt": "2026-08-10"
+    "createdAt": "2024-01-01"
   },
   {
     "id": "mmf-349916-wizened-sorcerer",
@@ -61986,7 +61986,7 @@
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/wizened-sorcerer-349916/1.jpg"
     ],
     "inStock": true,
-    "createdAt": "2026-08-10"
+    "createdAt": "2024-01-01"
   },
   {
     "id": "mmf-349916-dark-merchant",
@@ -62004,7 +62004,7 @@
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/dark-merchant-349916/1.jpg"
     ],
     "inStock": true,
-    "createdAt": "2026-08-10"
+    "createdAt": "2024-01-01"
   },
   {
     "id": "mmf-349916-eternal-chronicler",
@@ -62022,7 +62022,7 @@
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/eternal-chronicler-349916/1.jpg"
     ],
     "inStock": true,
-    "createdAt": "2026-08-10"
+    "createdAt": "2024-01-01"
   },
   {
     "id": "mmf-349916-jakir-redsword-the-blacksmith",
@@ -62040,7 +62040,7 @@
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/jakir-redsword-the-blacksmith-349916/1.jpg"
     ],
     "inStock": true,
-    "createdAt": "2026-08-10"
+    "createdAt": "2024-01-01"
   },
   {
     "id": "mmf-349916-the-guild-master",
@@ -62058,7 +62058,7 @@
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/the-guild-master-349916/1.jpg"
     ],
     "inStock": true,
-    "createdAt": "2026-08-10"
+    "createdAt": "2024-01-01"
   },
   {
     "id": "mmf-349916-guild-monument",
@@ -62076,6 +62076,6 @@
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/guild-monument-349916/1.jpg"
     ],
     "inStock": true,
-    "createdAt": "2026-08-10"
+    "createdAt": "2024-01-01"
   }
 ]
