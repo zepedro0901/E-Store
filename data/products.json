@@ -22225,7 +22225,7 @@
       "lotp",
       "variations"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "> Pack Hell Forged Legion (32mm base) - Hell Forged Legion Arrived- Hell Forged Legion Charged- Hell Forged Legion Dominion- Hell Forged Legion Guard- Hell Forged Legion Proud- Hell Forged Legion Run- Hell Forged Legion Scorn- Hell Forged Legion Stand- Hell Forged Legion Trusting • Supported files : supports for confirmed user • Beefed files: 20% thicker support tips, user friendly supports • Lys files: lychee files for edit • Unsupported files",
     "scale": "32mm",
@@ -22247,49 +22247,63 @@
     "createdAt": "2025-09-02",
     "variations": [
       {
-        "id": "arrived",
-        "label": "Arrived",
+        "id": "arrive",
+        "label": "Arrive",
+        "price": 300,
         "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/pack-hell-forged-legion-648043/3c25ba885b9c.jpg"
       },
       {
-        "id": "charged",
-        "label": "Charged",
+        "id": "charge",
+        "label": "Charge",
+        "price": 300,
         "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/pack-hell-forged-legion-648043/c23cc2d0da17.jpg"
       },
       {
         "id": "dominion",
         "label": "Dominion",
+        "price": 300,
         "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/pack-hell-forged-legion-648043/baeae582de5e.jpg"
       },
       {
         "id": "guard",
         "label": "Guard",
+        "price": 300,
         "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/pack-hell-forged-legion-648043/b35cd3a0a82b.jpg"
       },
       {
         "id": "proud",
         "label": "Proud",
+        "price": 300,
         "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/pack-hell-forged-legion-648043/4aa39a4713d5.jpg"
       },
       {
         "id": "run",
         "label": "Run",
+        "price": 300,
         "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/pack-hell-forged-legion-648043/adc33ae7f21c.jpg"
       },
       {
         "id": "scorn",
         "label": "Scorn",
+        "price": 300,
         "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/pack-hell-forged-legion-648043/0c0c039d6326.jpg"
       },
       {
         "id": "stand",
         "label": "Stand",
+        "price": 300,
         "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/pack-hell-forged-legion-648043/3edf6dec1d51.jpg"
       },
       {
-        "id": "trusting",
-        "label": "Trusting",
+        "id": "trust",
+        "label": "Trust",
+        "price": 300,
         "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/pack-hell-forged-legion-648043/1b9369df64df.jpg"
+      },
+      {
+        "id": "walk",
+        "label": "Walk",
+        "price": 300
       }
     ],
     "themes": [
@@ -22330,41 +22344,29 @@
     "scale": "52mm",
     "material": "resin",
     "images": [
-      "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/pack-iron-hell-rider-648039/5cef814e84f4.jpg",
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/pack-iron-hell-rider-648039/d712225b05cd.jpg",
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/pack-iron-hell-rider-648039/dee3d6ed5eb5.jpg",
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/pack-iron-hell-rider-648039/e70fe449f438.jpg",
-      "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/pack-iron-hell-rider-648039/3ba1f7ca562b.jpg",
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/pack-iron-hell-rider-648039/c58ac6d0a316.jpg",
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/pack-iron-hell-rider-648039/d0b21788b07e.jpg",
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/pack-iron-hell-rider-648039/f8da33f3e214.jpg",
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/pack-iron-hell-rider-648039/951d3fc14233.jpg",
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/pack-iron-hell-rider-648039/6e173239d02d.jpg",
-      "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/pack-iron-hell-rider-648039/a0c5702c2e7c.jpg",
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/pack-iron-hell-rider-648039/ee6d9dc9aebe.jpg",
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/pack-iron-hell-rider-648039/c02f0f0e1e05.jpg",
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/pack-iron-hell-rider-648039/085b898bcf40.jpg",
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/pack-iron-hell-rider-648039/d77fd4def8ea.jpg",
-      "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/pack-iron-hell-rider-648039/8a79b38fd066.jpg",
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/pack-iron-hell-rider-648039/722c96f88364.jpg",
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/pack-iron-hell-rider-648039/a653da070353.jpg",
-      "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/pack-iron-hell-rider-648039/8abb479eeab9.jpg",
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/pack-iron-hell-rider-648039/46184e084bcd.jpg",
-      "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/pack-iron-hell-rider-648039/4d48365c9949.jpg",
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/pack-iron-hell-rider-648039/04f7b4d62717.jpg",
-      "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/pack-iron-hell-rider-648039/5cc0b03dca93.jpg",
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/pack-iron-hell-rider-648039/cbfb5c706cda.jpg",
-      "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/pack-iron-hell-rider-648039/48a93525b972.jpg",
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/pack-iron-hell-rider-648039/010d27fc4488.jpg",
-      "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/pack-iron-hell-rider-648039/366153448fb4.jpg",
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/pack-iron-hell-rider-648039/a07c209b28ad.jpg",
-      "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/pack-iron-hell-rider-648039/ecbd862bce52.jpg",
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/pack-iron-hell-rider-648039/905a5881e2f3.jpg",
-      "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/pack-iron-hell-rider-648039/c91be7b9d479.jpg",
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/pack-iron-hell-rider-648039/6cdfd2a0aa5e.jpg",
-      "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/pack-iron-hell-rider-648039/26cf4a257d0c.jpg",
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/pack-iron-hell-rider-648039/e8d81cb3f73c.jpg",
-      "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/pack-iron-hell-rider-648039/72281225fe17.jpg"
+      "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/pack-iron-hell-rider-648039/5cef814e84f4.jpg"
     ],
     "inStock": true,
     "createdAt": "2025-09-02",
@@ -22449,7 +22451,7 @@
       "spawned",
       "variations"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "> Pack Hell Spawned Brood (60x35mm base) - Hell Spawned Brood Attack- Hell Spawned Brood Look- Hell Spawned Brood Run- Hell Spawned Brood Stand- Hell Spawned Brood Turn • Supported files : supports for confirmed user • Beefed files: 20% thicker support tips, user friendly supports • Lys files: lychee files for edit • Unsupported files",
     "scale": "35mm",
@@ -22476,26 +22478,31 @@
       {
         "id": "attack",
         "label": "Attack",
+        "price": 300,
         "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/pack-hell-spawned-brood-648031/d0f72a23a0eb.jpg"
       },
       {
         "id": "look",
         "label": "Look",
+        "price": 300,
         "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/pack-hell-spawned-brood-648031/c1a5a37042ed.jpg"
       },
       {
         "id": "run",
         "label": "Run",
+        "price": 300,
         "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/pack-hell-spawned-brood-648031/314521bc2274.jpg"
       },
       {
         "id": "stand",
         "label": "Stand",
+        "price": 300,
         "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/pack-hell-spawned-brood-648031/8132060f75e1.jpg"
       },
       {
         "id": "turn",
         "label": "Turn",
+        "price": 300,
         "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/pack-hell-spawned-brood-648031/8a3f34db2391.jpg"
       }
     ],
@@ -28823,35 +28830,6 @@
     ]
   },
   {
-    "id": "rescale-807159",
-    "slug": "goblin-blaster-xl-collector-807159",
-    "name": "Goblin Blaster XL Collector",
-    "category": "rescale-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "🛑This model is for larger printer only! (Saturn, Mono, etc.) - Goblin Blaster XL Collector (1/6 scale) → 3 different heads • Supported files : supports for confirmed user • Beefed files: 20% thicker support tips, user friendly supports • Lys files: lychee files for edit • Unsupported files",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/goblin-blaster-xl-collector-807159/5bee2f83f219.jpg",
-      "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/goblin-blaster-xl-collector-807159/73b3807eb7cf.jpg",
-      "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/goblin-blaster-xl-collector-807159/594f181a4994.jpg",
-      "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/goblin-blaster-xl-collector-807159/f9df32f51083.jpg",
-      "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/goblin-blaster-xl-collector-807159/5a85b4eb0168.jpg",
-      "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/goblin-blaster-xl-collector-807159/c9c8eb760643.jpg",
-      "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/goblin-blaster-xl-collector-807159/3d415c35e8f6.jpg",
-      "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/goblin-blaster-xl-collector-807159/d61040254909.jpg",
-      "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/goblin-blaster-xl-collector-807159/edf893c47c4d.jpg",
-      "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/goblin-blaster-xl-collector-807159/e93db43d7574.jpg",
-      "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/goblin-blaster-xl-collector-807159/9775f77e14c5.jpg",
-      "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/goblin-blaster-xl-collector-807159/7be17dc0777a.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-06-02",
-    "themes": []
-  },
-  {
     "id": "rescale-794752",
     "slug": "the-crown-huntress-794752",
     "name": "The Crown Huntress",
@@ -29574,62 +29552,6 @@
     ]
   },
   {
-    "id": "rescale-735193",
-    "slug": "orc-untamed-shaman-xl-collector-735193",
-    "name": "Orc Untamed Shaman XL Collector",
-    "category": "rescale-miniatures",
-    "tags": [
-      "print",
-      "dragons",
-      "dungeons",
-      "miniatures",
-      "of",
-      "orc",
-      "scale",
-      "statue",
-      "tribal",
-      "unit",
-      "wizard",
-      "Lord",
-      "the",
-      "clan",
-      "warlock",
-      "collector",
-      "DnD",
-      "and",
-      "Dan",
-      "sorcerer",
-      "shaman",
-      "Humanoids",
-      "xl",
-      "1/6",
-      "lotp",
-      "rite",
-      "occultist",
-      "Gul",
-      "untamed",
-      "gul’dan"
-    ],
-    "price": 34600,
-    "currency": "EUR",
-    "description": "🛑This model is for larger printer only! (Saturn, Mono, etc.) - Orc Untamed Shaman XL Collector (1/6 scale) • Supported files : supports for confirmed user • Beefed files: 20% thicker support tips, user friendly supports • Lys files: lychee files for edit • Unsupported files",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/orc-untamed-shaman-xl-collector-735193/817e386e35c9.jpg",
-      "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/orc-untamed-shaman-xl-collector-735193/ee22bcb98d37.jpg",
-      "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/orc-untamed-shaman-xl-collector-735193/5d8e10f8ea90.jpg",
-      "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/orc-untamed-shaman-xl-collector-735193/1f9e673134b6.jpg",
-      "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/orc-untamed-shaman-xl-collector-735193/4d251eaf398b.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-01-02",
-    "themes": [
-      "dragons",
-      "humanoids"
-    ]
-  },
-  {
     "id": "rescale-735189",
     "slug": "black-dragon-elder-735189",
     "name": "Black Dragon - Elder",
@@ -29707,157 +29629,6 @@
     "createdAt": "2026-01-02",
     "themes": [
       "dragons"
-    ]
-  },
-  {
-    "id": "rescale-712625",
-    "slug": "shizuka-whisper-ronin-xl-collector-712625",
-    "name": "Shizuka, Whisper Ronin XL Collector",
-    "category": "rescale-miniatures",
-    "tags": [
-      "print",
-      "dragons",
-      "dungeons",
-      "female",
-      "miniatures",
-      "of",
-      "scale",
-      "soldier",
-      "statue",
-      "Lord",
-      "the",
-      "collector",
-      "Eastern",
-      "asian",
-      "DnD",
-      "and",
-      "shamisen",
-      "Humanoids",
-      "ronin",
-      "xl",
-      "1/6",
-      "lotp",
-      "Whisper",
-      "unchained",
-      "dysnaty",
-      "shizuka"
-    ],
-    "price": 0,
-    "currency": "EUR",
-    "description": "🛑This model is for larger printer only! (Saturn, Mono, etc.) - Shizuka, Whisper Ronin XL Collector (1/6 scale; 30cm height) • Supported files : supports for confirmed user • Beefed files: 20% thicker support tips, user friendly supports • Lys files: lychee files for edit • Unsupported files",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/shizuka-whisper-ronin-xl-collector-712625/f5e017f68641.jpg",
-      "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/shizuka-whisper-ronin-xl-collector-712625/a4b28fe88cb7.jpg",
-      "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/shizuka-whisper-ronin-xl-collector-712625/fa6a0b0ccaf3.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2025-12-01",
-    "themes": [
-      "dragons"
-    ]
-  },
-  {
-    "id": "rescale-712624",
-    "slug": "shizuka-shadow-ronin-xl-collector-712624",
-    "name": "Shizuka, Shadow Ronin XL Collector",
-    "category": "rescale-miniatures",
-    "tags": [
-      "print",
-      "dragons",
-      "dungeons",
-      "female",
-      "miniatures",
-      "of",
-      "scale",
-      "soldier",
-      "Lord",
-      "assassin",
-      "shadow",
-      "the",
-      "collector",
-      "Eastern",
-      "asian",
-      "DnD",
-      "and",
-      "samouraï",
-      "Humanoids",
-      "ronin",
-      "shinobi",
-      "xl",
-      "1/6",
-      "lotp",
-      "unchained",
-      "dysnaty",
-      "shizuka"
-    ],
-    "price": 0,
-    "currency": "EUR",
-    "description": "🛑This model is for larger printer only! (Saturn, Mono, etc.) - Shizuka, Shadow Ronin XL Collector (1/6 scale; 30cm height) • Supported files : supports for confirmed user • Beefed files: 20% thicker support tips, user friendly supports • Lys files: lychee files for edit • Unsupported files",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/shizuka-shadow-ronin-xl-collector-712624/39a5fb581ba9.jpg",
-      "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/shizuka-shadow-ronin-xl-collector-712624/479f29af5aa7.jpg",
-      "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/shizuka-shadow-ronin-xl-collector-712624/3b6c12a707d9.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2025-12-01",
-    "themes": [
-      "dragons"
-    ]
-  },
-  {
-    "id": "rescale-712623",
-    "slug": "oni-colossus-xl-collector-712623",
-    "name": "Oni Colossus XL Collector",
-    "category": "rescale-miniatures",
-    "tags": [
-      "demon",
-      "print",
-      "dragons",
-      "dungeons",
-      "miniatures",
-      "of",
-      "scale",
-      "soldier",
-      "statue",
-      "Lord",
-      "the",
-      "collector",
-      "ogre",
-      "Eastern",
-      "asian",
-      "DnD",
-      "and",
-      "oni",
-      "Colossus",
-      "Humanoids",
-      "xl",
-      "BBEG",
-      "1/6",
-      "lotp",
-      "unchained",
-      "dysnaty"
-    ],
-    "price": 0,
-    "currency": "EUR",
-    "description": "🛑This model is for larger printer only! (Saturn, Mono, etc.) - Oni Colossus XL Collector (1/6 scale; 30cm height) • Supported files : supports for confirmed user • Beefed files: 20% thicker support tips, user friendly supports • Lys files: lychee files for edit • Unsupported files",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/oni-colossus-xl-collector-712623/8f0631f3f3cc.jpg",
-      "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/oni-colossus-xl-collector-712623/ad3a91c94f0b.jpg",
-      "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/oni-colossus-xl-collector-712623/ee2633833453.jpg",
-      "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/oni-colossus-xl-collector-712623/8c31c27fe197.jpg",
-      "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/oni-colossus-xl-collector-712623/58dd44d99fc2.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2025-12-01",
-    "themes": [
-      "dragons",
-      "demons-fiends"
     ]
   },
   {
@@ -29980,105 +29751,6 @@
     "createdAt": "2025-12-02",
     "themes": [
       "dragons"
-    ]
-  },
-  {
-    "id": "rescale-694494",
-    "slug": "nocturne-assembly-xl-collector-694494",
-    "name": "Nocturne Assembly XL Collector",
-    "category": "rescale-miniatures",
-    "tags": [
-      "print",
-      "display",
-      "miniatures",
-      "of",
-      "pirate",
-      "scale",
-      "soldier",
-      "unit",
-      "vampire",
-      "warrior",
-      "Lord",
-      "assembly",
-      "enemy",
-      "the",
-      "collector",
-      "D&D",
-      "rogue",
-      "DnD",
-      "npc",
-      "xl",
-      "BBEG",
-      "1/6",
-      "nocturne",
-      "lotp"
-    ],
-    "price": 0,
-    "currency": "EUR",
-    "description": "🛑This model is for larger printer only! (Saturn, Mono, etc.) - Nocturne Assembly XL Collector (1/6 scale; 30cm height) • Supported files : supports for confirmed user • Beefed files: 20% thicker support tips, user friendly supports • Lys files: lychee files for edit • Unsupported files",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/nocturne-assembly-xl-collector-694494/658825db4b52.jpg",
-      "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/nocturne-assembly-xl-collector-694494/1b36ca880b8c.jpg",
-      "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/nocturne-assembly-xl-collector-694494/bcbef36edd08.jpg",
-      "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/nocturne-assembly-xl-collector-694494/c777b480d705.jpg",
-      "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/nocturne-assembly-xl-collector-694494/400c519bbaef.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2025-11-04",
-    "themes": [
-      "undead"
-    ]
-  },
-  {
-    "id": "rescale-688769",
-    "slug": "graveward-legion-xl-collector-688769",
-    "name": "Graveward Legion XL Collector",
-    "category": "rescale-miniatures",
-    "tags": [
-      "print",
-      "ancient",
-      "display",
-      "knight",
-      "miniatures",
-      "of",
-      "scale",
-      "soldier",
-      "unit",
-      "vampire",
-      "warrior",
-      "Lord",
-      "enemy",
-      "the",
-      "order",
-      "collector",
-      "Legion",
-      "D&D",
-      "DnD",
-      "npc",
-      "xl",
-      "BBEG",
-      "1/6",
-      "lotp",
-      "Immortalis",
-      "graveward"
-    ],
-    "price": 0,
-    "currency": "EUR",
-    "description": "🛑This model is for larger printer only! (Saturn, Mono, etc.) - Graveward Legion XL Collector (1/6 scale; 30cm height) • Supported files : supports for confirmed user • Beefed files: 20% thicker support tips, user friendly supports • Lys files: lychee files for edit • Unsupported files",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/graveward-legion-xl-collector-688769/f4560ddd336f.jpg",
-      "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/graveward-legion-xl-collector-688769/d96d66c09fb3.jpg",
-      "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/graveward-legion-xl-collector-688769/7556ceaba949.jpg",
-      "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/graveward-legion-xl-collector-688769/f303dd6d5f7d.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2025-11-04",
-    "themes": [
-      "undead"
     ]
   },
   {
@@ -30400,51 +30072,6 @@
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/hell-forged-legion-proud-free-sample-648046/d999f0a00539.jpg",
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/hell-forged-legion-proud-free-sample-648046/962ca626cb20.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2025-09-02",
-    "themes": [
-      "demons-fiends"
-    ]
-  },
-  {
-    "id": "rescale-648027",
-    "slug": "the-butcher-xl-collector-648027",
-    "name": "The Butcher XL Collector",
-    "category": "rescale-miniatures",
-    "tags": [
-      "demon",
-      "print",
-      "devil",
-      "figure",
-      "miniatures",
-      "of",
-      "scale",
-      "statue",
-      "Lord",
-      "the",
-      "fiend",
-      "collector",
-      "D&D",
-      "DnD",
-      "butcher",
-      "xl",
-      "1/6",
-      "infernal",
-      "lotp",
-      "orthon"
-    ],
-    "price": 0,
-    "currency": "EUR",
-    "description": "🛑This model is for larger printer only! (Saturn, Mono, etc.) - The Butcher XL Collector (1/6 scale; 40cm from the bottom of the base to the tip of its horns.) • Supported files : supports for confirmed user • Beefed files: 20% thicker support tips, user friendly supports • Lys files: lychee files for edit • Unsupported files",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/the-butcher-xl-collector-648027/7cf3ee31c7f2.jpg",
-      "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/the-butcher-xl-collector-648027/528c47f9b41b.jpg",
-      "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/the-butcher-xl-collector-648027/4cb80e8a30e5.jpg",
-      "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/the-butcher-xl-collector-648027/ec0461a2f950.jpg",
-      "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/the-butcher-xl-collector-648027/8cda91f39dd2.jpg"
     ],
     "inStock": true,
     "createdAt": "2025-09-02",
@@ -30944,7 +30571,7 @@
       "lotp",
       "Pestilence"
     ],
-    "price": 0,
+    "price": 600,
     "currency": "EUR",
     "description": "- The Blight Father (75mm base) • Supported files : supports for confirmed user • Beefed files: 20% thicker support tips, user friendly supports • Lys files: lychee files for edit • Unsupported files",
     "scale": "75mm",
@@ -31037,7 +30664,7 @@
       "Pestilence",
       "bellwarden"
     ],
-    "price": 0,
+    "price": 900,
     "currency": "EUR",
     "description": "- The Bell Warden (75mm base) • Supported files : supports for confirmed user • Beefed files: 20% thicker support tips, user friendly supports • Lys files: lychee files for edit • Unsupported files",
     "scale": "75mm",
@@ -63008,165 +62635,6 @@
     "createdAt": "2026-08-07"
   },
   {
-    "id": "rescale-new-lordvermillonxl",
-    "slug": "lord-vermillon-xl-collector-new-lordvermillonxl",
-    "name": "Lord Vermillon XL Collector",
-    "category": "rescale-miniatures",
-    "themes": [],
-    "tags": [],
-    "price": 9250,
-    "currency": "EUR",
-    "description": "",
-    "scale": "XL",
-    "material": "resin",
-    "images": [],
-    "inStock": true,
-    "createdAt": "2026-08-07"
-  },
-  {
-    "id": "rescale-new-hellforgedlegion",
-    "slug": "hellforged-legion-new-hellforgedlegion",
-    "name": "Hellforged Legion",
-    "category": "rescale-miniatures",
-    "themes": [],
-    "tags": [],
-    "price": 300,
-    "currency": "EUR",
-    "description": "",
-    "scale": "32mm",
-    "material": "resin",
-    "images": [],
-    "inStock": true,
-    "createdAt": "2026-08-07",
-    "variations": [
-      {
-        "id": "arrive",
-        "label": "Arrive",
-        "price": 300
-      },
-      {
-        "id": "charge",
-        "label": "Charge",
-        "price": 300
-      },
-      {
-        "id": "dominion",
-        "label": "Dominion",
-        "price": 300
-      },
-      {
-        "id": "guard",
-        "label": "Guard",
-        "price": 300
-      },
-      {
-        "id": "proud",
-        "label": "Proud",
-        "price": 300
-      },
-      {
-        "id": "run",
-        "label": "Run",
-        "price": 300
-      },
-      {
-        "id": "scorn",
-        "label": "Scorn",
-        "price": 300
-      },
-      {
-        "id": "stand",
-        "label": "Stand",
-        "price": 300
-      },
-      {
-        "id": "trust",
-        "label": "Trust",
-        "price": 300
-      },
-      {
-        "id": "walk",
-        "label": "Walk",
-        "price": 300
-      }
-    ]
-  },
-  {
-    "id": "rescale-new-bellwarden",
-    "slug": "bellwarden-new-bellwarden",
-    "name": "Bellwarden",
-    "category": "rescale-miniatures",
-    "themes": [],
-    "tags": [],
-    "price": 900,
-    "currency": "EUR",
-    "description": "",
-    "scale": "unknown",
-    "material": "resin",
-    "images": [],
-    "inStock": true,
-    "createdAt": "2026-08-07"
-  },
-  {
-    "id": "rescale-new-blightfather",
-    "slug": "blightfather-new-blightfather",
-    "name": "Blightfather",
-    "category": "rescale-miniatures",
-    "themes": [],
-    "tags": [],
-    "price": 600,
-    "currency": "EUR",
-    "description": "",
-    "scale": "unknown",
-    "material": "resin",
-    "images": [],
-    "inStock": true,
-    "createdAt": "2026-08-07"
-  },
-  {
-    "id": "rescale-new-hellspawnedbrood",
-    "slug": "hellspawned-brood-new-hellspawnedbrood",
-    "name": "Hellspawned Brood",
-    "category": "rescale-miniatures",
-    "themes": [],
-    "tags": [],
-    "price": 300,
-    "currency": "EUR",
-    "description": "",
-    "scale": "unknown",
-    "material": "resin",
-    "images": [],
-    "inStock": true,
-    "createdAt": "2026-08-07",
-    "variations": [
-      {
-        "id": "attack",
-        "label": "Attack",
-        "price": 300
-      },
-      {
-        "id": "look",
-        "label": "Look",
-        "price": 300
-      },
-      {
-        "id": "run",
-        "label": "Run",
-        "price": 300
-      },
-      {
-        "id": "stand",
-        "label": "Stand",
-        "price": 300
-      },
-      {
-        "id": "turn",
-        "label": "Turn",
-        "price": 300
-      }
-    ]
-  },
-  {
     "id": "rescale-712627-saddle",
     "slug": "immortal-general-lizard-saddle-712627",
     "name": "Immortal General & Lizard - Saddle",
@@ -64147,8 +63615,8 @@
     ]
   },
   {
-    "id": "rescale-new-ironhellrider-mount",
-    "slug": "iron-hellrider-mount-ironhellrider",
+    "id": "rescale-648039-mount",
+    "slug": "iron-hellrider-mount-648039",
     "name": "Iron Hellrider - Mount",
     "category": "rescale-miniatures",
     "themes": [],
@@ -64158,13 +63626,20 @@
     "description": "",
     "scale": "unknown",
     "material": "resin",
-    "images": [],
+    "images": [
+      "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/pack-iron-hell-rider-648039/3ba1f7ca562b.jpg",
+      "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/pack-iron-hell-rider-648039/a0c5702c2e7c.jpg",
+      "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/pack-iron-hell-rider-648039/8abb479eeab9.jpg",
+      "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/pack-iron-hell-rider-648039/5cc0b03dca93.jpg",
+      "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/pack-iron-hell-rider-648039/48a93525b972.jpg",
+      "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/pack-iron-hell-rider-648039/26cf4a257d0c.jpg"
+    ],
     "inStock": true,
     "createdAt": "2026-08-07"
   },
   {
-    "id": "rescale-new-ironhellrider-wild",
-    "slug": "iron-hellrider-wild-ironhellrider",
+    "id": "rescale-648039-wild",
+    "slug": "iron-hellrider-wild-648039",
     "name": "Iron Hellrider - Wild",
     "category": "rescale-miniatures",
     "themes": [],
@@ -64174,7 +63649,14 @@
     "description": "",
     "scale": "unknown",
     "material": "resin",
-    "images": [],
+    "images": [
+      "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/pack-iron-hell-rider-648039/366153448fb4.jpg",
+      "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/pack-iron-hell-rider-648039/8a79b38fd066.jpg",
+      "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/pack-iron-hell-rider-648039/4d48365c9949.jpg",
+      "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/pack-iron-hell-rider-648039/ecbd862bce52.jpg",
+      "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/pack-iron-hell-rider-648039/c91be7b9d479.jpg",
+      "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-2/pack-iron-hell-rider-648039/72281225fe17.jpg"
+    ],
     "inStock": true,
     "createdAt": "2026-08-07"
   },

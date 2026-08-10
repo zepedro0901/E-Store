@@ -30,6 +30,10 @@ export function ProductGallery({
     });
   }, [active]);
 
+  function goToImage(direction: 1 | -1) {
+    setActive((active + direction + images.length) % images.length);
+  }
+
   function scrollByThumb(direction: 1 | -1) {
     const track = trackRef.current;
     if (!track) return;
@@ -61,6 +65,26 @@ export function ProductGallery({
           className="object-cover"
           priority
         />
+        {images.length > 1 && (
+          <>
+            <button
+              type="button"
+              onClick={() => goToImage(-1)}
+              aria-label="Previous image"
+              className="absolute left-2 top-1/2 z-10 flex h-9 w-9 -translate-y-1/2 items-center justify-center rounded-full border border-border bg-surface/90 text-lg shadow-sm backdrop-blur transition-colors hover:border-accent/50"
+            >
+              &lsaquo;
+            </button>
+            <button
+              type="button"
+              onClick={() => goToImage(1)}
+              aria-label="Next image"
+              className="absolute right-2 top-1/2 z-10 flex h-9 w-9 -translate-y-1/2 items-center justify-center rounded-full border border-border bg-surface/90 text-lg shadow-sm backdrop-blur transition-colors hover:border-accent/50"
+            >
+              &rsaquo;
+            </button>
+          </>
+        )}
       </div>
       {images.length > 1 && (
         <div className="relative">
