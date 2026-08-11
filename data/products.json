@@ -384,17 +384,20 @@
       {
         "id": "pose-1",
         "label": "Pose 1",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/floating-yokais-377814/4.jpg"
       },
       {
         "id": "pose-2",
         "label": "Pose 2",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/floating-yokais-377814/2.jpg"
       },
       {
         "id": "pose-3",
         "label": "Pose 3",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/floating-yokais-377814/3.jpg"
       }
     ],
     "themes": [
@@ -1058,17 +1061,20 @@
       {
         "id": "pose-1",
         "label": "Pose 1",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/sin-eater-wraiths-370990/2.jpg"
       },
       {
         "id": "pose-2",
         "label": "Pose 2",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/sin-eater-wraiths-370990/3.jpg"
       },
       {
         "id": "pose-3",
         "label": "Pose 3",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/sin-eater-wraiths-370990/4.jpg"
       }
     ],
     "themes": [
@@ -1956,12 +1962,14 @@
       {
         "id": "mounted",
         "label": "Mounted",
-        "price": 400
+        "price": 400,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/3-month-loyalty-reward-dreadrider-349845/1.jpg"
       },
       {
         "id": "on-foot",
         "label": "On Foot",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/3-month-loyalty-reward-dreadrider-349845/3.jpg"
       }
     ],
     "themes": []
@@ -2265,17 +2273,20 @@
       {
         "id": "pose-1",
         "label": "Pose 1",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/siege-trolls-810332/4.jpg"
       },
       {
         "id": "pose-2",
         "label": "Pose 2",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/siege-trolls-810332/2.jpg"
       },
       {
         "id": "pose-3",
         "label": "Pose 3",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/siege-trolls-810332/3.jpg"
       }
     ],
     "themes": []
@@ -2314,17 +2325,20 @@
       {
         "id": "pose-1",
         "label": "Pose 1",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/fallen-infantry-810330/2.jpg"
       },
       {
         "id": "pose-2",
         "label": "Pose 2",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/fallen-infantry-810330/3.jpg"
       },
       {
         "id": "pose-3",
         "label": "Pose 3",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/fallen-infantry-810330/4.jpg"
       }
     ],
     "themes": [
@@ -2365,17 +2379,20 @@
       {
         "id": "pose-1",
         "label": "Pose 1",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/bastion-gnawers-810328/2.jpg"
       },
       {
         "id": "pose-2",
         "label": "Pose 2",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/bastion-gnawers-810328/3.jpg"
       },
       {
         "id": "pose-3",
         "label": "Pose 3",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/bastion-gnawers-810328/4.jpg"
       }
     ],
     "themes": [
@@ -2415,17 +2432,20 @@
       {
         "id": "pose-1",
         "label": "Pose 1",
-        "price": 950
+        "price": 950,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/pike-breakers-810326/3.jpg"
       },
       {
         "id": "pose-2",
         "label": "Pose 2",
-        "price": 850
+        "price": 850,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/pike-breakers-810326/4.jpg"
       },
       {
         "id": "pose-3",
         "label": "Pose 3",
-        "price": 900
+        "price": 900,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/pike-breakers-810326/2.jpg"
       }
     ],
     "themes": [
@@ -2650,17 +2670,20 @@
       {
         "id": "pose-1",
         "label": "Pose 1",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/dust-demons-797454/2.jpg"
       },
       {
         "id": "pose-2",
         "label": "Pose 2",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/dust-demons-797454/4.jpg"
       },
       {
         "id": "pose-3",
         "label": "Pose 3",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/dust-demons-797454/3.jpg"
       }
     ],
     "themes": [
@@ -3249,17 +3272,20 @@
       {
         "id": "pose-1",
         "label": "Pose 1",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/gnoll-witherlings-784379/2.jpg"
       },
       {
         "id": "pose-2",
         "label": "Pose 2",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/gnoll-witherlings-784379/3.jpg"
       },
       {
         "id": "pose-3",
         "label": "Pose 3",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/gnoll-witherlings-784379/4.jpg"
       }
     ],
     "themes": [
@@ -3592,12 +3618,14 @@
       {
         "id": "pose-1",
         "label": "Pose 1",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/shelly-war-mage-771464/2.jpg"
       },
       {
         "id": "pose-2",
         "label": "Pose 2",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/shelly-war-mage-771464/3.jpg"
       }
     ],
     "themes": []
@@ -3633,12 +3661,14 @@
       {
         "id": "pose-1",
         "label": "Pose 1",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/sigurth-knight-of-wrath-771457/2.jpg"
       },
       {
         "id": "pose-2",
         "label": "Pose 2",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/sigurth-knight-of-wrath-771457/3.jpg"
       }
     ],
     "themes": []
@@ -3675,12 +3705,14 @@
       {
         "id": "pose-1",
         "label": "Pose 1",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/garland-knight-of-splendor-771451/2.jpg"
       },
       {
         "id": "pose-2",
         "label": "Pose 2",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/garland-knight-of-splendor-771451/3.jpg"
       }
     ],
     "themes": []
@@ -3796,17 +3828,20 @@
       {
         "id": "pose-1",
         "label": "Pose 1",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/dread-knights-771390/2.jpg"
       },
       {
         "id": "pose-2",
         "label": "Pose 2",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/dread-knights-771390/3.jpg"
       },
       {
         "id": "pose-3",
         "label": "Pose 3",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/dread-knights-771390/4.jpg"
       }
     ],
     "themes": [
@@ -4366,17 +4401,20 @@
       {
         "id": "pose-1",
         "label": "Pose 1",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/ravenous-reapers-756997/4.jpg"
       },
       {
         "id": "pose-2",
         "label": "Pose 2",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/ravenous-reapers-756997/3.jpg"
       },
       {
         "id": "pose-3",
         "label": "Pose 3",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/ravenous-reapers-756997/2.jpg"
       }
     ],
     "themes": [
@@ -4786,12 +4824,14 @@
       {
         "id": "pose-1",
         "label": "Pose 1",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/xiii-cultists-738698/3.jpg"
       },
       {
         "id": "pose-2",
         "label": "Pose 2",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/xiii-cultists-738698/2.jpg"
       }
     ],
     "themes": [
@@ -4912,17 +4952,20 @@
       {
         "id": "pose-1",
         "label": "Pose 1",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/amalgamites-738690/4.jpg"
       },
       {
         "id": "pose-2",
         "label": "Pose 2",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/amalgamites-738690/3.jpg"
       },
       {
         "id": "pose-3",
         "label": "Pose 3",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/amalgamites-738690/2.jpg"
       }
     ],
     "themes": [
@@ -5147,12 +5190,14 @@
       {
         "id": "mounted",
         "label": "Mounted",
-        "price": 500
+        "price": 500,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/6-month-loyalty-reward-hell-knight-730253/1.jpg"
       },
       {
         "id": "on-foot",
         "label": "On Foot",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/6-month-loyalty-reward-hell-knight-730253/2.jpg"
       }
     ],
     "themes": []
@@ -5763,17 +5808,20 @@
       {
         "id": "pose-1",
         "label": "Pose 1",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/devilish-goblins-719952/2.jpg"
       },
       {
         "id": "pose-2",
         "label": "Pose 2",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/devilish-goblins-719952/3.jpg"
       },
       {
         "id": "pose-3",
         "label": "Pose 3",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/devilish-goblins-719952/4.jpg"
       }
     ],
     "themes": [
@@ -6263,12 +6311,14 @@
       {
         "id": "pose-1",
         "label": "Pose 1",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/necrotech-acolytes-2-poses-700135/2.jpg"
       },
       {
         "id": "pose-2",
         "label": "Pose 2",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/necrotech-acolytes-2-poses-700135/3.jpg"
       }
     ],
     "themes": []
@@ -6356,17 +6406,20 @@
       {
         "id": "pose-1",
         "label": "Pose 1",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/candle-men-700132/2.jpg"
       },
       {
         "id": "pose-2",
         "label": "Pose 2",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/candle-men-700132/3.jpg"
       },
       {
         "id": "pose-3",
         "label": "Pose 3",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/candle-men-700132/4.jpg"
       }
     ],
     "themes": [
@@ -6743,12 +6796,14 @@
       {
         "id": "regular-pose",
         "label": "Regular Pose",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/yshma-hex-hand-2-poses-679134/1.jpg"
       },
       {
         "id": "ritual-pose",
         "label": "Ritual Pose",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/yshma-hex-hand-2-poses-679134/1.jpg"
       }
     ]
   },
@@ -6782,12 +6837,14 @@
       {
         "id": "regular-pose",
         "label": "Regular Pose",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/sevrin-blood-veil-2-poses-679131/1.jpg"
       },
       {
         "id": "ritual-pose",
         "label": "Ritual Pose",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/sevrin-blood-veil-2-poses-679131/1.jpg"
       }
     ]
   },
@@ -6821,12 +6878,14 @@
       {
         "id": "regular-pose",
         "label": "Regular Pose",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/grizha-ash-tongue-2-poses-679116/1.jpg"
       },
       {
         "id": "ritual-pose",
         "label": "Ritual Pose",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/grizha-ash-tongue-2-poses-679116/1.jpg"
       }
     ]
   },
@@ -6860,17 +6919,20 @@
       {
         "id": "pose-1",
         "label": "Pose 1",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/deep-hags-679114/2.jpg"
       },
       {
         "id": "pose-2",
         "label": "Pose 2",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/deep-hags-679114/3.jpg"
       },
       {
         "id": "pose-3",
         "label": "Pose 3",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/deep-hags-679114/4.jpg"
       }
     ],
     "themes": [
@@ -7134,17 +7196,20 @@
       {
         "id": "stage-1",
         "label": "Stage 1",
-        "price": 4000
+        "price": 4000,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/azroth-endless-oath-3-stages-679101/3.jpg"
       },
       {
         "id": "stage-2",
         "label": "Stage 2",
-        "price": 4100
+        "price": 4100,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/azroth-endless-oath-3-stages-679101/2.jpg"
       },
       {
         "id": "stage-3",
         "label": "Stage 3",
-        "price": 6450
+        "price": 6450,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/azroth-endless-oath-3-stages-679101/1.jpg"
       }
     ],
     "themes": [
@@ -7327,17 +7392,20 @@
       {
         "id": "pose-1",
         "label": "Pose 1",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/orc-ravagers-635336/2.jpg"
       },
       {
         "id": "pose-2",
         "label": "Pose 2",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/orc-ravagers-635336/3.jpg"
       },
       {
         "id": "pose-3",
         "label": "Pose 3",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/orc-ravagers-635336/4.jpg"
       }
     ],
     "themes": [
@@ -7481,12 +7549,14 @@
       {
         "id": "pose-1",
         "label": "Pose 1",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/black-march-elites-635330/2.jpg"
       },
       {
         "id": "pose-2",
         "label": "Pose 2",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/black-march-elites-635330/3.jpg"
       }
     ],
     "themes": [
@@ -7934,17 +8004,20 @@
       {
         "id": "pose-1",
         "label": "Pose 1",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/crypt-knights-611744/3.jpg"
       },
       {
         "id": "pose-2",
         "label": "Pose 2",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/crypt-knights-611744/2.jpg"
       },
       {
         "id": "pose-3",
         "label": "Pose 3",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/crypt-knights-611744/4.jpg"
       }
     ],
     "themes": [
@@ -8448,17 +8521,20 @@
       {
         "id": "pose-1",
         "label": "Pose 1",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/spore-servants-590252/4.jpg"
       },
       {
         "id": "pose-2",
         "label": "Pose 2",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/spore-servants-590252/3.jpg"
       },
       {
         "id": "pose-3",
         "label": "Pose 3",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/spore-servants-590252/2.jpg"
       }
     ],
     "themes": [
@@ -9033,17 +9109,20 @@
       {
         "id": "pose-1",
         "label": "Pose 1",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/blackwing-kobolds-532238/3.jpg"
       },
       {
         "id": "pose-2",
         "label": "Pose 2",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/blackwing-kobolds-532238/2.jpg"
       },
       {
         "id": "pose-3",
         "label": "Pose 3",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/blackwing-kobolds-532238/4.jpg"
       }
     ],
     "themes": [
@@ -9554,17 +9633,20 @@
       {
         "id": "pose-1",
         "label": "Pose 1",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/sea-spawns-496838/4.jpg"
       },
       {
         "id": "pose-2",
         "label": "Pose 2",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/sea-spawns-496838/3.jpg"
       },
       {
         "id": "pose-3",
         "label": "Pose 3",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/sea-spawns-496838/2.jpg"
       }
     ],
     "themes": [
@@ -10130,17 +10212,20 @@
       {
         "id": "pose-1",
         "label": "Pose 1",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/mimic-knights-474990/4.jpg"
       },
       {
         "id": "pose-2",
         "label": "Pose 2",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/mimic-knights-474990/3.jpg"
       },
       {
         "id": "pose-3",
         "label": "Pose 3",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/mimic-knights-474990/2.jpg"
       }
     ],
     "themes": []
@@ -10600,17 +10685,20 @@
       {
         "id": "pose-1",
         "label": "Pose 1",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/giant-flameskulls-462008/2.jpg"
       },
       {
         "id": "pose-2",
         "label": "Pose 2",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/giant-flameskulls-462008/3.jpg"
       },
       {
         "id": "pose-3",
         "label": "Pose 3",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/giant-flameskulls-462008/4.jpg"
       }
     ],
     "themes": [
@@ -11208,17 +11296,20 @@
       {
         "id": "pose-1",
         "label": "Pose 1",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/glacier-stalkers-449234/3.jpg"
       },
       {
         "id": "pose-2",
         "label": "Pose 2",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/glacier-stalkers-449234/4.jpg"
       },
       {
         "id": "pose-3",
         "label": "Pose 3",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/glacier-stalkers-449234/2.jpg"
       }
     ],
     "themes": [
@@ -11285,12 +11376,14 @@
       {
         "id": "pose-1",
         "label": "Pose 1",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/crimson-knight-two-poses-449232/1.jpg"
       },
       {
         "id": "pose-2",
         "label": "Pose 2",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/crimson-knight-two-poses-449232/2.jpg"
       }
     ],
     "themes": [
@@ -11959,17 +12052,20 @@
       {
         "id": "pose-1",
         "label": "Pose 1",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/void-marauders-437873/2.jpg"
       },
       {
         "id": "pose-2",
         "label": "Pose 2",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/void-marauders-437873/4.jpg"
       },
       {
         "id": "pose-3",
         "label": "Pose 3",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/void-marauders-437873/3.jpg"
       }
     ],
     "themes": [
@@ -12528,17 +12624,20 @@
       {
         "id": "pose-1",
         "label": "Pose 1",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/planar-seekers-424894/4.jpg"
       },
       {
         "id": "pose-2",
         "label": "Pose 2",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/planar-seekers-424894/2.jpg"
       },
       {
         "id": "pose-3",
         "label": "Pose 3",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/planar-seekers-424894/3.jpg"
       }
     ],
     "themes": []
@@ -12743,12 +12842,14 @@
       {
         "id": "pose-1",
         "label": "Pose 1",
-        "price": 450
+        "price": 450,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/xenoraptor-x2-424883/1.jpg"
       },
       {
         "id": "pose-2",
         "label": "Pose 2",
-        "price": 400
+        "price": 400,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/xenoraptor-x2-424883/2.jpg"
       }
     ],
     "themes": []
@@ -13237,17 +13338,20 @@
       {
         "id": "pose-1",
         "label": "Pose 1",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/possessed-villagers-415598/4.jpg"
       },
       {
         "id": "pose-2",
         "label": "Pose 2",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/possessed-villagers-415598/3.jpg"
       },
       {
         "id": "pose-3",
         "label": "Pose 3",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/possessed-villagers-415598/2.jpg"
       }
     ],
     "themes": [
@@ -13820,17 +13924,20 @@
       {
         "id": "pose-1",
         "label": "Pose 1",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/steel-predators-407772/2.jpg"
       },
       {
         "id": "pose-2",
         "label": "Pose 2",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/steel-predators-407772/3.jpg"
       },
       {
         "id": "pose-3",
         "label": "Pose 3",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/steel-predators-407772/4.jpg"
       }
     ],
     "themes": []
@@ -13900,12 +14007,14 @@
       {
         "id": "pose-1",
         "label": "Pose 1",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/forgeborn-elite-2-poses-407769/1.jpg"
       },
       {
         "id": "pose-2",
         "label": "Pose 2",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/forgeborn-elite-2-poses-407769/2.jpg"
       }
     ],
     "themes": [
@@ -14604,17 +14713,20 @@
       {
         "id": "pose-1",
         "label": "Pose 1",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/unholy-spawns-397595/2.jpg"
       },
       {
         "id": "pose-2",
         "label": "Pose 2",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/unholy-spawns-397595/3.jpg"
       },
       {
         "id": "pose-3",
         "label": "Pose 3",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/unholy-spawns-397595/4.jpg"
       }
     ],
     "themes": [
@@ -15505,17 +15617,20 @@
       {
         "id": "pose-1",
         "label": "Pose 1",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/shadow-gazers-390864/2.jpg"
       },
       {
         "id": "pose-2",
         "label": "Pose 2",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/shadow-gazers-390864/3.jpg"
       },
       {
         "id": "pose-3",
         "label": "Pose 3",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/shadow-gazers-390864/4.jpg"
       }
     ],
     "themes": [
@@ -15844,12 +15959,14 @@
       {
         "id": "open",
         "label": "Open",
-        "price": 1250
+        "price": 1250,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/arkanum-living-spellbook-390852/1.jpg"
       },
       {
         "id": "closed",
         "label": "Closed",
-        "price": 900
+        "price": 900,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/arkanum-living-spellbook-390852/2.jpg"
       }
     ],
     "themes": []
@@ -16495,17 +16612,20 @@
       {
         "id": "pose-1",
         "label": "Pose 1",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/hell-hounds-384527/4.jpg"
       },
       {
         "id": "pose-2",
         "label": "Pose 2",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/hell-hounds-384527/3.jpg"
       },
       {
         "id": "pose-3",
         "label": "Pose 3",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/hell-hounds-384527/2.jpg"
       }
     ],
     "themes": [
@@ -16548,12 +16668,14 @@
       {
         "id": "bare-head",
         "label": "Bare Head",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/half-demon-commander-384526/1.jpg"
       },
       {
         "id": "helmet",
         "label": "Helmet",
-        "price": 300
+        "price": 300,
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/half-demon-commander-384526/2.jpg"
       }
     ],
     "themes": [
