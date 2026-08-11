@@ -5,7 +5,7 @@
     "name": "Archlich Sovereign",
     "category": "flesh-of-gods",
     "tags": [],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Archlich Sovereign is a striking addition to any collection — a figure with real character in every line of the sculpt. The striking detailing gives painters plenty to work with, from a subtle finish to something bolder.",
     "scale": "32 mm",
@@ -32,7 +32,7 @@
       "martial",
       "sensei"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Shou, the Old Master rewards a close look — the kind of miniature that holds up to scrutiny, not just tabletop distance. Its sensei character makes it a versatile pick for a wide range of encounters and stories.",
     "scale": "32 mm and 75 mm",
@@ -60,7 +60,7 @@
       "rogue",
       "ninjutsu"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "The Shadow Warrior was clearly sculpted with a specific story in mind, and it shows in the detail. A chinese figure like this earns its place in a growing collection just as easily as on the table.",
     "scale": "32 mm and 75 mm",
@@ -86,7 +86,7 @@
       "Musashi",
       "miyamoto"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Suke, Wandering Sword is a striking addition to any collection — a figure with real character in every line of the sculpt. The ronin detailing gives painters plenty to work with, from a subtle finish to something bolder.",
     "scale": "32 mm and 75 mm",
@@ -114,7 +114,7 @@
       "ronin",
       "masked"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "There's a confidence to Polly, Masterless Warrior's design that makes it stand out even before it's painted. Between the female styling and the pose, it's built to be a genuine centerpiece wherever it's placed.",
     "scale": "32 mm and 75 mm",
@@ -142,7 +142,7 @@
       "Chun",
       "li"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Xu Quin, Skyward Dragon Champion carries the unmistakable presence of the dragonkin — scale, wing, and ancient fury rendered in fine resin detail. Whether guarding a hoard or descending on an unsuspecting party, its chinese presence steals the scene.",
     "scale": "32 mm and 75 mm",
@@ -171,7 +171,7 @@
       "samurai",
       "oriental"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "There is a stillness to Cheng Pei, Downward Dragon Champion that only a dragon can carry — the calm of something that has never needed to hurry. Its oriental bearing makes it a natural centerpiece for any dragon-themed encounter or hoard.",
     "scale": "32 mm and 75 mm",
@@ -199,7 +199,7 @@
       "sorcerer",
       "arcane"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "There's a confidence to Akira, Arcane Fist Monk's design that makes it stand out even before it's painted. Between the monk styling and the pose, it's built to be a genuine centerpiece wherever it's placed.",
     "scale": "32 mm and 75 mm",
@@ -223,7 +223,7 @@
       "Club",
       "bearfolk"
     ],
-    "price": 0,
+    "price": 450,
     "currency": "EUR",
     "description": "Wild Sect Martial Bearfolk is a striking addition to any collection — a figure with real character in every line of the sculpt. The bear detailing gives painters plenty to work with, from a subtle finish to something bolder.",
     "scale": "32 mm",
@@ -250,7 +250,7 @@
       "ronin",
       "dhampir"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Grave-dirt and old grudges cling to Vampire Warrior, a miniature built for the moment your party realizes the crypt isn't empty. Its oriental details make it an easy fit for crypts, battlefields-turned-graveyards, or any encounter that needs a touch of the grave.",
     "scale": "32 mm",
@@ -278,7 +278,7 @@
       "masked",
       "YOSHIMITSU"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "There's a confidence to Swordsman from Nowhere's design that makes it stand out even before it's painted. Between the swordsman styling and the pose, it's built to be a genuine centerpiece wherever it's placed.",
     "scale": "32 mm and 75 mm",
@@ -307,7 +307,7 @@
       "sorcerer",
       "lo"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Pang Lo, Sorcerer Monk of Death & Void rewards a close look — the kind of miniature that holds up to scrutiny, not just tabletop distance. Its pan character makes it a versatile pick for a wide range of encounters and stories.",
     "scale": "32 mm and 75 mm",
@@ -334,7 +334,7 @@
       "masked",
       "trickster"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Masked Trickster Oni was not born — it was summoned, bargained for, or simply let in. Every line of the sculpt says so. Its demon silhouette makes it read as dangerous from across the table, exactly as a fiend should.",
     "scale": "32 mm",
@@ -367,7 +367,7 @@
       "masked",
       "variations"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Grave-dirt and old grudges cling to Floating Yokais, a miniature built for the moment your party realizes the crypt isn't empty. Its ghost details make it an easy fit for crypts, battlefields-turned-graveyards, or any encounter that needs a touch of the grave.",
     "scale": "32 mm",
@@ -383,15 +383,18 @@
     "variations": [
       {
         "id": "pose-1",
-        "label": "Pose 1"
+        "label": "Pose 1",
+        "price": 300
       },
       {
         "id": "pose-2",
-        "label": "Pose 2"
+        "label": "Pose 2",
+        "price": 300
       },
       {
         "id": "pose-3",
-        "label": "Pose 3"
+        "label": "Pose 3",
+        "price": 300
       }
     ],
     "themes": [
@@ -414,7 +417,7 @@
       "construct",
       "efigy"
     ],
-    "price": 0,
+    "price": 650,
     "currency": "EUR",
     "description": "War Guardian moves (in the fiction, if not the resin) with the deliberate certainty of something assembled to a specification. Between the golem silhouette and the mechanical detailing, it's built to look purposeful from any angle. A Medium-size version is also included.",
     "scale": "32 mm",
@@ -441,7 +444,7 @@
       "Sasuke",
       "swordsman"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Kurojin, Oni Enslaver was clearly sculpted with a specific story in mind, and it shows in the detail. A swordsman figure like this earns its place in a growing collection just as easily as on the table.",
     "scale": "32 mm and 75 mm",
@@ -469,7 +472,7 @@
       "Enslaver",
       "Susanoo"
     ],
-    "price": 0,
+    "price": 1000,
     "currency": "EUR",
     "description": "Brimstone and bad intentions define Kurojin, Oni Enslaver - Duo, a demonic figure equally at home in a pit fight or a cursed altar room. The swordsman styling gives it real presence as a boss encounter or a pact-gone-wrong reveal.",
     "scale": "32 mm",
@@ -497,7 +500,7 @@
       "oni",
       "yokai"
     ],
-    "price": 0,
+    "price": 1550,
     "currency": "EUR",
     "description": "Kurojin's Flaming Oni was not born — it was summoned, bargained for, or simply let in. Every line of the sculpt says so. Its yokai silhouette makes it read as dangerous from across the table, exactly as a fiend should.",
     "scale": "32 mm",
@@ -527,7 +530,7 @@
       "oni",
       "insectoid"
     ],
-    "price": 0,
+    "price": 800,
     "currency": "EUR",
     "description": "Brimstone and bad intentions define Insectoid Oni, a demonic figure equally at home in a pit fight or a cursed altar room. The demon styling gives it real presence as a boss encounter or a pact-gone-wrong reveal.",
     "scale": "32 mm",
@@ -555,7 +558,7 @@
       "oni",
       "yokai"
     ],
-    "price": 0,
+    "price": 1000,
     "currency": "EUR",
     "description": "Riptide Oni belongs to the lower planes, and the sculpt makes no attempt to pretend otherwise. A tentacles figure this confident earns its spot guarding a portal, a pact, or a throne of bone.",
     "scale": "32 mm",
@@ -583,7 +586,7 @@
       "oni",
       "yokai"
     ],
-    "price": 0,
+    "price": 900,
     "currency": "EUR",
     "description": "Brimstone and bad intentions define Cinderscar Oni, a demonic figure equally at home in a pit fight or a cursed altar room. The yokai styling gives it real presence as a boss encounter or a pact-gone-wrong reveal.",
     "scale": "32 mm",
@@ -595,38 +598,6 @@
     "createdAt": "2024-06-02",
     "themes": [
       "demons-fiends"
-    ]
-  },
-  {
-    "id": "mmf-377802",
-    "slug": "skyward-and-downward-dragons-377802",
-    "name": "Skyward and Downward Dragons",
-    "category": "flesh-of-gods",
-    "tags": [
-      "chinese",
-      "dragon",
-      "japanese",
-      "snake",
-      "yang",
-      "yin",
-      "oriental",
-      "serpent",
-      "Shenlong"
-    ],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Skyward and Downward Dragons channels the old draconic bloodlines: patient, immense, and utterly certain of its own supremacy. The yang detailing rewards close painting just as much as it reads well from across the table.",
-    "scale": "32 mm",
-    "material": "resin",
-    "images": [
-      "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/skyward-and-downward-dragons-377802/1.jpg",
-      "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/skyward-and-downward-dragons-377802/2.jpg",
-      "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/skyward-and-downward-dragons-377802/3.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-01-01",
-    "themes": [
-      "dragons"
     ]
   },
   {
@@ -643,7 +614,7 @@
       "serpent",
       "Shenlong"
     ],
-    "price": 0,
+    "price": 7250,
     "currency": "EUR",
     "description": "Draconic power runs through every line of Skyward Dragon, a figure built to dominate a battle mat the way its kind dominates the sky. Sculpted with a shenlong silhouette, it holds up as a striking solo display piece as much as a tabletop threat.",
     "scale": "32 mm",
@@ -671,7 +642,7 @@
       "serpent",
       "Shenlong"
     ],
-    "price": 0,
+    "price": 4350,
     "currency": "EUR",
     "description": "There is a stillness to Downward Dragon that only a dragon can carry — the calm of something that has never needed to hurry. Its oriental bearing makes it a natural centerpiece for any dragon-themed encounter or hoard.",
     "scale": "32 mm",
@@ -699,7 +670,7 @@
       "serpent",
       "Shenlong"
     ],
-    "price": 0,
+    "price": 6150,
     "currency": "EUR",
     "description": "Heavenly Dragon channels the old draconic bloodlines: patient, immense, and utterly certain of its own supremacy. The snake detailing rewards close painting just as much as it reads well from across the table.",
     "scale": "32 mm",
@@ -727,7 +698,7 @@
       "fighting",
       "framed"
     ],
-    "price": 0,
+    "price": 10150,
     "currency": "EUR",
     "description": "Framed Diorama - Blossoms and Blows was clearly sculpted with a specific story in mind, and it shows in the detail. A monk figure like this earns its place in a growing collection just as easily as on the table. Assembly is required.",
     "scale": "32 mm",
@@ -737,7 +708,8 @@
     ],
     "inStock": true,
     "createdAt": "2024-06-02",
-    "themes": []
+    "themes": [],
+    "hidden": true
   },
   {
     "id": "mmf-371004",
@@ -754,7 +726,7 @@
       "cultist",
       "npc"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "High Priestess - Order Of The Fateful Saints belongs to the lower planes, and the sculpt makes no attempt to pretend otherwise. A cultist figure this confident earns its spot guarding a portal, a pact, or a throne of bone.",
     "scale": "32 mm and 75 mm",
@@ -782,7 +754,7 @@
       "halfling",
       "oath"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Every detail on Tansy, Oath of the Ancients (Halfling Paladin) suggests a history: a fight survived, a title earned, a road still being walked. Between the halfling gear and the pose, they're built to lead a scene rather than fill its background.",
     "scale": "32 mm and 75 mm",
@@ -807,7 +779,7 @@
       "tiefling",
       "crusader"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Radeem, The Insurgent (Tiefling Fighter) is a character first and a miniature second — built with a clear sense of who they are and what they've done. The fighter detailing gives them a distinct silhouette that holds up in a crowd of other figures.",
     "scale": "32 mm and 75 mm",
@@ -835,7 +807,7 @@
       "rogue",
       "Shrine"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "There's a confidence to Ivy, Shrine Raider (Elf Rogue)'s pose that reads as lived-in rather than posed for a cover. Their assassin styling makes them a strong fit as a named NPC, a rival, or a player's own hero on the table.",
     "scale": "32 mm and 75 mm",
@@ -865,7 +837,7 @@
       "crusader",
       "armored"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Paul Santos, Fate's Herald (Human Cleric) is a character first and a miniature second — built with a clear sense of who they are and what they've done. The knight detailing gives them a distinct silhouette that holds up in a crowd of other figures.",
     "scale": "32 mm and 75 mm",
@@ -892,7 +864,7 @@
       "sorcerer",
       "animist"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Anna Santos, Apostate Animist (Human Druid) carries the specific presence of someone the party will remember, ally or otherwise. A wizard figure like this earns a spot as a memorable face at your table, not just another body on the map.",
     "scale": "32 mm and 75 mm",
@@ -921,7 +893,7 @@
       "skinner",
       "unhly"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "There's a hunger to Unholy Priest that no amount of paint can soften; this is a fiend built to be feared, not admired. Whether summoned by a warlock or native to the encounter, its priest character sells the threat immediately.",
     "scale": "32 mm and 75 mm",
@@ -952,7 +924,7 @@
       "armored",
       "void"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Brimstone and bad intentions define Void Crusader, a demonic figure equally at home in a pit fight or a cursed altar room. The hammer styling gives it real presence as a boss encounter or a pact-gone-wrong reveal.",
     "scale": "32 mm",
@@ -982,7 +954,7 @@
       "Aasimar",
       "Eyed"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "The One-Eyed Queen was sculpted with the sense of grace and terrible purpose that separates the heavenly from the merely holy. A cyclops figure like this rewards a bright, clean paint job as much as it rewards a grim one.",
     "scale": "32 mm and 75 mm",
@@ -1013,7 +985,7 @@
       "faith",
       "archmage"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "There's a hunger to The Faith Breaker that no amount of paint can soften; this is a fiend built to be feared, not admired. Whether summoned by a warlock or native to the encounter, its priest character sells the threat immediately.",
     "scale": "32 mm",
@@ -1041,7 +1013,7 @@
       "cultist",
       "hexblade"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Strix, Queen's Shadow was not born — it was summoned, bargained for, or simply let in. Every line of the sculpt says so. Its wizard silhouette makes it read as dangerous from across the table, exactly as a fiend should.",
     "scale": "32 mm",
@@ -1069,7 +1041,7 @@
       "sin",
       "variations"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Grave-dirt and old grudges cling to Sin-Eater Wraiths, a miniature built for the moment your party realizes the crypt isn't empty. Its sin details make it an easy fit for crypts, battlefields-turned-graveyards, or any encounter that needs a touch of the grave. Comes with 3 pose variations.",
     "scale": "32 mm",
@@ -1085,15 +1057,18 @@
     "variations": [
       {
         "id": "pose-1",
-        "label": "Pose 1"
+        "label": "Pose 1",
+        "price": 300
       },
       {
         "id": "pose-2",
-        "label": "Pose 2"
+        "label": "Pose 2",
+        "price": 300
       },
       {
         "id": "pose-3",
-        "label": "Pose 3"
+        "label": "Pose 3",
+        "price": 300
       }
     ],
     "themes": [
@@ -1115,7 +1090,7 @@
       "eliot",
       "Invoker"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Eliot, The Invoker was clearly sculpted with a specific story in mind, and it shows in the detail. A necromancer figure like this earns its place in a growing collection just as easily as on the table.",
     "scale": "32 mm and 75 mm",
@@ -1138,7 +1113,7 @@
       "aberration",
       "penitent"
     ],
-    "price": 0,
+    "price": 900,
     "currency": "EUR",
     "description": "The Penitent was not born — it was summoned, bargained for, or simply let in. Every line of the sculpt says so. Its atlas silhouette makes it read as dangerous from across the table, exactly as a fiend should.",
     "scale": "32 mm",
@@ -1167,7 +1142,7 @@
       "holy",
       "dying"
     ],
-    "price": 0,
+    "price": 700,
     "currency": "EUR",
     "description": "There's a solemnity to The Dying Deity, the kind of presence that makes a scene feel like it matters. Its angel bearing suits a divine envoy, a judge, or a guardian of something worth protecting.",
     "scale": "32 mm",
@@ -1194,7 +1169,7 @@
       "cultist",
       "ettin"
     ],
-    "price": 0,
+    "price": 1050,
     "currency": "EUR",
     "description": "There's a hunger to The Crusher that no amount of paint can soften; this is a fiend built to be feared, not admired. Whether summoned by a warlock or native to the encounter, its cleric character sells the threat immediately.",
     "scale": "32 mm",
@@ -1224,7 +1199,7 @@
       "cursed",
       "necrotic"
     ],
-    "price": 0,
+    "price": 1200,
     "currency": "EUR",
     "description": "Necrotic Elemental has crossed the line between life and death and returned wrong — a figure carved from decay and unfinished business. A ghost figure like this earns its place at the head of any undead warband.",
     "scale": "32 mm",
@@ -1249,7 +1224,7 @@
       "wyvern",
       "Drake"
     ],
-    "price": 0,
+    "price": 2400,
     "currency": "EUR",
     "description": "Scorpion Wyvern channels the old draconic bloodlines: patient, immense, and utterly certain of its own supremacy. The wyvern detailing rewards close painting just as much as it reads well from across the table.",
     "scale": "32 mm",
@@ -1277,7 +1252,7 @@
       "cultist",
       "Sanctum"
     ],
-    "price": 0,
+    "price": 4050,
     "currency": "EUR",
     "description": "Draconic power runs through every line of Sanctum Dragon, a figure built to dominate a battle mat the way its kind dominates the sky. Sculpted with a sacred silhouette, it holds up as a striking solo display piece as much as a tabletop threat.",
     "scale": "32 mm",
@@ -1305,7 +1280,7 @@
       "cursed",
       "demonic"
     ],
-    "price": 0,
+    "price": 2000,
     "currency": "EUR",
     "description": "Easter Special - Cursed Bunny is wild in the truest sense — a creature that answers to instinct, hunger, and territory, not to any code. The cursed sculpting gives it real texture up close while still reading clearly as a threat from across the table.",
     "scale": "32 mm",
@@ -1334,7 +1309,7 @@
       "prayer",
       "framed"
     ],
-    "price": 0,
+    "price": 9700,
     "currency": "EUR",
     "description": "Framed Diorama - The Last Vigil is built to anchor a scene rather than stand in it — a piece meant to be built around, not just placed down. The prayer styling makes it a natural fit for framing a key encounter rather than filling empty table space. Assembly is required.",
     "scale": "32 mm",
@@ -1369,7 +1344,7 @@
       "npc",
       "loremaster"
     ],
-    "price": 0,
+    "price": 350,
     "currency": "EUR",
     "description": "Something in Arcanimus Estate Loremaster refuses to stay buried. Every joint and hollow socket tells a story of a rest that never came. Perfect for a necromancer's muster or a haunted-ruin encounter, its wraith character carries real menace.",
     "scale": "32 mm and 75 mm",
@@ -1399,7 +1374,7 @@
       "sorcerer",
       "domain"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "There's a confidence to Thorne, Dusk Domain Druid's pose that reads as lived-in rather than posed for a cover. Their druid styling makes them a strong fit as a named NPC, a rival, or a player's own hero on the table.",
     "scale": "32 mm and 75 mm",
@@ -1432,7 +1407,7 @@
       "hooded",
       "thebeus"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Thebeus, Revenant Sorcerer is the tabletop's answer to the quiet dread of the grave: patient, cold, and never quite done. Between the hooded sculpting and the pose, it reads as genuinely unsettling on the table, not just spooky set dressing.",
     "scale": "32 mm and 75 mm",
@@ -1461,7 +1436,7 @@
       "gravelia",
       "shadeblade"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "There's a confidence to Gravelia, Shadeblade Duelist's pose that reads as lived-in rather than posed for a cover. Their female styling makes them a strong fit as a named NPC, a rival, or a player's own hero on the table.",
     "scale": "32 mm and 75 mm",
@@ -1493,7 +1468,7 @@
       "oathbreaker",
       "domain"
     ],
-    "price": 0,
+    "price": 400,
     "currency": "EUR",
     "description": "There's a confidence to Brondar, Death Domain Cleric's design that makes it stand out even before it's painted. Between the wizard styling and the pose, it's built to be a genuine centerpiece wherever it's placed.",
     "scale": "32 mm and 75 mm",
@@ -1520,7 +1495,7 @@
       "banshee",
       "spectre"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Void Banshee is the tabletop's answer to the quiet dread of the grave: patient, cold, and never quite done. Between the scream sculpting and the pose, it reads as genuinely unsettling on the table, not just spooky set dressing.",
     "scale": "32 mm",
@@ -1551,7 +1526,7 @@
       "cursed",
       "spectre"
     ],
-    "price": 0,
+    "price": 2550,
     "currency": "EUR",
     "description": "Brimstone and bad intentions define The Moribundi, a demonic figure equally at home in a pit fight or a cursed altar room. The ghost styling gives it real presence as a boss encounter or a pact-gone-wrong reveal.",
     "scale": "32 mm",
@@ -1586,7 +1561,7 @@
       "haunting",
       "nemesis"
     ],
-    "price": 0,
+    "price": 1500,
     "currency": "EUR",
     "description": "Thanabros, The Enforcer has crossed the line between life and death and returned wrong — a figure carved from decay and unfinished business. A head figure like this earns its place at the head of any undead warband.",
     "scale": "32 mm",
@@ -1616,7 +1591,7 @@
       "haunting",
       "spectral"
     ],
-    "price": 0,
+    "price": 2400,
     "currency": "EUR",
     "description": "There is a stillness to Phantom Dragon that only a dragon can carry — the calm of something that has never needed to hurry. Its phantom bearing makes it a natural centerpiece for any dragon-themed encounter or hoard.",
     "scale": "32 mm",
@@ -1650,7 +1625,7 @@
       "gargonoid",
       "mathenas"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Mathenas, Gargoyle King belongs to the lower planes, and the sculpt makes no attempt to pretend otherwise. A gargonoid figure this confident earns its spot guarding a portal, a pact, or a throne of bone.",
     "scale": "32 mm and 75 mm",
@@ -1683,7 +1658,7 @@
       "crime",
       "unpunished"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Something in Ghost Of Unpunished Crime refuses to stay buried. Every joint and hollow socket tells a story of a rest that never came. Perfect for a necromancer's muster or a haunted-ruin encounter, its undead character carries real menace.",
     "scale": "32 mm",
@@ -1715,7 +1690,7 @@
       "Hatred",
       "unchained"
     ],
-    "price": 0,
+    "price": 900,
     "currency": "EUR",
     "description": "Ghost Of Unchained Hatred was not born — it was summoned, bargained for, or simply let in. Every line of the sculpt says so. Its hatred silhouette makes it read as dangerous from across the table, exactly as a fiend should.",
     "scale": "32 mm",
@@ -1750,7 +1725,7 @@
       "13",
       "aberration"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Grave-dirt and old grudges cling to Ghost Of Harrowing Thoughts, a miniature built for the moment your party realizes the crypt isn't empty. Its ghosts details make it an easy fit for crypts, battlefields-turned-graveyards, or any encounter that needs a touch of the grave.",
     "scale": "32 mm",
@@ -1781,7 +1756,7 @@
       "winged",
       "gargonoid"
     ],
-    "price": 0,
+    "price": 3000,
     "currency": "EUR",
     "description": "Garghoul belongs to the lower planes, and the sculpt makes no attempt to pretend otherwise. A monster figure this confident earns its spot guarding a portal, a pact, or a throne of bone.",
     "scale": "32 mm",
@@ -1813,7 +1788,7 @@
       "crooked",
       "Landlord"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Evil Landlord has crossed the line between life and death and returned wrong — a figure carved from decay and unfinished business. A ghost figure like this earns its place at the head of any undead warband.",
     "scale": "32 mm",
@@ -1842,7 +1817,7 @@
       "npc",
       "loremaster"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Brimstone and bad intentions define Eliot, Necromantic Scholar, a demonic figure equally at home in a pit fight or a cursed altar room. The cultist styling gives it real presence as a boss encounter or a pact-gone-wrong reveal.",
     "scale": "32 mm",
@@ -1871,7 +1846,7 @@
       "imp",
       "gargonoid"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Dual-Blade Gargonoid was not born — it was summoned, bargained for, or simply let in. Every line of the sculpt says so. Its gargoyle silhouette makes it read as dangerous from across the table, exactly as a fiend should.",
     "scale": "32 mm",
@@ -1908,7 +1883,7 @@
       "masked",
       "elden"
     ],
-    "price": 0,
+    "price": 1200,
     "currency": "EUR",
     "description": "Grave-dirt and old grudges cling to Cryptkeeper, a miniature built for the moment your party realizes the crypt isn't empty. Its scenery details make it an easy fit for crypts, battlefields-turned-graveyards, or any encounter that needs a touch of the grave.",
     "scale": "32 mm",
@@ -1942,7 +1917,7 @@
       "witchcraft",
       "curse"
     ],
-    "price": 0,
+    "price": 7900,
     "currency": "EUR",
     "description": "Framed Diorama - The Ethereal Breach is the tabletop's answer to the quiet dread of the grave: patient, cold, and never quite done. Between the undead sculpting and the pose, it reads as genuinely unsettling on the table, not just spooky set dressing. Assembly is required.",
     "scale": "32 mm",
@@ -1954,7 +1929,8 @@
     "createdAt": "2024-02-01",
     "themes": [
       "undead"
-    ]
+    ],
+    "hidden": true
   },
   {
     "id": "mmf-349845",
@@ -1964,7 +1940,7 @@
     "tags": [
       "variations"
     ],
-    "price": 0,
+    "price": 400,
     "currency": "EUR",
     "description": "Dreadrider is a striking addition to any collection — a figure with real character in every line of the sculpt. The striking detailing gives painters plenty to work with, from a subtle finish to something bolder. Available mounted or on foot.",
     "scale": "32 mm",
@@ -1979,11 +1955,13 @@
     "variations": [
       {
         "id": "mounted",
-        "label": "Mounted"
+        "label": "Mounted",
+        "price": 400
       },
       {
         "id": "on-foot",
-        "label": "On Foot"
+        "label": "On Foot",
+        "price": 300
       }
     ],
     "themes": []
@@ -2003,7 +1981,7 @@
       "kenku",
       "Birdfolk"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Echo, Sonic Mirage (Kenku Bard) rewards a close look — the kind of miniature that holds up to scrutiny, not just tabletop distance. Its birdfolk character makes it a versatile pick for a wide range of encounters and stories.",
     "scale": "32 mm and 75 mm",
@@ -2021,7 +1999,7 @@
     "name": "War Elephant",
     "category": "flesh-of-gods",
     "tags": [],
-    "price": 0,
+    "price": 1950,
     "currency": "EUR",
     "description": "War Elephant was clearly sculpted with a specific story in mind, and it shows in the detail. A striking figure like this earns its place in a growing collection just as easily as on the table.",
     "scale": "32 mm",
@@ -2078,7 +2056,7 @@
       "loremaster",
       "lorekeeper"
     ],
-    "price": 0,
+    "price": 700,
     "currency": "EUR",
     "description": "The Head Collector was clearly sculpted with a specific story in mind, and it shows in the detail. A coffin figure like this earns its place in a growing collection just as easily as on the table.",
     "scale": "32 mm and 75 mm",
@@ -2106,7 +2084,7 @@
       "loremaster",
       "velloran"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "There's a confidence to Velloran, Scribe Sorcerer's design that makes it stand out even before it's painted. Between the velloran styling and the pose, it's built to be a genuine centerpiece wherever it's placed.",
     "scale": "32 mm and 75 mm",
@@ -2134,7 +2112,7 @@
       "Battlemaster",
       "norrington"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Sir Norrington, Lone Battle Master was clearly sculpted with a specific story in mind, and it shows in the detail. A battlemaster figure like this earns its place in a growing collection just as easily as on the table.",
     "scale": "32 mm and 75 mm",
@@ -2159,7 +2137,7 @@
       "ironforged",
       "falkovia"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "There's a solemnity to Falkovia, Forgeborn Valkyrie, the kind of presence that makes a scene feel like it matters. Its falkovia bearing suits a divine envoy, a judge, or a guardian of something worth protecting.",
     "scale": "32 mm and 75 mm",
@@ -2186,7 +2164,7 @@
       "gunslinger",
       "asher"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "There's a hunger to Asher, Demon Hunter that no amount of paint can soften; this is a fiend built to be feared, not admired. Whether summoned by a warlock or native to the encounter, its fighter character sells the threat immediately.",
     "scale": "32 mm and 75 mm",
@@ -2215,7 +2193,7 @@
       "Castigator",
       "bluebeard"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Brimstone and bad intentions define The Castigator, a demonic figure equally at home in a pit fight or a cursed altar room. The bluebeard styling gives it real presence as a boss encounter or a pact-gone-wrong reveal.",
     "scale": "32 mm and 75 mm",
@@ -2270,7 +2248,7 @@
       "trolls",
       "variations"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "There's a confidence to Siege Trolls's design that makes it stand out even before it's painted. Between the siege styling and the pose, it's built to be a genuine centerpiece wherever it's placed.",
     "scale": "32 mm",
@@ -2286,15 +2264,18 @@
     "variations": [
       {
         "id": "pose-1",
-        "label": "Pose 1"
+        "label": "Pose 1",
+        "price": 300
       },
       {
         "id": "pose-2",
-        "label": "Pose 2"
+        "label": "Pose 2",
+        "price": 300
       },
       {
         "id": "pose-3",
-        "label": "Pose 3"
+        "label": "Pose 3",
+        "price": 300
       }
     ],
     "themes": []
@@ -2417,7 +2398,7 @@
       "Rhinofolk",
       "variations"
     ],
-    "price": 0,
+    "price": 950,
     "currency": "EUR",
     "description": "Every line of Pike-Breakers sells raw predatory intent, a beast sculpted to dominate its corner of the table. Its rhinofolk features make it a natural fit for wilderness encounters, lairs, or anything that should feel genuinely dangerous.",
     "scale": "32 mm",
@@ -2433,15 +2414,18 @@
     "variations": [
       {
         "id": "pose-1",
-        "label": "Pose 1"
+        "label": "Pose 1",
+        "price": 950
       },
       {
         "id": "pose-2",
-        "label": "Pose 2"
+        "label": "Pose 2",
+        "price": 850
       },
       {
         "id": "pose-3",
-        "label": "Pose 3"
+        "label": "Pose 3",
+        "price": 900
       }
     ],
     "themes": [
@@ -2459,7 +2443,7 @@
       "troll",
       "reckoning"
     ],
-    "price": 0,
+    "price": 1150,
     "currency": "EUR",
     "description": "There's nothing civilized about Troll of Reckoning; it's built to feel like something you'd rather not meet on a narrow trail. A giant beast like this earns its place as a random encounter or the reveal at the end of a hunting trail.",
     "scale": "32 mm",
@@ -2486,7 +2470,7 @@
       "swarm",
       "fey"
     ],
-    "price": 0,
+    "price": 500,
     "currency": "EUR",
     "description": "Brimstone and bad intentions define Swarm of Undead Fairies, a demonic figure equally at home in a pit fight or a cursed altar room. The fey styling gives it real presence as a boss encounter or a pact-gone-wrong reveal.",
     "scale": "32 mm",
@@ -5128,7 +5112,7 @@
     "name": "Marilith General",
     "category": "flesh-of-gods",
     "tags": [],
-    "price": 0,
+    "price": 1050,
     "currency": "EUR",
     "description": "Marilith General rewards a close look — the kind of miniature that holds up to scrutiny, not just tabletop distance. Its striking character makes it a versatile pick for a wide range of encounters and stories.",
     "scale": "32 mm",
@@ -5148,7 +5132,7 @@
     "tags": [
       "variations"
     ],
-    "price": 0,
+    "price": 500,
     "currency": "EUR",
     "description": "Hell Knight rewards a close look — the kind of miniature that holds up to scrutiny, not just tabletop distance. Its striking character makes it a versatile pick for a wide range of encounters and stories.",
     "scale": "32 mm",
@@ -5162,11 +5146,13 @@
     "variations": [
       {
         "id": "mounted",
-        "label": "Mounted"
+        "label": "Mounted",
+        "price": 500
       },
       {
         "id": "on-foot",
-        "label": "On Foot"
+        "label": "On Foot",
+        "price": 300
       }
     ],
     "themes": []
@@ -6513,7 +6499,7 @@
       "biomechanical",
       "NecroTech"
     ],
-    "price": 0,
+    "price": 3300,
     "currency": "EUR",
     "description": "Necrotech Wyvern carries the unmistakable presence of the dragonkin — scale, wing, and ancient fury rendered in fine resin detail. Whether guarding a hoard or descending on an unsuspecting party, its dragon presence steals the scene.",
     "scale": "32 mm",
@@ -6540,7 +6526,7 @@
       "infernal",
       "Bonegrinder"
     ],
-    "price": 0,
+    "price": 2300,
     "currency": "EUR",
     "description": "Bonegrinder Titan was built, not born — a working machine of joints, plating, and purpose rendered in resin. The titan detailing holds up beautifully whether painted as rusted relic or freshly forged threat.",
     "scale": "32 mm",
@@ -7071,7 +7057,7 @@
       "construct",
       "wicker"
     ],
-    "price": 0,
+    "price": 2250,
     "currency": "EUR",
     "description": "Every surface of Wicker Golem reads as engineered rather than grown, a construct with a job and no capacity to question it. A folk construct like this anchors a dungeon guardian encounter without needing any extra explanation.",
     "scale": "32 mm",
@@ -7100,7 +7086,7 @@
       "Idol",
       "baphomet"
     ],
-    "price": 0,
+    "price": 2050,
     "currency": "EUR",
     "description": "Brimstone and bad intentions define Goat Idol, a demonic figure equally at home in a pit fight or a cursed altar room. The horror styling gives it real presence as a boss encounter or a pact-gone-wrong reveal.",
     "scale": "32 mm",
@@ -7648,7 +7634,7 @@
       "wyvern",
       "fellbeast"
     ],
-    "price": 0,
+    "price": 2900,
     "currency": "EUR",
     "description": "Fellbeast channels the old draconic bloodlines: patient, immense, and utterly certain of its own supremacy. The wyvern detailing rewards close painting just as much as it reads well from across the table.",
     "scale": "32 mm",
@@ -8188,7 +8174,7 @@
       "DESPOT",
       "vorus"
     ],
-    "price": 0,
+    "price": 2350,
     "currency": "EUR",
     "description": "There is a stillness to Vorus, Dragon Despot that only a dragon can carry — the calm of something that has never needed to hurry. Its dragon bearing makes it a natural centerpiece for any dragon-themed encounter or hoard.",
     "scale": "32 mm",
@@ -8257,7 +8243,7 @@
       "gargantuan",
       "Cataclysm"
     ],
-    "price": 0,
+    "price": 7250,
     "currency": "EUR",
     "description": "Elemental Cataclysm - 4-Year Anniversary Special channels the old draconic bloodlines: patient, immense, and utterly certain of its own supremacy. The beast detailing rewards close painting just as much as it reads well from across the table.",
     "scale": "32 mm",
@@ -9323,7 +9309,7 @@
       "cultist",
       "Deathbringer"
     ],
-    "price": 0,
+    "price": 2900,
     "currency": "EUR",
     "description": "Deathbringer carries the unmistakable presence of the dragonkin — scale, wing, and ancient fury rendered in fine resin detail. Whether guarding a hoard or descending on an unsuspecting party, its cultist presence steals the scene. A riderless version of the wyvern is also included.",
     "scale": "32 mm",
@@ -9866,7 +9852,7 @@
       "monstrosity",
       "abolich"
     ],
-    "price": 0,
+    "price": 2400,
     "currency": "EUR",
     "description": "Brimstone and bad intentions define Abo-Lich, a demonic figure equally at home in a pit fight or a cursed altar room. The monstrosity styling gives it real presence as a boss encounter or a pact-gone-wrong reveal.",
     "scale": "32 mm",
@@ -10881,7 +10867,7 @@
       "franchina",
       "sanctifier"
     ],
-    "price": 0,
+    "price": 1150,
     "currency": "EUR",
     "description": "Brimstone and bad intentions define Infernal Sanctifier, a demonic figure equally at home in a pit fight or a cursed altar room. The mike styling gives it real presence as a boss encounter or a pact-gone-wrong reveal.",
     "scale": "32 mm",
@@ -11474,7 +11460,7 @@
       "wendigo",
       "yule"
     ],
-    "price": 0,
+    "price": 500,
     "currency": "EUR",
     "description": "Christmas Special - Yule Wraith has crossed the line between life and death and returned wrong — a figure carved from decay and unfinished business. A special figure like this earns its place at the head of any undead warband.",
     "scale": "32 mm",
@@ -11504,7 +11490,7 @@
       "yule",
       "nicolau"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Christmas Special - Yule Wanderer rewards a close look — the kind of miniature that holds up to scrutiny, not just tabletop distance. Its nicolau character makes it a versatile pick for a wide range of encounters and stories.",
     "scale": "32 mm and 75 mm",
@@ -11530,7 +11516,7 @@
       "void",
       "Communion"
     ],
-    "price": 0,
+    "price": 8050,
     "currency": "EUR",
     "description": "Framed Diorama - Void Communion carries the unmistakable presence of the dragonkin — scale, wing, and ancient fury rendered in fine resin detail. Whether guarding a hoard or descending on an unsuspecting party, its void presence steals the scene. Assembly is required.",
     "scale": "32 mm",
@@ -11542,7 +11528,8 @@
     "createdAt": "2025-01-03",
     "themes": [
       "dragons"
-    ]
+    ],
+    "hidden": true
   },
   {
     "id": "mmf-437921",
@@ -11560,7 +11547,7 @@
       "masked",
       "jack-of-blades"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Faceless Knight rewards a close look — the kind of miniature that holds up to scrutiny, not just tabletop distance. Its fighter character makes it a versatile pick for a wide range of encounters and stories.",
     "scale": "32 mm",
@@ -11586,7 +11573,7 @@
       "treefolk",
       "sentient"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Treefolk Shaman is a striking addition to any collection — a figure with real character in every line of the sculpt. The ent detailing gives painters plenty to work with, from a subtle finish to something bolder.",
     "scale": "32 mm and 75 mm",
@@ -11614,7 +11601,7 @@
       "sorceress",
       "archmage"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "There's a confidence to Ursula, Wonder Archmage's design that makes it stand out even before it's painted. Between the wizard styling and the pose, it's built to be a genuine centerpiece wherever it's placed.",
     "scale": "32 mm and 75 mm",
@@ -11642,7 +11629,7 @@
       "rift",
       "thaly"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Thaly, Rift Ranger is a striking addition to any collection — a figure with real character in every line of the sculpt. The ranger detailing gives painters plenty to work with, from a subtle finish to something bolder.",
     "scale": "32 mm and 75 mm",
@@ -11668,7 +11655,7 @@
       "Gnoll",
       "werebeast"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "There's a confidence to Rhogar, Werebeast Avenger's design that makes it stand out even before it's painted. Between the warrior styling and the pose, it's built to be a genuine centerpiece wherever it's placed.",
     "scale": "32 mm and 75 mm",
@@ -11695,7 +11682,7 @@
       "clockpunk",
       "ludos"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Ludos, Clockwork Shadow rewards a close look — the kind of miniature that holds up to scrutiny, not just tabletop distance. Its arcane character makes it a versatile pick for a wide range of encounters and stories.",
     "scale": "32 mm and 75 mm",
@@ -11726,7 +11713,7 @@
       "archdevil",
       "hexios"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "There's a hunger to Hexios, Dark Mother's Herald that no amount of paint can soften; this is a fiend built to be feared, not admired. Whether summoned by a warlock or native to the encounter, its warlock character sells the threat immediately.",
     "scale": "32 mm and 75 mm",
@@ -11755,7 +11742,7 @@
       "crimson",
       "strahd"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Harker, Crimson Blade has crossed the line between life and death and returned wrong — a figure carved from decay and unfinished business. A vampire figure like this earns its place at the head of any undead warband.",
     "scale": "32 mm and 75 mm",
@@ -11785,7 +11772,7 @@
       "void",
       "eladrin"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Goreck, Void Sage carries the specific presence of someone the party will remember, ally or otherwise. A wizard figure like this earns a spot as a memorable face at your table, not just another body on the map.",
     "scale": "32 mm and 75 mm",
@@ -11813,7 +11800,7 @@
       "void",
       "eladrin"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "There's a confidence to Goreck, Circle of the Void's pose that reads as lived-in rather than posed for a cover. Their void styling makes them a strong fit as a named NPC, a rival, or a player's own hero on the table.",
     "scale": "32 mm and 75 mm",
@@ -11842,7 +11829,7 @@
       "eladrin",
       "longbow"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Finn, Protector of Realms is a character first and a miniature second — built with a clear sense of who they are and what they've done. The bow detailing gives them a distinct silhouette that holds up in a crowd of other figures.",
     "scale": "32 mm and 75 mm",
@@ -11870,7 +11857,7 @@
       "druid",
       "archfeys"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "There's a confidence to Dunsany, Archfey's Warlock's design that makes it stand out even before it's painted. Between the female styling and the pose, it's built to be a genuine centerpiece wherever it's placed.",
     "scale": "32 mm and 75 mm",
@@ -11900,7 +11887,7 @@
       "Aasimar",
       "cain"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Cain, Celestial Champion carries itself with the quiet authority of something that answers to a higher order. The knight detailing gives it real gravity as a boss-tier celestial encounter or a shrine centerpiece.",
     "scale": "32 mm and 75 mm",
@@ -11931,7 +11918,7 @@
       "druid",
       "voidcaller"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Aethra, Voidcaller Druid is a striking addition to any collection — a figure with real character in every line of the sculpt. The female detailing gives painters plenty to work with, from a subtle finish to something bolder.",
     "scale": "32 mm and 75 mm",
@@ -11955,7 +11942,7 @@
       "void",
       "variations"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Every line of Void Marauders sells raw predatory intent, a beast sculpted to dominate its corner of the table. Its void features make it a natural fit for wilderness encounters, lairs, or anything that should feel genuinely dangerous.",
     "scale": "32 mm",
@@ -11971,15 +11958,18 @@
     "variations": [
       {
         "id": "pose-1",
-        "label": "Pose 1"
+        "label": "Pose 1",
+        "price": 300
       },
       {
         "id": "pose-2",
-        "label": "Pose 2"
+        "label": "Pose 2",
+        "price": 300
       },
       {
         "id": "pose-3",
-        "label": "Pose 3"
+        "label": "Pose 3",
+        "price": 300
       }
     ],
     "themes": [
@@ -11999,7 +11989,7 @@
       "myconid",
       "fungusfolk"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Myconid Warlord is a striking addition to any collection — a figure with real character in every line of the sculpt. The warrior detailing gives painters plenty to work with, from a subtle finish to something bolder.",
     "scale": "32 mm",
@@ -12028,7 +12018,7 @@
       "eliot",
       "consumed"
     ],
-    "price": 0,
+    "price": 600,
     "currency": "EUR",
     "description": "Eliot, Void Consumed rewards a close look — the kind of miniature that holds up to scrutiny, not just tabletop distance. Its possessed character makes it a versatile pick for a wide range of encounters and stories.",
     "scale": "32 mm",
@@ -12057,7 +12047,7 @@
       "void",
       "eliot"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Eliot, Icon of the Void has crossed the line between life and death and returned wrong — a figure carved from decay and unfinished business. A wizard figure like this earns its place at the head of any undead warband.",
     "scale": "32 mm and 75 mm",
@@ -12086,7 +12076,7 @@
       "eldritch",
       "void"
     ],
-    "price": 0,
+    "price": 700,
     "currency": "EUR",
     "description": "Grave-dirt and old grudges cling to Void-Warped Basilisk, a miniature built for the moment your party realizes the crypt isn't empty. Its corrupted details make it an easy fit for crypts, battlefields-turned-graveyards, or any encounter that needs a touch of the grave.",
     "scale": "32 mm",
@@ -12114,7 +12104,7 @@
       "archfey",
       "titania"
     ],
-    "price": 0,
+    "price": 650,
     "currency": "EUR",
     "description": "There's a confidence to Titania, Light Queen's pose that reads as lived-in rather than posed for a cover. Their elf styling makes them a strong fit as a named NPC, a rival, or a player's own hero on the table.",
     "scale": "32 mm",
@@ -12142,7 +12132,7 @@
       "Oberon",
       "archfey"
     ],
-    "price": 0,
+    "price": 700,
     "currency": "EUR",
     "description": "Oberon, Green Lord is a character first and a miniature second — built with a clear sense of who they are and what they've done. The eladrin detailing gives them a distinct silhouette that holds up in a crowd of other figures.",
     "scale": "32 mm",
@@ -12170,7 +12160,7 @@
       "lilith",
       "archdevil"
     ],
-    "price": 0,
+    "price": 800,
     "currency": "EUR",
     "description": "Oblivion was not born — it was summoned, bargained for, or simply let in. Every line of the sculpt says so. Its devil silhouette makes it read as dangerous from across the table, exactly as a fiend should.",
     "scale": "32 mm",
@@ -12196,7 +12186,7 @@
       "treefolk",
       "treebeard"
     ],
-    "price": 0,
+    "price": 2550,
     "currency": "EUR",
     "description": "Verdant Colossus was clearly sculpted with a specific story in mind, and it shows in the detail. A treebeard figure like this earns its place in a growing collection just as easily as on the table.",
     "scale": "32 mm",
@@ -12225,7 +12215,7 @@
       "false",
       "eldritch"
     ],
-    "price": 0,
+    "price": 1750,
     "currency": "EUR",
     "description": "Forgotten Hydra channels the old draconic bloodlines: patient, immense, and utterly certain of its own supremacy. The horror detailing rewards close painting just as much as it reads well from across the table.",
     "scale": "32 mm",
@@ -12255,7 +12245,7 @@
       "eldritch",
       "void"
     ],
-    "price": 0,
+    "price": 3750,
     "currency": "EUR",
     "description": "Draconic power runs through every line of Void Dragon, a figure built to dominate a battle mat the way its kind dominates the sky. Sculpted with a dragon silhouette, it holds up as a striking solo display piece as much as a tabletop threat.",
     "scale": "32 mm",
@@ -12286,7 +12276,7 @@
       "lovecraftian",
       "void"
     ],
-    "price": 0,
+    "price": 8500,
     "currency": "EUR",
     "description": "There's a confidence to The Void God's design that makes it stand out even before it's painted. Between the god styling and the pose, it's built to be a genuine centerpiece wherever it's placed.",
     "scale": "32 mm",
@@ -12314,7 +12304,7 @@
       "nautiloid",
       "astral"
     ],
-    "price": 0,
+    "price": 7150,
     "currency": "EUR",
     "description": "Framed Diorama - Cosmic Crossing is a striking addition to any collection — a figure with real character in every line of the sculpt. The astral detailing gives painters plenty to work with, from a subtle finish to something bolder. Assembly is required.",
     "scale": "32 mm",
@@ -12324,7 +12314,8 @@
     ],
     "inStock": true,
     "createdAt": "2024-12-02",
-    "themes": []
+    "themes": [],
+    "hidden": true
   },
   {
     "id": "mmf-424902",
@@ -12342,7 +12333,7 @@
       "wanderer",
       "astral"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Astral Wanderer is a striking addition to any collection — a figure with real character in every line of the sculpt. The sorcerer detailing gives painters plenty to work with, from a subtle finish to something bolder.",
     "scale": "32 mm and 75 mm",
@@ -12372,7 +12363,7 @@
       "doomed",
       "zothan"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "There's a confidence to Zothan, Doomed Dimension Warlock (Duergar Warlock)'s pose that reads as lived-in rather than posed for a cover. Their sorcerer styling makes them a strong fit as a named NPC, a rival, or a player's own hero on the table.",
     "scale": "32 mm and 75 mm",
@@ -12402,7 +12393,7 @@
       "yth",
       "transplanar"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Yth, Transplanar Blade was clearly sculpted with a specific story in mind, and it shows in the detail. A rogue figure like this earns its place in a growing collection just as easily as on the table.",
     "scale": "32 mm and 75 mm",
@@ -12428,7 +12419,7 @@
       "void",
       "Half-Giant"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Void Slayer is wild in the truest sense — a creature that answers to instinct, hunger, and territory, not to any code. The giant sculpting gives it real texture up close while still reading clearly as a threat from across the table.",
     "scale": "32 mm and 75 mm",
@@ -12461,7 +12452,7 @@
       "Vanguard",
       "fate's"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "There's a confidence to Paul Santos, Fate's Vanguard's pose that reads as lived-in rather than posed for a cover. Their fate's styling makes them a strong fit as a named NPC, a rival, or a player's own hero on the table.",
     "scale": "32 mm and 75 mm",
@@ -12491,7 +12482,7 @@
       "eladrin",
       "gatewalker"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Finn, Elven Gatewalker (Eladrin Ranger) carries the specific presence of someone the party will remember, ally or otherwise. A fighter figure like this earns a spot as a memorable face at your table, not just another body on the map.",
     "scale": "32 mm and 75 mm",
@@ -12520,7 +12511,7 @@
       "void",
       "variations"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Planar Seekers is a striking addition to any collection — a figure with real character in every line of the sculpt. The beholder detailing gives painters plenty to work with, from a subtle finish to something bolder.",
     "scale": "32 mm",
@@ -12536,15 +12527,18 @@
     "variations": [
       {
         "id": "pose-1",
-        "label": "Pose 1"
+        "label": "Pose 1",
+        "price": 300
       },
       {
         "id": "pose-2",
-        "label": "Pose 2"
+        "label": "Pose 2",
+        "price": 300
       },
       {
         "id": "pose-3",
-        "label": "Pose 3"
+        "label": "Pose 3",
+        "price": 300
       }
     ],
     "themes": []
@@ -12565,7 +12559,7 @@
       "Weird",
       "aberration"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Grave-dirt and old grudges cling to Nightmare Cherub, a miniature built for the moment your party realizes the crypt isn't empty. Its weird details make it an easy fit for crypts, battlefields-turned-graveyards, or any encounter that needs a touch of the grave.",
     "scale": "32 mm",
@@ -12594,7 +12588,7 @@
       "mindflayer",
       "mindreaver"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "There's a confidence to Mindreaver Reaper's design that makes it stand out even before it's painted. Between the mind styling and the pose, it's built to be a genuine centerpiece wherever it's placed.",
     "scale": "32 mm",
@@ -12620,7 +12614,7 @@
       "doppelganger",
       "duplicate"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Cosmic Revenant has crossed the line between life and death and returned wrong — a figure carved from decay and unfinished business. A duplicate figure like this earns its place at the head of any undead warband.",
     "scale": "32 mm",
@@ -12648,7 +12642,7 @@
       "mindreaver",
       "illitidh"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "There's a confidence to Mindreaver Tyrant's design that makes it stand out even before it's painted. Between the mindreaver styling and the pose, it's built to be a genuine centerpiece wherever it's placed.",
     "scale": "32 mm and 75 mm",
@@ -12674,7 +12668,7 @@
       "necromancer",
       "eldritch"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Something in Cosmic Lich refuses to stay buried. Every joint and hollow socket tells a story of a rest that never came. Perfect for a necromancer's muster or a haunted-ruin encounter, its lovecraftian character carries real menace.",
     "scale": "32 mm and 75 mm",
@@ -12704,7 +12698,7 @@
       "rogue",
       "tiefling"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "There's a hunger to Cosmic Hunter that no amount of paint can soften; this is a fiend built to be feared, not admired. Whether summoned by a warlock or native to the encounter, its assassin character sells the threat immediately.",
     "scale": "32 mm and 75 mm",
@@ -12734,7 +12728,7 @@
       "xenoraptor",
       "variations"
     ],
-    "price": 0,
+    "price": 450,
     "currency": "EUR",
     "description": "Xenoraptor x2 is a striking addition to any collection — a figure with real character in every line of the sculpt. The xenoraptor detailing gives painters plenty to work with, from a subtle finish to something bolder.",
     "scale": "32 mm",
@@ -12748,11 +12742,13 @@
     "variations": [
       {
         "id": "pose-1",
-        "label": "Pose 1"
+        "label": "Pose 1",
+        "price": 450
       },
       {
         "id": "pose-2",
-        "label": "Pose 2"
+        "label": "Pose 2",
+        "price": 400
       }
     ],
     "themes": []
@@ -12771,7 +12767,7 @@
       "insectoid",
       "maledict"
     ],
-    "price": 0,
+    "price": 450,
     "currency": "EUR",
     "description": "Winged Maledict captures the specific dread of the natural world gone wrong — teeth, claws, and no interest in negotiation. Between its winged silhouette and its stance, it's built to look like it's already decided you're prey.",
     "scale": "32 mm",
@@ -12798,7 +12794,7 @@
       "neothelid",
       "voidworm"
     ],
-    "price": 0,
+    "price": 1100,
     "currency": "EUR",
     "description": "Voidworm was clearly sculpted with a specific story in mind, and it shows in the detail. A spelljammer figure like this earns its place in a growing collection just as easily as on the table.",
     "scale": "32 mm",
@@ -12824,7 +12820,7 @@
       "devourer",
       "void"
     ],
-    "price": 0,
+    "price": 800,
     "currency": "EUR",
     "description": "There's a confidence to Void Devourer's design that makes it stand out even before it's painted. Between the floating styling and the pose, it's built to be a genuine centerpiece wherever it's placed.",
     "scale": "32 mm",
@@ -12854,7 +12850,7 @@
       "shubniggurath",
       "sin"
     ],
-    "price": 0,
+    "price": 4150,
     "currency": "EUR",
     "description": "Shub-Niggurath, Planar Sin was clearly sculpted with a specific story in mind, and it shows in the detail. A planar figure like this earns its place in a growing collection just as easily as on the table.",
     "scale": "32 mm",
@@ -12879,7 +12875,7 @@
       "dreadnought",
       "astral"
     ],
-    "price": 0,
+    "price": 4800,
     "currency": "EUR",
     "description": "Astral Dreadnought rewards a close look — the kind of miniature that holds up to scrutiny, not just tabletop distance. Its cosmic character makes it a versatile pick for a wide range of encounters and stories.",
     "scale": "32 mm",
@@ -12909,7 +12905,7 @@
       "sigils",
       "summing"
     ],
-    "price": 0,
+    "price": 13300,
     "currency": "EUR",
     "description": "There's a hunger to Framed Diorama - Sigils of the Void that no amount of paint can soften; this is a fiend built to be feared, not admired. Whether summoned by a warlock or native to the encounter, its diorama character sells the threat immediately. Assembly is required.",
     "scale": "32 mm",
@@ -12921,7 +12917,8 @@
     "createdAt": "2024-11-02",
     "themes": [
       "demons-fiends"
-    ]
+    ],
+    "hidden": true
   },
   {
     "id": "mmf-415608",
@@ -12938,7 +12935,7 @@
       "npc",
       "librarian"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Every detail on Cursed Librarian suggests a history: a fight survived, a title earned, a road still being walked. Between the cursed gear and the pose, they're built to lead a scene rather than fill its background.",
     "scale": "32 mm and 75 mm",
@@ -12966,7 +12963,7 @@
       "sorcerer",
       "thebeus"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Thebeus, Undead Sorcerer has crossed the line between life and death and returned wrong — a figure carved from decay and unfinished business. A sorcerer figure like this earns its place at the head of any undead warband.",
     "scale": "32 mm and 75 mm",
@@ -12995,7 +12992,7 @@
       "Summoner",
       "grimoire"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Brimstone and bad intentions define Rust, Great Old One's Warlock, a demonic figure equally at home in a pit fight or a cursed altar room. The cultist styling gives it real presence as a boss encounter or a pact-gone-wrong reveal.",
     "scale": "32 mm and 75 mm",
@@ -13026,7 +13023,7 @@
       "pyromancer",
       "lana"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Lana, Ifrit's Warlock carries the specific presence of someone the party will remember, ally or otherwise. A woman figure like this earns a spot as a memorable face at your table, not just another body on the map.",
     "scale": "32 mm and 75 mm",
@@ -13054,7 +13051,7 @@
       "sorcerer",
       "hexios"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Every detail on Hexios, Dark Mother's Warlock suggests a history: a fight survived, a title earned, a road still being walked. Between the wizard gear and the pose, they're built to lead a scene rather than fill its background.",
     "scale": "32 mm and 75 mm",
@@ -13083,7 +13080,7 @@
       "catfolk",
       "tabaxi"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Gary, the Grey (Catfolk Wizard) is a striking addition to any collection — a figure with real character in every line of the sculpt. The wizard detailing gives painters plenty to work with, from a subtle finish to something bolder.",
     "scale": "32 mm and 75 mm",
@@ -13110,7 +13107,7 @@
       "eldritch",
       "arakar"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "There's a confidence to Arakar, Eldritch Weapon Warlock's pose that reads as lived-in rather than posed for a cover. Their arakar styling makes them a strong fit as a named NPC, a rival, or a player's own hero on the table.",
     "scale": "32 mm and 75 mm",
@@ -13138,7 +13135,7 @@
       "hag",
       "void"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Void Witch is the tabletop's answer to the quiet dread of the grave: patient, cold, and never quite done. Between the void sculpting and the pose, it reads as genuinely unsettling on the table, not just spooky set dressing.",
     "scale": "32 mm",
@@ -13169,7 +13166,7 @@
       "battlemage",
       "void"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Void Saint was clearly sculpted with a specific story in mind, and it shows in the detail. A revenant figure like this earns its place in a growing collection just as easily as on the table.",
     "scale": "32 mm and 75 mm",
@@ -13197,7 +13194,7 @@
       "aberration",
       "void"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Void Chancellor is a striking addition to any collection — a figure with real character in every line of the sculpt. The aberration detailing gives painters plenty to work with, from a subtle finish to something bolder.",
     "scale": "32 mm",
@@ -13223,7 +13220,7 @@
       "deadite",
       "variations"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Grave-dirt and old grudges cling to Possessed Villagers, a miniature built for the moment your party realizes the crypt isn't empty. Its cursed details make it an easy fit for crypts, battlefields-turned-graveyards, or any encounter that needs a touch of the grave.",
     "scale": "32 mm",
@@ -13239,15 +13236,18 @@
     "variations": [
       {
         "id": "pose-1",
-        "label": "Pose 1"
+        "label": "Pose 1",
+        "price": 300
       },
       {
         "id": "pose-2",
-        "label": "Pose 2"
+        "label": "Pose 2",
+        "price": 300
       },
       {
         "id": "pose-3",
-        "label": "Pose 3"
+        "label": "Pose 3",
+        "price": 300
       }
     ],
     "themes": [
@@ -13269,7 +13269,7 @@
       "npc",
       "trickster"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "There's a confidence to Little Ivan, Grigor's Heir's design that makes it stand out even before it's painted. Between the royalty styling and the pose, it's built to be a genuine centerpiece wherever it's placed.",
     "scale": "32 mm and 75 mm",
@@ -13297,7 +13297,7 @@
       "eldritch",
       "rasputin"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "There's a hunger to Grigor, Beast of the Void that no amount of paint can soften; this is a fiend built to be feared, not admired. Whether summoned by a warlock or native to the encounter, its warlock character sells the threat immediately.",
     "scale": "32 mm",
@@ -13327,7 +13327,7 @@
       "eldritch",
       "rasputin"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Grigor, Son of the Void was not born — it was summoned, bargained for, or simply let in. Every line of the sculpt says so. Its horror silhouette makes it read as dangerous from across the table, exactly as a fiend should.",
     "scale": "32 mm and 75 mm",
@@ -13358,7 +13358,7 @@
       "flesh",
       "void"
     ],
-    "price": 0,
+    "price": 500,
     "currency": "EUR",
     "description": "Grave-dirt and old grudges cling to Void Brute, a miniature built for the moment your party realizes the crypt isn't empty. Its void details make it an easy fit for crypts, battlefields-turned-graveyards, or any encounter that needs a touch of the grave.",
     "scale": "32 mm",
@@ -13388,7 +13388,7 @@
       "tome",
       "grimoired"
     ],
-    "price": 0,
+    "price": 600,
     "currency": "EUR",
     "description": "Tome Wraith is the tabletop's answer to the quiet dread of the grave: patient, cold, and never quite done. Between the tome sculpting and the pose, it reads as genuinely unsettling on the table, not just spooky set dressing.",
     "scale": "32 mm",
@@ -13417,7 +13417,7 @@
       "patron",
       "ifrit"
     ],
-    "price": 0,
+    "price": 850,
     "currency": "EUR",
     "description": "There's a hunger to Ifrit, Genie of Fire that no amount of paint can soften; this is a fiend built to be feared, not admired. Whether summoned by a warlock or native to the encounter, its flame character sells the threat immediately.",
     "scale": "32 mm",
@@ -13444,7 +13444,7 @@
       "eldritch",
       "sentient"
     ],
-    "price": 0,
+    "price": 950,
     "currency": "EUR",
     "description": "Eldritch Weapon is a striking addition to any collection — a figure with real character in every line of the sculpt. The living detailing gives painters plenty to work with, from a subtle finish to something bolder.",
     "scale": "32 mm",
@@ -13470,7 +13470,7 @@
       "Effigy",
       "construct"
     ],
-    "price": 0,
+    "price": 850,
     "currency": "EUR",
     "description": "Something in Bone Effigy refuses to stay buried. Every joint and hollow socket tells a story of a rest that never came. Perfect for a necromancer's muster or a haunted-ruin encounter, its golem character carries real menace.",
     "scale": "32 mm",
@@ -13502,7 +13502,7 @@
       "baphomet",
       "archdevil"
     ],
-    "price": 0,
+    "price": 1550,
     "currency": "EUR",
     "description": "The Dark Mother was not born — it was summoned, bargained for, or simply let in. Every line of the sculpt says so. Its devil silhouette makes it read as dangerous from across the table, exactly as a fiend should.",
     "scale": "32 mm",
@@ -13533,7 +13533,7 @@
       "lovecraftian",
       "eldritch"
     ],
-    "price": 0,
+    "price": 5050,
     "currency": "EUR",
     "description": "Great Old One rewards a close look — the kind of miniature that holds up to scrutiny, not just tabletop distance. Its horror character makes it a versatile pick for a wide range of encounters and stories.",
     "scale": "32 mm",
@@ -13563,7 +13563,7 @@
       "clockpunk",
       "ludos"
     ],
-    "price": 0,
+    "price": 6300,
     "currency": "EUR",
     "description": "Framed Diorama - Wasteland's Prize moves (in the fiction, if not the resin) with the deliberate certainty of something assembled to a specification. Between the treasure silhouette and the mechanical detailing, it's built to look purposeful from any angle. Assembly is required.",
     "scale": "32 mm",
@@ -13575,7 +13575,8 @@
     "createdAt": "2024-10-02",
     "themes": [
       "constructs"
-    ]
+    ],
+    "hidden": true
   },
   {
     "id": "mmf-407817",
@@ -13595,7 +13596,7 @@
       "Eberron",
       "forgeborn"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Ironmug, the Bartender moves (in the fiction, if not the resin) with the deliberate certainty of something assembled to a specification. Between the npc silhouette and the mechanical detailing, it's built to look purposeful from any angle.",
     "scale": "32 mm and 75 mm",
@@ -13624,7 +13625,7 @@
       "OSL",
       "rivec"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Rivec, Solitude Ranger was clearly sculpted with a specific story in mind, and it shows in the detail. A fire figure like this earns its place in a growing collection just as easily as on the table.",
     "scale": "32 mm and 75 mm",
@@ -13652,7 +13653,7 @@
       "clockpunk",
       "ludos"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Ludos, Clockwork Rogue was built, not born — a working machine of joints, plating, and purpose rendered in resin. The ludos detailing holds up beautifully whether painted as rusted relic or freshly forged threat.",
     "scale": "32 mm and 75 mm",
@@ -13684,7 +13685,7 @@
       "Eberron",
       "forgeborn"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "There's an unsettling precision to Kasper, Forgeborn Wizard — the kind of figure that makes a dungeon feel designed rather than discovered. Its mage construction makes it a strong fit for guardian encounters, ruins, or an artificer's workshop gone wrong.",
     "scale": "32 mm and 75 mm",
@@ -13717,7 +13718,7 @@
       "Eberron",
       "clockpunk"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Jacq, Demiplane Wanderer is the tabletop's answer to the quiet dread of the grave: patient, cold, and never quite done. Between the rockstar sculpting and the pose, it reads as genuinely unsettling on the table, not just spooky set dressing.",
     "scale": "32 mm and 75 mm",
@@ -13744,7 +13745,7 @@
       "Eberron",
       "forgeborn"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Every surface of Helia, Forgeborn Cleric reads as engineered rather than grown, a construct with a job and no capacity to question it. A forgeborn construct like this anchors a dungeon guardian encounter without needing any extra explanation.",
     "scale": "32 mm and 75 mm",
@@ -13772,7 +13773,7 @@
       "Eberron",
       "forgeborn"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "There's an unsettling precision to Animus, Forgeborn Paladin — the kind of figure that makes a dungeon feel designed rather than discovered. Its forgeborn construction makes it a strong fit for guardian encounters, ruins, or an artificer's workshop gone wrong.",
     "scale": "32 mm and 75 mm",
@@ -13802,7 +13803,7 @@
       "magitek",
       "variations"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "There's a confidence to Steel Predators's design that makes it stand out even before it's painted. Between the eberron styling and the pose, it's built to be a genuine centerpiece wherever it's placed.",
     "scale": "32 mm",
@@ -13818,15 +13819,18 @@
     "variations": [
       {
         "id": "pose-1",
-        "label": "Pose 1"
+        "label": "Pose 1",
+        "price": 300
       },
       {
         "id": "pose-2",
-        "label": "Pose 2"
+        "label": "Pose 2",
+        "price": 300
       },
       {
         "id": "pose-3",
-        "label": "Pose 3"
+        "label": "Pose 3",
+        "price": 300
       }
     ],
     "themes": []
@@ -13848,7 +13852,7 @@
       "magitek",
       "clockpunk"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Every detail on Rayd Voracious, Pirate Raider suggests a history: a fight survived, a title earned, a road still being walked. Between the eberron gear and the pose, they're built to lead a scene rather than fill its background.",
     "scale": "32 mm",
@@ -13881,7 +13885,7 @@
       "magitek",
       "variations"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Forgeborn Elite (2 poses) moves (in the fiction, if not the resin) with the deliberate certainty of something assembled to a specification. Between the armored silhouette and the mechanical detailing, it's built to look purposeful from any angle.",
     "scale": "32 mm",
@@ -13895,11 +13899,13 @@
     "variations": [
       {
         "id": "pose-1",
-        "label": "Pose 1"
+        "label": "Pose 1",
+        "price": 300
       },
       {
         "id": "pose-2",
-        "label": "Pose 2"
+        "label": "Pose 2",
+        "price": 300
       }
     ],
     "themes": [
@@ -13923,7 +13929,7 @@
       "magitek",
       "plated"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Light seems to belong to Cyriel, Plated Angel even before a single coat of paint touches it — this is a celestial figure through and through. Whether cast as ally or terrifying arbiter, its construct character carries the scene either way.",
     "scale": "32 mm",
@@ -13958,7 +13964,7 @@
       "clockpunk",
       "sigith"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "There's a solemnity to Sigith, Magitek Demon, the kind of presence that makes a scene feel like it matters. Its devil bearing suits a divine envoy, a judge, or a guardian of something worth protecting.",
     "scale": "32 mm and 75 mm",
@@ -13987,7 +13993,7 @@
       "clockmaster",
       "viktra"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "There's a confidence to Clockmaster, Legendary Engineer's design that makes it stand out even before it's painted. Between the artificer styling and the pose, it's built to be a genuine centerpiece wherever it's placed.",
     "scale": "32 mm and 75 mm",
@@ -14015,7 +14021,7 @@
       "Marut",
       "inevitable"
     ],
-    "price": 0,
+    "price": 600,
     "currency": "EUR",
     "description": "Light seems to belong to Celestial Construct even before a single coat of paint touches it — this is a celestial figure through and through. Whether cast as ally or terrifying arbiter, its celestial character carries the scene either way.",
     "scale": "32 mm",
@@ -14046,7 +14052,7 @@
       "forgeborn",
       "bladelord"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Blademaster, Tyrant of Flesh & Steel was built, not born — a working machine of joints, plating, and purpose rendered in resin. The blades detailing holds up beautifully whether painted as rusted relic or freshly forged threat.",
     "scale": "32 mm and 75 mm",
@@ -14076,7 +14082,7 @@
       "cadaver",
       "clockpunk"
     ],
-    "price": 0,
+    "price": 950,
     "currency": "EUR",
     "description": "Every surface of Cadaver Collector reads as engineered rather than grown, a construct with a job and no capacity to question it. A cadaver construct like this anchors a dungeon guardian encounter without needing any extra explanation.",
     "scale": "32 mm",
@@ -14106,7 +14112,7 @@
       "Eberron",
       "clockpunk"
     ],
-    "price": 0,
+    "price": 550,
     "currency": "EUR",
     "description": "Every line of Biomechanical Spider sells raw predatory intent, a beast sculpted to dominate its corner of the table. Its clockpunk features make it a natural fit for wilderness encounters, lairs, or anything that should feel genuinely dangerous.",
     "scale": "32 mm",
@@ -14139,7 +14145,7 @@
       "magitek",
       "clockpunk"
     ],
-    "price": 0,
+    "price": 1900,
     "currency": "EUR",
     "description": "Forgeborn Titan moves (in the fiction, if not the resin) with the deliberate certainty of something assembled to a specification. Between the clockwork silhouette and the mechanical detailing, it's built to look purposeful from any angle.",
     "scale": "32 mm",
@@ -14172,7 +14178,7 @@
       "magitek",
       "clockpunk"
     ],
-    "price": 0,
+    "price": 2650,
     "currency": "EUR",
     "description": "Clockwork Dragon carries the unmistakable presence of the dragonkin — scale, wing, and ancient fury rendered in fine resin detail. Whether guarding a hoard or descending on an unsuspecting party, its clockwork presence steals the scene.",
     "scale": "32 mm",
@@ -14206,7 +14212,7 @@
       "dhampir",
       "bloodmoon"
     ],
-    "price": 0,
+    "price": 6950,
     "currency": "EUR",
     "description": "Framed Diorama - Eternal Vow has crossed the line between life and death and returned wrong — a figure carved from decay and unfinished business. A eternal figure like this earns its place at the head of any undead warband. Assembly is required.",
     "scale": "32 mm",
@@ -14218,7 +14224,8 @@
     "createdAt": "2024-09-01",
     "themes": [
       "undead"
-    ]
+    ],
+    "hidden": true
   },
   {
     "id": "mmf-397607",
@@ -14238,7 +14245,7 @@
       "vargus",
       "moonblade"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Every line of Vargus Moonblade sells raw predatory intent, a beast sculpted to dominate its corner of the table. Its beast features make it a natural fit for wilderness encounters, lairs, or anything that should feel genuinely dangerous.",
     "scale": "32 mm and 75 mm",
@@ -14271,7 +14278,7 @@
       "Warden",
       "duelist"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Sylvaris, Twilight Warden (Dark Elf Fighter) carries the specific presence of someone the party will remember, ally or otherwise. A duelist figure like this earns a spot as a memorable face at your table, not just another body on the map.",
     "scale": "32 mm and 75 mm",
@@ -14305,7 +14312,7 @@
       "wereraven",
       "Clairvoyant"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Wereraven Prophet (NPC) was clearly sculpted with a specific story in mind, and it shows in the detail. A mage figure like this earns its place in a growing collection just as easily as on the table.",
     "scale": "32 mm and 75 mm",
@@ -14335,7 +14342,7 @@
       "berserker",
       "half-orc"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Sidhar, The Enlightened (Orc Barbarian) is a character first and a miniature second — built with a clear sense of who they are and what they've done. The enlightened detailing gives them a distinct silhouette that holds up in a crowd of other figures.",
     "scale": "32 mm and 75 mm",
@@ -14366,7 +14373,7 @@
       "archmage",
       "mordenkainen"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "There's a confidence to Lord Mage of the Ashen Eagle (Human Wizard)'s pose that reads as lived-in rather than posed for a cover. Their mordenkainen styling makes them a strong fit as a named NPC, a rival, or a player's own hero on the table.",
     "scale": "32 mm and 75 mm",
@@ -14397,7 +14404,7 @@
       "swordsman",
       "dhampir"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Something in Minna, Blood Sword (Vampire Fighter) refuses to stay buried. Every joint and hollow socket tells a story of a rest that never came. Perfect for a necromancer's muster or a haunted-ruin encounter, its paladin character carries real menace.",
     "scale": "32 mm and 75 mm",
@@ -14428,7 +14435,7 @@
       "swordsman",
       "dhampir"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Harker, Blood Sword (Vampire Fighter) has crossed the line between life and death and returned wrong — a figure carved from decay and unfinished business. A male figure like this earns its place at the head of any undead warband.",
     "scale": "32 mm and 75 mm",
@@ -14457,7 +14464,7 @@
       "Bard",
       "npc"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Grave-dirt and old grudges cling to Emil, Bard of Oblivion (Dwarf Bard), a miniature built for the moment your party realizes the crypt isn't empty. Its oblivion details make it an easy fit for crypts, battlefields-turned-graveyards, or any encounter that needs a touch of the grave.",
     "scale": "32 mm",
@@ -14486,7 +14493,7 @@
       "armored",
       "beastfolk"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Brumak, Minotaur Warlord carries the specific presence of someone the party will remember, ally or otherwise. A fighter figure like this earns a spot as a memorable face at your table, not just another body on the map.",
     "scale": "32 mm and 75 mm",
@@ -14519,7 +14526,7 @@
       "envoy",
       "void"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "There's a hunger to Void Envoy that no amount of paint can soften; this is a fiend built to be feared, not admired. Whether summoned by a warlock or native to the encounter, its cleric character sells the threat immediately.",
     "scale": "32 mm",
@@ -14548,7 +14555,7 @@
       "aberration",
       "bloodmoon"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Unholy Werewolf is wild in the truest sense — a creature that answers to instinct, hunger, and territory, not to any code. The aberration sculpting gives it real texture up close while still reading clearly as a threat from across the table.",
     "scale": "32 mm",
@@ -14580,7 +14587,7 @@
       "commoner",
       "variations"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Grave-dirt and old grudges cling to Unholy Spawns, a miniature built for the moment your party realizes the crypt isn't empty. Its villager details make it an easy fit for crypts, battlefields-turned-graveyards, or any encounter that needs a touch of the grave.",
     "scale": "32 mm",
@@ -14596,15 +14603,18 @@
     "variations": [
       {
         "id": "pose-1",
-        "label": "Pose 1"
+        "label": "Pose 1",
+        "price": 300
       },
       {
         "id": "pose-2",
-        "label": "Pose 2"
+        "label": "Pose 2",
+        "price": 300
       },
       {
         "id": "pose-3",
-        "label": "Pose 3"
+        "label": "Pose 3",
+        "price": 300
       }
     ],
     "themes": [
@@ -14627,7 +14637,7 @@
       "lich",
       "necromancer"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Something in Royal Death Knight refuses to stay buried. Every joint and hollow socket tells a story of a rest that never came. Perfect for a necromancer's muster or a haunted-ruin encounter, its royal character carries real menace.",
     "scale": "32 mm and 75 mm",
@@ -14664,7 +14674,7 @@
       "bathory",
       "lucille"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Lucille, Blood Countess was not born — it was summoned, bargained for, or simply let in. Every line of the sculpt says so. Its assassin silhouette makes it read as dangerous from across the table, exactly as a fiend should.",
     "scale": "32 mm and 75 mm",
@@ -14698,7 +14708,7 @@
       "jinx",
       "kefka"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Jinx, Carnage Jester rewards a close look — the kind of miniature that holds up to scrutiny, not just tabletop distance. Its jester character makes it a versatile pick for a wide range of encounters and stories.",
     "scale": "32 mm",
@@ -14760,7 +14770,7 @@
       "famine",
       "Pestilence"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "General of Pestilence has crossed the line between life and death and returned wrong — a figure carved from decay and unfinished business. A zombie figure like this earns its place at the head of any undead warband.",
     "scale": "32 mm",
@@ -14792,7 +14802,7 @@
       "famine",
       "Pestilence"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Grave-dirt and old grudges cling to General of Famine, a miniature built for the moment your party realizes the crypt isn't empty. Its warrior details make it an easy fit for crypts, battlefields-turned-graveyards, or any encounter that needs a touch of the grave.",
     "scale": "32 mm",
@@ -14824,7 +14834,7 @@
       "famine",
       "Pestilence"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "General of Death is the tabletop's answer to the quiet dread of the grave: patient, cold, and never quite done. Between the war sculpting and the pose, it reads as genuinely unsettling on the table, not just spooky set dressing.",
     "scale": "32 mm",
@@ -14856,7 +14866,7 @@
       "ALUCARD",
       "strahd"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Something in Damascus, Vampire Lord refuses to stay buried. Every joint and hollow socket tells a story of a rest that never came. Perfect for a necromancer's muster or a haunted-ruin encounter, its vampire character carries real menace.",
     "scale": "32 mm and 75 mm",
@@ -14888,7 +14898,7 @@
       "ALUCARD",
       "strahd"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Damascus, Vampire Knight has crossed the line between life and death and returned wrong — a figure carved from decay and unfinished business. A knight figure like this earns its place at the head of any undead warband.",
     "scale": "32 mm and 75 mm",
@@ -14918,7 +14928,7 @@
       "aberration",
       "tormentor"
     ],
-    "price": 0,
+    "price": 1000,
     "currency": "EUR",
     "description": "There's an unsettling precision to Blood Tormentor — the kind of figure that makes a dungeon feel designed rather than discovered. Its aberration construction makes it a strong fit for guardian encounters, ruins, or an artificer's workshop gone wrong.",
     "scale": "32 mm",
@@ -14949,7 +14959,7 @@
       "strahd",
       "shambling"
     ],
-    "price": 0,
+    "price": 1000,
     "currency": "EUR",
     "description": "Shambling Mound captures the specific dread of the natural world gone wrong — teeth, claws, and no interest in negotiation. Between its curse silhouette and its stance, it's built to look like it's already decided you're prey.",
     "scale": "32 mm",
@@ -14979,7 +14989,7 @@
       "horsemen",
       "famine"
     ],
-    "price": 0,
+    "price": 450,
     "currency": "EUR",
     "description": "Something in General of Famine - Mounted refuses to stay buried. Every joint and hollow socket tells a story of a rest that never came. Perfect for a necromancer's muster or a haunted-ruin encounter, its general character carries real menace.",
     "scale": "32 mm",
@@ -15013,7 +15023,7 @@
       "horsemen",
       "Pestilence"
     ],
-    "price": 0,
+    "price": 1500,
     "currency": "EUR",
     "description": "General of Pestilence - Mounted has crossed the line between life and death and returned wrong — a figure carved from decay and unfinished business. A pestilence figure like this earns its place at the head of any undead warband.",
     "scale": "32 mm",
@@ -15047,7 +15057,7 @@
       "Nazgul",
       "Dracolich"
     ],
-    "price": 0,
+    "price": 3800,
     "currency": "EUR",
     "description": "Draconic power runs through every line of General of War - Mounted, a figure built to dominate a battle mat the way its kind dominates the sky. Sculpted with a undead silhouette, it holds up as a striking solo display piece as much as a tabletop threat.",
     "scale": "32 mm",
@@ -15079,7 +15089,7 @@
       "horsemen",
       "Dracolich"
     ],
-    "price": 0,
+    "price": 4300,
     "currency": "EUR",
     "description": "General of Death - Mounted carries the unmistakable presence of the dragonkin — scale, wing, and ancient fury rendered in fine resin detail. Whether guarding a hoard or descending on an unsuspecting party, its dragon presence steals the scene.",
     "scale": "32 mm",
@@ -15111,7 +15121,7 @@
       "werebat",
       "Draconic"
     ],
-    "price": 0,
+    "price": 5500,
     "currency": "EUR",
     "description": "The Crimson Maw channels the old draconic bloodlines: patient, immense, and utterly certain of its own supremacy. The werebat detailing rewards close painting just as much as it reads well from across the table.",
     "scale": "32 mm",
@@ -15143,7 +15153,7 @@
       "framed",
       "academy"
     ],
-    "price": 0,
+    "price": 10300,
     "currency": "EUR",
     "description": "Framed Diorama - Forbidden Knowledge was clearly sculpted with a specific story in mind, and it shows in the detail. A library figure like this earns its place in a growing collection just as easily as on the table. Assembly is required.",
     "scale": "32 mm",
@@ -15153,7 +15163,8 @@
     ],
     "inStock": true,
     "createdAt": "2024-08-01",
-    "themes": []
+    "themes": [],
+    "hidden": true
   },
   {
     "id": "mmf-390874",
@@ -15172,7 +15183,7 @@
       "archmage",
       "librarian"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Roark, Dragonborn Scholar carries the specific presence of someone the party will remember, ally or otherwise. A dragonborn figure like this earns a spot as a memorable face at your table, not just another body on the map.",
     "scale": "32 mm and 75 mm",
@@ -15201,7 +15212,7 @@
       "punch",
       "chunli"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Draconic power runs through every line of Xu Quin, Dragon Punch (Human Monk), a figure built to dominate a battle mat the way its kind dominates the sky. Sculpted with a female silhouette, it holds up as a striking solo display piece as much as a tabletop threat.",
     "scale": "32 mm and 75 mm",
@@ -15234,7 +15245,7 @@
       "spellcaster",
       "arcane"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Ursula, Wonder Mage v2 (Elf Wizard) is a character first and a miniature second — built with a clear sense of who they are and what they've done. The female detailing gives them a distinct silhouette that holds up in a crowd of other figures.",
     "scale": "32 mm and 75 mm",
@@ -15266,7 +15277,7 @@
       "spellcaster",
       "arcane"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "There's a confidence to Ursula, Wonder Mage v1 (Elf Wizard)'s pose that reads as lived-in rather than posed for a cover. Their elf styling makes them a strong fit as a named NPC, a rival, or a player's own hero on the table.",
     "scale": "32 mm and 75 mm",
@@ -15296,7 +15307,7 @@
       "wanderer",
       "Wandering"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Sara, Traveling Knight (Human Fighter) carries the specific presence of someone the party will remember, ally or otherwise. A hammer figure like this earns a spot as a memorable face at your table, not just another body on the map.",
     "scale": "32 mm and 75 mm",
@@ -15327,7 +15338,7 @@
       "slinger",
       "spellslinger"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Roland, Spellslinger (Human Sorcerer) is a character first and a miniature second — built with a clear sense of who they are and what they've done. The spellcaster detailing gives them a distinct silhouette that holds up in a crowd of other figures.",
     "scale": "32 mm and 75 mm",
@@ -15359,7 +15370,7 @@
       "swordsman",
       "hexblade"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "There's a confidence to Fjorn, Hexblade Warlock's pose that reads as lived-in rather than posed for a cover. Their swordsman styling makes them a strong fit as a named NPC, a rival, or a player's own hero on the table.",
     "scale": "32 mm and 75 mm",
@@ -15390,7 +15401,7 @@
       "arcane",
       "ethereal"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Arinth, Ethereal Blade (Elf Sorcerer) carries the specific presence of someone the party will remember, ally or otherwise. A mage figure like this earns a spot as a memorable face at your table, not just another body on the map.",
     "scale": "32 mm and 75 mm",
@@ -15419,7 +15430,7 @@
       "archmage",
       "arcanist"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Trinket Arcanist was clearly sculpted with a specific story in mind, and it shows in the detail. A spellcaster figure like this earns its place in a growing collection just as easily as on the table.",
     "scale": "32 mm and 75 mm",
@@ -15448,7 +15459,7 @@
       "arcane",
       "archmage"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Solomon, The Archmage is a character first and a miniature second — built with a clear sense of who they are and what they've done. The wizard detailing gives them a distinct silhouette that holds up in a crowd of other figures.",
     "scale": "32 mm",
@@ -15477,7 +15488,7 @@
       "aberrant",
       "variations"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Brimstone and bad intentions define Shadow Gazers, a demonic figure equally at home in a pit fight or a cursed altar room. The fiend styling gives it real presence as a boss encounter or a pact-gone-wrong reveal.",
     "scale": "32 mm",
@@ -15493,15 +15504,18 @@
     "variations": [
       {
         "id": "pose-1",
-        "label": "Pose 1"
+        "label": "Pose 1",
+        "price": 300
       },
       {
         "id": "pose-2",
-        "label": "Pose 2"
+        "label": "Pose 2",
+        "price": 300
       },
       {
         "id": "pose-3",
-        "label": "Pose 3"
+        "label": "Pose 3",
+        "price": 300
       }
     ],
     "themes": [
@@ -15529,7 +15543,7 @@
       "transmutation",
       "transmuter"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Light seems to belong to Arcane Master - The Transmuter even before a single coat of paint touches it — this is a celestial figure through and through. Whether cast as ally or terrifying arbiter, its fallen character carries the scene either way.",
     "scale": "32 mm",
@@ -15564,7 +15578,7 @@
       "necromancer",
       "necromancy"
     ],
-    "price": 0,
+    "price": 350,
     "currency": "EUR",
     "description": "Arcane Master - The Necromancer has crossed the line between life and death and returned wrong — a figure carved from decay and unfinished business. A sorcerer figure like this earns its place at the head of any undead warband.",
     "scale": "32 mm and 75 mm",
@@ -15597,7 +15611,7 @@
       "licker",
       "illusionism"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Arcane Master - The Illusionist rewards a close look — the kind of miniature that holds up to scrutiny, not just tabletop distance. Its wizard character makes it a versatile pick for a wide range of encounters and stories.",
     "scale": "32 mm",
@@ -15631,7 +15645,7 @@
       "arcane",
       "evocation"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Arcane Master - The Evoker was not born — it was summoned, bargained for, or simply let in. Every line of the sculpt says so. Its wizard silhouette makes it read as dangerous from across the table, exactly as a fiend should.",
     "scale": "32 mm",
@@ -15664,7 +15678,7 @@
       "enchanter",
       "enchantation"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Grave-dirt and old grudges cling to Arcane Master - The Enchanter, a miniature built for the moment your party realizes the crypt isn't empty. Its mage details make it an easy fit for crypts, battlefields-turned-graveyards, or any encounter that needs a touch of the grave.",
     "scale": "32 mm and 75 mm",
@@ -15698,7 +15712,7 @@
       "divination",
       "diviner"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "There's a confidence to Arcane Master - The Diviner's design that makes it stand out even before it's painted. Between the spellcaster styling and the pose, it's built to be a genuine centerpiece wherever it's placed.",
     "scale": "32 mm",
@@ -15729,7 +15743,7 @@
       "conjuration",
       "conjurer"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Arcane Master - The Conjurer was clearly sculpted with a specific story in mind, and it shows in the detail. A master figure like this earns its place in a growing collection just as easily as on the table.",
     "scale": "32 mm",
@@ -15760,7 +15774,7 @@
       "abjuration",
       "abjurer"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Arcane Master - The Abjurer is a character first and a miniature second — built with a clear sense of who they are and what they've done. The elf detailing gives them a distinct silhouette that holds up in a crowd of other figures.",
     "scale": "32 mm and 75 mm",
@@ -15787,7 +15801,7 @@
       "griffon",
       "gryph"
     ],
-    "price": 0,
+    "price": 700,
     "currency": "EUR",
     "description": "Nightmare Gryph rewards a close look — the kind of miniature that holds up to scrutiny, not just tabletop distance. Its gryph character makes it a versatile pick for a wide range of encounters and stories.",
     "scale": "32 mm",
@@ -15815,7 +15829,7 @@
       "arkanum",
       "variations"
     ],
-    "price": 0,
+    "price": 1250,
     "currency": "EUR",
     "description": "There's a confidence to Arkanum, Living Spellbook's design that makes it stand out even before it's painted. Between the scenery styling and the pose, it's built to be a genuine centerpiece wherever it's placed.",
     "scale": "32 mm",
@@ -15829,11 +15843,13 @@
     "variations": [
       {
         "id": "open",
-        "label": "Open"
+        "label": "Open",
+        "price": 1250
       },
       {
         "id": "closed",
-        "label": "Closed"
+        "label": "Closed",
+        "price": 900
       }
     ],
     "themes": []
@@ -15853,7 +15869,7 @@
       "chromatic",
       "arcane"
     ],
-    "price": 0,
+    "price": 4500,
     "currency": "EUR",
     "description": "Draconic power runs through every line of Tora, Arcane Dragon, a figure built to dominate a battle mat the way its kind dominates the sky. Sculpted with a monster silhouette, it holds up as a striking solo display piece as much as a tabletop threat.",
     "scale": "32 mm",
@@ -15881,7 +15897,7 @@
       "arcane",
       "construct"
     ],
-    "price": 0,
+    "price": 1850,
     "currency": "EUR",
     "description": "Arcane Golem was built, not born — a working machine of joints, plating, and purpose rendered in resin. The magic detailing holds up beautifully whether painted as rusted relic or freshly forged threat.",
     "scale": "32 mm",
@@ -15912,7 +15928,7 @@
       "aberration",
       "archdevil"
     ],
-    "price": 0,
+    "price": 700,
     "currency": "EUR",
     "description": "The Pale Night was not born — it was summoned, bargained for, or simply let in. Every line of the sculpt says so. Its aberration silhouette makes it read as dangerous from across the table, exactly as a fiend should.",
     "scale": "32 mm",
@@ -15944,7 +15960,7 @@
       "pile",
       "framed"
     ],
-    "price": 0,
+    "price": 13350,
     "currency": "EUR",
     "description": "Framed Diorama - Divine Wrath belongs to the lower planes, and the sculpt makes no attempt to pretend otherwise. A wrath figure this confident earns its spot guarding a portal, a pact, or a throne of bone. Assembly is required.",
     "scale": "32 mm",
@@ -15957,7 +15973,8 @@
     "createdAt": "2024-07-01",
     "themes": [
       "demons-fiends"
-    ]
+    ],
+    "hidden": true
   },
   {
     "id": "mmf-384548",
@@ -15976,7 +15993,7 @@
       "npc",
       "Traveler"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "There's a hunger to Flesh-Trading Prowler (NPC) that no amount of paint can soften; this is a fiend built to be feared, not admired. Whether summoned by a warlock or native to the encounter, its mysterious character sells the threat immediately.",
     "scale": "32 mm and 75 mm",
@@ -16005,7 +16022,7 @@
       "necromancer",
       "abyssal"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Wodan, Abyssal Wizard (Human Wizard) was not born — it was summoned, bargained for, or simply let in. Every line of the sculpt says so. Its dark silhouette makes it read as dangerous from across the table, exactly as a fiend should.",
     "scale": "32 mm and 75 mm",
@@ -16036,7 +16053,7 @@
       "abyssal",
       "demonoid"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Brimstone and bad intentions define Prana, Abyssal Druid (Tiefling Druid), a demonic figure equally at home in a pit fight or a cursed altar room. The tiefling styling gives it real presence as a boss encounter or a pact-gone-wrong reveal.",
     "scale": "32 mm and 75 mm",
@@ -16065,7 +16082,7 @@
       "Conan",
       "killer"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Insha, Demon-Bashing Barbarian (Human Barbarian) belongs to the lower planes, and the sculpt makes no attempt to pretend otherwise. A female figure this confident earns its spot guarding a portal, a pact, or a throne of bone.",
     "scale": "32 mm and 75 mm",
@@ -16097,7 +16114,7 @@
       "antipaladin",
       "demonoid"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Brimstone and bad intentions define Cain, Oath of the Demon Knight v2 (Half-Demon Paladin), a demonic figure equally at home in a pit fight or a cursed altar room. The tiefling styling gives it real presence as a boss encounter or a pact-gone-wrong reveal.",
     "scale": "32 mm and 75 mm",
@@ -16129,7 +16146,7 @@
       "antipaladin",
       "demonoid"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "There's a hunger to Cain, Oath of the Demon Knight v1 (Half-Demon Paladin) that no amount of paint can soften; this is a fiend built to be feared, not admired. Whether summoned by a warlock or native to the encounter, its half character sells the threat immediately.",
     "scale": "32 mm and 75 mm",
@@ -16159,7 +16176,7 @@
       "grazzt",
       "graz'zt"
     ],
-    "price": 0,
+    "price": 600,
     "currency": "EUR",
     "description": "Brimstone and bad intentions define The Prince of Pleasure, a demonic figure equally at home in a pit fight or a cursed altar room. The prince styling gives it real presence as a boss encounter or a pact-gone-wrong reveal.",
     "scale": "32 mm",
@@ -16192,7 +16209,7 @@
       "fraz",
       "urbluu"
     ],
-    "price": 0,
+    "price": 1200,
     "currency": "EUR",
     "description": "The Prince of Deception belongs to the lower planes, and the sculpt makes no attempt to pretend otherwise. A lord figure this confident earns its spot guarding a portal, a pact, or a throne of bone.",
     "scale": "32 mm",
@@ -16222,7 +16239,7 @@
       "undeath",
       "tenebrous"
     ],
-    "price": 0,
+    "price": 5000,
     "currency": "EUR",
     "description": "There's a hunger to The Lord of Undeath that no amount of paint can soften; this is a fiend built to be feared, not admired. Whether summoned by a warlock or native to the encounter, its devil character sells the threat immediately.",
     "scale": "32 mm",
@@ -16254,7 +16271,7 @@
       "rot",
       "zuggtmoy"
     ],
-    "price": 0,
+    "price": 550,
     "currency": "EUR",
     "description": "The Lady of Rot and Decay was not born — it was summoned, bargained for, or simply let in. Every line of the sculpt says so. Its demon silhouette makes it read as dangerous from across the table, exactly as a fiend should.",
     "scale": "32 mm",
@@ -16283,7 +16300,7 @@
       "horned",
       "baphomet"
     ],
-    "price": 0,
+    "price": 1050,
     "currency": "EUR",
     "description": "The Horned King belongs to the lower planes, and the sculpt makes no attempt to pretend otherwise. A horned figure this confident earns its spot guarding a portal, a pact, or a throne of bone.",
     "scale": "32 mm",
@@ -16314,7 +16331,7 @@
       "nothing",
       "Juiblex"
     ],
-    "price": 0,
+    "price": 1350,
     "currency": "EUR",
     "description": "There's a hunger to The Faceless Lord that no amount of paint can soften; this is a fiend built to be feared, not admired. Whether summoned by a warlock or native to the encounter, its faceless character sells the threat immediately.",
     "scale": "32 mm",
@@ -16343,7 +16360,7 @@
       "yeenoghu",
       "butchery"
     ],
-    "price": 0,
+    "price": 1050,
     "currency": "EUR",
     "description": "The Beast of Butchery was not born — it was summoned, bargained for, or simply let in. Every line of the sculpt says so. Its fiend silhouette makes it read as dangerous from across the table, exactly as a fiend should.",
     "scale": "32 mm",
@@ -16376,7 +16393,7 @@
       "abyssal",
       "devourer"
     ],
-    "price": 0,
+    "price": 2200,
     "currency": "EUR",
     "description": "Brimstone and bad intentions define The Abyssal Devourer, a demonic figure equally at home in a pit fight or a cursed altar room. The lord styling gives it real presence as a boss encounter or a pact-gone-wrong reveal.",
     "scale": "32 mm",
@@ -16403,7 +16420,7 @@
       "paladin",
       "demonoid"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Prince Tyrius, Royal Heir belongs to the lower planes, and the sculpt makes no attempt to pretend otherwise. A demon figure this confident earns its spot guarding a portal, a pact, or a throne of bone.",
     "scale": "32 mm and 75 mm",
@@ -16432,7 +16449,7 @@
       "Aasimar",
       "masked"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "There's a solemnity to Heretic Aasimar, the kind of presence that makes a scene feel like it matters. Its celestial bearing suits a divine envoy, a judge, or a guardian of something worth protecting.",
     "scale": "32 mm and 75 mm",
@@ -16461,7 +16478,7 @@
       "fiend",
       "variations"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "Hell Hounds belongs to the lower planes, and the sculpt makes no attempt to pretend otherwise. A wolf figure this confident earns its spot guarding a portal, a pact, or a throne of bone.",
     "scale": "32 mm",
@@ -16477,15 +16494,18 @@
     "variations": [
       {
         "id": "pose-1",
-        "label": "Pose 1"
+        "label": "Pose 1",
+        "price": 300
       },
       {
         "id": "pose-2",
-        "label": "Pose 2"
+        "label": "Pose 2",
+        "price": 300
       },
       {
         "id": "pose-3",
-        "label": "Pose 3"
+        "label": "Pose 3",
+        "price": 300
       }
     ],
     "themes": [
@@ -16513,7 +16533,7 @@
       "demonoid",
       "variations"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "There's a hunger to Half-Demon Commander that no amount of paint can soften; this is a fiend built to be feared, not admired. Whether summoned by a warlock or native to the encounter, its devil character sells the threat immediately.",
     "scale": "32 mm and 75 mm",
@@ -16527,11 +16547,13 @@
     "variations": [
       {
         "id": "bare-head",
-        "label": "Bare Head"
+        "label": "Bare Head",
+        "price": 300
       },
       {
         "id": "helmet",
-        "label": "Helmet"
+        "label": "Helmet",
+        "price": 300
       }
     ],
     "themes": [
@@ -16551,7 +16573,7 @@
       "goetia",
       "adviser"
     ],
-    "price": 0,
+    "price": 350,
     "currency": "EUR",
     "description": "Goetia Twins is a striking addition to any collection — a figure with real character in every line of the sculpt. The goetia detailing gives painters plenty to work with, from a subtle finish to something bolder.",
     "scale": "32 mm and 75 mm",
@@ -16575,7 +16597,7 @@
       "cerberus",
       "armanite"
     ],
-    "price": 0,
+    "price": 2850,
     "currency": "EUR",
     "description": "Demonity's Gatekeeper belongs to the lower planes, and the sculpt makes no attempt to pretend otherwise. A centaur figure this confident earns its spot guarding a portal, a pact, or a throne of bone.",
     "scale": "32 mm",
@@ -16606,7 +16628,7 @@
       "npc",
       "archdevil"
     ],
-    "price": 0,
+    "price": 300,
     "currency": "EUR",
     "description": "There's a hunger to Aurus, God Emperor of Demonity that no amount of paint can soften; this is a fiend built to be feared, not admired. Whether summoned by a warlock or native to the encounter, its noble character sells the threat immediately.",
     "scale": "32 mm and 75 mm",
@@ -16627,7 +16649,7 @@
     "name": "Guardian Dragon",
     "category": "flesh-of-gods",
     "tags": [],
-    "price": 0,
+    "price": 6650,
     "currency": "EUR",
     "description": "Guardian Dragon channels the old draconic bloodlines: patient, immense, and utterly certain of its own supremacy. The commanding detailing rewards close painting just as much as it reads well from across the table.",
     "scale": "32 mm",
@@ -16649,7 +16671,7 @@
     "name": "Effigy Of Terror",
     "category": "flesh-of-gods",
     "tags": [],
-    "price": 0,
+    "price": 1050,
     "currency": "EUR",
     "description": "There's a confidence to Effigy Of Terror's design that makes it stand out even before it's painted. Between the striking styling and the pose, it's built to be a genuine centerpiece wherever it's placed.",
     "scale": "32 mm",
@@ -16669,7 +16691,7 @@
     "name": "The Sword Collector",
     "category": "flesh-of-gods",
     "tags": [],
-    "price": 0,
+    "price": 1950,
     "currency": "EUR",
     "description": "The Sword Collector rewards a close look — the kind of miniature that holds up to scrutiny, not just tabletop distance. Its striking character makes it a versatile pick for a wide range of encounters and stories.",
     "scale": "32 mm and 75 mm",
@@ -16688,7 +16710,7 @@
     "name": "The Furious Ettin",
     "category": "flesh-of-gods",
     "tags": [],
-    "price": 0,
+    "price": 1500,
     "currency": "EUR",
     "description": "There's a confidence to The Furious Ettin's design that makes it stand out even before it's painted. Between the striking styling and the pose, it's built to be a genuine centerpiece wherever it's placed.",
     "scale": "32 mm",
@@ -16714,7 +16736,7 @@
       "alligator",
       "muncher"
     ],
-    "price": 0,
+    "price": 1050,
     "currency": "EUR",
     "description": "Every line of Iron Muncher sells raw predatory intent, a beast sculpted to dominate its corner of the table. Its muncher features make it a natural fit for wilderness encounters, lairs, or anything that should feel genuinely dangerous.",
     "scale": "32 mm",
@@ -16770,7 +16792,7 @@
       "Toad",
       "slaad"
     ],
-    "price": 0,
+    "price": 3850,
     "currency": "EUR",
     "description": "There's a hunger to Giant Demon Frog that no amount of paint can soften; this is a fiend built to be feared, not admired. Whether summoned by a warlock or native to the encounter, its slaad character sells the threat immediately.",
     "scale": "32 mm",
@@ -16798,7 +16820,7 @@
       "siege",
       "Colossus"
     ],
-    "price": 0,
+    "price": 2100,
     "currency": "EUR",
     "description": "There's a solemnity to Siege Titan Angel, the kind of presence that makes a scene feel like it matters. Its titan bearing suits a divine envoy, a judge, or a guardian of something worth protecting.",
     "scale": "32 mm",
