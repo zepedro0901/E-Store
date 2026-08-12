@@ -10,6 +10,8 @@ import {
   listProducts,
 } from "@/lib/products";
 import type { SortOption } from "@/types/product";
+import { getDictionary } from "@/i18n/get-dictionary";
+import { interpolate } from "@/i18n/interpolate";
 
 export function generateStaticParams() {
   return getThemes().map((t) => ({ slug: t.slug }));
@@ -21,8 +23,9 @@ export async function generateMetadata({
   params: Promise<{ slug: string }>;
 }): Promise<Metadata> {
   const { slug } = await params;
-  const theme = getThemeBySlug(slug);
-  return { title: theme ? theme.name : "Theme" };
+  const { locale, dict } = await getDictionary();
+  const theme = getThemeBySlug(slug, locale);
+  return { title: theme ? theme.name : dict.metadata.theme };
 }
 
 export default async function ThemePage({
@@ -33,7 +36,8 @@ export default async function ThemePage({
   searchParams: Promise<{ sort?: string; q?: string; page?: string }>;
 }) {
   const { slug } = await params;
-  const theme = getThemeBySlug(slug);
+  const { locale, dict } = await getDictionary();
+  const theme = getThemeBySlug(slug, locale);
   if (!theme) notFound();
 
   const sp = await searchParams;
@@ -48,7 +52,7 @@ export default async function ThemePage({
     total,
     totalPages,
     page: currentPage,
-  } = listProducts({ theme: slug, q, sort, page });
+  } = listProducts({ theme: slug, q, sort, page, locale });
 
   const buildHref = (targetPage: number) => {
     const usp = new URLSearchParams();
@@ -67,7 +71,9 @@ export default async function ThemePage({
       {theme.description && (
         <p className="mt-1 text-sm text-foreground/55">{theme.description}</p>
       )}
-      <p className="mt-1 text-sm text-foreground/55">{total} products</p>
+      <p className="mt-1 text-sm text-foreground/55">
+        {interpolate(dict.products.productsCount, { count: total })}
+      </p>
       <FilterBar action={`/theme/${slug}`} sort={sort} q={q} />
       <ProductGrid products={items} />
       <Pagination

@@ -6,6 +6,14 @@ export interface ProductVariation {
   image?: string; // when set, selecting this variation shows this image in the gallery
 }
 
+export interface ProductTranslations {
+  pt?: {
+    name?: string;
+    description?: string;
+    tags?: string[];
+  };
+}
+
 export interface Product {
   id: string;
   slug: string;
@@ -24,6 +32,14 @@ export interface Product {
   hidden?: boolean; // excluded from all storefront listings/lookups when true
   createdAt: string; // ISO date
   variations?: ProductVariation[];
+  translations?: ProductTranslations;
+}
+
+export interface NameTranslations {
+  pt?: {
+    name?: string;
+    description?: string;
+  };
 }
 
 export interface Category {
@@ -31,6 +47,7 @@ export interface Category {
   name: string;
   description?: string;
   image?: string;
+  translations?: NameTranslations;
 }
 
 export interface Theme {
@@ -38,6 +55,7 @@ export interface Theme {
   name: string;
   description?: string;
   image?: string;
+  translations?: NameTranslations;
 }
 
 export interface CartItem {

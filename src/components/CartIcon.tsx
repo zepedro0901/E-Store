@@ -2,8 +2,10 @@
 
 import Link from "next/link";
 import { useCartStore } from "@/lib/cart-store";
+import { useTranslations } from "@/i18n/use-translations";
 
 export function CartIcon() {
+  const { dict } = useTranslations();
   const hasHydrated = useCartStore((s) => s.hasHydrated);
   const count = useCartStore((s) =>
     s.items.reduce((sum, item) => sum + item.quantity, 0),
@@ -12,7 +14,7 @@ export function CartIcon() {
   return (
     <Link
       href="/cart"
-      aria-label="Cart"
+      aria-label={dict.common.cart}
       className="relative flex h-9 w-9 items-center justify-center text-foreground/70 transition-colors hover:text-accent"
     >
       <svg

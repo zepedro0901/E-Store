@@ -3,6 +3,8 @@ import { Big_Shoulders, Geist, Geist_Mono } from "next/font/google";
 import { SiteHeader } from "@/components/SiteHeader";
 import { SiteFooter } from "@/components/SiteFooter";
 import { CartHydration } from "@/components/CartHydration";
+import { LocaleProvider } from "@/i18n/LocaleProvider";
+import { getDictionary } from "@/i18n/get-dictionary";
 import "./globals.css";
 
 const geistSans = Geist({
@@ -29,21 +31,25 @@ export const metadata: Metadata = {
   description: "Resin miniatures for tabletop gaming and display.",
 };
 
-export default function RootLayout({
+export default async function RootLayout({
   children,
 }: Readonly<{
   children: React.ReactNode;
 }>) {
+  const { locale, dict } = await getDictionary();
+
   return (
     <html
-      lang="en"
+      lang={locale}
       className={`${geistSans.variable} ${geistMono.variable} ${bigShoulders.variable} h-full antialiased`}
     >
       <body className="min-h-full flex flex-col">
-        <CartHydration />
-        <SiteHeader />
-        <main className="flex flex-1 flex-col">{children}</main>
-        <SiteFooter />
+        <LocaleProvider locale={locale} dict={dict}>
+          <CartHydration />
+          <SiteHeader />
+          <main className="flex flex-1 flex-col">{children}</main>
+          <SiteFooter />
+        </LocaleProvider>
       </body>
     </html>
   );

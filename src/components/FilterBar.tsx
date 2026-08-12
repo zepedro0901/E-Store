@@ -1,6 +1,7 @@
 import { getCategories, getThemes } from "@/lib/products";
+import { getDictionary } from "@/i18n/get-dictionary";
 
-export function FilterBar({
+export async function FilterBar({
   action,
   category,
   theme,
@@ -17,8 +18,9 @@ export function FilterBar({
   showCategoryFilter?: boolean;
   showThemeFilter?: boolean;
 }) {
-  const categories = getCategories();
-  const themes = getThemes();
+  const { locale, dict } = await getDictionary();
+  const categories = getCategories(locale);
+  const themes = getThemes(locale);
 
   return (
     <form
@@ -31,14 +33,14 @@ export function FilterBar({
           htmlFor="q"
           className="text-xs font-medium text-foreground/55"
         >
-          Search
+          {dict.filterBar.search}
         </label>
         <input
           id="q"
           name="q"
           type="text"
           defaultValue={q}
-          placeholder="Search products…"
+          placeholder={dict.filterBar.searchPlaceholder}
           className="rounded-lg border border-border bg-background px-3 py-2 text-sm outline-none transition-colors focus:border-accent"
         />
       </div>
@@ -48,7 +50,7 @@ export function FilterBar({
             htmlFor="category"
             className="text-xs font-medium text-foreground/55"
           >
-            Studio
+            {dict.filterBar.studio}
           </label>
           <select
             id="category"
@@ -56,7 +58,7 @@ export function FilterBar({
             defaultValue={category ?? ""}
             className="rounded-lg border border-border bg-background px-3 py-2 text-sm outline-none transition-colors focus:border-accent"
           >
-            <option value="">All studios</option>
+            <option value="">{dict.filterBar.allStudios}</option>
             {categories.map((c) => (
               <option key={c.slug} value={c.slug}>
                 {c.name}
@@ -71,7 +73,7 @@ export function FilterBar({
             htmlFor="theme"
             className="text-xs font-medium text-foreground/55"
           >
-            Theme
+            {dict.filterBar.theme}
           </label>
           <select
             id="theme"
@@ -79,7 +81,7 @@ export function FilterBar({
             defaultValue={theme ?? ""}
             className="rounded-lg border border-border bg-background px-3 py-2 text-sm outline-none transition-colors focus:border-accent"
           >
-            <option value="">All themes</option>
+            <option value="">{dict.filterBar.allThemes}</option>
             {themes.map((t) => (
               <option key={t.slug} value={t.slug}>
                 {t.name}
@@ -93,7 +95,7 @@ export function FilterBar({
           htmlFor="sort"
           className="text-xs font-medium text-foreground/55"
         >
-          Sort by
+          {dict.filterBar.sortBy}
         </label>
         <select
           id="sort"
@@ -101,17 +103,17 @@ export function FilterBar({
           defaultValue={sort ?? "newest"}
           className="rounded-lg border border-border bg-background px-3 py-2 text-sm outline-none transition-colors focus:border-accent"
         >
-          <option value="newest">Newest</option>
-          <option value="price-asc">Price: Low to High</option>
-          <option value="price-desc">Price: High to Low</option>
-          <option value="name-asc">Name: A–Z</option>
+          <option value="newest">{dict.filterBar.sortNewest}</option>
+          <option value="price-asc">{dict.filterBar.sortPriceAsc}</option>
+          <option value="price-desc">{dict.filterBar.sortPriceDesc}</option>
+          <option value="name-asc">{dict.filterBar.sortNameAsc}</option>
         </select>
       </div>
       <button
         type="submit"
         className="rounded-lg bg-accent px-5 py-2 text-sm font-medium text-accent-foreground transition-colors hover:bg-accent-hover"
       >
-        Apply
+        {dict.filterBar.apply}
       </button>
     </form>
   );

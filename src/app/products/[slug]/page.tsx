@@ -8,6 +8,7 @@ import {
   getProductBySlug,
   getThemeBySlug,
 } from "@/lib/products";
+import { getDictionary } from "@/i18n/get-dictionary";
 
 export function generateStaticParams() {
   return getAllProducts().map((p) => ({ slug: p.slug }));
@@ -19,8 +20,9 @@ export async function generateMetadata({
   params: Promise<{ slug: string }>;
 }): Promise<Metadata> {
   const { slug } = await params;
-  const product = getProductBySlug(slug);
-  return { title: product ? product.name : "Product" };
+  const { locale, dict } = await getDictionary();
+  const product = getProductBySlug(slug, locale);
+  return { title: product ? product.name : dict.metadata.product };
 }
 
 export default async function ProductPage({
@@ -29,19 +31,20 @@ export default async function ProductPage({
   params: Promise<{ slug: string }>;
 }) {
   const { slug } = await params;
-  const product = getProductBySlug(slug);
+  const { locale, dict } = await getDictionary();
+  const product = getProductBySlug(slug, locale);
   if (!product) notFound();
 
-  const category = getCategoryBySlug(product.category);
+  const category = getCategoryBySlug(product.category, locale);
   const themes = product.themes
-    .map((slug) => getThemeBySlug(slug))
+    .map((slug) => getThemeBySlug(slug, locale))
     .filter((t): t is NonNullable<typeof t> => Boolean(t));
 
   return (
     <div className="mx-auto w-full max-w-5xl px-6 py-10">
       <nav className="mb-6 text-sm text-foreground/55">
         <Link href="/products" className="hover:text-accent">
-          All Products
+          {dict.common.allProducts}
         </Link>
         {category && (
           <>

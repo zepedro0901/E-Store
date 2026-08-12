@@ -2,6 +2,7 @@ import categoriesData from "../../data/categories.json";
 import themesData from "../../data/themes.json";
 import productsData from "../../data/products.json";
 import type { Category, Product, SortOption, Theme } from "@/types/product";
+import { defaultLocale, type Locale } from "@/i18n/locales";
 
 const categories = categoriesData as Category[];
 const themes = themesData as Theme[];
@@ -15,32 +16,88 @@ export const SORT_OPTIONS: SortOption[] = [
   "name-asc",
 ];
 
-export function getCategories(): Category[] {
-  return categories;
+// The raw data files (name/description/tags) are written in English. That's
+// the base language of the data — independent of `defaultLocale`, which is
+// the site's default *display* language (Portuguese). Only overlay the
+// `translations.pt` fields when the visitor's locale is actually Portuguese.
+export function localizeProduct(product: Product, locale: Locale): Product {
+  if (locale !== "pt") return product;
+  const t = product.translations?.pt;
+  if (!t) return product;
+  return {
+    ...product,
+    name: t.name ?? product.name,
+    description: t.description ?? product.description,
+    tags: t.tags ?? product.tags,
+  };
 }
 
-export function getCategoryBySlug(slug: string): Category | undefined {
-  return categories.find((c) => c.slug === slug);
+export function localizeCategory(category: Category, locale: Locale): Category {
+  if (locale !== "pt") return category;
+  const t = category.translations?.pt;
+  if (!t) return category;
+  return {
+    ...category,
+    name: t.name ?? category.name,
+    description: t.description ?? category.description,
+  };
 }
 
-export function getThemes(): Theme[] {
-  return themes;
+export function localizeTheme(theme: Theme, locale: Locale): Theme {
+  if (locale !== "pt") return theme;
+  const t = theme.translations?.pt;
+  if (!t) return theme;
+  return {
+    ...theme,
+    name: t.name ?? theme.name,
+    description: t.description ?? theme.description,
+  };
 }
 
-export function getThemeBySlug(slug: string): Theme | undefined {
-  return themes.find((t) => t.slug === slug);
+export function getCategories(locale: Locale = defaultLocale): Category[] {
+  return categories.map((c) => localizeCategory(c, locale));
 }
 
-export function getAllProducts(): Product[] {
-  return products;
+export function getCategoryBySlug(
+  slug: string,
+  locale: Locale = defaultLocale,
+): Category | undefined {
+  const category = categories.find((c) => c.slug === slug);
+  return category && localizeCategory(category, locale);
 }
 
-export function getProductBySlug(slug: string): Product | undefined {
-  return products.find((p) => p.slug === slug);
+export function getThemes(locale: Locale = defaultLocale): Theme[] {
+  return themes.map((t) => localizeTheme(t, locale));
 }
 
-export function getFeaturedProducts(limit = 8): Product[] {
-  return products.filter((p) => p.featured).slice(0, limit);
+export function getThemeBySlug(
+  slug: string,
+  locale: Locale = defaultLocale,
+): Theme | undefined {
+  const theme = themes.find((t) => t.slug === slug);
+  return theme && localizeTheme(theme, locale);
+}
+
+export function getAllProducts(locale: Locale = defaultLocale): Product[] {
+  return products.map((p) => localizeProduct(p, locale));
+}
+
+export function getProductBySlug(
+  slug: string,
+  locale: Locale = defaultLocale,
+): Product | undefined {
+  const product = products.find((p) => p.slug === slug);
+  return product && localizeProduct(product, locale);
+}
+
+export function getFeaturedProducts(
+  limit = 8,
+  locale: Locale = defaultLocale,
+): Product[] {
+  return products
+    .filter((p) => p.featured)
+    .slice(0, limit)
+    .map((p) => localizeProduct(p, locale));
 }
 
 export function getProductPriceRange(product: Product): {
@@ -79,6 +136,7 @@ export interface ListProductsParams {
   sort?: SortOption;
   page?: number;
   pageSize?: number;
+  locale?: Locale;
 }
 
 export interface ListProductsResult {
@@ -96,8 +154,9 @@ export function listProducts({
   sort = "newest",
   page = 1,
   pageSize = PAGE_SIZE,
+  locale = defaultLocale,
 }: ListProductsParams): ListProductsResult {
-  let filtered = products;
+  let filtered = products.map((p) => localizeProduct(p, locale));
 
   if (category) {
     filtered = filtered.filter((p) => p.category === category);

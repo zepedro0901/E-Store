@@ -1,11 +1,13 @@
 import type { Product } from "@/types/product";
 import { ProductCard } from "./ProductCard";
+import { getDictionary } from "@/i18n/get-dictionary";
 
-export function ProductGrid({ products }: { products: Product[] }) {
+export async function ProductGrid({ products }: { products: Product[] }) {
   if (products.length === 0) {
+    const { dict } = await getDictionary();
     return (
       <p className="py-16 text-center text-sm text-zinc-500 dark:text-zinc-400">
-        No products match these filters.
+        {dict.productGrid.noProductsMatch}
       </p>
     );
   }

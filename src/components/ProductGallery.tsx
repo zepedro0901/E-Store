@@ -2,6 +2,8 @@
 
 import { useEffect, useRef, useState } from "react";
 import Image from "next/image";
+import { useTranslations } from "@/i18n/use-translations";
+import { interpolate } from "@/i18n/interpolate";
 
 export function ProductGallery({
   images,
@@ -14,6 +16,7 @@ export function ProductGallery({
   activeIndex?: number;
   onActiveIndexChange?: (index: number) => void;
 }) {
+  const { dict } = useTranslations();
   const [internalActive, setInternalActive] = useState(0);
   const active = activeIndex ?? internalActive;
   const setActive = onActiveIndexChange ?? setInternalActive;
@@ -70,7 +73,7 @@ export function ProductGallery({
             <button
               type="button"
               onClick={() => goToImage(-1)}
-              aria-label="Previous image"
+              aria-label={dict.productGallery.previousImage}
               className="absolute left-2 top-1/2 z-10 flex h-9 w-9 -translate-y-1/2 items-center justify-center rounded-full border border-border bg-surface/90 text-lg shadow-sm backdrop-blur transition-colors hover:border-accent/50"
             >
               &lsaquo;
@@ -78,7 +81,7 @@ export function ProductGallery({
             <button
               type="button"
               onClick={() => goToImage(1)}
-              aria-label="Next image"
+              aria-label={dict.productGallery.nextImage}
               className="absolute right-2 top-1/2 z-10 flex h-9 w-9 -translate-y-1/2 items-center justify-center rounded-full border border-border bg-surface/90 text-lg shadow-sm backdrop-blur transition-colors hover:border-accent/50"
             >
               &rsaquo;
@@ -92,7 +95,7 @@ export function ProductGallery({
             <button
               type="button"
               onClick={() => scrollByThumb(-1)}
-              aria-label="Scroll thumbnails left"
+              aria-label={dict.productGallery.scrollThumbnailsLeft}
               className="absolute left-0 top-1/2 z-10 flex h-8 w-8 -translate-x-1/2 -translate-y-1/2 items-center justify-center rounded-full border border-border bg-surface shadow-sm transition-colors hover:border-accent/50"
             >
               &lsaquo;
@@ -110,7 +113,10 @@ export function ProductGallery({
                 }}
                 type="button"
                 onClick={() => setActive(index)}
-                aria-label={`View image ${index + 1} of ${images.length}`}
+                aria-label={interpolate(dict.productGallery.viewImageOf, {
+                  index: index + 1,
+                  total: images.length,
+                })}
                 aria-current={index === active}
                 className={`relative aspect-square w-20 flex-shrink-0 overflow-hidden rounded-lg border transition-colors ${
                   index === active
@@ -126,7 +132,7 @@ export function ProductGallery({
             <button
               type="button"
               onClick={() => scrollByThumb(1)}
-              aria-label="Scroll thumbnails right"
+              aria-label={dict.productGallery.scrollThumbnailsRight}
               className="absolute right-0 top-1/2 z-10 flex h-8 w-8 -translate-y-1/2 translate-x-1/2 items-center justify-center rounded-full border border-border bg-surface shadow-sm transition-colors hover:border-accent/50"
             >
               &rsaquo;

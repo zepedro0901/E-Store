@@ -4,6 +4,7 @@ import { useState } from "react";
 import type { Product } from "@/types/product";
 import { formatPrice } from "@/lib/format";
 import { useCartStore } from "@/lib/cart-store";
+import { useTranslations } from "@/i18n/use-translations";
 
 export function ProductOptions({
   product,
@@ -14,6 +15,7 @@ export function ProductOptions({
   variationId?: string;
   onVariationChange?: (variationId: string) => void;
 }) {
+  const { locale, dict } = useTranslations();
   const variations = product.variations ?? [];
   const [internalVariationId, setInternalVariationId] = useState(
     variations[0]?.id,
@@ -52,7 +54,7 @@ export function ProductOptions({
       {variations.length > 0 && (
         <div className="flex flex-col gap-2">
           <span className="text-xs font-medium text-foreground/55">
-            Variation
+            {dict.productOptions.variation}
           </span>
           <div className="flex flex-wrap gap-2">
             {variations.map((variation) => {
@@ -71,7 +73,7 @@ export function ProductOptions({
                   } ${disabled ? "cursor-not-allowed opacity-40" : ""}`}
                 >
                   {variation.label}
-                  {disabled ? " (out of stock)" : ""}
+                  {disabled ? dict.productOptions.outOfStockSuffix : ""}
                 </button>
               );
             })}
@@ -81,13 +83,13 @@ export function ProductOptions({
 
       <div className="flex flex-col gap-2">
         <span className="text-xs font-medium text-foreground/55">
-          Quantity
+          {dict.common.quantity}
         </span>
         <div className="flex w-fit items-center rounded-full border border-border">
           <button
             type="button"
             onClick={() => setQuantity((q) => Math.max(1, q - 1))}
-            aria-label="Decrease quantity"
+            aria-label={dict.common.decreaseQuantity}
             className="flex h-9 w-9 items-center justify-center text-lg transition-colors hover:text-accent"
           >
             &minus;
@@ -98,7 +100,7 @@ export function ProductOptions({
           <button
             type="button"
             onClick={() => setQuantity((q) => Math.min(99, q + 1))}
-            aria-label="Increase quantity"
+            aria-label={dict.common.increaseQuantity}
             className="flex h-9 w-9 items-center justify-center text-lg transition-colors hover:text-accent"
           >
             +
@@ -107,13 +109,13 @@ export function ProductOptions({
       </div>
 
       <div className="flex flex-wrap items-center gap-3 rounded-xl border border-border bg-surface p-4">
-        <span className="text-sm text-foreground/55">Total</span>
+        <span className="text-sm text-foreground/55">{dict.common.total}</span>
         <span className="text-2xl font-bold text-accent">
-          {formatPrice(total, product.currency)}
+          {formatPrice(total, product.currency, locale)}
         </span>
         {!inStock && (
           <span className="ml-auto rounded-full bg-red-500/10 px-3 py-1 text-xs font-medium text-red-600 dark:text-red-400">
-            Out of stock
+            {dict.common.outOfStock}
           </span>
         )}
       </div>
@@ -124,7 +126,7 @@ export function ProductOptions({
         disabled={!inStock}
         className="rounded-full bg-accent px-6 py-3 text-sm font-semibold uppercase tracking-wide text-accent-foreground transition-colors hover:bg-accent-hover disabled:cursor-not-allowed disabled:opacity-40"
       >
-        {justAdded ? "Added to Cart" : "Add to Cart"}
+        {justAdded ? dict.common.addedToCart : dict.common.addToCart}
       </button>
     </div>
   );

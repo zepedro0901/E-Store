@@ -1,8 +1,12 @@
 import Image from "next/image";
 import Link from "next/link";
 import { CartIcon } from "@/components/CartIcon";
+import { LanguageSwitcher } from "@/components/LanguageSwitcher";
+import { getDictionary } from "@/i18n/get-dictionary";
 
-export function SiteHeader() {
+export async function SiteHeader() {
+  const { dict } = await getDictionary();
+
   return (
     <header className="sticky top-0 z-10 border-b border-border bg-background/90 backdrop-blur-sm">
       <div className="mx-auto flex w-full max-w-6xl flex-wrap items-center justify-between gap-4 px-6 py-4">
@@ -39,7 +43,7 @@ export function SiteHeader() {
             <input
               type="search"
               name="q"
-              placeholder="Search miniatures..."
+              placeholder={dict.header.searchPlaceholder}
               className="w-full rounded-full border border-border bg-surface py-2 pl-9 pr-3 text-sm outline-none transition-colors focus:border-accent/50"
             />
           </div>
@@ -50,8 +54,9 @@ export function SiteHeader() {
             href="/products"
             className="text-foreground/70 transition-colors hover:text-accent"
           >
-            All Products
+            {dict.common.allProducts}
           </Link>
+          <LanguageSwitcher />
           <CartIcon />
         </nav>
       </div>

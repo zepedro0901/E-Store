@@ -1,6 +1,8 @@
 import Link from "next/link";
+import { getDictionary } from "@/i18n/get-dictionary";
+import { interpolate } from "@/i18n/interpolate";
 
-export function Pagination({
+export async function Pagination({
   page,
   totalPages,
   buildHref,
@@ -11,6 +13,7 @@ export function Pagination({
 }) {
   if (totalPages <= 1) return null;
 
+  const { dict } = await getDictionary();
   const prevDisabled = page <= 1;
   const nextDisabled = page >= totalPages;
 
@@ -21,29 +24,29 @@ export function Pagination({
     <nav className="mt-10 flex items-center justify-center gap-3">
       {prevDisabled ? (
         <span className={`${baseClass} border-border text-foreground/30`}>
-          Previous
+          {dict.common.previous}
         </span>
       ) : (
         <Link
           href={buildHref(page - 1)}
           className={`${baseClass} border-border hover:border-accent hover:text-accent`}
         >
-          Previous
+          {dict.common.previous}
         </Link>
       )}
       <span className="text-sm text-foreground/55">
-        Page {page} of {totalPages}
+        {interpolate(dict.pagination.pageOf, { page, totalPages })}
       </span>
       {nextDisabled ? (
         <span className={`${baseClass} border-border text-foreground/30`}>
-          Next
+          {dict.common.next}
         </span>
       ) : (
         <Link
           href={buildHref(page + 1)}
           className={`${baseClass} border-border hover:border-accent hover:text-accent`}
         >
-          Next
+          {dict.common.next}
         </Link>
       )}
     </nav>

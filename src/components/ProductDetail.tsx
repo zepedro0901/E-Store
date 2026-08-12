@@ -5,6 +5,7 @@ import Link from "next/link";
 import type { Product, Theme } from "@/types/product";
 import { ProductGallery } from "@/components/ProductGallery";
 import { ProductOptions } from "@/components/ProductOptions";
+import { useTranslations } from "@/i18n/use-translations";
 
 export function ProductDetail({
   product,
@@ -13,6 +14,7 @@ export function ProductDetail({
   product: Product;
   themes: Theme[];
 }) {
+  const { dict } = useTranslations();
   const variations = product.variations ?? [];
   const [variationId, setVariationId] = useState(variations[0]?.id);
   const [activeImageIndex, setActiveImageIndex] = useState(0);
@@ -47,9 +49,9 @@ export function ProductDetail({
           {product.description}
         </p>
         <dl className="grid grid-cols-2 gap-2 rounded-xl border border-border bg-surface p-4 text-sm">
-          <dt className="text-foreground/55">Scale</dt>
+          <dt className="text-foreground/55">{dict.common.scale}</dt>
           <dd>{product.scale}</dd>
-          <dt className="text-foreground/55">Material</dt>
+          <dt className="text-foreground/55">{dict.common.material}</dt>
           <dd className="capitalize">{product.material}</dd>
         </dl>
         {themes.length > 0 && (

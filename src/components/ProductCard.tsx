@@ -4,9 +4,12 @@ import type { Product } from "@/types/product";
 import { formatPrice } from "@/lib/format";
 import { getProductPriceRange } from "@/lib/products";
 import { AddToCartButton } from "@/components/AddToCartButton";
+import { getDictionary } from "@/i18n/get-dictionary";
+import { interpolate } from "@/i18n/interpolate";
 
-export function ProductCard({ product }: { product: Product }) {
+export async function ProductCard({ product }: { product: Product }) {
   const { min, max } = getProductPriceRange(product);
+  const { locale, dict } = await getDictionary();
 
   return (
     <div className="group flex flex-col rounded-lg border border-border bg-surface transition-colors hover:border-accent/40">
@@ -24,7 +27,7 @@ export function ProductCard({ product }: { product: Product }) {
         <div className="absolute inset-0 bg-gradient-to-t from-black/40 via-transparent to-transparent opacity-0 transition-opacity duration-300 group-hover:opacity-100" />
         {!product.inStock && (
           <span className="absolute left-2 top-2 rounded-full bg-black/75 px-2.5 py-1 text-xs font-medium text-white">
-            Out of stock
+            {dict.common.outOfStock}
           </span>
         )}
       </Link>
@@ -40,8 +43,10 @@ export function ProductCard({ product }: { product: Product }) {
         <div className="mt-auto flex items-center justify-between gap-2 pt-2">
           <p className="text-base font-semibold text-accent">
             {min === max
-              ? formatPrice(min, product.currency)
-              : `From ${formatPrice(min, product.currency)}`}
+              ? formatPrice(min, product.currency, locale)
+              : interpolate(dict.productCard.fromPrice, {
+                  price: formatPrice(min, product.currency, locale),
+                })}
           </p>
           <AddToCartButton
             productId={product.id}

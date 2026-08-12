@@ -10,6 +10,8 @@ import {
   listProducts,
 } from "@/lib/products";
 import type { SortOption } from "@/types/product";
+import { getDictionary } from "@/i18n/get-dictionary";
+import { interpolate } from "@/i18n/interpolate";
 
 export function generateStaticParams() {
   return getCategories().map((c) => ({ slug: c.slug }));
@@ -21,8 +23,9 @@ export async function generateMetadata({
   params: Promise<{ slug: string }>;
 }): Promise<Metadata> {
   const { slug } = await params;
-  const category = getCategoryBySlug(slug);
-  return { title: category ? category.name : "Category" };
+  const { locale, dict } = await getDictionary();
+  const category = getCategoryBySlug(slug, locale);
+  return { title: category ? category.name : dict.metadata.category };
 }
 
 export default async function CategoryPage({
@@ -33,7 +36,8 @@ export default async function CategoryPage({
   searchParams: Promise<{ sort?: string; q?: string; page?: string }>;
 }) {
   const { slug } = await params;
-  const category = getCategoryBySlug(slug);
+  const { locale, dict } = await getDictionary();
+  const category = getCategoryBySlug(slug, locale);
   if (!category) notFound();
 
   const sp = await searchParams;
@@ -48,7 +52,7 @@ export default async function CategoryPage({
     total,
     totalPages,
     page: currentPage,
-  } = listProducts({ category: slug, q, sort, page });
+  } = listProducts({ category: slug, q, sort, page, locale });
 
   const buildHref = (targetPage: number) => {
     const usp = new URLSearchParams();
@@ -69,7 +73,9 @@ export default async function CategoryPage({
           {category.description}
         </p>
       )}
-      <p className="mt-1 text-sm text-foreground/55">{total} products</p>
+      <p className="mt-1 text-sm text-foreground/55">
+        {interpolate(dict.products.productsCount, { count: total })}
+      </p>
       <FilterBar action={`/category/${slug}`} sort={sort} q={q} />
       <ProductGrid products={items} />
       <Pagination

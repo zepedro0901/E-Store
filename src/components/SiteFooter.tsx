@@ -1,10 +1,12 @@
 import Image from "next/image";
 import Link from "next/link";
 import { getCategories, getThemes } from "@/lib/products";
+import { getDictionary } from "@/i18n/get-dictionary";
 
-export function SiteFooter() {
-  const categories = getCategories();
-  const themes = getThemes();
+export async function SiteFooter() {
+  const { locale, dict } = await getDictionary();
+  const categories = getCategories(locale);
+  const themes = getThemes(locale);
 
   return (
     <footer className="border-t border-border bg-surface">
@@ -26,15 +28,13 @@ export function SiteFooter() {
             Pangolin Resinworks
           </Link>
           <p className="max-w-xs text-sm leading-relaxed text-foreground/60">
-            Hand-finished resin miniatures, printed to order. Every figure is
-            printed fresh &mdash; no warehouse of pre-made stock, just careful
-            work on your piece.
+            {dict.footer.tagline}
           </p>
         </div>
 
         <div>
           <h3 className="text-xs font-semibold uppercase tracking-wide text-accent/80">
-            Studios
+            {dict.footer.studios}
           </h3>
           <ul className="mt-4 flex flex-col gap-2 text-sm">
             {categories.map((category) => (
@@ -52,7 +52,7 @@ export function SiteFooter() {
 
         <div>
           <h3 className="text-xs font-semibold uppercase tracking-wide text-accent/80">
-            Themes
+            {dict.footer.themes}
           </h3>
           <ul className="mt-4 flex flex-col gap-2 text-sm">
             {themes.map((theme) => (
@@ -70,7 +70,7 @@ export function SiteFooter() {
 
         <div>
           <h3 className="text-xs font-semibold uppercase tracking-wide text-accent/80">
-            Shop
+            {dict.footer.shop}
           </h3>
           <ul className="mt-4 flex flex-col gap-2 text-sm">
             <li>
@@ -78,7 +78,7 @@ export function SiteFooter() {
                 href="/products"
                 className="text-foreground/65 transition-colors hover:text-accent"
               >
-                All Products
+                {dict.common.allProducts}
               </Link>
             </li>
             <li>
@@ -86,7 +86,7 @@ export function SiteFooter() {
                 href="/products?sort=newest"
                 className="text-foreground/65 transition-colors hover:text-accent"
               >
-                Newest Arrivals
+                {dict.footer.newestArrivals}
               </Link>
             </li>
           </ul>
@@ -96,7 +96,7 @@ export function SiteFooter() {
       <div className="border-t border-border">
         <div className="mx-auto flex w-full max-w-6xl flex-col gap-1 px-6 py-6 text-xs text-foreground/50 sm:flex-row sm:items-center sm:justify-between">
           <p>&copy; {new Date().getFullYear()} Pangolin Resinworks</p>
-          <p>Hand-finished resin miniatures, printed to order.</p>
+          <p>{dict.footer.bottomTagline}</p>
         </div>
       </div>
     </footer>

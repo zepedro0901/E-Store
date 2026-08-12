@@ -4,8 +4,11 @@ import Image from "next/image";
 import Link from "next/link";
 import { useCartStore } from "@/lib/cart-store";
 import { formatPrice } from "@/lib/format";
+import { useTranslations } from "@/i18n/use-translations";
+import { interpolate } from "@/i18n/interpolate";
 
 export function CartView() {
+  const { locale, dict } = useTranslations();
   const hasHydrated = useCartStore((s) => s.hasHydrated);
   const items = useCartStore((s) => s.items);
   const setQuantity = useCartStore((s) => s.setQuantity);
@@ -17,12 +20,12 @@ export function CartView() {
   if (items.length === 0) {
     return (
       <div className="flex flex-col items-center gap-4 py-20 text-center">
-        <p className="text-foreground/60">Your cart is empty.</p>
+        <p className="text-foreground/60">{dict.cart.empty}</p>
         <Link
           href="/products"
           className="rounded-full bg-accent px-6 py-3 text-sm font-semibold uppercase tracking-wide text-accent-foreground transition-colors hover:bg-accent-hover"
         >
-          Browse All Products
+          {dict.common.browseAllProducts}
         </Link>
       </div>
     );
@@ -63,7 +66,9 @@ export function CartView() {
                 </span>
               )}
               <span className="font-mono text-xs text-foreground/50">
-                {formatPrice(item.price, "EUR")} each
+                {interpolate(dict.cart.each, {
+                  price: formatPrice(item.price, "EUR", locale),
+                })}
               </span>
             </div>
             <div className="flex items-center border border-border">
@@ -72,7 +77,7 @@ export function CartView() {
                 onClick={() =>
                   setQuantity(item.productId, item.quantity - 1, item.variationId)
                 }
-                aria-label="Decrease quantity"
+                aria-label={dict.common.decreaseQuantity}
                 className="flex h-8 w-8 items-center justify-center text-base transition-colors hover:text-accent"
               >
                 &minus;
@@ -85,19 +90,19 @@ export function CartView() {
                 onClick={() =>
                   setQuantity(item.productId, item.quantity + 1, item.variationId)
                 }
-                aria-label="Increase quantity"
+                aria-label={dict.common.increaseQuantity}
                 className="flex h-8 w-8 items-center justify-center text-base transition-colors hover:text-accent"
               >
                 +
               </button>
             </div>
             <span className="w-20 shrink-0 text-right text-sm font-semibold text-accent">
-              {formatPrice(item.price * item.quantity, "EUR")}
+              {formatPrice(item.price * item.quantity, "EUR", locale)}
             </span>
             <button
               type="button"
               onClick={() => removeItem(item.productId, item.variationId)}
-              aria-label={`Remove ${item.name}`}
+              aria-label={interpolate(dict.cart.removeAria, { name: item.name })}
               className="shrink-0 text-foreground/40 transition-colors hover:text-red-400"
             >
               <svg
@@ -121,9 +126,9 @@ export function CartView() {
 
       <div className="flex flex-col items-end gap-4">
         <div className="flex items-center gap-3">
-          <span className="text-sm text-foreground/55">Subtotal</span>
+          <span className="text-sm text-foreground/55">{dict.common.subtotal}</span>
           <span className="font-display text-2xl font-bold text-accent">
-            {formatPrice(subtotal, "EUR")}
+            {formatPrice(subtotal, "EUR", locale)}
           </span>
         </div>
         <div className="flex flex-wrap gap-3">
@@ -132,19 +137,19 @@ export function CartView() {
             onClick={clear}
             className="border border-border px-6 py-3 text-sm font-semibold uppercase tracking-wide text-foreground/70 transition-colors hover:border-red-400/50 hover:text-red-400"
           >
-            Clear Cart
+            {dict.cart.clearCart}
           </button>
           <Link
             href="/products"
             className="border border-border px-6 py-3 text-sm font-semibold uppercase tracking-wide text-foreground/80 transition-colors hover:border-accent/50 hover:text-accent"
           >
-            Continue Shopping
+            {dict.common.continueShopping}
           </Link>
           <Link
             href="/checkout"
             className="bg-accent px-6 py-3 text-sm font-semibold uppercase tracking-wide text-accent-foreground transition-colors hover:bg-accent-hover"
           >
-            Request to Order
+            {dict.cart.requestToOrder}
           </Link>
         </div>
       </div>

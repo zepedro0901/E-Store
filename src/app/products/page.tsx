@@ -4,10 +4,13 @@ import { ProductGrid } from "@/components/ProductGrid";
 import { Pagination } from "@/components/Pagination";
 import { SORT_OPTIONS, listProducts } from "@/lib/products";
 import type { SortOption } from "@/types/product";
+import { getDictionary } from "@/i18n/get-dictionary";
+import { interpolate } from "@/i18n/interpolate";
 
-export const metadata: Metadata = {
-  title: "All Products",
-};
+export async function generateMetadata(): Promise<Metadata> {
+  const { dict } = await getDictionary();
+  return { title: dict.common.allProducts };
+}
 
 export default async function ProductsPage({
   searchParams,
@@ -20,6 +23,7 @@ export default async function ProductsPage({
     page?: string;
   }>;
 }) {
+  const { locale, dict } = await getDictionary();
   const params = await searchParams;
   const category = params.category || undefined;
   const theme = params.theme || undefined;
@@ -34,7 +38,7 @@ export default async function ProductsPage({
     total,
     totalPages,
     page: currentPage,
-  } = listProducts({ category, theme, q, sort, page });
+  } = listProducts({ category, theme, q, sort, page, locale });
 
   const buildHref = (targetPage: number) => {
     const usp = new URLSearchParams();
@@ -50,9 +54,11 @@ export default async function ProductsPage({
   return (
     <div className="mx-auto w-full max-w-6xl px-6 py-10">
       <h1 className="font-display text-3xl font-semibold tracking-wide">
-        All Products
+        {dict.common.allProducts}
       </h1>
-      <p className="mt-1 text-sm text-foreground/55">{total} products</p>
+      <p className="mt-1 text-sm text-foreground/55">
+        {interpolate(dict.products.productsCount, { count: total })}
+      </p>
       <FilterBar
         action="/products"
         category={category}

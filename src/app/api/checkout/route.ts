@@ -3,6 +3,7 @@ import { z } from "zod";
 import { sendOrderRequestEmail } from "@/lib/email";
 import { saveOrder } from "@/lib/orders";
 import { checkRateLimit } from "@/lib/rate-limit";
+import { getDictionary } from "@/i18n/get-dictionary";
 
 const cartItemSchema = z.object({
   productId: z.string().min(1),
@@ -30,25 +31,24 @@ const requestSchema = z.object({
 });
 
 export async function POST(request: Request) {
+  const { dict } = await getDictionary();
+
   const ip = request.headers.get("x-forwarded-for")?.split(",")[0]?.trim() || "unknown";
   if (!checkRateLimit(ip)) {
-    return NextResponse.json(
-      { error: "Too many order requests. Please try again in a few minutes." },
-      { status: 429 },
-    );
+    return NextResponse.json({ error: dict.api.rateLimit }, { status: 429 });
   }
 
   let body: unknown;
   try {
     body = await request.json();
   } catch {
-    return NextResponse.json({ error: "Invalid request body" }, { status: 400 });
+    return NextResponse.json({ error: dict.api.invalidBody }, { status: 400 });
   }
 
   const parsed = requestSchema.safeParse(body);
   if (!parsed.success) {
     return NextResponse.json(
-      { error: "Invalid order request", issues: parsed.error.issues },
+      { error: dict.api.invalidOrder, issues: parsed.error.issues },
       { status: 400 },
     );
   }
@@ -60,7 +60,7 @@ export async function POST(request: Request) {
   } catch (err) {
     console.error("Failed to send order request email:", err);
     return NextResponse.json(
-      { error: err instanceof Error ? err.message : "Failed to send order request" },
+      { error: err instanceof Error ? err.message : dict.api.sendFailed },
       { status: 500 },
     );
   }

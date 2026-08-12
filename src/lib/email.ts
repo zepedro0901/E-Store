@@ -39,8 +39,8 @@ export async function sendOrderRequestEmail(
               : ""
           }</td>
           <td style="padding:6px 12px;border-bottom:1px solid #eee;text-align:center;">${i.quantity}</td>
-          <td style="padding:6px 12px;border-bottom:1px solid #eee;text-align:right;">${formatPrice(i.price, "EUR")}</td>
-          <td style="padding:6px 12px;border-bottom:1px solid #eee;text-align:right;">${formatPrice(i.price * i.quantity, "EUR")}</td>
+          <td style="padding:6px 12px;border-bottom:1px solid #eee;text-align:right;">${formatPrice(i.price, "EUR", "en")}</td>
+          <td style="padding:6px 12px;border-bottom:1px solid #eee;text-align:right;">${formatPrice(i.price * i.quantity, "EUR", "en")}</td>
         </tr>`,
     )
     .join("");
@@ -69,7 +69,7 @@ export async function sendOrderRequestEmail(
         <tbody>${itemRows}</tbody>
       </table>
       <p style="text-align:right;font-size:1.1em;margin-top:12px;">
-        <strong>Order total: ${formatPrice(total, "EUR")}</strong>
+        <strong>Order total: ${formatPrice(total, "EUR", "en")}</strong>
       </p>
     </div>
   `;
@@ -78,7 +78,7 @@ export async function sendOrderRequestEmail(
     from: process.env.ORDER_FROM_EMAIL || "Pangolin Resinworks <onboarding@resend.dev>",
     to,
     replyTo: customer.email,
-    subject: `New order request ${orderNumber} from ${customer.name} — ${formatPrice(total, "EUR")}`,
+    subject: `New order request ${orderNumber} from ${customer.name} — ${formatPrice(total, "EUR", "en")}`,
     html,
   });
 

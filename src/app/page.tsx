@@ -3,41 +3,21 @@ import Link from "next/link";
 import { ProductGrid } from "@/components/ProductGrid";
 import { ScaleDivider } from "@/components/ScaleDivider";
 import { getAllProducts, getCategories, getFeaturedProducts } from "@/lib/products";
+import { getDictionary } from "@/i18n/get-dictionary";
+import { interpolate } from "@/i18n/interpolate";
 
-const PROCESS_STEPS = [
-  {
-    num: "01",
-    title: "Print",
-    description: "Your chosen miniature is sliced and printed fresh, layer by layer, on our resin printer.",
-  },
-  {
-    num: "02",
-    title: "Wash",
-    description: "Straight off the plate, the piece is washed clean of every trace of uncured resin.",
-  },
-  {
-    num: "03",
-    title: "Cure",
-    description: "It sets under UV light until fully hardened, locking in every sculpted detail.",
-  },
-  {
-    num: "04",
-    title: "Finish",
-    description: "Supports are trimmed, the piece is inspected by hand, then packed to ship.",
-  },
-];
-
-export default function Home() {
-  const categories = getCategories();
-  const allProducts = getAllProducts();
-  const featured = getFeaturedProducts(8);
+export default async function Home() {
+  const { locale, dict } = await getDictionary();
+  const categories = getCategories(locale);
+  const allProducts = getAllProducts(locale);
+  const featured = getFeaturedProducts(8, locale);
 
   const stats = [
     {
       value: `${allProducts.length.toLocaleString()}+`,
-      label: "Miniatures in the catalog",
+      label: dict.home.statMiniatures,
     },
-    { value: `${categories.length}`, label: "Curated collections" },
+    { value: `${categories.length}`, label: dict.home.statCollections },
   ];
 
   return (
@@ -67,30 +47,28 @@ export default function Home() {
 
         <div className="relative mx-auto flex w-full max-w-6xl flex-col gap-6 px-6 pb-16 pt-24 sm:pb-20 sm:pt-32">
           <span className="font-mono text-xs uppercase tracking-[0.3em] text-accent">
-            001 &mdash; Resin Miniatures
+            {dict.home.heroKicker}
           </span>
           <h1 className="max-w-3xl font-display text-6xl font-bold uppercase leading-[0.95] tracking-tight sm:text-8xl">
-            Printed to
+            {dict.home.heroTitleLine1}
             <br />
-            order
+            {dict.home.heroTitleLine2}
           </h1>
           <p className="max-w-xl text-lg text-foreground/70">
-            Printed, cured, and finished by hand &mdash; one miniature at a
-            time. A growing catalog of dark fantasy characters, monsters,
-            and dragons.
+            {dict.home.heroSubtitle}
           </p>
           <div className="flex flex-wrap gap-3 pt-2">
             <Link
               href="/products"
               className="bg-accent px-7 py-3 text-sm font-semibold uppercase tracking-wide text-accent-foreground transition-colors hover:bg-accent-hover"
             >
-              Browse All Products
+              {dict.common.browseAllProducts}
             </Link>
             <Link
               href="#categories"
               className="border border-border px-7 py-3 text-sm font-semibold uppercase tracking-wide text-foreground/80 transition-colors hover:border-accent/50 hover:text-accent"
             >
-              Explore Collections
+              {dict.home.exploreCollections}
             </Link>
           </div>
         </div>
@@ -117,7 +95,7 @@ export default function Home() {
         <section id="categories" className="mb-20 scroll-mt-20">
           <div className="mb-6 flex items-end justify-between">
             <h2 className="font-display text-3xl font-bold uppercase tracking-tight">
-              Shop by Category
+              {dict.home.shopByCategory}
             </h2>
             <span className="hidden h-px flex-1 bg-border sm:ml-8 sm:block" />
           </div>
@@ -155,17 +133,17 @@ export default function Home() {
             <div className="mb-6 flex items-center justify-between">
               <div>
                 <h2 className="font-display text-3xl font-bold uppercase tracking-tight">
-                  Featured
+                  {dict.home.featured}
                 </h2>
                 <p className="mt-1 text-sm text-foreground/55">
-                  A hand-picked look at what our resin can do.
+                  {dict.home.featuredSubtitle}
                 </p>
               </div>
               <Link
                 href="/products"
                 className="font-mono text-xs uppercase tracking-wide text-accent hover:text-accent-hover"
               >
-                View all products &rarr;
+                {dict.home.viewAllProducts} &rarr;
               </Link>
             </div>
             <ProductGrid products={featured} />
@@ -175,20 +153,20 @@ export default function Home() {
         <section className="mb-20 border border-border bg-surface px-6 py-14 sm:px-10">
           <div className="mb-12 flex flex-col gap-2 sm:flex-row sm:items-end sm:justify-between">
             <h2 className="font-display text-3xl font-bold uppercase tracking-tight">
-              From File to Finish
+              {dict.home.processTitle}
             </h2>
             <p className="font-mono text-xs uppercase tracking-wide text-foreground/50">
-              No pre-printed stock &mdash; every order starts at Step 01
+              {dict.home.processSubtitle}
             </p>
           </div>
           <div className="grid gap-x-8 gap-y-10 sm:grid-cols-4">
-            {PROCESS_STEPS.map((item, i) => (
+            {dict.home.processSteps.map((item, i) => (
               <div key={item.title} className="relative pt-6">
                 <div className="absolute left-0 right-0 top-0 h-px bg-border">
                   <div className="absolute -top-[3px] left-0 h-[7px] w-[7px] rounded-full bg-accent" />
                 </div>
                 <span className="font-mono text-xs text-accent">
-                  {item.num}
+                  {String(i + 1).padStart(2, "0")}
                 </span>
                 <h3 className="mt-2 font-display text-xl font-bold uppercase tracking-tight">
                   {item.title}
@@ -196,7 +174,7 @@ export default function Home() {
                 <p className="mt-2 text-sm leading-relaxed text-foreground/60">
                   {item.description}
                 </p>
-                {i < PROCESS_STEPS.length - 1 && (
+                {i < dict.home.processSteps.length - 1 && (
                   <span className="pointer-events-none absolute right-0 top-2.5 hidden -translate-y-1/2 translate-x-1/2 text-border sm:block">
                     &rarr;
                   </span>
@@ -212,17 +190,19 @@ export default function Home() {
             className="scale-field absolute inset-0 opacity-10 text-accent-foreground"
           />
           <h2 className="relative font-display text-4xl font-bold uppercase tracking-tight sm:text-5xl">
-            Ready to find your next miniature?
+            {dict.home.ctaTitle}
           </h2>
           <p className="relative max-w-md text-sm opacity-90">
-            {allProducts.length.toLocaleString()} miniatures across{" "}
-            {categories.length} collections, waiting to be printed.
+            {interpolate(dict.home.ctaSubtitle, {
+              count: allProducts.length.toLocaleString(),
+              collections: categories.length,
+            })}
           </p>
           <Link
             href="/products"
             className="relative mt-2 bg-accent-foreground px-7 py-3 text-sm font-semibold uppercase tracking-wide text-accent transition-transform hover:scale-105"
           >
-            Browse All Products
+            {dict.common.browseAllProducts}
           </Link>
         </section>
       </div>
