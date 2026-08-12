@@ -111,6 +111,22 @@ export function getProductPriceRange(product: Product): {
   return { min: Math.min(...prices), max: Math.max(...prices) };
 }
 
+// Matches against both the English base fields and the Portuguese overlay
+// (when present) regardless of the visitor's active locale, so a PT-locale
+// visitor can still find a product by its English name/tag and vice versa.
+function matchesSearch(product: Product, needle: string): boolean {
+  const pt = product.translations?.pt;
+  const haystacks = [
+    product.name,
+    product.description,
+    ...product.tags,
+    pt?.name,
+    pt?.description,
+    ...(pt?.tags ?? []),
+  ];
+  return haystacks.some((s) => s?.toLowerCase().includes(needle));
+}
+
 function sortProducts(items: Product[], sort: SortOption): Product[] {
   const sorted = [...items];
   switch (sort) {
@@ -156,7 +172,7 @@ export function listProducts({
   pageSize = PAGE_SIZE,
   locale = defaultLocale,
 }: ListProductsParams): ListProductsResult {
-  let filtered = products.map((p) => localizeProduct(p, locale));
+  let filtered = products;
 
   if (category) {
     filtered = filtered.filter((p) => p.category === category);
@@ -168,15 +184,13 @@ export function listProducts({
 
   const needle = q?.trim().toLowerCase();
   if (needle) {
-    filtered = filtered.filter(
-      (p) =>
-        p.name.toLowerCase().includes(needle) ||
-        p.description.toLowerCase().includes(needle) ||
-        p.tags.some((tag) => tag.toLowerCase().includes(needle)),
-    );
+    filtered = filtered.filter((p) => matchesSearch(p, needle));
   }
 
-  const sorted = sortProducts(filtered, sort);
+  const sorted = sortProducts(
+    filtered.map((p) => localizeProduct(p, locale)),
+    sort,
+  );
   const total = sorted.length;
   const totalPages = Math.max(1, Math.ceil(total / pageSize));
   const safePage = Math.min(Math.max(1, page), totalPages);

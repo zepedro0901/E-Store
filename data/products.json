@@ -29,7 +29,24 @@
       "monsters-beasts",
       "undead",
       "demons-fiends"
-    ]
+    ],
+    "translations": {
+      "pt": {
+        "name": "Abo-Lich",
+        "description": "Enxofre e más intenções definem Abo-Lich, uma figura demoníaca tão à vontade numa arena de combate como numa sala de altar amaldiçoado. O estilo monstruoso dá-lhe uma presença real como encontro de chefe ou reviravolta de um pacto malsucedido.",
+        "tags": [
+          "mar",
+          "morto-vivo",
+          "Cthulhu",
+          "lich",
+          "Lovecraft",
+          "abissal",
+          "aboleth",
+          "monstruosidade",
+          "abolich"
+        ]
+      }
+    }
   },
   {
     "id": "mmf-496799",
@@ -58,7 +75,22 @@
     "themes": [
       "monsters-beasts",
       "demons-fiends"
-    ]
+    ],
+    "translations": {
+      "pt": {
+        "name": "Aboleth",
+        "description": "Há uma fome em Aboleth que nenhuma pintura consegue suavizar; esta é uma criatura feita para ser temida, não admirada. Quer seja invocada por um bruxo quer seja nativa do encontro, o seu carácter abissal transmite a ameaça de imediato.",
+        "tags": [
+          "kraken",
+          "monstro",
+          "mar",
+          "Cthulhu",
+          "abissal",
+          "aboleth",
+          "monstruosidade"
+        ]
+      }
+    }
   },
   {
     "id": "mmf-496804",
@@ -86,7 +118,21 @@
     "themes": [
       "monsters-beasts",
       "demons-fiends"
-    ]
+    ],
+    "translations": {
+      "pt": {
+        "name": "Garra Abissal",
+        "description": "Garra Abissal pertence aos planos inferiores, e a escultura não faz qualquer esforço para esconder isso. Uma figura marinha com esta confiança merece o seu lugar a guardar um portal, um pacto ou um trono de ossos.",
+        "tags": [
+          "garra",
+          "monstro",
+          "mar",
+          "Cthulhu",
+          "abissal",
+          "chuul"
+        ]
+      }
+    }
   },
   {
     "id": "mmf-496813",
@@ -139,7 +185,23 @@
     ],
     "inStock": true,
     "createdAt": "2025-01-03",
-    "themes": []
+    "themes": [],
+    "translations": {
+      "pt": {
+        "name": "Aethra, Druida Invocadora do Vazio",
+        "description": "Aethra, Druida Invocadora do Vazio, é uma adição marcante a qualquer coleção — uma figura com carácter genuíno em cada linha da escultura. Os detalhes femininos dão aos pintores muito por onde explorar, desde um acabamento subtil a algo mais ousado.",
+        "tags": [
+          "feminino",
+          "mulher",
+          "mago",
+          "Maga",
+          "feiticeira",
+          "clérigo",
+          "druida",
+          "invocadora-do-vazio"
+        ]
+      }
+    }
   },
   {
     "id": "mmf-377824",
@@ -165,7 +227,22 @@
     ],
     "inStock": true,
     "createdAt": "2024-06-02",
-    "themes": []
+    "themes": [],
+    "translations": {
+      "pt": {
+        "name": "Akira, Monge do Punho Arcano",
+        "description": "Há uma confiança no design de Akira, Monge do Punho Arcano, que o faz destacar-se mesmo antes de ser pintado. Entre o estilo de monge e a pose, foi construído para ser uma verdadeira peça central onde quer que seja colocado.",
+        "tags": [
+          "lutador",
+          "monge",
+          "punho",
+          "akira",
+          "goku",
+          "feiticeiro",
+          "arcano"
+        ]
+      }
+    }
   },
   {
     "id": "mmf-700139",
@@ -484,7 +561,8 @@
     "inStock": true,
     "createdAt": "2024-10-02",
     "themes": [
-      "constructs"
+      "constructs",
+      "terrain-scenery"
     ]
   },
   {
@@ -990,7 +1068,9 @@
     "slug": "ardroth-the-giant-master-349917",
     "name": "Ardroth, The Giant Master",
     "category": "flesh-of-gods",
-    "themes": [],
+    "themes": [
+      "monsters-beasts"
+    ],
     "tags": [],
     "price": 1050,
     "currency": "EUR",
@@ -1958,7 +2038,8 @@
     "createdAt": "2024-09-01",
     "themes": [
       "monsters-beasts",
-      "constructs"
+      "constructs",
+      "terrain-scenery"
     ]
   },
   {
@@ -2329,7 +2410,8 @@
     "createdAt": "2024-10-02",
     "themes": [
       "monsters-beasts",
-      "constructs"
+      "constructs",
+      "terrain-scenery"
     ]
   },
   {
@@ -2580,7 +2662,7 @@
     ],
     "price": 300,
     "currency": "EUR",
-    "description": "There is a stillness to Cheng Pei, Downward Dragon Champion that only a dragon can carry — the calm of something that has never needed to hurry. Its oriental bearing makes it a natural centerpiece for any dragon-themed encounter or hoard.",
+    "description": "Cheng Pei, Downward Dragon Champion was clearly sculpted with a specific story in mind, and it shows in the detail. The monk styling and calm, grounded stance earn it a place in a growing collection just as easily as on the table.",
     "scale": "32 mm and 75 mm",
     "material": "resin",
     "images": [
@@ -2588,9 +2670,7 @@
     ],
     "inStock": true,
     "createdAt": "2024-06-02",
-    "themes": [
-      "dragons"
-    ]
+    "themes": []
   },
   {
     "id": "mmf-474976",
@@ -3376,7 +3456,8 @@
     "inStock": true,
     "createdAt": "2025-12-02",
     "themes": [
-      "constructs"
+      "constructs",
+      "terrain-scenery"
     ]
   },
   {
@@ -4060,7 +4141,9 @@
     "slug": "dragonborn-knight-349917",
     "name": "Dragonborn Knight",
     "category": "flesh-of-gods",
-    "themes": [],
+    "themes": [
+      "humanoids"
+    ],
     "tags": [],
     "price": 300,
     "currency": "EUR",
@@ -4384,7 +4467,9 @@
     "slug": "dwarf-warrior-349916",
     "name": "Dwarf Warrior",
     "category": "flesh-of-gods",
-    "themes": [],
+    "themes": [
+      "humanoids"
+    ],
     "tags": [],
     "price": 300,
     "currency": "EUR",
@@ -5481,7 +5566,8 @@
     "inStock": true,
     "createdAt": "2025-12-02",
     "themes": [
-      "constructs"
+      "constructs",
+      "terrain-scenery"
     ]
   },
   {
@@ -5653,7 +5739,8 @@
     "inStock": true,
     "createdAt": "2025-12-02",
     "themes": [
-      "constructs"
+      "constructs",
+      "terrain-scenery"
     ]
   },
   {
@@ -5900,7 +5987,8 @@
     "inStock": true,
     "createdAt": "2026-02-02",
     "themes": [
-      "constructs"
+      "constructs",
+      "terrain-scenery"
     ]
   },
   {
@@ -5927,7 +6015,8 @@
     "inStock": true,
     "createdAt": "2026-02-02",
     "themes": [
-      "constructs"
+      "constructs",
+      "terrain-scenery"
     ]
   },
   {
@@ -7819,7 +7908,8 @@
     "inStock": true,
     "createdAt": "2024-10-02",
     "themes": [
-      "constructs"
+      "constructs",
+      "terrain-scenery"
     ]
   },
   {
@@ -8117,7 +8207,8 @@
     "inStock": true,
     "createdAt": "2025-04-02",
     "themes": [
-      "constructs"
+      "constructs",
+      "terrain-scenery"
     ]
   },
   {
@@ -8715,7 +8806,8 @@
     "inStock": true,
     "createdAt": "2024-10-02",
     "themes": [
-      "constructs"
+      "constructs",
+      "terrain-scenery"
     ]
   },
   {
@@ -8806,7 +8898,9 @@
     "slug": "krughor-death-dragon-rider-349917",
     "name": "Krughor, Death Dragon Rider",
     "category": "flesh-of-gods",
-    "themes": [],
+    "themes": [
+      "dragons"
+    ],
     "tags": [],
     "price": 3350,
     "currency": "EUR",
@@ -9631,7 +9725,6 @@
     "inStock": true,
     "createdAt": "2025-06-02",
     "themes": [
-      "dragons",
       "undead"
     ]
   },
@@ -10385,7 +10478,8 @@
     "inStock": true,
     "createdAt": "2025-12-02",
     "themes": [
-      "constructs"
+      "constructs",
+      "terrain-scenery"
     ]
   },
   {
@@ -17033,7 +17127,8 @@
     "inStock": true,
     "createdAt": "2025-11-02",
     "themes": [
-      "constructs"
+      "constructs",
+      "terrain-scenery"
     ]
   },
   {
@@ -17370,7 +17465,6 @@
     "name": "Xu Quin, Dragon Punch (Human Monk)",
     "category": "flesh-of-gods",
     "tags": [
-      "dragon",
       "female",
       "fighter",
       "monk",
@@ -17381,7 +17475,7 @@
     ],
     "price": 300,
     "currency": "EUR",
-    "description": "Draconic power runs through every line of Xu Quin, Dragon Punch (Human Monk), a figure built to dominate a battle mat the way its kind dominates the sky. Sculpted with a female silhouette, it holds up as a striking solo display piece as much as a tabletop threat.",
+    "description": "There's a confidence to Xu Quin, Dragon Punch (Human Monk)'s design that makes it stand out even before it's painted. Between the monk styling and the raised gauntlet, it's built to be a genuine centerpiece wherever it's placed.",
     "scale": "32 mm and 75 mm",
     "material": "resin",
     "images": [
@@ -17390,7 +17484,6 @@
     "inStock": true,
     "createdAt": "2024-08-01",
     "themes": [
-      "dragons",
       "humanoids"
     ]
   },
@@ -17412,7 +17505,7 @@
     ],
     "price": 300,
     "currency": "EUR",
-    "description": "Xu Quin, Skyward Dragon Champion carries the unmistakable presence of the dragonkin — scale, wing, and ancient fury rendered in fine resin detail. Whether guarding a hoard or descending on an unsuspecting party, its chinese presence steals the scene.",
+    "description": "Xu Quin, Skyward Dragon Champion rewards a close look — the kind of miniature that holds up to scrutiny, not just tabletop distance. Its martial-artist stance makes it a versatile pick for a wide range of encounters and stories.",
     "scale": "32 mm and 75 mm",
     "material": "resin",
     "images": [
@@ -17420,9 +17513,7 @@
     ],
     "inStock": true,
     "createdAt": "2024-06-02",
-    "themes": [
-      "dragons"
-    ]
+    "themes": []
   },
   {
     "id": "mmf-679134",
@@ -17616,7 +17707,33 @@
     "createdAt": "2025-10-01",
     "themes": [
       "monsters-beasts"
-    ]
+    ],
+    "translations": {
+      "pt": {
+        "name": "Yeti Abominável",
+        "description": "- Yeti Abominável (base de 100mm) • Ficheiros com suportes: suportes para utilizador confirmado • Ficheiros reforçados: pontas de suporte 20% mais grossas, suportes fáceis de utilizar • Ficheiros Lys: ficheiros lychee para edição • Ficheiros sem suportes",
+        "tags": [
+          "impressão",
+          "miniaturas",
+          "monstro",
+          "de",
+          "yeti",
+          "neve",
+          "senhor",
+          "gelo",
+          "o",
+          "perdição",
+          "montanha",
+          "D&D",
+          "DnD",
+          "lotp",
+          "abominável",
+          "nascido-do-gelo",
+          "nascido-do-gelo",
+          "abominableyeti"
+        ]
+      }
+    }
   },
   {
     "id": "rescale-405069",
@@ -17679,6 +17796,32 @@
     ],
     "inStock": true,
     "createdAt": "2024-09-02",
+    "translations": {
+      "pt": {
+        "name": "Infantaria Aeterna",
+        "description": "> Pacote Infantaria Aeterna (Base personalizada, 40mm) - Arqueiro com Arco Gigante a Disparar- Arqueiro com Arco Gigante a Andar- Arqueiro com Arco a Observar- Arqueiro com Arco a Disparar- Arqueiro com Besta a Recarregar- Arqueiro com Besta a Disparar- General com Espada Grande a Correr- General com Espada Grande Parado- General com Ataque de Espada- General a Observar com Espada- Soldado com Machado a Correr- Guerreiro com Machado a Correr- Soldado com Machado a Provocar- Guerreiro com Machado a Provocar- Soldado com Machado Grande a Correr- Guerreiro com Machado Grande a Correr- Soldado com Machado Grande Parado- Guerreiro com Machado Grande Parado- Soldado com Martelo Grande Pronto- Guerreiro com Martelo Grande Pronto- Soldado com Martelo Grande a Andar- Guerreiro com Martelo Grande a Andar- Soldado com Bloqueio de Martelo- Guerreiro com Bloqueio de Martelo- Soldado com Martelo a Correr- Guerreiro com Martelo a Correr • Ficheiros com suportes: suportes para utilizador confirmado • Ficheiros reforçados: pontas de suporte 20% mais grossas, suportes fáceis de utilizar • Ficheiros Lys: ficheiros lychee para edição • Ficheiros sem suportes",
+        "tags": [
+          "impressão",
+          "miniaturas",
+          "de",
+          "guerreiro",
+          "senhor",
+          "celestial",
+          "o",
+          "infantaria",
+          "paladino",
+          "D&D",
+          "DnD",
+          "Bastion",
+          "infantaria",
+          "lotp",
+          "pureza",
+          "celeste",
+          "aeterna",
+          "variações"
+        ]
+      }
+    },
     "variations": [
       {
         "id": "archer-giant-bow-shoot",
@@ -17849,7 +17992,28 @@
     "createdAt": "2025-04-01",
     "themes": [
       "undead"
-    ]
+    ],
+    "translations": {
+      "pt": {
+        "name": "Aïabus, Espírito da Terra",
+        "description": "- Aïabus, Espírito da Terra (Base de 100 mm) • Ficheiros com suportes: suportes para utilizador confirmado • Ficheiros reforçados: pontas de suporte 20% mais grossas, suportes fáceis de utilizar • Ficheiros Lys: ficheiros lychee para edição • Ficheiros sem suportes",
+        "tags": [
+          "impressão",
+          "rei",
+          "miniaturas",
+          "de",
+          "terra",
+          "senhor",
+          "o",
+          "minotauro",
+          "D&D",
+          "espírito",
+          "DnD",
+          "lotp",
+          "aïabus"
+        ]
+      }
+    }
   },
   {
     "id": "rescale-781173-armor",
@@ -17897,9 +18061,39 @@
     "inStock": true,
     "createdAt": "2026-04-01",
     "themes": [
-      "dragons",
       "monsters-beasts"
     ],
+    "translations": {
+      "pt": {
+        "name": "Legião Amenti, Escorpiões Gigantes - Armadura",
+        "description": "> Pacote Legião Amenti, Escorpiões Gigantes (base de 60mm) + Variantes: versões Montada e Selvagem x 5 poses • Ficheiros com suportes: suportes para utilizador confirmado • Ficheiros reforçados: pontas de suporte 20% mais grossas, suportes fáceis de utilizar • Ficheiros Lys: ficheiros lychee para edição • Ficheiros sem suportes",
+        "tags": [
+          "impressão",
+          "criatura",
+          "dragões",
+          "masmorras",
+          "gigante",
+          "inseto",
+          "miniaturas",
+          "monstro",
+          "montaria",
+          "de",
+          "escorpião",
+          "selvagem",
+          "senhor",
+          "caído",
+          "o",
+          "legião",
+          "cavaleiro",
+          "DnD",
+          "e",
+          "lotp",
+          "escorpiões",
+          "areias",
+          "amenti"
+        ]
+      }
+    },
     "variations": [
       {
         "id": "giant-scorpion-attack-armor",
@@ -17974,7 +18168,6 @@
     "inStock": true,
     "createdAt": "2026-04-01",
     "themes": [
-      "dragons",
       "monsters-beasts"
     ],
     "variations": [
@@ -18051,7 +18244,6 @@
     "inStock": true,
     "createdAt": "2026-04-01",
     "themes": [
-      "dragons",
       "monsters-beasts"
     ],
     "variations": [
@@ -18231,7 +18423,6 @@
     "inStock": true,
     "createdAt": "2026-04-01",
     "themes": [
-      "dragons",
       "monsters-beasts"
     ]
   },
@@ -19934,7 +20125,6 @@
     "inStock": true,
     "createdAt": "2026-03-02",
     "themes": [
-      "dragons",
       "humanoids"
     ],
     "variations": [
@@ -20016,7 +20206,6 @@
     "inStock": true,
     "createdAt": "2026-03-02",
     "themes": [
-      "dragons",
       "humanoids"
     ],
     "variations": [
@@ -20098,7 +20287,6 @@
     "inStock": true,
     "createdAt": "2026-03-02",
     "themes": [
-      "dragons",
       "humanoids"
     ],
     "variations": [
@@ -23162,7 +23350,8 @@
     "inStock": true,
     "createdAt": "2023-12-01",
     "themes": [
-      "dragons"
+      "dragons",
+      "terrain-scenery"
     ]
   },
   {
@@ -23274,7 +23463,6 @@
     "inStock": true,
     "createdAt": "2026-03-02",
     "themes": [
-      "dragons",
       "humanoids",
       "monsters-beasts"
     ],
@@ -23369,7 +23557,6 @@
     "inStock": true,
     "createdAt": "2026-03-02",
     "themes": [
-      "dragons",
       "humanoids",
       "monsters-beasts"
     ],
@@ -23464,7 +23651,6 @@
     "inStock": true,
     "createdAt": "2026-03-02",
     "themes": [
-      "dragons",
       "humanoids",
       "monsters-beasts"
     ],
@@ -23543,7 +23729,6 @@
     "inStock": true,
     "createdAt": "2026-03-02",
     "themes": [
-      "dragons",
       "monsters-beasts",
       "demons-fiends"
     ]
@@ -23766,9 +23951,7 @@
     ],
     "inStock": true,
     "createdAt": "2025-12-01",
-    "themes": [
-      "dragons"
-    ]
+    "themes": []
   },
   {
     "id": "rescale-712627-saddle",
@@ -23815,9 +23998,7 @@
     ],
     "inStock": true,
     "createdAt": "2025-12-01",
-    "themes": [
-      "dragons"
-    ]
+    "themes": []
   },
   {
     "id": "rescale-712627-wild",
@@ -23864,9 +24045,7 @@
     ],
     "inStock": true,
     "createdAt": "2025-12-01",
-    "themes": [
-      "dragons"
-    ]
+    "themes": []
   },
   {
     "id": "rescale-712630",
@@ -23938,9 +24117,7 @@
         "price": 500
       }
     ],
-    "themes": [
-      "dragons"
-    ]
+    "themes": []
   },
   {
     "id": "rescale-444608",
@@ -24689,9 +24866,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-02-04",
-    "themes": [
-      "dragons"
-    ],
+    "themes": [],
     "variations": [
       {
         "id": "disk-a",
@@ -24754,9 +24929,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-02-04",
-    "themes": [
-      "dragons"
-    ],
+    "themes": [],
     "variations": [
       {
         "id": "shield-a",
@@ -24819,9 +24992,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-02-04",
-    "themes": [
-      "dragons"
-    ],
+    "themes": [],
     "variations": [
       {
         "id": "spear-a",
@@ -24889,9 +25060,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-02-04",
-    "themes": [
-      "dragons"
-    ],
+    "themes": [],
     "variations": [
       {
         "id": "sword-a",
@@ -27002,7 +27171,11 @@
     "slug": "nightwing-mourners-alaric-the-shroud-wing-mount-816920",
     "name": "Nightwing Mourners - Alaric, the Shroud Wing - Mount",
     "category": "rescale-miniatures",
-    "themes": [],
+    "themes": [
+      "dragons",
+      "monsters-beasts",
+      "undead"
+    ],
     "tags": [
       "print",
       "dark",
@@ -27059,7 +27232,11 @@
     "slug": "nightwing-mourners-alaric-the-shroud-wing-wild-816920",
     "name": "Nightwing Mourners - Alaric, the Shroud Wing - Wild",
     "category": "rescale-miniatures",
-    "themes": [],
+    "themes": [
+      "dragons",
+      "monsters-beasts",
+      "undead"
+    ],
     "tags": [
       "print",
       "dark",
@@ -27116,7 +27293,11 @@
     "slug": "nightwing-mourners-soren-the-bone-reaper-mount-816930",
     "name": "Nightwing Mourners - Soren, the Bone Reaper - Mount",
     "category": "rescale-miniatures",
-    "themes": [],
+    "themes": [
+      "dragons",
+      "monsters-beasts",
+      "undead"
+    ],
     "tags": [
       "print",
       "bone",
@@ -27173,7 +27354,11 @@
     "slug": "nightwing-mourners-soren-the-bone-reaper-wild-816930",
     "name": "Nightwing Mourners - Soren, the Bone Reaper - Wild",
     "category": "rescale-miniatures",
-    "themes": [],
+    "themes": [
+      "dragons",
+      "monsters-beasts",
+      "undead"
+    ],
     "tags": [
       "print",
       "bone",
@@ -27230,7 +27415,11 @@
     "slug": "nightwing-mourners-ulfric-the-cross-warden-mount-816935",
     "name": "Nightwing Mourners - Ulfric, the Cross Warden - Mount",
     "category": "rescale-miniatures",
-    "themes": [],
+    "themes": [
+      "dragons",
+      "monsters-beasts",
+      "undead"
+    ],
     "tags": [
       "print",
       "cross",
@@ -27287,7 +27476,11 @@
     "slug": "nightwing-mourners-ulfric-the-cross-warden-wild-816935",
     "name": "Nightwing Mourners - Ulfric, the Cross Warden - Wild",
     "category": "rescale-miniatures",
-    "themes": [],
+    "themes": [
+      "dragons",
+      "monsters-beasts",
+      "undead"
+    ],
     "tags": [
       "print",
       "cross",
@@ -27344,7 +27537,11 @@
     "slug": "nightwing-mourners-varick-the-dead-bearer-mount-816936",
     "name": "Nightwing Mourners - Varick, the Dead Bearer - Mount",
     "category": "rescale-miniatures",
-    "themes": [],
+    "themes": [
+      "dragons",
+      "monsters-beasts",
+      "undead"
+    ],
     "tags": [
       "print",
       "dark",
@@ -27401,7 +27598,11 @@
     "slug": "nightwing-mourners-varick-the-dead-bearer-wild-816936",
     "name": "Nightwing Mourners - Varick, the Dead Bearer - Wild",
     "category": "rescale-miniatures",
-    "themes": [],
+    "themes": [
+      "dragons",
+      "monsters-beasts",
+      "undead"
+    ],
     "tags": [
       "print",
       "dark",
@@ -27697,7 +27898,6 @@
       }
     ],
     "themes": [
-      "dragons",
       "demons-fiends"
     ]
   },
@@ -27885,7 +28085,6 @@
     "inStock": true,
     "createdAt": "2026-01-02",
     "themes": [
-      "dragons",
       "humanoids"
     ]
   },
@@ -27934,7 +28133,6 @@
     "inStock": true,
     "createdAt": "2026-01-02",
     "themes": [
-      "dragons",
       "humanoids"
     ],
     "variations": [
@@ -28000,7 +28198,6 @@
     "inStock": true,
     "createdAt": "2026-01-02",
     "themes": [
-      "dragons",
       "humanoids"
     ],
     "variations": [
@@ -28066,7 +28263,6 @@
     "inStock": true,
     "createdAt": "2026-01-02",
     "themes": [
-      "dragons",
       "humanoids"
     ]
   },
@@ -28115,7 +28311,6 @@
     "inStock": true,
     "createdAt": "2026-01-02",
     "themes": [
-      "dragons",
       "humanoids"
     ],
     "variations": [
@@ -28181,7 +28376,6 @@
     "inStock": true,
     "createdAt": "2026-01-02",
     "themes": [
-      "dragons",
       "humanoids"
     ],
     "variations": [
@@ -28247,7 +28441,6 @@
     "inStock": true,
     "createdAt": "2026-01-02",
     "themes": [
-      "dragons",
       "humanoids"
     ],
     "variations": [
@@ -28949,7 +29142,6 @@
     "inStock": true,
     "createdAt": "2026-04-01",
     "themes": [
-      "dragons",
       "undead"
     ]
   },
@@ -30138,7 +30330,6 @@
     "inStock": true,
     "createdAt": "2026-02-04",
     "themes": [
-      "dragons",
       "monsters-beasts"
     ]
   },
@@ -30183,7 +30374,6 @@
     "inStock": true,
     "createdAt": "2026-02-18",
     "themes": [
-      "dragons",
       "monsters-beasts",
       "constructs"
     ]
@@ -31570,7 +31760,6 @@
     "inStock": true,
     "createdAt": "2026-05-04",
     "themes": [
-      "dragons",
       "undead",
       "demons-fiends"
     ],
@@ -31635,7 +31824,6 @@
     "inStock": true,
     "createdAt": "2026-05-04",
     "themes": [
-      "dragons",
       "undead",
       "demons-fiends"
     ],
@@ -31700,7 +31888,6 @@
     "inStock": true,
     "createdAt": "2026-05-04",
     "themes": [
-      "dragons",
       "undead",
       "demons-fiends"
     ]
@@ -31789,7 +31976,6 @@
     "inStock": true,
     "createdAt": "2026-05-04",
     "themes": [
-      "dragons",
       "monsters-beasts"
     ]
   },
@@ -31839,7 +32025,6 @@
     "inStock": true,
     "createdAt": "2026-05-04",
     "themes": [
-      "dragons",
       "monsters-beasts"
     ]
   },
@@ -31889,7 +32074,6 @@
     "inStock": true,
     "createdAt": "2026-05-04",
     "themes": [
-      "dragons",
       "monsters-beasts"
     ]
   },
@@ -32046,9 +32230,7 @@
         "price": 300
       }
     ],
-    "themes": [
-      "dragons"
-    ]
+    "themes": []
   },
   {
     "id": "rescale-794752",
@@ -32097,7 +32279,6 @@
     "inStock": true,
     "createdAt": "2026-05-04",
     "themes": [
-      "dragons",
       "monsters-beasts",
       "demons-fiends"
     ]
@@ -32107,7 +32288,9 @@
     "slug": "the-four-mourners-alaric-the-high-816937",
     "name": "The Four Mourners - Alaric, the High",
     "category": "rescale-miniatures",
-    "themes": [],
+    "themes": [
+      "undead"
+    ],
     "tags": [
       "print",
       "dark",
@@ -32158,7 +32341,9 @@
     "slug": "the-four-mourners-soren-the-hollow-816941",
     "name": "The Four Mourners - Soren, the Hollow",
     "category": "rescale-miniatures",
-    "themes": [],
+    "themes": [
+      "undead"
+    ],
     "tags": [
       "print",
       "dark",
@@ -32206,7 +32391,9 @@
     "slug": "the-four-mourners-ulfric-the-grave-816944",
     "name": "The Four Mourners - Ulfric, the Grave",
     "category": "rescale-miniatures",
-    "themes": [],
+    "themes": [
+      "undead"
+    ],
     "tags": [
       "print",
       "dark",
@@ -32254,7 +32441,9 @@
     "slug": "the-four-mourners-varick-the-grim-816945",
     "name": "The Four Mourners - Varick, the Grim",
     "category": "rescale-miniatures",
-    "themes": [],
+    "themes": [
+      "undead"
+    ],
     "tags": [
       "print",
       "dark",
@@ -32965,7 +33154,8 @@
     "inStock": true,
     "createdAt": "2023-12-01",
     "themes": [
-      "dragons"
+      "dragons",
+      "terrain-scenery"
     ]
   },
   {
@@ -33004,7 +33194,8 @@
     "inStock": true,
     "createdAt": "2023-12-01",
     "themes": [
-      "dragons"
+      "dragons",
+      "terrain-scenery"
     ]
   },
   {
@@ -33064,7 +33255,8 @@
       }
     ],
     "themes": [
-      "dragons"
+      "dragons",
+      "terrain-scenery"
     ]
   },
   {
@@ -33853,9 +34045,7 @@
     ],
     "inStock": true,
     "createdAt": "2025-12-01",
-    "themes": [
-      "dragons"
-    ],
+    "themes": [],
     "variations": [
       {
         "id": "axe-guard",
@@ -33947,9 +34137,7 @@
     ],
     "inStock": true,
     "createdAt": "2025-12-01",
-    "themes": [
-      "dragons"
-    ],
+    "themes": [],
     "variations": [
       {
         "id": "bow-guard",
@@ -34016,9 +34204,7 @@
     ],
     "inStock": true,
     "createdAt": "2025-12-01",
-    "themes": [
-      "dragons"
-    ]
+    "themes": []
   },
   {
     "id": "rescale-712631-spear",
@@ -34063,9 +34249,7 @@
     ],
     "inStock": true,
     "createdAt": "2025-12-01",
-    "themes": [
-      "dragons"
-    ],
+    "themes": [],
     "variations": [
       {
         "id": "spear-angry",
@@ -34137,9 +34321,7 @@
     ],
     "inStock": true,
     "createdAt": "2025-12-01",
-    "themes": [
-      "dragons"
-    ],
+    "themes": [],
     "variations": [
       {
         "id": "sword-block",
@@ -34216,9 +34398,7 @@
     ],
     "inStock": true,
     "createdAt": "2025-12-01",
-    "themes": [
-      "dragons"
-    ]
+    "themes": []
   },
   {
     "id": "rescale-420610",
@@ -34308,7 +34488,6 @@
     "inStock": true,
     "createdAt": "2026-04-01",
     "themes": [
-      "dragons",
       "monsters-beasts",
       "undead"
     ],
@@ -34363,7 +34542,6 @@
     "inStock": true,
     "createdAt": "2026-04-01",
     "themes": [
-      "dragons",
       "monsters-beasts",
       "undead"
     ],
@@ -34428,7 +34606,6 @@
     "inStock": true,
     "createdAt": "2026-04-01",
     "themes": [
-      "dragons",
       "monsters-beasts",
       "undead"
     ],
@@ -34488,7 +34665,6 @@
     "inStock": true,
     "createdAt": "2026-04-01",
     "themes": [
-      "dragons",
       "monsters-beasts",
       "undead"
     ],
@@ -34535,7 +34711,11 @@
     "slug": "vampire-duskhelm-huscarls-axe-816946",
     "name": "Vampire Duskhelm Huscarls - Axe",
     "category": "rescale-miniatures",
-    "themes": [],
+    "themes": [
+      "humanoids",
+      "monsters-beasts",
+      "undead"
+    ],
     "tags": [
       "print",
       "archer",
@@ -34621,7 +34801,11 @@
     "slug": "vampire-duskhelm-huscarls-bow-816946",
     "name": "Vampire Duskhelm Huscarls - Bow",
     "category": "rescale-miniatures",
-    "themes": [],
+    "themes": [
+      "humanoids",
+      "monsters-beasts",
+      "undead"
+    ],
     "tags": [
       "print",
       "archer",
@@ -34677,7 +34861,11 @@
     "slug": "vampire-duskhelm-huscarls-sword-816946",
     "name": "Vampire Duskhelm Huscarls - Sword",
     "category": "rescale-miniatures",
-    "themes": [],
+    "themes": [
+      "humanoids",
+      "monsters-beasts",
+      "undead"
+    ],
     "tags": [
       "print",
       "archer",
@@ -34748,7 +34936,10 @@
     "slug": "vampiric-dragon-adult-816915",
     "name": "Vampiric Dragon - Adult",
     "category": "rescale-miniatures",
-    "themes": [],
+    "themes": [
+      "dragons",
+      "undead"
+    ],
     "tags": [
       "print",
       "dragon",
@@ -35835,7 +36026,6 @@
     "inStock": true,
     "createdAt": "2026-03-02",
     "themes": [
-      "dragons",
       "monsters-beasts"
     ]
   },
@@ -35883,7 +36073,6 @@
     "inStock": true,
     "createdAt": "2026-01-02",
     "themes": [
-      "dragons",
       "monsters-beasts"
     ]
   },
@@ -35931,7 +36120,6 @@
     "inStock": true,
     "createdAt": "2026-01-02",
     "themes": [
-      "dragons",
       "monsters-beasts"
     ]
   },
@@ -35972,7 +36160,9 @@
     "slug": "wendigo-816916",
     "name": "Wendigo",
     "category": "rescale-miniatures",
-    "themes": [],
+    "themes": [
+      "monsters-beasts"
+    ],
     "tags": [
       "print",
       "creature",
@@ -36012,7 +36202,9 @@
     "slug": "white-dragon-elder-816914",
     "name": "White Dragon - Elder",
     "category": "rescale-miniatures",
-    "themes": [],
+    "themes": [
+      "dragons"
+    ],
     "tags": [
       "print",
       "ancient",
@@ -36959,7 +37151,13 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [],
+    "translations": {
+      "pt": {
+        "name": "Aboleth",
+        "description": "Antes da chegada dos deuses, os aboleths espreitavam em oceanos primordiais e lagos subterrâneos. Estendiam as suas mentes e tomavam controlo das formas de vida emergentes do reino mortal, transformando essas criaturas em seus escravos.\r\nAboleth para usar em qualquer aventura épica!"
+      }
+    }
   },
   {
     "id": "yks-338262",
@@ -36980,7 +37178,15 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
+    "themes": [
+      "demons-fiends"
+    ],
+    "translations": {
+      "pt": {
+        "name": "Galinha Abissal",
+        "description": "As galinhas abissais são carnívoras, temperamentais e saborosas criaturas de fundo, nativas do Abismo. Batem as suas asas coriáceas para assustar predadores e para correr mais depressa, e têm sabor a galinha gorda.\r\nGalinha abissal para usar em qualquer aventura épica!"
+      }
+    },
     "variations": [
       {
         "id": "01",
@@ -37021,7 +37227,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "demons-fiends"
+    ]
   },
   {
     "id": "yks-338265",
@@ -37042,7 +37250,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "demons-fiends"
+    ]
   },
   {
     "id": "yks-457082",
@@ -37062,7 +37272,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "undead"
+    ]
   },
   {
     "id": "yks-483262",
@@ -37085,7 +37297,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "dragons"
+    ]
   },
   {
     "id": "yks-368703",
@@ -37108,7 +37322,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "dragons"
+    ]
   },
   {
     "id": "yks-250984",
@@ -37173,7 +37389,10 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "monsters-beasts",
+      "demons-fiends"
+    ]
   },
   {
     "id": "yks-588432",
@@ -37194,7 +37413,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "undead"
+    ]
   },
   {
     "id": "yks-233156",
@@ -37302,7 +37523,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "undead"
+    ]
   },
   {
     "id": "yks-251869",
@@ -37408,7 +37631,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "dragons"
+    ]
   },
   {
     "id": "yks-169218",
@@ -37641,7 +37866,13 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [],
+    "translations": {
+      "pt": {
+        "name": "Bulette a Atacar - Book of Beasts",
+        "description": "Tubarão-da-Terra da campanha de kickstarter 'Adventurers Guide - The Book of Beasts'. Ainda há apoios em atraso disponíveis!\r\nTubarão-da-Terra a atacar para usar em qualquer aventura épica!"
+      }
+    }
   },
   {
     "id": "yks-284106",
@@ -37705,7 +37936,12 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [],
+    "translations": {
+      "pt": {
+        "name": "Auril - Anciã"
+      }
+    }
   },
   {
     "id": "yks-143954",
@@ -37845,7 +38081,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "monsters-beasts"
+    ]
   },
   {
     "id": "yks-new-aussie-folk",
@@ -37907,7 +38145,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
+    "themes": [
+      "monsters-beasts"
+    ],
     "variations": [
       {
         "id": "01",
@@ -37959,7 +38199,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "monsters-beasts"
+    ]
   },
   {
     "id": "yks-434367",
@@ -38069,7 +38311,11 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "humanoids",
+      "monsters-beasts",
+      "undead"
+    ]
   },
   {
     "id": "yks-new-baphomet",
@@ -38184,7 +38430,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "terrain-scenery"
+    ]
   },
   {
     "id": "yks-727273",
@@ -38204,7 +38452,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "terrain-scenery"
+    ]
   },
   {
     "id": "yks-727275",
@@ -38224,7 +38474,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "terrain-scenery"
+    ]
   },
   {
     "id": "yks-727243",
@@ -38244,7 +38496,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "terrain-scenery"
+    ]
   },
   {
     "id": "yks-727246",
@@ -38265,7 +38519,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "terrain-scenery"
+    ]
   },
   {
     "id": "yks-727250",
@@ -38285,7 +38541,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "terrain-scenery"
+    ]
   },
   {
     "id": "yks-727254",
@@ -38305,7 +38563,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "terrain-scenery"
+    ]
   },
   {
     "id": "yks-727256",
@@ -38325,7 +38585,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "terrain-scenery"
+    ]
   },
   {
     "id": "yks-443543",
@@ -38347,7 +38609,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "monsters-beasts"
+    ]
   },
   {
     "id": "yks-146893",
@@ -38541,7 +38805,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "constructs"
+    ]
   },
   {
     "id": "yks-376694",
@@ -38559,7 +38825,10 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "humanoids",
+      "monsters-beasts"
+    ]
   },
   {
     "id": "yks-525458",
@@ -38833,7 +39102,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "monsters-beasts"
+    ]
   },
   {
     "id": "yks-272797",
@@ -38876,7 +39147,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "demons-fiends"
+    ]
   },
   {
     "id": "yks-525455",
@@ -39039,7 +39312,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
+    "themes": [
+      "monsters-beasts"
+    ],
     "variations": [
       {
         "id": "traditional-01",
@@ -39118,7 +39393,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
+    "themes": [
+      "undead"
+    ],
     "variations": [
       {
         "id": "01",
@@ -39218,7 +39495,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "monsters-beasts"
+    ]
   },
   {
     "id": "yks-206835",
@@ -39259,7 +39538,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "terrain-scenery"
+    ]
   },
   {
     "id": "yks-160259",
@@ -39280,7 +39561,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "terrain-scenery"
+    ]
   },
   {
     "id": "yks-146898",
@@ -39298,7 +39581,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "undead"
+    ]
   },
   {
     "id": "yks-167303",
@@ -39384,7 +39669,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "monsters-beasts"
+    ]
   },
   {
     "id": "yks-237837",
@@ -39467,7 +39754,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "monsters-beasts"
+    ]
   },
   {
     "id": "yks-190356",
@@ -39488,7 +39777,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "monsters-beasts"
+    ]
   },
   {
     "id": "yks-257476",
@@ -39509,7 +39800,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "undead"
+    ]
   },
   {
     "id": "yks-252343",
@@ -39818,7 +40111,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "demons-fiends"
+    ]
   },
   {
     "id": "yks-808278",
@@ -39861,7 +40156,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "demons-fiends"
+    ]
   },
   {
     "id": "yks-146900",
@@ -39902,7 +40199,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "monsters-beasts"
+    ]
   },
   {
     "id": "yks-new-deep-gnome",
@@ -39926,7 +40225,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
+    "themes": [
+      "humanoids"
+    ],
     "variations": [
       {
         "id": "01",
@@ -39993,7 +40294,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
+    "themes": [
+      "humanoids"
+    ],
     "variations": [
       {
         "id": "01",
@@ -40030,7 +40333,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
+    "themes": [
+      "humanoids"
+    ],
     "variations": [
       {
         "id": "01",
@@ -40278,7 +40583,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "monsters-beasts"
+    ]
   },
   {
     "id": "yks-234257",
@@ -40390,7 +40697,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "humanoids"
+    ]
   },
   {
     "id": "yks-782780",
@@ -40430,7 +40739,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
+    "themes": [
+      "monsters-beasts"
+    ],
     "variations": [
       {
         "id": "01",
@@ -40517,7 +40828,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "monsters-beasts"
+    ]
   },
   {
     "id": "yks-232911",
@@ -40620,7 +40933,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "humanoids"
+    ]
   },
   {
     "id": "yks-new-dragon-adult-blue",
@@ -40638,7 +40953,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "dragons"
+    ]
   },
   {
     "id": "yks-new-dragon-adult-green",
@@ -40656,7 +40973,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "dragons"
+    ]
   },
   {
     "id": "yks-new-dragon-ancient-red",
@@ -40677,7 +40996,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "dragons"
+    ]
   },
   {
     "id": "yks-new-dragon-themberchaud",
@@ -40695,7 +41016,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
+    "themes": [
+      "dragons"
+    ],
     "variations": [
       {
         "id": "themberchaud-lwing",
@@ -40727,7 +41050,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "humanoids"
+    ]
   },
   {
     "id": "yks-new-drow",
@@ -40750,7 +41075,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "humanoids"
+    ]
   },
   {
     "id": "yks-448954",
@@ -40770,7 +41097,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "humanoids"
+    ]
   },
   {
     "id": "yks-448952",
@@ -40790,7 +41119,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "humanoids"
+    ]
   },
   {
     "id": "yks-448956",
@@ -40810,7 +41141,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "humanoids"
+    ]
   },
   {
     "id": "yks-448955",
@@ -40830,7 +41163,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "humanoids"
+    ]
   },
   {
     "id": "yks-346669",
@@ -40917,7 +41252,6 @@
     "inStock": true,
     "createdAt": "2022-08-11",
     "themes": [
-      "dragons",
       "monsters-beasts"
     ]
   },
@@ -40940,7 +41274,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
+    "themes": [
+      "humanoids"
+    ],
     "variations": [
       {
         "id": "01",
@@ -41030,7 +41366,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "humanoids"
+    ]
   },
   {
     "id": "yks-147237",
@@ -41048,7 +41386,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "monsters-beasts"
+    ]
   },
   {
     "id": "yks-234862",
@@ -41067,7 +41407,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "monsters-beasts"
+    ]
   },
   {
     "id": "yks-new-elementals-air",
@@ -41221,7 +41563,10 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "humanoids",
+      "monsters-beasts"
+    ]
   },
   {
     "id": "yks-377220",
@@ -41342,7 +41687,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
+    "themes": [
+      "monsters-beasts"
+    ],
     "variations": [
       {
         "id": "01",
@@ -41390,7 +41737,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "monsters-beasts"
+    ]
   },
   {
     "id": "yks-new-flame-salamander",
@@ -41524,7 +41873,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "monsters-beasts"
+    ]
   },
   {
     "id": "yks-278134",
@@ -41562,7 +41913,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "demons-fiends"
+    ]
   },
   {
     "id": "yks-278139",
@@ -41584,7 +41937,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "monsters-beasts"
+    ]
   },
   {
     "id": "yks-539162",
@@ -41647,7 +42002,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "terrain-scenery"
+    ]
   },
   {
     "id": "yks-118061",
@@ -41821,7 +42178,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
+    "themes": [
+      "undead"
+    ],
     "variations": [
       {
         "id": "01",
@@ -41889,7 +42248,6 @@
     "inStock": true,
     "createdAt": "2022-02-21",
     "themes": [
-      "dragons",
       "monsters-beasts"
     ]
   },
@@ -41912,7 +42270,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
+    "themes": [
+      "monsters-beasts"
+    ],
     "variations": [
       {
         "id": "01",
@@ -41945,7 +42305,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "monsters-beasts"
+    ]
   },
   {
     "id": "yks-new-giant-rat-maks",
@@ -41963,7 +42325,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "monsters-beasts"
+    ]
   },
   {
     "id": "yks-739869",
@@ -41985,7 +42349,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "monsters-beasts"
+    ]
   },
   {
     "id": "yks-220221",
@@ -42006,7 +42372,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "monsters-beasts"
+    ]
   },
   {
     "id": "yks-411335",
@@ -42116,7 +42484,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "demons-fiends"
+    ]
   },
   {
     "id": "yks-157423",
@@ -42138,7 +42508,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
+    "themes": [
+      "humanoids"
+    ],
     "variations": [
       {
         "id": "01",
@@ -42193,7 +42565,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
+    "themes": [
+      "monsters-beasts"
+    ],
     "variations": [
       {
         "id": "01",
@@ -42368,7 +42742,10 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "humanoids",
+      "undead"
+    ]
   },
   {
     "id": "yks-171132",
@@ -42387,7 +42764,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "terrain-scenery"
+    ]
   },
   {
     "id": "yks-new-graz-zt",
@@ -42518,7 +42897,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "monsters-beasts"
+    ]
   },
   {
     "id": "yks-697766",
@@ -42688,7 +43069,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "busts"
+    ]
   },
   {
     "id": "yks-149013",
@@ -42708,7 +43091,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "busts"
+    ]
   },
   {
     "id": "yks-472883",
@@ -42748,7 +43133,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "dragons"
+    ]
   },
   {
     "id": "yks-440554",
@@ -42769,7 +43156,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "humanoids"
+    ]
   },
   {
     "id": "yks-new-hags-annis-hag",
@@ -43095,7 +43484,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "terrain-scenery"
+    ]
   },
   {
     "id": "yks-556214",
@@ -43137,7 +43528,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "undead"
+    ]
   },
   {
     "id": "yks-157867",
@@ -43159,7 +43552,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "constructs"
+    ]
   },
   {
     "id": "yks-329118",
@@ -43264,7 +43659,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "demons-fiends"
+    ]
   },
   {
     "id": "yks-240774",
@@ -43392,7 +43789,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "humanoids"
+    ]
   },
   {
     "id": "yks-782792",
@@ -43453,7 +43852,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "dragons"
+    ]
   },
   {
     "id": "yks-235182",
@@ -43472,7 +43873,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "dragons"
+    ]
   },
   {
     "id": "yks-697769",
@@ -43492,7 +43895,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "dragons"
+    ]
   },
   {
     "id": "yks-235178",
@@ -43511,7 +43916,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "dragons"
+    ]
   },
   {
     "id": "yks-235176",
@@ -43531,7 +43938,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "dragons"
+    ]
   },
   {
     "id": "yks-235183",
@@ -43575,7 +43984,10 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "monsters-beasts",
+      "demons-fiends"
+    ]
   },
   {
     "id": "yks-459858",
@@ -43722,7 +44134,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "undead"
+    ]
   },
   {
     "id": "yks-237571",
@@ -43802,7 +44216,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "humanoids"
+    ]
   },
   {
     "id": "yks-590463",
@@ -43822,7 +44238,10 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "monsters-beasts",
+      "demons-fiends"
+    ]
   },
   {
     "id": "yks-369814",
@@ -43842,7 +44261,10 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "monsters-beasts",
+      "demons-fiends"
+    ]
   },
   {
     "id": "yks-147248",
@@ -43862,7 +44284,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "undead"
+    ]
   },
   {
     "id": "yks-319321",
@@ -44092,7 +44516,6 @@
     "inStock": true,
     "createdAt": "2022-09-14",
     "themes": [
-      "dragons",
       "monsters-beasts"
     ]
   },
@@ -44158,7 +44581,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "undead"
+    ]
   },
   {
     "id": "yks-232830",
@@ -44259,7 +44684,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "monsters-beasts"
+    ]
   },
   {
     "id": "yks-186333",
@@ -44279,7 +44706,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "undead"
+    ]
   },
   {
     "id": "yks-284715",
@@ -44300,7 +44729,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "humanoids"
+    ]
   },
   {
     "id": "yks-147457",
@@ -44320,7 +44751,10 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "dragons",
+      "monsters-beasts"
+    ]
   },
   {
     "id": "yks-164026",
@@ -44340,7 +44774,10 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "dragons",
+      "monsters-beasts"
+    ]
   },
   {
     "id": "yks-188752",
@@ -44480,7 +44917,10 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "undead",
+      "terrain-scenery"
+    ]
   },
   {
     "id": "yks-190884",
@@ -44500,7 +44940,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "terrain-scenery"
+    ]
   },
   {
     "id": "yks-89115",
@@ -44520,7 +44962,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "terrain-scenery"
+    ]
   },
   {
     "id": "yks-152638",
@@ -44539,7 +44983,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "terrain-scenery"
+    ]
   },
   {
     "id": "yks-217950",
@@ -44646,7 +45092,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "undead"
+    ]
   },
   {
     "id": "yks-233283",
@@ -44826,7 +45274,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "monsters-beasts"
+    ]
   },
   {
     "id": "yks-733960",
@@ -44847,7 +45297,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "monsters-beasts"
+    ]
   },
   {
     "id": "yks-422592",
@@ -44867,7 +45319,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "monsters-beasts"
+    ]
   },
   {
     "id": "yks-102604",
@@ -45030,7 +45484,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "monsters-beasts"
+    ]
   },
   {
     "id": "yks-327432",
@@ -45070,7 +45526,10 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "monsters-beasts",
+      "undead"
+    ]
   },
   {
     "id": "yks-235105",
@@ -45136,7 +45595,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "humanoids"
+    ]
   },
   {
     "id": "yks-164027",
@@ -45199,7 +45660,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "busts"
+    ]
   },
   {
     "id": "yks-395416",
@@ -45435,7 +45898,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "humanoids"
+    ]
   },
   {
     "id": "yks-395409",
@@ -45456,7 +45921,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "humanoids"
+    ]
   },
   {
     "id": "yks-395410",
@@ -45477,7 +45944,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "humanoids"
+    ]
   },
   {
     "id": "yks-395414",
@@ -45498,7 +45967,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "humanoids"
+    ]
   },
   {
     "id": "yks-745935",
@@ -45520,7 +45991,10 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "undead",
+      "demons-fiends"
+    ]
   },
   {
     "id": "yks-164028",
@@ -45581,7 +46055,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "busts"
+    ]
   },
   {
     "id": "yks-233830",
@@ -45601,7 +46077,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "monsters-beasts"
+    ]
   },
   {
     "id": "yks-248344",
@@ -45622,7 +46100,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "monsters-beasts"
+    ]
   },
   {
     "id": "yks-248339",
@@ -45643,7 +46123,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "monsters-beasts"
+    ]
   },
   {
     "id": "yks-248342",
@@ -45663,7 +46145,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "monsters-beasts"
+    ]
   },
   {
     "id": "yks-248347",
@@ -45684,7 +46168,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "monsters-beasts"
+    ]
   },
   {
     "id": "yks-248325",
@@ -45707,7 +46193,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "monsters-beasts"
+    ]
   },
   {
     "id": "yks-232833",
@@ -45855,7 +46343,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "undead"
+    ]
   },
   {
     "id": "yks-279827",
@@ -45875,7 +46365,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "undead"
+    ]
   },
   {
     "id": "yks-279828",
@@ -45895,7 +46387,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "undead"
+    ]
   },
   {
     "id": "yks-279832",
@@ -45918,7 +46412,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "undead"
+    ]
   },
   {
     "id": "yks-323055",
@@ -46002,7 +46498,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "demons-fiends"
+    ]
   },
   {
     "id": "yks-252338",
@@ -46022,7 +46520,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "undead"
+    ]
   },
   {
     "id": "yks-215046",
@@ -46289,7 +46789,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "humanoids"
+    ]
   },
   {
     "id": "yks-207969",
@@ -46311,7 +46813,10 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "humanoids",
+      "demons-fiends"
+    ]
   },
   {
     "id": "yks-257481",
@@ -46332,7 +46837,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "undead"
+    ]
   },
   {
     "id": "yks-233164",
@@ -46353,7 +46860,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "undead"
+    ]
   },
   {
     "id": "yks-604751",
@@ -46414,7 +46923,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "monsters-beasts"
+    ]
   },
   {
     "id": "yks-233828",
@@ -46494,7 +47005,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "monsters-beasts"
+    ]
   },
   {
     "id": "yks-150357",
@@ -46516,7 +47029,10 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "dragons",
+      "monsters-beasts"
+    ]
   },
   {
     "id": "yks-445529",
@@ -46558,7 +47074,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "humanoids"
+    ]
   },
   {
     "id": "yks-411506",
@@ -46642,7 +47160,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "undead"
+    ]
   },
   {
     "id": "yks-472880",
@@ -46683,7 +47203,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "monsters-beasts"
+    ]
   },
   {
     "id": "yks-497230",
@@ -46888,7 +47410,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "demons-fiends"
+    ]
   },
   {
     "id": "yks-416811",
@@ -46909,7 +47433,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "monsters-beasts"
+    ]
   },
   {
     "id": "yks-457076",
@@ -46972,7 +47498,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "monsters-beasts"
+    ]
   },
   {
     "id": "yks-270440",
@@ -47017,7 +47545,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "demons-fiends"
+    ]
   },
   {
     "id": "yks-445528",
@@ -47077,7 +47607,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "undead"
+    ]
   },
   {
     "id": "yks-234256",
@@ -47097,7 +47629,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "undead"
+    ]
   },
   {
     "id": "yks-234255",
@@ -47115,7 +47649,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "undead"
+    ]
   },
   {
     "id": "yks-199242",
@@ -47136,7 +47672,10 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "monsters-beasts",
+      "undead"
+    ]
   },
   {
     "id": "yks-149423",
@@ -47298,7 +47837,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "undead"
+    ]
   },
   {
     "id": "yks-620500",
@@ -47361,7 +47902,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "demons-fiends"
+    ]
   },
   {
     "id": "yks-395686",
@@ -47461,7 +48004,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "monsters-beasts"
+    ]
   },
   {
     "id": "yks-166285",
@@ -47607,7 +48152,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "undead"
+    ]
   },
   {
     "id": "yks-234866",
@@ -47627,7 +48174,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "monsters-beasts"
+    ]
   },
   {
     "id": "yks-378704",
@@ -47646,7 +48195,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "monsters-beasts"
+    ]
   },
   {
     "id": "yks-148575",
@@ -47665,7 +48216,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "monsters-beasts"
+    ]
   },
   {
     "id": "yks-147438",
@@ -47684,7 +48237,10 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "monsters-beasts",
+      "busts"
+    ]
   },
   {
     "id": "yks-148591",
@@ -47703,7 +48259,10 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "monsters-beasts",
+      "busts"
+    ]
   },
   {
     "id": "yks-234863",
@@ -47723,7 +48282,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "monsters-beasts"
+    ]
   },
   {
     "id": "yks-148576",
@@ -47764,7 +48325,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "busts"
+    ]
   },
   {
     "id": "yks-148587",
@@ -47784,7 +48347,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "busts"
+    ]
   },
   {
     "id": "yks-396551",
@@ -47867,7 +48432,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "monsters-beasts"
+    ]
   },
   {
     "id": "yks-346643",
@@ -48032,7 +48599,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "terrain-scenery"
+    ]
   },
   {
     "id": "yks-440559",
@@ -48055,7 +48624,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "humanoids"
+    ]
   },
   {
     "id": "yks-407264",
@@ -48122,7 +48693,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "humanoids"
+    ]
   },
   {
     "id": "yks-387827",
@@ -48310,7 +48883,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "monsters-beasts"
+    ]
   },
   {
     "id": "yks-223449",
@@ -48333,7 +48908,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "monsters-beasts"
+    ]
   },
   {
     "id": "yks-148578",
@@ -48580,7 +49157,10 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "monsters-beasts",
+      "undead"
+    ]
   },
   {
     "id": "yks-148423",
@@ -48599,7 +49179,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "undead"
+    ]
   },
   {
     "id": "yks-148421",
@@ -48619,7 +49201,10 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "monsters-beasts",
+      "undead"
+    ]
   },
   {
     "id": "yks-148425",
@@ -48638,7 +49223,10 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "monsters-beasts",
+      "undead"
+    ]
   },
   {
     "id": "yks-148422",
@@ -48658,7 +49246,10 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "monsters-beasts",
+      "undead"
+    ]
   },
   {
     "id": "yks-333479",
@@ -48740,7 +49331,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "undead"
+    ]
   },
   {
     "id": "yks-665143",
@@ -48761,7 +49354,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "undead"
+    ]
   },
   {
     "id": "yks-665150",
@@ -48782,7 +49377,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "undead"
+    ]
   },
   {
     "id": "yks-665139",
@@ -48803,7 +49400,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "undead"
+    ]
   },
   {
     "id": "yks-665147",
@@ -48824,7 +49423,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "undead"
+    ]
   },
   {
     "id": "yks-232899",
@@ -48864,7 +49465,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "undead"
+    ]
   },
   {
     "id": "yks-175467",
@@ -48925,7 +49528,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "undead"
+    ]
   },
   {
     "id": "yks-250983",
@@ -49031,7 +49636,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "terrain-scenery"
+    ]
   },
   {
     "id": "yks-148581",
@@ -49050,7 +49657,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "monsters-beasts"
+    ]
   },
   {
     "id": "yks-475685",
@@ -49071,7 +49680,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "monsters-beasts"
+    ]
   },
   {
     "id": "yks-475684",
@@ -49092,7 +49703,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "monsters-beasts"
+    ]
   },
   {
     "id": "yks-475687",
@@ -49113,7 +49726,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "monsters-beasts"
+    ]
   },
   {
     "id": "yks-475683",
@@ -49134,7 +49749,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "monsters-beasts"
+    ]
   },
   {
     "id": "yks-475686",
@@ -49155,7 +49772,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "monsters-beasts"
+    ]
   },
   {
     "id": "yks-395408",
@@ -49279,7 +49898,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "demons-fiends"
+    ]
   },
   {
     "id": "yks-148584",
@@ -49299,7 +49920,10 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "monsters-beasts",
+      "undead"
+    ]
   },
   {
     "id": "yks-233162",
@@ -49320,7 +49944,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "undead"
+    ]
   },
   {
     "id": "yks-223125",
@@ -49343,7 +49969,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "undead"
+    ]
   },
   {
     "id": "yks-171129",
@@ -49366,7 +49994,10 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "undead",
+      "terrain-scenery"
+    ]
   },
   {
     "id": "yks-236973",
@@ -49407,7 +50038,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "demons-fiends"
+    ]
   },
   {
     "id": "yks-209007",
@@ -49533,7 +50166,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "undead"
+    ]
   },
   {
     "id": "dmstash-7180",
@@ -49588,7 +50223,21 @@
     "themes": [
       "humanoids",
       "celestials"
-    ]
+    ],
+    "translations": {
+      "pt": {
+        "name": "Aaron Drafthold – O Mago Errante",
+        "description": "Um homem misterioso vindo do norte, com um segredo incompreensível para a maioria das mentes mortais. Conhece tudo o que foi e parece compreender bem o que há de vir, embora a sua clarividência não seja tão perfeita quanto o seu conhecimento desde a criação do tempo e antes. Parece capaz de moldar o próprio tecido do Sopro de Minera à sua vontade, conseguindo transpor feitiços maiores e mais complexos do que qualquer outro conjurador vivo. Estoico no seu comportamento, o carisma surge nele à vontade quando necessário. É o mestre do Bastion, usando-o como um crisol para testar a vontade de aventureiros e heróis, preparando-os para o que está para vir.",
+        "tags": [
+          "bastion-do-mago-errante",
+          "feiticeiro",
+          "mago",
+          "celestial",
+          "humano",
+          "npc"
+        ]
+      }
+    }
   },
   {
     "id": "dmstash-44696",
@@ -49639,7 +50288,21 @@
     ],
     "inStock": true,
     "createdAt": "2026-07-31",
-    "themes": []
+    "themes": [],
+    "translations": {
+      "pt": {
+        "name": "Aboro-Ko – Clérigo das Lágrimas",
+        "description": "Um mercenário e mestre das ondas. Aboro-Ko está em sintonia com o marulhar e o chamado das ondas, e usa-o para se potenciar no ritmo e cadência dos seus combates. O poder do oceano corre através dele e, onde quer que esteja, as Lágrimas de Minera protegê-lo-ão. Assim o protegeram desde a sua terra natal, East Hydana, em Zandorion, até às terras de Tharador. Ainda assim, ao seu lado, a sua irmã Inedra-Ki tem mantido a sua mente e o seu coração calmos e claros.",
+        "tags": [
+          "profundezas-mais-negras",
+          "clérigo",
+          "lutador",
+          "paladino",
+          "elemi",
+          "npc"
+        ]
+      }
+    }
   },
   {
     "id": "dmstash-100949",
@@ -49832,7 +50495,20 @@
     "themes": [
       "humanoids",
       "monsters-beasts"
-    ]
+    ],
+    "translations": {
+      "pt": {
+        "name": "Agga Olhos-de-Águia – Bárbara e Patrulheira Goliath",
+        "description": "Uma Goliath afastada da sua terra natal ancestral, Oldavor. Agga é uma das poucas Goliath a ter nascido e crescido para além das planícies geladas da terra natal dos Goliath; criada por uma pequena tribo de nómadas em Greypeak, Agga viu-se sozinha, mal chegada à adolescência, quando uma doença a deixou órfã e destruiu a sua tribo. Com a sua educação tradicional, aprendeu facilmente a defender-se e a sustentar-se, vivendo nas colinas perto da cidade de Vulfkopt. Quando os habitantes puseram um preço pela sua cabeça, chamando-lhe fera, Agga abateu todos os mercenários ou aventureiros suficientemente tolos para a desafiar. Só quando o WEHL foi chamado é que perceberam que a “Fera” era simplesmente uma imponente mulher Goliath, e acabaram por convencê-la a juntar-se às suas fileiras pela sua perícia em rastreio e poder com qualquer arma.",
+        "tags": [
+          "caçadores-e-assassinos",
+          "bárbaro",
+          "patrulheiro",
+          "goliath",
+          "npc"
+        ]
+      }
+    }
   },
   {
     "id": "dmstash-106817",
@@ -50262,7 +50938,6 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "themes": [
-      "humanoids",
       "constructs"
     ]
   },
@@ -50343,6 +51018,18 @@
     ],
     "inStock": true,
     "createdAt": "2026-07-31",
+    "translations": {
+      "pt": {
+        "name": "Angela “Olhos-de-Gato” Hardvin – Ladina Duelista",
+        "description": "Uma suposta descendente do lendário explorador Janius Hardvin, Angela Hardvin agarrou-se a este resquício de legado familiar como parte da sua identidade desde criança, tendo crescido nos bairros pobres de Underkeep Downs.",
+        "tags": [
+          "lei-e-desordem",
+          "ladino",
+          "humano",
+          "npc"
+        ]
+      }
+    },
     "themes": [
       "humanoids"
     ]
@@ -50449,7 +51136,6 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "themes": [
-      "dragons",
       "humanoids"
     ]
   },
@@ -50621,7 +51307,6 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "themes": [
-      "dragons",
       "humanoids"
     ]
   },
@@ -51342,7 +52027,6 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "themes": [
-      "dragons",
       "humanoids"
     ]
   },
@@ -51456,7 +52140,6 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "themes": [
-      "dragons",
       "humanoids"
     ],
     "variations": [
@@ -51664,7 +52347,6 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "themes": [
-      "humanoids",
       "monsters-beasts"
     ]
   },
@@ -52074,7 +52756,6 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "themes": [
-      "dragons",
       "humanoids",
       "monsters-beasts"
     ]
@@ -53406,9 +54087,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-07-31",
-    "themes": [
-      "humanoids"
-    ]
+    "themes": []
   },
   {
     "id": "dmstash-25859",
@@ -54005,7 +54684,6 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "themes": [
-      "humanoids",
       "monsters-beasts"
     ]
   },
@@ -54575,7 +55253,6 @@
     "createdAt": "2026-07-31",
     "hidden": true,
     "themes": [
-      "dragons",
       "terrain-scenery"
     ]
   },
@@ -55649,7 +56326,9 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "hidden": true,
-    "themes": []
+    "themes": [
+      "terrain-scenery"
+    ]
   },
   {
     "id": "dmstash-25860",
@@ -56159,7 +56838,6 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "themes": [
-      "humanoids",
       "monsters-beasts",
       "undead"
     ]
@@ -56988,7 +57666,6 @@
     "createdAt": "2026-07-31",
     "themes": [
       "dragons",
-      "humanoids",
       "monsters-beasts"
     ]
   },
@@ -57227,7 +57904,6 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "themes": [
-      "dragons",
       "humanoids"
     ]
   },
@@ -57393,7 +58069,6 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "themes": [
-      "dragons",
       "humanoids",
       "celestials"
     ]
@@ -57762,7 +58437,6 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "themes": [
-      "dragons",
       "humanoids",
       "monsters-beasts"
     ],
@@ -58868,7 +59542,6 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "themes": [
-      "dragons",
       "humanoids"
     ]
   },
@@ -58980,8 +59653,7 @@
     "createdAt": "2026-07-31",
     "hidden": true,
     "themes": [
-      "humanoids",
-      "terrain-scenery"
+      "humanoids"
     ]
   },
   {
@@ -59386,7 +60058,6 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "themes": [
-      "dragons",
       "humanoids"
     ]
   },
@@ -60100,7 +60771,6 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "themes": [
-      "dragons",
       "humanoids"
     ]
   },
@@ -60918,7 +61588,6 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "themes": [
-      "dragons",
       "humanoids"
     ]
   },
@@ -61426,7 +62095,6 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "themes": [
-      "dragons",
       "humanoids",
       "monsters-beasts"
     ]
@@ -61610,7 +62278,6 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "themes": [
-      "dragons",
       "humanoids"
     ]
   },
@@ -61906,7 +62573,6 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "themes": [
-      "humanoids",
       "monsters-beasts"
     ]
   },
@@ -62861,7 +63527,6 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "themes": [
-      "humanoids",
       "monsters-beasts"
     ]
   },
@@ -63135,7 +63800,6 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "themes": [
-      "humanoids",
       "monsters-beasts"
     ]
   },
@@ -63191,7 +63855,6 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "themes": [
-      "dragons",
       "humanoids",
       "terrain-scenery"
     ],
@@ -64183,7 +64846,6 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "themes": [
-      "dragons",
       "humanoids"
     ]
   },
@@ -64523,7 +65185,6 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "themes": [
-      "dragons",
       "humanoids",
       "monsters-beasts"
     ]
@@ -64785,7 +65446,6 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "themes": [
-      "humanoids",
       "monsters-beasts",
       "constructs"
     ]
@@ -65007,7 +65667,6 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "themes": [
-      "dragons",
       "humanoids"
     ]
   },
@@ -65646,7 +66305,6 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "themes": [
-      "dragons",
       "humanoids"
     ]
   },
@@ -67738,7 +68396,6 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "themes": [
-      "dragons",
       "humanoids"
     ]
   },
@@ -67952,7 +68609,6 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "themes": [
-      "humanoids",
       "monsters-beasts"
     ]
   },
@@ -68788,9 +69444,7 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "hidden": true,
-    "themes": [
-      "terrain-scenery"
-    ]
+    "themes": []
   },
   {
     "id": "dmstash-46134",
@@ -68866,7 +69520,6 @@
     "createdAt": "2026-07-31",
     "hidden": true,
     "themes": [
-      "dragons",
       "terrain-scenery"
     ]
   },
@@ -69014,7 +69667,6 @@
     "createdAt": "2026-07-31",
     "hidden": true,
     "themes": [
-      "humanoids",
       "terrain-scenery"
     ]
   },
@@ -70517,7 +71169,6 @@
     "createdAt": "2026-07-31",
     "hidden": true,
     "themes": [
-      "humanoids",
       "terrain-scenery"
     ]
   },
@@ -71492,7 +72143,6 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "themes": [
-      "dragons",
       "humanoids"
     ]
   },
@@ -71577,7 +72227,6 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "themes": [
-      "humanoids",
       "monsters-beasts"
     ],
     "variations": [
@@ -72159,7 +72808,6 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "themes": [
-      "dragons",
       "humanoids"
     ]
   },
@@ -72185,7 +72833,6 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "themes": [
-      "humanoids",
       "monsters-beasts"
     ]
   },
@@ -73054,7 +73701,6 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "themes": [
-      "dragons",
       "humanoids"
     ]
   },
@@ -74293,7 +74939,6 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "themes": [
-      "dragons",
       "humanoids"
     ]
   },
