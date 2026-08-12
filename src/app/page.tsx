@@ -2,23 +2,14 @@ import Image from "next/image";
 import Link from "next/link";
 import { ProductGrid } from "@/components/ProductGrid";
 import { ScaleDivider } from "@/components/ScaleDivider";
-import {
-  getAllProducts,
-  getCategories,
-  getFeaturedProducts,
-  getThemes,
-  getThemeShowcaseImages,
-} from "@/lib/products";
+import { getAllProducts, getCategories, getFeaturedProducts, getThemes } from "@/lib/products";
 import { getDictionary } from "@/i18n/get-dictionary";
 import { interpolate } from "@/i18n/interpolate";
 
 export default async function Home() {
   const { locale, dict } = await getDictionary();
   const categories = getCategories(locale);
-  const themes = getThemes(locale).map((theme) => ({
-    ...theme,
-    showcaseImages: getThemeShowcaseImages(theme.slug),
-  }));
+  const themes = getThemes(locale);
   const allProducts = getAllProducts(locale);
   const featured = getFeaturedProducts(8, locale);
 
@@ -116,20 +107,15 @@ export default async function Home() {
                 href={`/theme/${theme.slug}`}
                 className="group relative aspect-square overflow-hidden border border-border"
               >
-                <div className="absolute inset-0 grid grid-cols-2 grid-rows-2">
-                  {theme.showcaseImages.map((src, i) => (
-                    <div key={i} className="relative overflow-hidden">
-                      <Image
-                        src={src}
-                        alt=""
-                        aria-hidden
-                        fill
-                        sizes="(min-width: 1024px) 10vw, 16vw"
-                        className="object-cover transition-transform duration-500 group-hover:scale-110"
-                      />
-                    </div>
-                  ))}
-                </div>
+                {theme.image && (
+                  <Image
+                    src={theme.image}
+                    alt={theme.name}
+                    fill
+                    sizes="(min-width: 1024px) 20vw, 33vw"
+                    className="object-cover transition-transform duration-500 group-hover:scale-110"
+                  />
+                )}
                 <div className="absolute inset-0 bg-gradient-to-t from-black/85 via-black/20 to-transparent transition-opacity duration-300 group-hover:from-black/90" />
                 <div className="absolute inset-0 border border-accent/0 transition-colors duration-300 group-hover:border-accent/40" />
                 <span className="absolute inset-x-0 bottom-0 flex items-center justify-between p-3 text-sm font-semibold uppercase tracking-wide text-white">

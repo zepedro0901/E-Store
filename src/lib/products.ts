@@ -100,52 +100,6 @@ export function getFeaturedProducts(
     .map((p) => localizeProduct(p, locale));
 }
 
-function shuffle<T>(items: T[]): T[] {
-  const arr = [...items];
-  for (let i = arr.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1));
-    [arr[i], arr[j]] = [arr[j], arr[i]];
-  }
-  return arr;
-}
-
-// Picks up to `count` product images for a theme's homepage showcase card,
-// preferring one image per distinct studio (category) so the grid represents
-// the theme's range. If the theme has products from fewer than `count`
-// studios, remaining slots are filled with more (non-repeating) products from
-// the theme, repeating a studio if necessary.
-export function getThemeShowcaseImages(themeSlug: string, count = 4): string[] {
-  const pool = products.filter(
-    (p) => p.themes.includes(themeSlug) && p.images[0],
-  );
-
-  const byCategory = new Map<string, Product[]>();
-  for (const p of pool) {
-    const list = byCategory.get(p.category);
-    if (list) list.push(p);
-    else byCategory.set(p.category, [p]);
-  }
-
-  const picks: Product[] = [];
-  const usedIds = new Set<string>();
-  for (const category of shuffle([...byCategory.keys()])) {
-    if (picks.length >= count) break;
-    const choice = shuffle(byCategory.get(category)!)[0];
-    picks.push(choice);
-    usedIds.add(choice.id);
-  }
-
-  if (picks.length < count) {
-    for (const p of shuffle(pool.filter((p) => !usedIds.has(p.id)))) {
-      if (picks.length >= count) break;
-      picks.push(p);
-      usedIds.add(p.id);
-    }
-  }
-
-  return picks.map((p) => p.images[0]);
-}
-
 export function getProductPriceRange(product: Product): {
   min: number;
   max: number;
