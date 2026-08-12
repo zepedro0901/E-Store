@@ -6,6 +6,7 @@ import { getProductPriceRange } from "@/lib/products";
 import { AddToCartButton } from "@/components/AddToCartButton";
 import { getDictionary } from "@/i18n/get-dictionary";
 import { interpolate } from "@/i18n/interpolate";
+import { formatScale } from "@/lib/format";
 
 export async function ProductCard({ product }: { product: Product }) {
   const { min, max } = getProductPriceRange(product);
@@ -37,9 +38,11 @@ export async function ProductCard({ product }: { product: Product }) {
             {product.name}
           </h3>
         </Link>
-        <p className="text-xs uppercase tracking-wide text-foreground/50">
-          {product.scale}
-        </p>
+        {product.scale && (
+          <p className="text-xs uppercase tracking-wide text-foreground/50">
+            {formatScale(product.scale, dict.sizeCategories)}
+          </p>
+        )}
         <div className="mt-auto flex items-center justify-between gap-2 pt-2">
           <p className="text-base font-semibold text-accent">
             {min === max

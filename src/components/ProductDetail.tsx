@@ -5,7 +5,9 @@ import Link from "next/link";
 import type { Product, Theme } from "@/types/product";
 import { ProductGallery } from "@/components/ProductGallery";
 import { ProductOptions } from "@/components/ProductOptions";
+import { SizeGuide } from "@/components/SizeGuide";
 import { useTranslations } from "@/i18n/use-translations";
+import { formatScale } from "@/lib/format";
 
 export function ProductDetail({
   product,
@@ -49,8 +51,15 @@ export function ProductDetail({
           {product.description}
         </p>
         <dl className="grid grid-cols-2 gap-2 rounded-xl border border-border bg-surface p-4 text-sm">
-          <dt className="text-foreground/55">{dict.common.scale}</dt>
-          <dd>{product.scale}</dd>
+          {product.scale && (
+            <>
+              <dt className="text-foreground/55">{dict.common.scale}</dt>
+              <dd className="flex items-center gap-1.5">
+                <SizeGuide />
+                {formatScale(product.scale, dict.sizeCategories)}
+              </dd>
+            </>
+          )}
           <dt className="text-foreground/55">{dict.common.material}</dt>
           <dd className="capitalize">{product.material}</dd>
         </dl>
