@@ -21,6 +21,8 @@ const pt: Dictionary = {
     scale: "Tamanho da Base",
     material: "Material",
     sizeGuide: "Guia de tamanhos",
+    materialDisclaimer:
+      "Impresso em resina cinzenta. Requer montagem — algumas peças poderão ter de ser coladas.",
   },
   sizeCategories: {
     tiny: "Minúsculo",

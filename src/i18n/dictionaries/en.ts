@@ -19,6 +19,8 @@ const en = {
     scale: "Base Size",
     material: "Material",
     sizeGuide: "Size guide",
+    materialDisclaimer:
+      "Printed in gray resin. Assembly required — some parts may require gluing.",
   },
   sizeCategories: {
     tiny: "Tiny",
