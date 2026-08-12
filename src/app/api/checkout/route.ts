@@ -1,6 +1,8 @@
 import { NextResponse } from "next/server";
 import { z } from "zod";
 import { sendOrderRequestEmail } from "@/lib/email";
+import { saveOrder } from "@/lib/orders";
+import { checkRateLimit } from "@/lib/rate-limit";
 
 const cartItemSchema = z.object({
   productId: z.string().min(1),
@@ -24,10 +26,18 @@ const requestSchema = z.object({
     country: z.string().trim().min(1).max(150),
     notes: z.string().trim().max(1000).optional(),
   }),
-  items: z.array(cartItemSchema).min(1),
+  items: z.array(cartItemSchema).min(1).max(50),
 });
 
 export async function POST(request: Request) {
+  const ip = request.headers.get("x-forwarded-for")?.split(",")[0]?.trim() || "unknown";
+  if (!checkRateLimit(ip)) {
+    return NextResponse.json(
+      { error: "Too many order requests. Please try again in a few minutes." },
+      { status: 429 },
+    );
+  }
+
   let body: unknown;
   try {
     body = await request.json();
@@ -43,8 +53,10 @@ export async function POST(request: Request) {
     );
   }
 
+  const order = await saveOrder(parsed.data.customer, parsed.data.items);
+
   try {
-    await sendOrderRequestEmail(parsed.data.customer, parsed.data.items);
+    await sendOrderRequestEmail(parsed.data.customer, parsed.data.items, order.orderNumber);
   } catch (err) {
     console.error("Failed to send order request email:", err);
     return NextResponse.json(
@@ -53,5 +65,5 @@ export async function POST(request: Request) {
     );
   }
 
-  return NextResponse.json({ ok: true });
+  return NextResponse.json({ ok: true, orderNumber: order.orderNumber });
 }

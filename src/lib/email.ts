@@ -16,6 +16,7 @@ export interface OrderRequestCustomer {
 export async function sendOrderRequestEmail(
   customer: OrderRequestCustomer,
   items: CartItem[],
+  orderNumber: string,
 ) {
   const apiKey = process.env.RESEND_API_KEY;
   const to = process.env.ORDER_NOTIFICATION_EMAIL;
@@ -46,7 +47,7 @@ export async function sendOrderRequestEmail(
 
   const html = `
     <div style="font-family:sans-serif;max-width:600px;">
-      <h2>New order request</h2>
+      <h2>New order request — ${escapeHtml(orderNumber)}</h2>
       <h3>Customer</h3>
       <table style="border-collapse:collapse;">
         <tr><td style="padding:2px 12px 2px 0;color:#666;">Name</td><td>${escapeHtml(customer.name)}</td></tr>
@@ -73,13 +74,17 @@ export async function sendOrderRequestEmail(
     </div>
   `;
 
-  await resend.emails.send({
+  const { error } = await resend.emails.send({
     from: process.env.ORDER_FROM_EMAIL || "Pangolin Resinworks <onboarding@resend.dev>",
     to,
     replyTo: customer.email,
-    subject: `New order request from ${customer.name} — ${formatPrice(total, "EUR")}`,
+    subject: `New order request ${orderNumber} from ${customer.name} — ${formatPrice(total, "EUR")}`,
     html,
   });
+
+  if (error) {
+    throw new Error(`Resend failed to send order email: ${error.message}`);
+  }
 }
 
 function escapeHtml(s: string) {

@@ -55,3 +55,6 @@ dev-server.log
 /public/images/collection-2/
 /public/images/collection-3/
 /public/images/collection-4/
+
+.vercel
+.env*

@@ -62,12 +62,12 @@ export function CheckoutForm() {
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ customer, items }),
       });
+      const data = await res.json().catch(() => null);
       if (!res.ok) {
-        const data = await res.json().catch(() => null);
         throw new Error(data?.error || "Something went wrong sending your request.");
       }
       clear();
-      router.push("/checkout/thank-you");
+      router.push(`/checkout/thank-you?order=${encodeURIComponent(data.orderNumber)}`);
     } catch (err) {
       setStatus("error");
       setError(err instanceof Error ? err.message : "Something went wrong.");

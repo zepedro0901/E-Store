@@ -5,12 +5,23 @@ export const metadata: Metadata = {
   title: "Order Request Sent",
 };
 
-export default function ThankYouPage() {
+export default async function ThankYouPage({
+  searchParams,
+}: {
+  searchParams: Promise<{ order?: string }>;
+}) {
+  const { order } = await searchParams;
+
   return (
     <div className="mx-auto flex w-full max-w-2xl flex-col items-center gap-4 px-6 py-24 text-center">
       <h1 className="font-display text-3xl font-semibold tracking-wide">
         Order Request Sent
       </h1>
+      {order && (
+        <p className="font-mono text-sm text-foreground/50">
+          Order {order}
+        </p>
+      )}
       <p className="max-w-md text-foreground/65">
         Thanks! We&apos;ve received your order request and will email you
         shortly to confirm payment and shipping details.
