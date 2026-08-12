@@ -2,13 +2,14 @@ import Image from "next/image";
 import Link from "next/link";
 import { ProductGrid } from "@/components/ProductGrid";
 import { ScaleDivider } from "@/components/ScaleDivider";
-import { getAllProducts, getCategories, getFeaturedProducts } from "@/lib/products";
+import { getAllProducts, getCategories, getFeaturedProducts, getThemes } from "@/lib/products";
 import { getDictionary } from "@/i18n/get-dictionary";
 import { interpolate } from "@/i18n/interpolate";
 
 export default async function Home() {
   const { locale, dict } = await getDictionary();
   const categories = getCategories(locale);
+  const themes = getThemes(locale);
   const allProducts = getAllProducts(locale);
   const featured = getFeaturedProducts(8, locale);
 
@@ -65,7 +66,7 @@ export default async function Home() {
               {dict.common.browseAllProducts}
             </Link>
             <Link
-              href="#categories"
+              href="#themes"
               className="border border-border px-7 py-3 text-sm font-semibold uppercase tracking-wide text-foreground/80 transition-colors hover:border-accent/50 hover:text-accent"
             >
               {dict.home.exploreCollections}
@@ -92,24 +93,24 @@ export default async function Home() {
       </section>
 
       <div className="mx-auto w-full max-w-6xl px-6 py-14">
-        <section id="categories" className="mb-20 scroll-mt-20">
+        <section id="themes" className="mb-20 scroll-mt-20">
           <div className="mb-6 flex items-end justify-between">
             <h2 className="font-display text-3xl font-bold uppercase tracking-tight">
-              {dict.home.shopByCategory}
+              {dict.home.shopByTheme}
             </h2>
             <span className="hidden h-px flex-1 bg-border sm:ml-8 sm:block" />
           </div>
           <div className="grid grid-cols-2 gap-4 sm:grid-cols-3 lg:grid-cols-5">
-            {categories.map((category) => (
+            {themes.map((theme) => (
               <Link
-                key={category.slug}
-                href={`/category/${category.slug}`}
+                key={theme.slug}
+                href={`/theme/${theme.slug}`}
                 className="group relative aspect-square overflow-hidden border border-border"
               >
-                {category.image && (
+                {theme.image && (
                   <Image
-                    src={category.image}
-                    alt={category.name}
+                    src={theme.image}
+                    alt={theme.name}
                     fill
                     sizes="(min-width: 1024px) 20vw, 33vw"
                     className="object-cover transition-transform duration-500 group-hover:scale-110"
@@ -118,7 +119,7 @@ export default async function Home() {
                 <div className="absolute inset-0 bg-gradient-to-t from-black/85 via-black/20 to-transparent transition-opacity duration-300 group-hover:from-black/90" />
                 <div className="absolute inset-0 border border-accent/0 transition-colors duration-300 group-hover:border-accent/40" />
                 <span className="absolute inset-x-0 bottom-0 flex items-center justify-between p-3 text-sm font-semibold uppercase tracking-wide text-white">
-                  {category.name}
+                  {theme.name}
                   <span className="translate-x-1 text-accent opacity-0 transition-all duration-300 group-hover:translate-x-0 group-hover:opacity-100">
                     &rarr;
                   </span>

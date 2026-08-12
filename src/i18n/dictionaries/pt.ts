@@ -52,7 +52,7 @@ const pt: Dictionary = {
     exploreCollections: "Explorar Coleções",
     statMiniatures: "Miniaturas no catálogo",
     statCollections: "Coleções selecionadas",
-    shopByCategory: "Comprar por Categoria",
+    shopByTheme: "Comprar por Tema",
     featured: "Em Destaque",
     featuredSubtitle: "Uma seleção do que a nossa resina consegue fazer.",
     viewAllProducts: "Ver todos os produtos",

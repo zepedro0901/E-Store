@@ -50,7 +50,7 @@ const en = {
     exploreCollections: "Explore Collections",
     statMiniatures: "Miniatures in the catalog",
     statCollections: "Curated collections",
-    shopByCategory: "Shop by Category",
+    shopByTheme: "Shop By Theme",
     featured: "Featured",
     featuredSubtitle: "A hand-picked look at what our resin can do.",
     viewAllProducts: "View all products",
