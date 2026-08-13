@@ -93,7 +93,8 @@
         "name": "Terrenos e Cenários",
         "description": "Terrenos de masmorra, ruínas e peças de cenário."
       }
-    }
+    },
+    "hidden": true
   }
   
 ]
