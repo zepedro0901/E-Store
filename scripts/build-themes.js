@@ -57,7 +57,7 @@ const THEMES = [
   {
     slug: "dragons",
     name: "Dragons",
-    description: "Dragons, wyrms, drakes, and wyverns.",
+    description: "Dragons, wyrms, drakes, wyverns and other dragon related creatures",
     pattern: /\b(dragon|dragons|wyrm|drake|wyvern)\b/i,
   },
   {

@@ -5856,7 +5856,6 @@
     "category": "flesh-of-gods",
     "tags": [
       "body",
-      "dragon",
       "horror",
       "snake",
       "cosmic",
@@ -5877,7 +5876,7 @@
     "inStock": true,
     "createdAt": "2025-01-03",
     "themes": [
-      "dragons"
+      "monsters-beasts"
     ]
   },
   {
@@ -44752,7 +44751,6 @@
     "inStock": true,
     "createdAt": "2026-08-11",
     "themes": [
-      "dragons",
       "monsters-beasts"
     ]
   },
@@ -44775,7 +44773,6 @@
     "inStock": true,
     "createdAt": "2026-08-11",
     "themes": [
-      "dragons",
       "monsters-beasts"
     ]
   },
@@ -47030,7 +47027,6 @@
     "inStock": true,
     "createdAt": "2026-08-11",
     "themes": [
-      "dragons",
       "monsters-beasts"
     ]
   },
@@ -66999,9 +66995,7 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "themes": [
-      "dragons",
-      "humanoids",
-      "undead"
+      "humanoids"
     ]
   },
   {
@@ -70717,7 +70711,6 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "themes": [
-      "dragons",
       "monsters-beasts"
     ]
   },
@@ -74036,7 +74029,6 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "themes": [
-      "dragons",
       "monsters-beasts"
     ]
   },
