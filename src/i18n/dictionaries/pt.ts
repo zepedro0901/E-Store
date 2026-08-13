@@ -23,9 +23,7 @@ const pt: Dictionary = {
     sizeGuide: "Guia de tamanhos",
     materialDisclaimer:
       "Impresso em resina cinzenta. Requer montagem — algumas peças poderão ter de ser coladas.",
-    printOnDemandNotice:
-      "Impressão por encomenda — adicionar ao carrinho não implica pagamento. Confirmamos o seu pedido antes do pagamento, e a produção só começa depois de pago.",
-  },
+    },
   sizeCategories: {
     tiny: "Minúsculo",
     small: "Pequeno",
