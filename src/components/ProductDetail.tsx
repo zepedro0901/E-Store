@@ -66,6 +66,7 @@ export function ProductDetail({
         <p className="rounded-xl border border-border bg-surface/60 p-3 text-xs leading-relaxed text-foreground/55">
           {dict.common.materialDisclaimer}
         </p>
+       
         {themes.length > 0 && (
           <div className="flex flex-wrap gap-2">
             {themes.map((theme) => (

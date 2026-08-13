@@ -23,6 +23,8 @@ const pt: Dictionary = {
     sizeGuide: "Guia de tamanhos",
     materialDisclaimer:
       "Impresso em resina cinzenta. Requer montagem — algumas peças poderão ter de ser coladas.",
+    printOnDemandNotice:
+      "Impressão por encomenda — adicionar ao carrinho não implica pagamento. Confirmamos o seu pedido antes do pagamento, e a produção só começa depois de pago.",
   },
   sizeCategories: {
     tiny: "Minúsculo",
@@ -135,6 +137,8 @@ const pt: Dictionary = {
     removeAria: "Remover {name}",
     clearCart: "Esvaziar Carrinho",
     requestToOrder: "Pedido de Encomenda",
+    orderNotice:
+      "Ao submeter este carrinho, está a enviar um pedido de encomenda — não um pagamento. Vamos analisá-lo e confirmá-lo primeiro; só paga as miniaturas e o envio depois de aceitarmos a encomenda, e a produção começa após o pagamento.",
   },
   checkout: {
     title: "Preencher dados de encomenda",
@@ -155,7 +159,7 @@ const pt: Dictionary = {
     sending: "A enviar…",
     submit: "Enviar Pedido de Encomenda",
     disclaimer:
-      "Isto envia os detalhes da sua encomenda por email — não implica qualquer pagamento aqui. Responderemos com os detalhes de pagamento e envio.",
+      "Isto envia um pedido de encomenda, não um pagamento. Vamos analisá-lo e responder para confirmar — só paga as miniaturas e o envio depois de aceitarmos a encomenda, e a produção começa após o pagamento.",
     orderSummary: "Resumo da Encomenda",
     genericError: "Algo correu mal.",
     genericSendError: "Algo correu mal ao enviar o seu pedido.",
@@ -164,7 +168,7 @@ const pt: Dictionary = {
     title: "Pedido de Encomenda Enviado",
     orderLabel: "Encomenda {order}",
     message:
-      "Obrigado! Recebemos o seu pedido de encomenda e entraremos em contacto em breve por email para confirmar o pagamento e os detalhes de envio.",
+      "Obrigado! Recebemos o seu pedido de encomenda. Vamos analisá-lo e responder por email para confirmar — depois de aceite, combinamos o pagamento e o envio, e a produção começa após o pagamento.",
     continueBrowsing: "Continuar a Explorar",
   },
   metadata: {

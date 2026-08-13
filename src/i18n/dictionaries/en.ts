@@ -20,8 +20,8 @@ const en = {
     material: "Material",
     sizeGuide: "Size guide",
     materialDisclaimer:
-      "Printed in gray resin. Assembly required — some parts may require gluing.",
-  },
+      "Printed in gray resin. Assembly required — some parts may require gluing." 
+    },
   sizeCategories: {
     tiny: "Tiny",
     small: "Small",
@@ -133,6 +133,8 @@ const en = {
     removeAria: "Remove {name}",
     clearCart: "Clear Cart",
     requestToOrder: "Request to Order",
+    orderNotice:
+      "Submitting this cart sends an order request — not a payment. We'll review and confirm it first; you only pay for the miniatures and shipping once we accept the order, and production starts after payment.",
   },
   checkout: {
     title: "Request an Order",
@@ -153,7 +155,7 @@ const en = {
     sending: "Sending…",
     submit: "Submit Order Request",
     disclaimer:
-      "This sends your order details to us by email — it doesn't charge you anything here. We'll reply with payment and shipping details.",
+      "This sends an order request, not a payment. We'll review it and reply to confirm — you'll pay for the miniatures and shipping only once we accept the order, and production starts after payment.",
     orderSummary: "Order Summary",
     genericError: "Something went wrong.",
     genericSendError: "Something went wrong sending your request.",
@@ -162,7 +164,7 @@ const en = {
     title: "Order Request Sent",
     orderLabel: "Order {order}",
     message:
-      "Thanks! We've received your order request and will email you shortly to confirm payment and shipping details.",
+      "Thanks! We've received your order request. We'll review it and email you to confirm — once accepted, we'll arrange payment and shipping, and production begins after payment.",
     continueBrowsing: "Continue Browsing",
   },
   metadata: {
