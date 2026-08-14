@@ -120,6 +120,7 @@ const pt: Dictionary = {
   productOptions: {
     variation: "Variação",
     outOfStockSuffix: " (fora de stock)",
+    addAllVariations: "Adicionar todas as variações",
   },
   productGallery: {
     previousImage: "Imagem anterior",
@@ -179,6 +180,193 @@ const pt: Dictionary = {
     invalidBody: "Corpo do pedido inválido",
     invalidOrder: "Pedido de encomenda inválido",
     sendFailed: "Falha ao enviar o pedido de encomenda",
+  },
+  policiesNav: {
+    faq: "Perguntas Frequentes",
+    returns: "Devoluções e Cancelamentos",
+    privacy: "Política de Privacidade",
+    shipping: "Envio",
+    help: "Ajuda",
+  },
+  faq: {
+    metaTitle: "Perguntas Frequentes",
+    title: "Perguntas Frequentes",
+    subtitle: "Respostas às perguntas que mais nos fazem.",
+    items: [
+      {
+        question: "Onde está a minha encomenda? Quanto tempo demora?",
+        answer:
+          "Pode ficar descansado, imprimimos, limpamos e enviamos a sua encomenda o mais depressa possível. A Pangolin Resinworks somos só nós os dois, por isso em períodos de maior procura pode formar-se uma pequena fila de espera. O tempo médio de expedição é de 1 a 2 semanas. Se precisar da sua encomenda mais depressa, contacte-nos antes de encomendar e faremos o possível, dentro do razoável, para ajudar!",
+      },
+      {
+        question: "Como são embaladas as minhas miniaturas?",
+        answer:
+          "Usamos esferovite resistente e leve para acolchoar e proteger as nossas miniaturas durante o envio, juntamente com caixas de parede dupla e reforço extra quando necessário. Testámos praticamente todos os métodos nos últimos dois anos, e esta é a combinação mais eficaz e ecológica que encontrámos. São peças extremamente frágeis e, de vez em quando, há uma baixa durante o transporte — basta avisar-nos de imediato com fotografias do problema e resolveremos a situação com uma substituição ou reembolso. É algo que acontece quando se trabalha com o envio de peças delicadas.\n\nVerifique com atenção se recebeu tudo o que encomendou antes de deitar fora qualquer embalagem — mãos e armas pequenas podem ficar facilmente escondidas lá dentro!",
+      },
+      {
+        question: "Que tipo de cola devo usar?",
+        answer:
+          "Gostamos de usar cola gel super forte (cianoacrilato em gel). Cola de cimento para plástico não resulta.",
+      },
+      {
+        question: "Que preparação preciso de fazer antes de pintar?",
+        answer:
+          "As miniaturas já vêm prontas para receber uma demão de primário, mas recomendamos sempre uma lavagem extra rápida com água morna e detergente, seguida de secagem num parapeito ensolarado. Pode pintar diretamente sobre a miniatura, mas recomendamos aplicar primário para um acabamento mais suave e duradouro.",
+      },
+      {
+        question: "Porque é que algumas miniaturas vêm com os suportes de impressão?",
+        answer:
+          "Enviamos algumas peças especialmente delicadas ou pequenas — como armas — com os suportes de impressão ainda ligados. Descobrimos que, se não o fizermos, as peças partem-se ou perdem-se. Se as mergulhar em água quente durante cerca de 20 segundos, os suportes devem soltar-se facilmente à mão. Vá com calma, devagar, e habitue o olhar a distinguir o que é suporte do que é parte da miniatura. Verifique bem todos os suportes antes de os deitar fora — mãos e armas pequenas podem passar facilmente despercebidas.",
+      },
+      {
+        question: "A minha miniatura está pegajosa ao toque — o que se passa?",
+        answer:
+          "Por vezes, a humidade na embalagem faz com que a nossa solução de limpeza deixe a superfície um pouco pegajosa. Isto resolve-se com uma lavagem em álcool isopropílico ou simplesmente água quente com detergente — deixe secar num local quente e ensolarado e ficará bem. Muito raramente, miniaturas ocas podem reter solução de limpeza que se liberta durante o transporte; se as suas miniaturas chegarem muito molhadas, aplique o mesmo método.",
+      },
+    ],
+  },
+  returns: {
+    metaTitle: "Devoluções e Cancelamentos",
+    title: "Devoluções e Cancelamentos",
+    intro:
+      "Lembre-se, somos duas pessoas reais a gerir este pequeno negócio, e por vezes acontecem erros! Precisamente por sermos só nós, temos a liberdade de corrigir a situação e discutir qualquer problema diretamente e com bom senso. Trate-nos com simpatia e paciência — queremos sempre clientes satisfeitos, mesmo quando alguma coisa corre mal pelo caminho.",
+    sections: [
+      {
+        heading: "Cancelamento de Encomendas",
+        paragraphs: [
+          "Devido à natureza de produção por encomenda (print-to-order), só podemos aceitar cancelamentos dentro de 3 horas após a colocação da encomenda. Depois desse período, o cancelamento pode estar sujeito a uma taxa de reposição de stock de 3€ por artigo.",
+          "O período de reflexão de 3 horas é respeitado desde que recebamos o primeiro contacto dentro dessas 3 horas após a colocação da encomenda — por isso não se preocupe se não respondermos de imediato (também precisamos de dormir!).",
+          "Esta política existe porque temos um inventário de milhares de produtos e simplesmente não podemos manter stock parado, o que ocuparia um espaço que não temos e que poderá nunca mais ser vendido exatamente na configuração que encomendou. Isso causaria prejuízo financeiro, além de não ser a opção mais sustentável do ponto de vista ambiental.",
+          "Se precisar de alterar uma encomenda — quantidades, tamanhos, trocar uma miniatura, etc. — envie-nos um email para support@pangolinresinworks.com o mais rapidamente possível e faremos os possíveis para satisfazer o pedido.",
+        ],
+      },
+      {
+        heading: "Devoluções",
+        paragraphs: [
+          "Por serem artigos feitos por encomenda, só são elegíveis para devolução se chegarem diferentes do descrito, com defeito, ou danificados. Não existe direito de devolução por simples arrependimento depois de a peça entrar em produção (ou seja, após o período de reflexão de 3 horas).",
+          "A nossa política pode parecer diferente daquilo a que está habituado nos grandes retalhistas genéricos. Ao abrigo da legislação portuguesa e europeia de defesa do consumidor (Decreto-Lei n.º 24/2014, que transpõe a Diretiva 2011/83/UE relativa aos direitos dos consumidores), o direito de livre resolução de 14 dias não se aplica a bens confecionados segundo as especificações do consumidor ou claramente personalizados — o que abrange todas as miniaturas que imprimimos por encomenda.",
+          "Para ter direito a uma devolução por um motivo válido, deve contactar-nos no prazo de 7 dias após a entrega. Ser-lhe-ão pedidas fotografias do artigo tal como o recebeu, juntamente com fotografias da embalagem original (isto ajuda-nos a reclamar junto da transportadora em caso de dano no transporte), além do recibo ou comprovativo de compra.",
+          "Para discutir qualquer problema com a sua encomenda, contacte-nos em support@pangolinresinworks.com. Se for necessária uma devolução, enviaremos uma etiqueta de devolução, juntamente com instruções sobre como e para onde enviar a sua encomenda. Artigos devolvidos sem pedido prévio de devolução não serão aceites nem reembolsados.",
+        ],
+      },
+      {
+        heading: "Danos e Problemas",
+        paragraphs: [
+          "Inspecione a sua encomenda assim que a receber e contacte-nos imediatamente se algum artigo estiver com defeito, danificado, ou se tiver recebido o artigo errado, para que possamos avaliar a situação e encontrar uma solução.",
+        ],
+      },
+    ],
+  },
+  privacy: {
+    metaTitle: "Política de Privacidade",
+    title: "Política de Privacidade",
+    updated: "Última atualização: [adicionar data antes de publicar]",
+    sections: [
+      {
+        heading: "Quem Somos",
+        paragraphs: [
+          "A Pangolin Resinworks ([nome legal da empresa e morada a adicionar aqui]) é um pequeno estúdio, sediado em Portugal e gerido por duas pessoas, que vende miniaturas em resina feitas por encomenda. Pode contactar-nos em support@pangolinresinworks.com.",
+        ],
+      },
+      {
+        heading: "Informação que Recolhemos",
+        paragraphs: [
+          "Quando submete um pedido de encomenda através do nosso formulário de checkout, recolhemos o seu nome completo, endereço de email, número de telefone (opcional), morada de envio, cidade, código postal, país, e quaisquer notas que decida adicionar. Não recolhemos nem armazenamos dados de cartões de pagamento no nosso site — o pagamento é combinado diretamente consigo por email assim que a sua encomenda for confirmada.",
+        ],
+      },
+      {
+        heading: "Como Usamos a Sua Informação",
+        paragraphs: [
+          "Usamos a sua informação para analisar e confirmar pedidos de encomenda, combinar o pagamento e o envio, contactá-lo sobre o estado da sua encomenda, e manter registos para fins contabilísticos e legais.",
+        ],
+      },
+      {
+        heading: "Como Armazenamos a Sua Informação",
+        paragraphs: [
+          "Os dados das encomendas são guardados na nossa base de dados de encomendas. Os emails de notificação de encomendas são enviados através do nosso fornecedor de email. O acesso a estes dados é limitado ao estritamente necessário para gerir a loja.",
+        ],
+      },
+      {
+        heading: "Durante Quanto Tempo Guardamos a Sua Informação",
+        paragraphs: [
+          "Guardamos os registos de encomendas pelo tempo necessário para cumprir a sua encomenda e as nossas obrigações contabilísticas e fiscais nos termos da lei portuguesa — geralmente 10 anos para documentos de faturação e contabilidade. Pode pedir-nos, a qualquer momento, para eliminarmos dados pessoais que já não precisemos de guardar para estes fins.",
+        ],
+      },
+      {
+        heading: "Com Quem Partilhamos a Sua Informação",
+        paragraphs: [
+          "Só partilhamos a sua informação com os fornecedores de serviços que nos ajudam a gerir a loja — atualmente os nossos fornecedores de base de dados de encomendas e de envio de email — e quando exigido por lei. Nunca vendemos os seus dados.",
+        ],
+      },
+      {
+        heading: "Cookies",
+        paragraphs: [
+          "O nosso site utiliza apenas um pequeno cookie para memorizar a sua preferência de idioma (português ou inglês). Não usamos cookies de rastreio, análise ou publicidade.",
+        ],
+      },
+      {
+        heading: "Os Seus Direitos",
+        paragraphs: [
+          "Ao abrigo do Regulamento Geral sobre a Proteção de Dados (RGPD), tem o direito de aceder, corrigir ou solicitar a eliminação dos seus dados pessoais, bem como de se opor a ou restringir determinados usos dos mesmos. Tem também o direito de apresentar reclamação junto da Comissão Nacional de Proteção de Dados (CNPD), a entidade reguladora portuguesa. Para exercer qualquer um destes direitos, envie um email para support@pangolinresinworks.com.",
+        ],
+      },
+      {
+        heading: "Alterações a Esta Política",
+        paragraphs: [
+          "Podemos atualizar esta política periodicamente. Quaisquer alterações serão publicadas nesta página.",
+        ],
+      },
+      {
+        heading: "Contacte-nos",
+        paragraphs: [
+          "Tem dúvidas sobre esta política ou sobre os seus dados? Envie-nos um email para support@pangolinresinworks.com.",
+        ],
+      },
+    ],
+  },
+  shipping: {
+    metaTitle: "Política de Envio",
+    title: "Política de Envio",
+    intro:
+      "Cada miniatura que vendemos é impressa, limpa e acabada por encomenda — aqui fica o que pode esperar depois de fazer um pedido.",
+    sections: [
+      {
+        heading: "Tempos de Expedição",
+        paragraphs: [
+          "O tempo médio de expedição é de 1 a 2 semanas a partir da confirmação e pagamento da encomenda. A Pangolin Resinworks somos só nós os dois, por isso em períodos de maior procura pode formar-se uma pequena fila de espera. Se precisar da sua encomenda mais depressa, contacte-nos antes de encomendar e faremos o possível, dentro do razoável, para ajudar.",
+        ],
+      },
+      {
+        heading: "Embalagem",
+        paragraphs: [
+          "Embalamos todas as encomendas em espuma de esferovite resistente e leve, com caixas de parede dupla e reforço extra quando necessário. É a combinação mais fiável e ecológica que encontrámos ao longo de dois anos a enviar miniaturas em resina.",
+        ],
+      },
+      {
+        heading: "Destinos e Custos de Envio",
+        paragraphs: [
+          "[Adicionar aqui os países/regiões para onde envia e as respetivas tarifas de envio — por exemplo, preços nacionais vs. internacionais, limites para envio grátis, transportadoras utilizadas.]",
+        ],
+      },
+      {
+        heading: "Direitos Alfandegários e de Importação",
+        paragraphs: [
+          "Encomendas enviadas dentro da União Europeia não estão sujeitas a taxas alfandegárias. Para encomendas enviadas para fora da UE, o pacote pode estar sujeito a direitos alfandegários, impostos ou taxas de importação cobrados pela autoridade aduaneira do país de destino. Estes custos são da responsabilidade do destinatário e não estão incluídos no valor da encomenda ou do envio.",
+        ],
+      },
+      {
+        heading: "Encomendas Perdidas, Atrasadas ou Danificadas",
+        paragraphs: [
+          "Se a sua encomenda chegar danificada, contacte-nos no prazo de 7 dias com fotografias do artigo e da respetiva embalagem — consulte a nossa política de Devoluções e Cancelamentos para o processo completo. Se a sua encomenda não chegar dentro de [adicionar prazo de entrega esperado] após o envio, contacte-nos e trataremos do assunto junto da transportadora.",
+        ],
+      },
+      {
+        heading: "Rastreio",
+        paragraphs: [
+          "[Adicionar se fornece números de rastreio e como os clientes os recebem.]",
+        ],
+      },
+    ],
   },
 };
 

@@ -31,6 +31,7 @@ export function ProductOptions({
 
   const addItem = useCartStore((s) => s.addItem);
   const [justAdded, setJustAdded] = useState(false);
+  const [allJustAdded, setAllJustAdded] = useState(false);
 
   function handleAddToCart() {
     addItem(
@@ -47,6 +48,23 @@ export function ProductOptions({
     );
     setJustAdded(true);
     setTimeout(() => setJustAdded(false), 1500);
+  }
+
+  function handleAddAllVariations() {
+    for (const variation of variations) {
+      if (variation.inStock === false) continue;
+      addItem({
+        productId: product.id,
+        slug: product.slug,
+        name: product.name,
+        price: variation.price ?? product.price,
+        image: variation.image ?? product.images[0],
+        variationId: variation.id,
+        variationLabel: variation.label,
+      });
+    }
+    setAllJustAdded(true);
+    setTimeout(() => setAllJustAdded(false), 1500);
   }
 
   return (
@@ -120,14 +138,27 @@ export function ProductOptions({
         )}
       </div>
 
-      <button
-        type="button"
-        onClick={handleAddToCart}
-        disabled={!inStock}
-        className="rounded-full bg-accent px-6 py-3 text-sm font-semibold uppercase tracking-wide text-accent-foreground transition-colors hover:bg-accent-hover disabled:cursor-not-allowed disabled:opacity-40"
-      >
-        {justAdded ? dict.common.addedToCart : dict.common.addToCart}
-      </button>
+      <div className="flex flex-wrap gap-3">
+        <button
+          type="button"
+          onClick={handleAddToCart}
+          disabled={!inStock}
+          className="rounded-full bg-accent px-6 py-3 text-sm font-semibold uppercase tracking-wide text-accent-foreground transition-colors hover:bg-accent-hover disabled:cursor-not-allowed disabled:opacity-40"
+        >
+          {justAdded ? dict.common.addedToCart : dict.common.addToCart}
+        </button>
+        {variations.length > 1 && (
+          <button
+            type="button"
+            onClick={handleAddAllVariations}
+            className="rounded-full border border-accent px-6 py-3 text-sm font-semibold uppercase tracking-wide text-accent transition-colors hover:bg-accent hover:text-accent-foreground"
+          >
+            {allJustAdded
+              ? dict.common.addedToCart
+              : dict.productOptions.addAllVariations}
+          </button>
+        )}
+      </div>
     </div>
   );
 }

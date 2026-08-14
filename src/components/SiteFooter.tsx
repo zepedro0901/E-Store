@@ -10,7 +10,7 @@ export async function SiteFooter() {
 
   return (
     <footer className="border-t border-border bg-surface">
-      <div className="mx-auto grid w-full max-w-6xl gap-10 px-6 py-14 sm:grid-cols-2 lg:grid-cols-4">
+      <div className="mx-auto grid w-full max-w-6xl gap-10 px-6 py-14 sm:grid-cols-2 lg:grid-cols-5">
         <div className="flex flex-col gap-3">
           <Link
             href="/"
@@ -87,6 +87,46 @@ export async function SiteFooter() {
                 className="text-foreground/65 transition-colors hover:text-accent"
               >
                 {dict.footer.newestArrivals}
+              </Link>
+            </li>
+          </ul>
+        </div>
+
+        <div>
+          <h3 className="text-xs font-semibold uppercase tracking-wide text-accent/80">
+            {dict.policiesNav.help}
+          </h3>
+          <ul className="mt-4 flex flex-col gap-2 text-sm">
+            <li>
+              <Link
+                href="/faq"
+                className="text-foreground/65 transition-colors hover:text-accent"
+              >
+                {dict.policiesNav.faq}
+              </Link>
+            </li>
+            <li>
+              <Link
+                href="/shipping"
+                className="text-foreground/65 transition-colors hover:text-accent"
+              >
+                {dict.policiesNav.shipping}
+              </Link>
+            </li>
+            <li>
+              <Link
+                href="/returns"
+                className="text-foreground/65 transition-colors hover:text-accent"
+              >
+                {dict.policiesNav.returns}
+              </Link>
+            </li>
+            <li>
+              <Link
+                href="/privacy"
+                className="text-foreground/65 transition-colors hover:text-accent"
+              >
+                {dict.policiesNav.privacy}
               </Link>
             </li>
           </ul>
