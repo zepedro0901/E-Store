@@ -928,6 +928,19 @@
     "createdAt": "2024-08-01",
     "themes": [
       "undead"
+    ],"variations": [
+      {
+        "id": "Arcane-Master",
+        "label": "Arcane Master",
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/arcane-master-the-necromancer-390861/2.jpg",
+        "price": 350
+      },
+      {
+        "id": "Arcane-Master-Minion",
+        "label": "Arcane Master + Minion",
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/arcane-master-the-necromancer-390861/1.jpg",
+        "price": 450
+      } 
     ]
   },
   {
@@ -17055,7 +17068,7 @@
       "mimic",
       "revelations"
     ],
-    "price": 1700,
+    "price": 1000,
     "currency": "EUR",
     "description": "Well of Revelations rewards a close look — the kind of miniature that holds up to scrutiny, not just tabletop distance. Its revelations character makes it a versatile pick for a wide range of encounters and stories.",
     "scale": "Large",
@@ -17067,7 +17080,21 @@
     ],
     "inStock": true,
     "createdAt": "2026-06-01",
-    "themes": []
+    "themes": ["undead","monsters-beasts"],
+    "variations": [
+      {
+        "id": "Well",
+        "label": "Well",
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/well-of-revelations-797445/3.jpg",
+        "price": 1000
+      },
+      {
+        "id": "Well-Mimic",
+        "label": "Mimic",
+        "image": "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/well-of-revelations-797445/2.jpg",
+        "price": 1200
+      }
+    ]
   },
   {
     "id": "mmf-397605",
