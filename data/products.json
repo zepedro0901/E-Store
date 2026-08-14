@@ -5039,7 +5039,7 @@
     "price": 300,
     "currency": "EUR",
     "description": "",
-    "scale": "Small",
+    "scale": "Medium",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/eternal-chronicler-349916/1.jpg"
@@ -5087,7 +5087,7 @@
     "price": 300,
     "currency": "EUR",
     "description": "",
-    "scale": "Small",
+    "scale": "Medium",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/exiled-knight-349916/1.jpg"
@@ -5443,7 +5443,7 @@
     "price": 300,
     "currency": "EUR",
     "description": "",
-    "scale": "Small",
+    "scale": "Medium",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/fire-genasi-349916/1.jpg"
@@ -5978,7 +5978,7 @@
     "price": 3900,
     "currency": "EUR",
     "description": "Every surface of Fractured Golem reads as engineered rather than grown, a construct with a job and no capacity to question it. A fractured construct like this anchors a dungeon guardian encounter without needing any extra explanation.",
-    "scale": "Medium",
+    "scale": "Huge",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/fractured-golem-738677/1.jpg"
@@ -6347,7 +6347,7 @@
     "price": 1550,
     "currency": "EUR",
     "description": "Something in Frostfang, Vampire Beast refuses to stay buried. Every joint and hollow socket tells a story of a rest that never came. Perfect for a necromancer's muster or a haunted-ruin encounter, its wolf character carries real menace.",
-    "scale": "Medium",
+    "scale": "Huge",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/frostfang-vampire-beast-449227/1.jpg"
@@ -6376,7 +6376,7 @@
     "price": 2150,
     "currency": "EUR",
     "description": "Fungal Tusk was clearly sculpted with a specific story in mind, and it shows in the detail. A tusk figure like this earns its place in a growing collection just as easily as on the table.",
-    "scale": "Medium",
+    "scale": "Large",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/fungal-tusk-590240/1.jpg"
@@ -6431,7 +6431,7 @@
     "price": 3000,
     "currency": "EUR",
     "description": "Garghoul belongs to the lower planes, and the sculpt makes no attempt to pretend otherwise. A monster figure this confident earns its spot guarding a portal, a pact, or a throne of bone.",
-    "scale": "Medium",
+    "scale": "Huge",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/garghoul-350063/1.jpg"
@@ -6594,7 +6594,7 @@
     "price": 4300,
     "currency": "EUR",
     "description": "General of Death - Mounted carries the unmistakable presence of the dragonkin — scale, wing, and ancient fury rendered in fine resin detail. Whether guarding a hoard or descending on an unsuspecting party, its dragon presence steals the scene.",
-    "scale": "Medium",
+    "scale": "Huge",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/general-of-death-mounted-397578/1.jpg"
@@ -6657,7 +6657,7 @@
     "price": 450,
     "currency": "EUR",
     "description": "Something in General of Famine - Mounted refuses to stay buried. Every joint and hollow socket tells a story of a rest that never came. Perfect for a necromancer's muster or a haunted-ruin encounter, its general character carries real menace.",
-    "scale": "Medium",
+    "scale": "Large",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/general-of-famine-mounted-397582/1.jpg"
@@ -6723,7 +6723,7 @@
     "price": 1500,
     "currency": "EUR",
     "description": "General of Pestilence - Mounted has crossed the line between life and death and returned wrong — a figure carved from decay and unfinished business. A pestilence figure like this earns its place at the head of any undead warband.",
-    "scale": "Medium",
+    "scale": "Large",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/general-of-pestilence-mounted-397581/1.jpg"
@@ -6789,7 +6789,7 @@
     "price": 3800,
     "currency": "EUR",
     "description": "Draconic power runs through every line of General of War - Mounted, a figure built to dominate a battle mat the way its kind dominates the sky. Sculpted with a undead silhouette, it holds up as a striking solo display piece as much as a tabletop threat.",
-    "scale": "Medium",
+    "scale": "Huge",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/general-of-war-mounted-397579/1.jpg"
@@ -6856,7 +6856,7 @@
     "price": 900,
     "currency": "EUR",
     "description": "Ghost Of Unchained Hatred was not born — it was summoned, bargained for, or simply let in. Every line of the sculpt says so. Its hatred silhouette makes it read as dangerous from across the table, exactly as a fiend should.",
-    "scale": "Medium",
+    "scale": "Large",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/ghost-of-unchained-hatred-350065/1.jpg"
@@ -6916,7 +6916,7 @@
     "price": 3850,
     "currency": "EUR",
     "description": "There's a hunger to Giant Demon Frog that no amount of paint can soften; this is a fiend built to be feared, not admired. Whether summoned by a warlock or native to the encounter, its slaad character sells the threat immediately.",
-    "scale": "Medium",
+    "scale": "Huge",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/giant-demon-frog-810313/1.jpg"
@@ -7023,7 +7023,7 @@
     "price": 800,
     "currency": "EUR",
     "description": "Something in Glacial Wraith refuses to stay buried. Every joint and hollow socket tells a story of a rest that never came. Perfect for a necromancer's muster or a haunted-ruin encounter, its zombie character carries real menace.",
-    "scale": "Medium",
+    "scale": "Large",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/glacial-wraith-449230/1.jpg"
@@ -7187,7 +7187,7 @@
     "price": 2050,
     "currency": "EUR",
     "description": "Brimstone and bad intentions define Goat Idol, a demonic figure equally at home in a pit fight or a cursed altar room. The horror styling gives it real presence as a boss encounter or a pact-gone-wrong reveal.",
-    "scale": "Medium",
+    "scale": "Huge",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/goat-idol-679103/1.jpg"
@@ -7326,7 +7326,7 @@
     "price": 1350,
     "currency": "EUR",
     "description": "Grakhûr, Beastmaster carries the specific presence of someone the party will remember, ally or otherwise. A orc figure like this earns a spot as a memorable face at your table, not just another body on the map.",
-    "scale": "Medium",
+    "scale": "Large",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/grakh-r-beastmaster-635326/1.jpg"
@@ -7414,7 +7414,7 @@
     "price": 5050,
     "currency": "EUR",
     "description": "Great Old One rewards a close look — the kind of miniature that holds up to scrutiny, not just tabletop distance. Its horror character makes it a versatile pick for a wide range of encounters and stories.",
-    "scale": "Medium",
+    "scale": "Gargantuan",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/great-old-one-415587/1.jpg"
@@ -7497,7 +7497,7 @@
     "price": 850,
     "currency": "EUR",
     "description": "There's a confidence to Grim Owl's design that makes it stand out even before it's painted. Between the owlbear styling and the pose, it's built to be a genuine centerpiece wherever it's placed.",
-    "scale": "Medium",
+    "scale": "Large",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/grim-owl-679106/1.jpg"
@@ -7516,7 +7516,7 @@
     "price": 300,
     "currency": "EUR",
     "description": "",
-    "scale": "Small",
+    "scale": "Medium",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/grimnir-ravenlord-349917/1.jpg"
@@ -7574,7 +7574,7 @@
     "price": 6650,
     "currency": "EUR",
     "description": "Guardian Dragon channels the old draconic bloodlines: patient, immense, and utterly certain of its own supremacy. The commanding detailing rewards close painting just as much as it reads well from across the table.",
-    "scale": "Medium",
+    "scale": "Gargantuan",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/12-month-loyalty-reward-guardian-dragon-349850/1.jpg",
@@ -7621,7 +7621,7 @@
     "price": 500,
     "currency": "EUR",
     "description": "Hag Countess was not born — it was summoned, bargained for, or simply let in. Every line of the sculpt says so. Its fiend silhouette makes it read as dangerous from across the table, exactly as a fiend should.",
-    "scale": "Medium",
+    "scale": "Large",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/hag-countess-679108/1.jpg"
@@ -7702,7 +7702,7 @@
     "price": 750,
     "currency": "EUR",
     "description": "Draconic power runs through every line of Half-Dragon Smasher, a figure built to dominate a battle mat the way its kind dominates the sky. Sculpted with a dragon silhouette, it holds up as a striking solo display piece as much as a tabletop threat.",
-    "scale": "Medium",
+    "scale": "Large",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/half-dragon-smasher-532208/1.jpg"
@@ -7846,7 +7846,7 @@
     "price": 10800,
     "currency": "EUR",
     "description": "There's a confidence to He Who Lies Beyond The Void's design that makes it stand out even before it's painted. Between the tyrant styling and the pose, it's built to be a genuine centerpiece wherever it's placed.",
-    "scale": "Medium",
+    "scale": "Gargantuan",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/he-who-lies-beyond-the-void-719941/1.jpg"
@@ -7872,7 +7872,7 @@
     "price": 6150,
     "currency": "EUR",
     "description": "Heavenly Dragon channels the old draconic bloodlines: patient, immense, and utterly certain of its own supremacy. The snake detailing rewards close painting just as much as it reads well from across the table.",
-    "scale": "Medium",
+    "scale": "Gargantuan",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/heavenly-dragon-377798/1.jpg"
@@ -7974,7 +7974,7 @@
     "price": 500,
     "currency": "EUR",
     "description": "Hell Knight rewards a close look — the kind of miniature that holds up to scrutiny, not just tabletop distance. Its striking character makes it a versatile pick for a wide range of encounters and stories.",
-    "scale": "Medium",
+    "scale": "Large",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/6-month-loyalty-reward-hell-knight-730253/1.jpg",
@@ -8128,7 +8128,7 @@
     "price": 300,
     "currency": "EUR",
     "description": "",
-    "scale": "Small",
+    "scale": "Medium",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/high-order-assassin-349916/1.jpg"
@@ -8146,7 +8146,7 @@
     "price": 300,
     "currency": "EUR",
     "description": "",
-    "scale": "Small",
+    "scale": "Medium",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/high-order-priest-349916/1.jpg"
@@ -8198,7 +8198,7 @@
     "price": 2550,
     "currency": "EUR",
     "description": "There's an unsettling precision to Hoard Golem — the kind of figure that makes a dungeon feel designed rather than discovered. Its coin construction makes it a strong fit for guardian encounters, ruins, or an artificer's workshop gone wrong.",
-    "scale": "Medium",
+    "scale": "Huge",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/hoard-golem-474973/1.jpg"
@@ -8255,7 +8255,7 @@
     "price": 850,
     "currency": "EUR",
     "description": "There's a hunger to Ifrit, Genie of Fire that no amount of paint can soften; this is a fiend built to be feared, not admired. Whether summoned by a warlock or native to the encounter, its flame character sells the threat immediately.",
-    "scale": "Medium",
+    "scale": "Large",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/ifrit-genie-of-fire-415592/1.jpg"
@@ -8316,7 +8316,7 @@
     "price": 1150,
     "currency": "EUR",
     "description": "Brimstone and bad intentions define Infernal Sanctifier, a demonic figure equally at home in a pit fight or a cursed altar room. The mike styling gives it real presence as a boss encounter or a pact-gone-wrong reveal.",
-    "scale": "Medium",
+    "scale": "Huge",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/infernal-sanctifier-461993/1.jpg"
@@ -8346,7 +8346,7 @@
     "price": 800,
     "currency": "EUR",
     "description": "Brimstone and bad intentions define Insectoid Oni, a demonic figure equally at home in a pit fight or a cursed altar room. The demon styling gives it real presence as a boss encounter or a pact-gone-wrong reveal.",
-    "scale": "Medium",
+    "scale": "Large",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/insectoid-oni-377807/1.jpg"
@@ -8401,7 +8401,7 @@
     "price": 1050,
     "currency": "EUR",
     "description": "Every line of Iron Muncher sells raw predatory intent, a beast sculpted to dominate its corner of the table. Its muncher features make it a natural fit for wilderness encounters, lairs, or anything that should feel genuinely dangerous.",
-    "scale": "Medium",
+    "scale": "Large",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/iron-muncher-810315/1.jpg"
@@ -8461,7 +8461,7 @@
     "price": 3450,
     "currency": "EUR",
     "description": "Ironsworn Cyclops was built, not born — a working machine of joints, plating, and purpose rendered in resin. The armored detailing holds up beautifully whether painted as rusted relic or freshly forged threat.",
-    "scale": "Medium",
+    "scale": "Huge",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/ironsworn-cyclops-771354/1.jpg"
@@ -8546,7 +8546,7 @@
     "price": 300,
     "currency": "EUR",
     "description": "",
-    "scale": "Small",
+    "scale": "Medium",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/jakir-redsword-the-blacksmith-349916/1.jpg"
@@ -8713,7 +8713,7 @@
     "price": 750,
     "currency": "EUR",
     "description": "Kaedrus, Iron Regent is a striking addition to any collection — a figure with real character in every line of the sculpt. The iron detailing gives painters plenty to work with, from a subtle finish to something bolder.",
-    "scale": "Medium",
+    "scale": "Large",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/kaedrus-iron-regent-719950/1.jpg"
@@ -8826,7 +8826,7 @@
     "price": 2250,
     "currency": "EUR",
     "description": "King X-Saurus has crossed the line between life and death and returned wrong — a figure carved from decay and unfinished business. A undead figure like this earns its place at the head of any undead warband.",
-    "scale": "Medium",
+    "scale": "Huge",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/king-x-saurus-756988/1.jpg"
@@ -8929,7 +8929,7 @@
     "price": 5750,
     "currency": "EUR",
     "description": "There is a stillness to Krymathor, The Keeper (Ancient Red Dragon) that only a dragon can carry — the calm of something that has never needed to hurry. Its smaug bearing makes it a natural centerpiece for any dragon-themed encounter or hoard.",
-    "scale": "Medium",
+    "scale": "Gargantuan",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/krymathor-the-keeper-ancient-red-dragon-474966/1.jpg"
@@ -9012,7 +9012,7 @@
     "price": 1550,
     "currency": "EUR",
     "description": "Kurojin's Flaming Oni was not born — it was summoned, bargained for, or simply let in. Every line of the sculpt says so. Its yokai silhouette makes it read as dangerous from across the table, exactly as a fiend should.",
-    "scale": "Medium",
+    "scale": "Large",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/kurojin-s-flaming-oni-377808/1.jpg"
@@ -9170,7 +9170,7 @@
     "price": 6900,
     "currency": "EUR",
     "description": "Leviathan channels the old draconic bloodlines: patient, immense, and utterly certain of its own supremacy. The leviathan detailing rewards close painting just as much as it reads well from across the table.",
-    "scale": "Medium",
+    "scale": "Gargantuan",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/leviathan-496796/1.jpg"
@@ -9200,7 +9200,7 @@
     "price": 6050,
     "currency": "EUR",
     "description": "Lich-Engine is the tabletop's answer to the quiet dread of the grave: patient, cold, and never quite done. Between the giger sculpting and the pose, it reads as genuinely unsettling on the table, not just spooky set dressing.",
-    "scale": "Medium",
+    "scale": "Gargantuan",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/lich-engine-700105/1.jpg"
@@ -9227,7 +9227,7 @@
     "price": 750,
     "currency": "EUR",
     "description": "Brimstone and bad intentions define Lion Effigy, a demonic figure equally at home in a pit fight or a cursed altar room. The nemean styling gives it real presence as a boss encounter or a pact-gone-wrong reveal.",
-    "scale": "Medium",
+    "scale": "Large",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/lion-effigy-771364/1.jpg"
@@ -9390,7 +9390,7 @@
     "price": 400,
     "currency": "EUR",
     "description": "There's a confidence to Lord Fengr, Ironsworn Ruler (Mounted)'s design that makes it stand out even before it's painted. Between the lord styling and the pose, it's built to be a genuine centerpiece wherever it's placed.",
-    "scale": "Medium",
+    "scale": "Large",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/lord-fengr-ironsworn-ruler-mounted-771374/1.jpg"
@@ -9654,7 +9654,7 @@
     "price": 950,
     "currency": "EUR",
     "description": "Every line of Magma Troll sells raw predatory intent, a beast sculpted to dominate its corner of the table. Its stone features make it a natural fit for wilderness encounters, lairs, or anything that should feel genuinely dangerous.",
-    "scale": "Medium",
+    "scale": "Large",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/magma-troll-461997/1.jpg"
@@ -9687,7 +9687,7 @@
     "price": 600,
     "currency": "EUR",
     "description": "Maltriel, the Broken Halo was sculpted with the sense of grace and terrible purpose that separates the heavenly from the merely holy. A archdevil figure like this rewards a bright, clean paint job as much as it rewards a grim one.",
-    "scale": "Medium",
+    "scale": "Large",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/maltriel-the-broken-halo-719949/1.jpg"
@@ -9716,7 +9716,7 @@
     "price": 600,
     "currency": "EUR",
     "description": "Draconic power runs through every line of Manticore, a figure built to dominate a battle mat the way its kind dominates the sky. Sculpted with a zombie silhouette, it holds up as a striking solo display piece as much as a tabletop threat.",
-    "scale": "Medium",
+    "scale": "Large",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/manticore-532211/1.jpg"
@@ -9736,7 +9736,7 @@
     "price": 1050,
     "currency": "EUR",
     "description": "Marilith General rewards a close look — the kind of miniature that holds up to scrutiny, not just tabletop distance. Its striking character makes it a versatile pick for a wide range of encounters and stories.",
-    "scale": "Medium",
+    "scale": "Large",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/12-month-loyalty-reward-marilith-general-730257/1.jpg"
@@ -9764,7 +9764,7 @@
     "price": 850,
     "currency": "EUR",
     "description": "Grave-dirt and old grudges cling to Marrow Golem, a miniature built for the moment your party realizes the crypt isn't empty. Its corrupted details make it an easy fit for crypts, battlefields-turned-graveyards, or any encounter that needs a touch of the grave.",
-    "scale": "Medium",
+    "scale": "Large",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/marrow-golem-784359/1.jpg"
@@ -9912,7 +9912,7 @@
     "price": 19100,
     "currency": "EUR",
     "description": "Megaloch channels the old draconic bloodlines: patient, immense, and utterly certain of its own supremacy. The monster detailing rewards close painting just as much as it reads well from across the table.",
-    "scale": "Medium",
+    "scale": "Gargantuan",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/megaloch-756986/1.jpg"
@@ -10071,7 +10071,7 @@
     "price": 500,
     "currency": "EUR",
     "description": "Minotaur Skeleton has crossed the line between life and death and returned wrong — a figure carved from decay and unfinished business. A executioner figure like this earns its place at the head of any undead warband.",
-    "scale": "Medium",
+    "scale": "Large",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/minotaur-skeleton-611733/1.jpg"
@@ -10128,7 +10128,7 @@
     "price": 450,
     "currency": "EUR",
     "description": "There's a hunger to Mother of Bargains that no amount of paint can soften; this is a fiend built to be feared, not admired. Whether summoned by a warlock or native to the encounter, its witch character sells the threat immediately.",
-    "scale": "Medium",
+    "scale": "Large",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/mother-of-bargains-679109/1.jpg"
@@ -10156,7 +10156,7 @@
     "price": 550,
     "currency": "EUR",
     "description": "Something in Mourning Hart refuses to stay buried. Every joint and hollow socket tells a story of a rest that never came. Perfect for a necromancer's muster or a haunted-ruin encounter, its grimdark character carries real menace.",
-    "scale": "Medium",
+    "scale": "Large",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/mourning-hart-611734/1.jpg"
@@ -10183,7 +10183,7 @@
     "price": 550,
     "currency": "EUR",
     "description": "Grave-dirt and old grudges cling to Mummified Berserker, a miniature built for the moment your party realizes the crypt isn't empty. Its brute details make it an easy fit for crypts, battlefields-turned-graveyards, or any encounter that needs a touch of the grave.",
-    "scale": "Medium",
+    "scale": "Large",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/mummified-berserker-797441/1.jpg"
@@ -10214,7 +10214,7 @@
     "price": 500,
     "currency": "EUR",
     "description": "Murax, Cursed Serpent Knight is a striking addition to any collection — a figure with real character in every line of the sculpt. The cursed detailing gives painters plenty to work with, from a subtle finish to something bolder.",
-    "scale": "Medium",
+    "scale": "Large",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/murax-cursed-serpent-knight-797442/1.jpg"
@@ -10238,7 +10238,7 @@
     "price": 3450,
     "currency": "EUR",
     "description": "Mutated Bipedal Shark rewards a close look — the kind of miniature that holds up to scrutiny, not just tabletop distance. Its kaiju character makes it a versatile pick for a wide range of encounters and stories.",
-    "scale": "Medium",
+    "scale": "Huge",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/mutated-bipedal-shark-756987/1.jpg"
@@ -10262,7 +10262,7 @@
     "price": 500,
     "currency": "EUR",
     "description": "Something in Mutated Raptor refuses to stay buried. Every joint and hollow socket tells a story of a rest that never came. Perfect for a necromancer's muster or a haunted-ruin encounter, its dinosaur character carries real menace.",
-    "scale": "Medium",
+    "scale": "Large",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/mutated-raptor-756989/1.jpg"
@@ -10397,7 +10397,7 @@
     "price": 3800,
     "currency": "EUR",
     "description": "Narukh, Crawling Blight channels the old draconic bloodlines: patient, immense, and utterly certain of its own supremacy. The crawling detailing rewards close painting just as much as it reads well from across the table.",
-    "scale": "Medium",
+    "scale": "Huge",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/narukh-crawling-blight-719945/1.jpg"
@@ -10499,7 +10499,7 @@
     "price": 3300,
     "currency": "EUR",
     "description": "Necrotech Wyvern carries the unmistakable presence of the dragonkin — scale, wing, and ancient fury rendered in fine resin detail. Whether guarding a hoard or descending on an unsuspecting party, its dragon presence steals the scene.",
-    "scale": "Medium",
+    "scale": "Huge",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/necrotech-wyvern-700118/1.jpg"
@@ -10528,7 +10528,7 @@
     "price": 1200,
     "currency": "EUR",
     "description": "Necrotic Elemental has crossed the line between life and death and returned wrong — a figure carved from decay and unfinished business. A ghost figure like this earns its place at the head of any undead warband.",
-    "scale": "Medium",
+    "scale": "Large",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/necrotic-elemental-370984/1.jpg"
@@ -10585,7 +10585,7 @@
     "price": 700,
     "currency": "EUR",
     "description": "Nightmare Gryph rewards a close look — the kind of miniature that holds up to scrutiny, not just tabletop distance. Its gryph character makes it a versatile pick for a wide range of encounters and stories.",
-    "scale": "Medium",
+    "scale": "Large",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/nightmare-gryph-390853/1.jpg"
@@ -10611,7 +10611,7 @@
     "price": 500,
     "currency": "EUR",
     "description": "Nightmare King is the tabletop's answer to the quiet dread of the grave: patient, cold, and never quite done. Between the king sculpting and the pose, it reads as genuinely unsettling on the table, not just spooky set dressing.",
-    "scale": "Medium",
+    "scale": "Large",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/nightmare-king-611735/1.jpg"
@@ -10689,7 +10689,7 @@
     "price": 700,
     "currency": "EUR",
     "description": "Oberon, Green Lord is a character first and a miniature second — built with a clear sense of who they are and what they've done. The eladrin detailing gives them a distinct silhouette that holds up in a crowd of other figures.",
-    "scale": "Medium",
+    "scale": "Large",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/oberon-green-lord-437852/1.jpg"
@@ -10717,7 +10717,7 @@
     "price": 800,
     "currency": "EUR",
     "description": "Oblivion was not born — it was summoned, bargained for, or simply let in. Every line of the sculpt says so. Its devil silhouette makes it read as dangerous from across the table, exactly as a fiend should.",
-    "scale": "Medium",
+    "scale": "Large",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/oblivion-437849/1.jpg"
@@ -10746,7 +10746,7 @@
     "price": 700,
     "currency": "EUR",
     "description": "There's a hunger to Obsidian Reaper that no amount of paint can soften; this is a fiend built to be feared, not admired. Whether summoned by a warlock or native to the encounter, its grim character sells the threat immediately.",
-    "scale": "Medium",
+    "scale": "Large",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/obsidian-reaper-461999/1.jpg"
@@ -10903,7 +10903,7 @@
     "price": 2150,
     "currency": "EUR",
     "description": "Ossified Beast channels the old draconic bloodlines: patient, immense, and utterly certain of its own supremacy. The skeleton detailing rewards close painting just as much as it reads well from across the table.",
-    "scale": "Medium",
+    "scale": "Large",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/ossified-beast-784361/1.jpg"
@@ -10935,7 +10935,7 @@
     "price": 3000,
     "currency": "EUR",
     "description": "Grave-dirt and old grudges cling to Ossified Saint, a miniature built for the moment your party realizes the crypt isn't empty. Its ossified details make it an easy fit for crypts, battlefields-turned-graveyards, or any encounter that needs a touch of the grave.",
-    "scale": "Medium",
+    "scale": "Huge",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/ossified-saint-784351/1.jpg"
@@ -11152,7 +11152,7 @@
     "price": 2400,
     "currency": "EUR",
     "description": "There is a stillness to Phantom Dragon that only a dragon can carry — the calm of something that has never needed to hurry. Its phantom bearing makes it a natural centerpiece for any dragon-themed encounter or hoard.",
-    "scale": "Medium",
+    "scale": "Large",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/phantom-dragon-350068/1.jpg"
@@ -11183,7 +11183,7 @@
     "price": 950,
     "currency": "EUR",
     "description": "Every line of Pike-Breakers sells raw predatory intent, a beast sculpted to dominate its corner of the table. Its rhinofolk features make it a natural fit for wilderness encounters, lairs, or anything that should feel genuinely dangerous.",
-    "scale": "Medium",
+    "scale": "Large",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/pike-breakers-810326/1.jpg",
@@ -11235,7 +11235,7 @@
     "price": 500,
     "currency": "EUR",
     "description": "Pit Fiend carries itself with the quiet authority of something that answers to a higher order. The fallen detailing gives it real gravity as a boss-tier celestial encounter or a shrine centerpiece.",
-    "scale": "Medium",
+    "scale": "Large",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/pit-fiend-719947/1.jpg"
@@ -11264,7 +11264,7 @@
     "price": 650,
     "currency": "EUR",
     "description": "Plague Lord captures the specific dread of the natural world gone wrong — teeth, claws, and no interest in negotiation. Between its monster silhouette and its stance, it's built to look like it's already decided you're prey.",
-    "scale": "Medium",
+    "scale": "Large",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/plague-lord-784369/1.jpg"
@@ -11549,7 +11549,7 @@
     "price": 300,
     "currency": "EUR",
     "description": "",
-    "scale": "Small",
+    "scale": "Medium",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/ragrath-oathbreaker-paladin-349917/1.jpg"
@@ -11595,7 +11595,7 @@
     "price": 300,
     "currency": "EUR",
     "description": "",
-    "scale": "Small",
+    "scale": "Medium",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/raven-mage-349917/1.png"
@@ -12103,7 +12103,7 @@
     "price": 2400,
     "currency": "EUR",
     "description": "Revenant King has crossed the line between life and death and returned wrong — a figure carved from decay and unfinished business. A revenant figure like this earns its place at the head of any undead warband.",
-    "scale": "Medium",
+    "scale": "Gargantuan",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/revenant-king-449226/1.jpg"
@@ -12183,7 +12183,7 @@
     "price": 1000,
     "currency": "EUR",
     "description": "Riptide Oni belongs to the lower planes, and the sculpt makes no attempt to pretend otherwise. A tentacles figure this confident earns its spot guarding a portal, a pact, or a throne of bone.",
-    "scale": "Medium",
+    "scale": "Large",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/riptide-oni-377806/1.jpg"
@@ -12294,7 +12294,7 @@
     "price": 300,
     "currency": "EUR",
     "description": "",
-    "scale": "Small",
+    "scale": "Medium",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/rogue-with-a-vendetta-349916/1.jpg"
@@ -12491,7 +12491,7 @@
     "price": 550,
     "currency": "EUR",
     "description": "Grave-dirt and old grudges cling to Royal Tormentor, a miniature built for the moment your party realizes the crypt isn't empty. Its undead details make it an easy fit for crypts, battlefields-turned-graveyards, or any encounter that needs a touch of the grave.",
-    "scale": "Medium",
+    "scale": "Large",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/royal-tormentor-611736/1.jpg"
@@ -12604,7 +12604,7 @@
     "price": 4050,
     "currency": "EUR",
     "description": "Draconic power runs through every line of Sanctum Dragon, a figure built to dominate a battle mat the way its kind dominates the sky. Sculpted with a sacred silhouette, it holds up as a striking solo display piece as much as a tabletop threat.",
-    "scale": "Medium",
+    "scale": "Huge",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/sanctum-dragon-370981/1.jpg"
@@ -12631,7 +12631,7 @@
     "price": 4450,
     "currency": "EUR",
     "description": "Sand Crusher captures the specific dread of the natural world gone wrong — teeth, claws, and no interest in negotiation. Between its sand silhouette and its stance, it's built to look like it's already decided you're prey.",
-    "scale": "Medium",
+    "scale": "Huge",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/sand-crusher-797440/1.jpg"
@@ -12659,7 +12659,7 @@
     "price": 1900,
     "currency": "EUR",
     "description": "Sand Eater was clearly sculpted with a specific story in mind, and it shows in the detail. A shai figure like this earns its place in a growing collection just as easily as on the table.",
-    "scale": "Medium",
+    "scale": "Huge",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/sand-eater-797436/1.jpg"
@@ -12683,7 +12683,7 @@
     "price": 500,
     "currency": "EUR",
     "description": "Every detail on Sand Watcher suggests a history: a fight survived, a title earned, a road still being walked. Between the desert gear and the pose, they're built to lead a scene rather than fill its background.",
-    "scale": "Medium",
+    "scale": "Large",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/sand-watcher-797443/1.jpg"
@@ -12739,7 +12739,7 @@
     "price": 4000,
     "currency": "EUR",
     "description": "Scarab Colossus is wild in the truest sense — a creature that answers to instinct, hunger, and territory, not to any code. The giant sculpting gives it real texture up close while still reading clearly as a threat from across the table.",
-    "scale": "Medium",
+    "scale": "Gargantuan",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/scarab-colossus-797435/1.jpg"
@@ -12792,7 +12792,7 @@
     "price": 2400,
     "currency": "EUR",
     "description": "Scorpion Wyvern channels the old draconic bloodlines: patient, immense, and utterly certain of its own supremacy. The wyvern detailing rewards close painting just as much as it reads well from across the table.",
-    "scale": "Medium",
+    "scale": "Huge",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/scorpion-wyvern-370982/1.jpg"
@@ -12900,7 +12900,7 @@
     "price": 600,
     "currency": "EUR",
     "description": "There's a confidence to Serpentfolk Abomination's design that makes it stand out even before it's painted. Between the mutation styling and the pose, it's built to be a genuine centerpiece wherever it's placed.",
-    "scale": "Medium",
+    "scale": "Large",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/serpentfolk-abomination-590241/1.jpg"
@@ -13012,7 +13012,7 @@
     "price": 700,
     "currency": "EUR",
     "description": "Shadow Demon was not born — it was summoned, bargained for, or simply let in. Every line of the sculpt says so. Its demon silhouette makes it read as dangerous from across the table, exactly as a fiend should.",
-    "scale": "Medium",
+    "scale": "Large",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/shadow-demon-474974/1.jpg"
@@ -13179,7 +13179,7 @@
     "price": 1000,
     "currency": "EUR",
     "description": "Shambling Mound captures the specific dread of the natural world gone wrong — teeth, claws, and no interest in negotiation. Between its curse silhouette and its stance, it's built to look like it's already decided you're prey.",
-    "scale": "Medium",
+    "scale": "Large",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/shambling-mound-397583/1.jpg"
@@ -13234,7 +13234,7 @@
     "price": 550,
     "currency": "EUR",
     "description": "Shattered Ettin rewards a close look — the kind of miniature that holds up to scrutiny, not just tabletop distance. Its body-horror character makes it a versatile pick for a wide range of encounters and stories.",
-    "scale": "Medium",
+    "scale": "Large",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/shattered-ettin-738686/1.jpg"
@@ -13336,7 +13336,7 @@
     "price": 4150,
     "currency": "EUR",
     "description": "Shub-Niggurath, Planar Sin was clearly sculpted with a specific story in mind, and it shows in the detail. A planar figure like this earns its place in a growing collection just as easily as on the table.",
-    "scale": "Medium",
+    "scale": "Gargantuan",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/shub-niggurath-planar-sin-424877/1.jpg"
@@ -13393,7 +13393,7 @@
     "price": 2100,
     "currency": "EUR",
     "description": "There's a solemnity to Siege Titan Angel, the kind of presence that makes a scene feel like it matters. Its titan bearing suits a divine envoy, a judge, or a guardian of something worth protecting.",
-    "scale": "Medium",
+    "scale": "Huge",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/siege-titan-angel-810311/1.jpg"
@@ -13420,7 +13420,7 @@
     "price": 1000,
     "currency": "EUR",
     "description": "There's nothing civilized about Siege Troll; it's built to feel like something you'd rather not meet on a narrow trail. A giant beast like this earns its place as a random encounter or the reveal at the end of a hunting trail.",
-    "scale": "Medium",
+    "scale": "Large",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/siege-troll-635325/1.jpg"
@@ -13738,7 +13738,7 @@
     "price": 7250,
     "currency": "EUR",
     "description": "Draconic power runs through every line of Skyward Dragon, a figure built to dominate a battle mat the way its kind dominates the sky. Sculpted with a shenlong silhouette, it holds up as a striking solo display piece as much as a tabletop threat.",
-    "scale": "Medium",
+    "scale": "Huge",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/skyward-dragon-377801/1.jpg"
@@ -13852,7 +13852,7 @@
     "price": 600,
     "currency": "EUR",
     "description": "Spinereaper is a striking addition to any collection — a figure with real character in every line of the sculpt. The xenomorph detailing gives painters plenty to work with, from a subtle finish to something bolder.",
-    "scale": "Medium",
+    "scale": "Large",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/spinereaper-700129/1.jpg"
@@ -13875,7 +13875,7 @@
     "price": 850,
     "currency": "EUR",
     "description": "Grave-dirt and old grudges cling to Spirit Naga, a miniature built for the moment your party realizes the crypt isn't empty. Its naga details make it an easy fit for crypts, battlefields-turned-graveyards, or any encounter that needs a touch of the grave.",
-    "scale": "Medium",
+    "scale": "Large",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/spirit-naga-590242/1.jpg"
@@ -13958,7 +13958,7 @@
     "price": 400,
     "currency": "EUR",
     "description": "Steam Wraith is the tabletop's answer to the quiet dread of the grave: patient, cold, and never quite done. Between the armored sculpting and the pose, it reads as genuinely unsettling on the table, not just spooky set dressing.",
-    "scale": "Medium",
+    "scale": "Large",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/steam-wraith-700130/1.jpg"
@@ -14092,7 +14092,7 @@
     "price": 1300,
     "currency": "EUR",
     "description": "Sunken Fiend was not born — it was summoned, bargained for, or simply let in. Every line of the sculpt says so. Its pit silhouette makes it read as dangerous from across the table, exactly as a fiend should.",
-    "scale": "Medium",
+    "scale": "Large",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/sunken-fiend-496806/1.jpg"
@@ -14121,7 +14121,7 @@
     "price": 1400,
     "currency": "EUR",
     "description": "Swarm of Desert Worms captures the specific dread of the natural world gone wrong — teeth, claws, and no interest in negotiation. Between its shai silhouette and its stance, it's built to look like it's already decided you're prey.",
-    "scale": "Medium",
+    "scale": "Large",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/swarm-of-desert-worms-797444/1.jpg"
@@ -14148,7 +14148,7 @@
     "price": 500,
     "currency": "EUR",
     "description": "Brimstone and bad intentions define Swarm of Undead Fairies, a demonic figure equally at home in a pit fight or a cursed altar room. The fey styling gives it real presence as a boss encounter or a pact-gone-wrong reveal.",
-    "scale": "Medium",
+    "scale": "Large",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/swarm-of-undead-fairies-810322/1.jpg"
@@ -14316,7 +14316,7 @@
     "price": 5050,
     "currency": "EUR",
     "description": "Tetramorph of Victory was not born — it was summoned, bargained for, or simply let in. Every line of the sculpt says so. Its balor silhouette makes it read as dangerous from across the table, exactly as a fiend should.",
-    "scale": "Medium",
+    "scale": "Gargantuan",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/tetramorph-of-victory-771347/1.jpg"
@@ -14376,7 +14376,7 @@
     "price": 1500,
     "currency": "EUR",
     "description": "Thanabros, The Enforcer has crossed the line between life and death and returned wrong — a figure carved from decay and unfinished business. A head figure like this earns its place at the head of any undead warband.",
-    "scale": "Medium",
+    "scale": "Large",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/thanabros-the-enforcer-350069/1.jpg"
@@ -14422,7 +14422,7 @@
     "price": 300,
     "currency": "EUR",
     "description": "",
-    "scale": "Small",
+    "scale": "Medium",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/the-aasimar-349916/1.jpg"
@@ -14469,7 +14469,7 @@
     "price": 2200,
     "currency": "EUR",
     "description": "Brimstone and bad intentions define The Abyssal Devourer, a demonic figure equally at home in a pit fight or a cursed altar room. The lord styling gives it real presence as a boss encounter or a pact-gone-wrong reveal.",
-    "scale": "Medium",
+    "scale": "Huge",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/the-abyssal-devourer-384531/1.jpg"
@@ -14497,7 +14497,7 @@
     "price": 7100,
     "currency": "EUR",
     "description": "Something in The Amalgamation refuses to stay buried. Every joint and hollow socket tells a story of a rest that never came. Perfect for a necromancer's muster or a haunted-ruin encounter, its body character carries real menace.",
-    "scale": "Medium",
+    "scale": "Gargantuan",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/the-amalgamation-738673/1.jpg"
@@ -14526,7 +14526,7 @@
     "price": 1050,
     "currency": "EUR",
     "description": "The Beast of Butchery was not born — it was summoned, bargained for, or simply let in. Every line of the sculpt says so. Its fiend silhouette makes it read as dangerous from across the table, exactly as a fiend should.",
-    "scale": "Medium",
+    "scale": "Large",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/the-beast-of-butchery-384532/1.jpg"
@@ -14587,7 +14587,7 @@
     "price": 5500,
     "currency": "EUR",
     "description": "The Crimson Maw channels the old draconic bloodlines: patient, immense, and utterly certain of its own supremacy. The werebat detailing rewards close painting just as much as it reads well from across the table.",
-    "scale": "Medium",
+    "scale": "Gargantuan",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/the-crimson-maw-397576/1.jpg"
@@ -14615,7 +14615,7 @@
     "price": 1050,
     "currency": "EUR",
     "description": "There's a hunger to The Crusher that no amount of paint can soften; this is a fiend built to be feared, not admired. Whether summoned by a warlock or native to the encounter, its cleric character sells the threat immediately.",
-    "scale": "Medium",
+    "scale": "Large",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/the-crusher-370985/1.jpg"
@@ -14637,7 +14637,7 @@
     "price": 300,
     "currency": "EUR",
     "description": "",
-    "scale": "Small",
+    "scale": "Medium",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/the-dark-druid-349917/1.png"
@@ -14665,7 +14665,7 @@
     "price": 1550,
     "currency": "EUR",
     "description": "The Dark Mother was not born — it was summoned, bargained for, or simply let in. Every line of the sculpt says so. Its devil silhouette makes it read as dangerous from across the table, exactly as a fiend should.",
-    "scale": "Medium",
+    "scale": "Huge",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/the-dark-mother-415588/1.jpg"
@@ -14692,7 +14692,7 @@
     "price": 750,
     "currency": "EUR",
     "description": "The Dealer of Death rewards a close look — the kind of miniature that holds up to scrutiny, not just tabletop distance. Its knight character makes it a versatile pick for a wide range of encounters and stories.",
-    "scale": "Medium",
+    "scale": "Large",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/the-dealer-of-death-756990/1.jpg"
@@ -14711,7 +14711,7 @@
     "price": 300,
     "currency": "EUR",
     "description": "",
-    "scale": "Small",
+    "scale": "Medium",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/the-dream-slayer-349916/1.jpg"
@@ -14737,7 +14737,7 @@
     "price": 700,
     "currency": "EUR",
     "description": "There's a solemnity to The Dying Deity, the kind of presence that makes a scene feel like it matters. Its angel bearing suits a divine envoy, a judge, or a guardian of something worth protecting.",
-    "scale": "Medium",
+    "scale": "Large",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/the-dying-deity-370987/1.jpg"
@@ -14768,7 +14768,7 @@
     "price": 1350,
     "currency": "EUR",
     "description": "There's a hunger to The Faceless Lord that no amount of paint can soften; this is a fiend built to be feared, not admired. Whether summoned by a warlock or native to the encounter, its faceless character sells the threat immediately.",
-    "scale": "Medium",
+    "scale": "Large",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/the-faceless-lord-384533/1.jpg"
@@ -14789,7 +14789,7 @@
     "price": 300,
     "currency": "EUR",
     "description": "",
-    "scale": "Small",
+    "scale": "Medium",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/the-fade-349917/1.png"
@@ -14845,7 +14845,7 @@
     "price": 7350,
     "currency": "EUR",
     "description": "There's a confidence to The Fifth Crown - 5-Years Anniversary Special's design that makes it stand out even before it's painted. Between the cursed styling and the pose, it's built to be a genuine centerpiece wherever it's placed.",
-    "scale": "Medium",
+    "scale": "Gargantuan",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/the-fifth-crown-5-years-anniversary-special-810358/1.jpg"
@@ -14891,7 +14891,7 @@
     "price": 1500,
     "currency": "EUR",
     "description": "There's a confidence to The Furious Ettin's design that makes it stand out even before it's painted. Between the striking styling and the pose, it's built to be a genuine centerpiece wherever it's placed.",
-    "scale": "Medium",
+    "scale": "Huge",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/6-month-loyalty-reward-the-furious-ettin-230806/1.jpg",
@@ -14912,7 +14912,7 @@
     "price": 300,
     "currency": "EUR",
     "description": "",
-    "scale": "Small",
+    "scale": "Medium",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/the-guild-master-349916/1.jpg"
@@ -14941,7 +14941,7 @@
     "price": 700,
     "currency": "EUR",
     "description": "The Head Collector was clearly sculpted with a specific story in mind, and it shows in the detail. A coffin figure like this earns its place in a growing collection just as easily as on the table.",
-    "scale": "Medium",
+    "scale": "Large",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/the-head-collector-810346/1.jpg"
@@ -14968,7 +14968,7 @@
     "price": 1050,
     "currency": "EUR",
     "description": "The Horned King belongs to the lower planes, and the sculpt makes no attempt to pretend otherwise. A horned figure this confident earns its spot guarding a portal, a pact, or a throne of bone.",
-    "scale": "Medium",
+    "scale": "Large",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/the-horned-king-384534/1.jpg"
@@ -14999,7 +14999,7 @@
     "price": 550,
     "currency": "EUR",
     "description": "The Lady of Rot and Decay was not born — it was summoned, bargained for, or simply let in. Every line of the sculpt says so. Its demon silhouette makes it read as dangerous from across the table, exactly as a fiend should.",
-    "scale": "Medium",
+    "scale": "Large",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/the-lady-of-rot-and-decay-384536/1.jpg"
@@ -15020,7 +15020,7 @@
     "price": 300,
     "currency": "EUR",
     "description": "",
-    "scale": "Small",
+    "scale": "Medium",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/the-lake-knight-349916/1.jpg"
@@ -15047,7 +15047,7 @@
     "price": 5000,
     "currency": "EUR",
     "description": "There's a hunger to The Lord of Undeath that no amount of paint can soften; this is a fiend built to be feared, not admired. Whether summoned by a warlock or native to the encounter, its devil character sells the threat immediately.",
-    "scale": "Medium",
+    "scale": "Huge",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/the-lord-of-undeath-384537/1.jpg"
@@ -15079,7 +15079,7 @@
     "price": 2550,
     "currency": "EUR",
     "description": "Brimstone and bad intentions define The Moribundi, a demonic figure equally at home in a pit fight or a cursed altar room. The ghost styling gives it real presence as a boss encounter or a pact-gone-wrong reveal.",
-    "scale": "Medium",
+    "scale": "Huge",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/the-moribundi-350075/1.jpg"
@@ -15143,7 +15143,7 @@
     "price": 700,
     "currency": "EUR",
     "description": "The Pale Night was not born — it was summoned, bargained for, or simply let in. Every line of the sculpt says so. Its aberration silhouette makes it read as dangerous from across the table, exactly as a fiend should.",
-    "scale": "Medium",
+    "scale": "Large",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/the-pale-night-387928/1.jpg"
@@ -15169,7 +15169,7 @@
     "price": 900,
     "currency": "EUR",
     "description": "The Penitent was not born — it was summoned, bargained for, or simply let in. Every line of the sculpt says so. Its atlas silhouette makes it read as dangerous from across the table, exactly as a fiend should.",
-    "scale": "Medium",
+    "scale": "Large",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/the-penitent-370988/1.jpg"
@@ -15231,7 +15231,7 @@
     "price": 600,
     "currency": "EUR",
     "description": "Brimstone and bad intentions define The Prince of Pleasure, a demonic figure equally at home in a pit fight or a cursed altar room. The prince styling gives it real presence as a boss encounter or a pact-gone-wrong reveal.",
-    "scale": "Medium",
+    "scale": "Large",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/the-prince-of-pleasure-384539/1.jpg"
@@ -15252,7 +15252,7 @@
     "price": 300,
     "currency": "EUR",
     "description": "",
-    "scale": "Small",
+    "scale": "Medium",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/the-ritualist-349916/1.jpg"
@@ -15282,7 +15282,7 @@
     "price": 3850,
     "currency": "EUR",
     "description": "The Rotfather was built, not born — a working machine of joints, plating, and purpose rendered in resin. The mutated detailing holds up beautifully whether painted as rusted relic or freshly forged threat.",
-    "scale": "Medium",
+    "scale": "Gargantuan",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/the-rotfather-590232/1.jpg"
@@ -15338,7 +15338,7 @@
     "price": 400,
     "currency": "EUR",
     "description": "There's nothing civilized about The Sinister Lord; it's built to feel like something you'd rather not meet on a narrow trail. A barbarian beast like this earns its place as a random encounter or the reveal at the end of a hunting trail.",
-    "scale": "Medium",
+    "scale": "Large",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/the-sinister-lord-756992/1.jpg"
@@ -15388,7 +15388,7 @@
     "price": 8500,
     "currency": "EUR",
     "description": "There's a confidence to The Void God's design that makes it stand out even before it's painted. Between the god styling and the pose, it's built to be a genuine centerpiece wherever it's placed.",
-    "scale": "Medium",
+    "scale": "Gargantuan",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/the-void-god-437825/1.jpg"
@@ -15595,7 +15595,7 @@
     "price": 8550,
     "currency": "EUR",
     "description": "Titan of Death and Decay has crossed the line between life and death and returned wrong — a figure carved from decay and unfinished business. A titan figure like this earns its place at the head of any undead warband.",
-    "scale": "Medium",
+    "scale": "Gargantuan",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/titan-of-death-and-decay-784349/1.jpg"
@@ -15623,7 +15623,7 @@
     "price": 650,
     "currency": "EUR",
     "description": "There's a confidence to Titania, Light Queen's pose that reads as lived-in rather than posed for a cover. Their elf styling makes them a strong fit as a named NPC, a rival, or a player's own hero on the table.",
-    "scale": "Medium",
+    "scale": "Large",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/titania-light-queen-437855/1.jpg"
@@ -15652,7 +15652,7 @@
     "price": 600,
     "currency": "EUR",
     "description": "Tome Wraith is the tabletop's answer to the quiet dread of the grave: patient, cold, and never quite done. Between the tome sculpting and the pose, it reads as genuinely unsettling on the table, not just spooky set dressing.",
-    "scale": "Medium",
+    "scale": "Large",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/tome-wraith-415593/1.jpg"
@@ -15681,7 +15681,7 @@
     "price": 4500,
     "currency": "EUR",
     "description": "Draconic power runs through every line of Tora, Arcane Dragon, a figure built to dominate a battle mat the way its kind dominates the sky. Sculpted with a monster silhouette, it holds up as a striking solo display piece as much as a tabletop threat.",
-    "scale": "Medium",
+    "scale": "Huge",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/tora-arcane-dragon-390851/1.jpg"
@@ -15709,7 +15709,7 @@
     "price": 1200,
     "currency": "EUR",
     "description": "There's a hunger to Treasure Carrier that no amount of paint can soften; this is a fiend built to be feared, not admired. Whether summoned by a warlock or native to the encounter, its carrier character sells the threat immediately.",
-    "scale": "Medium",
+    "scale": "Large",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/treasure-carrier-474975/1.jpg"
@@ -15901,7 +15901,7 @@
     "price": 1150,
     "currency": "EUR",
     "description": "There's nothing civilized about Troll of Reckoning; it's built to feel like something you'd rather not meet on a narrow trail. A giant beast like this earns its place as a random encounter or the reveal at the end of a hunting trail.",
-    "scale": "Medium",
+    "scale": "Large",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/troll-of-reckoning-810324/1.jpg"
@@ -15930,7 +15930,7 @@
     "price": 400,
     "currency": "EUR",
     "description": "Twinstalker is a striking addition to any collection — a figure with real character in every line of the sculpt. The body detailing gives painters plenty to work with, from a subtle finish to something bolder.",
-    "scale": "Medium",
+    "scale": "Large",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/twinstalker-679111/1.jpg"
@@ -16274,7 +16274,7 @@
     "price": 900,
     "currency": "EUR",
     "description": "There's a confidence to Vampiric Yeti's design that makes it stand out even before it's painted. Between the troll styling and the pose, it's built to be a genuine centerpiece wherever it's placed.",
-    "scale": "Medium",
+    "scale": "Large",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/vampiric-yeti-449231/1.jpg"
@@ -16304,7 +16304,7 @@
     "price": 300,
     "currency": "EUR",
     "description": "Every line of Vargus Moonblade sells raw predatory intent, a beast sculpted to dominate its corner of the table. Its beast features make it a natural fit for wilderness encounters, lairs, or anything that should feel genuinely dangerous.",
-    "scale": "Medium",
+    "scale": "Large",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/vargus-moonblade-397607/1.jpg"
@@ -16415,7 +16415,7 @@
     "price": 2550,
     "currency": "EUR",
     "description": "Verdant Colossus was clearly sculpted with a specific story in mind, and it shows in the detail. A treebeard figure like this earns its place in a growing collection just as easily as on the table.",
-    "scale": "Medium",
+    "scale": "Huge",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/verdant-colossus-437842/1.jpg"
@@ -16501,7 +16501,7 @@
     "price": 800,
     "currency": "EUR",
     "description": "Vizzok, Harbinger of the Plague was clearly sculpted with a specific story in mind, and it shows in the detail. A serpent figure like this earns its place in a growing collection just as easily as on the table.",
-    "scale": "Medium",
+    "scale": "Large",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/vizzok-harbinger-of-the-plague-590244/1.jpg"
@@ -16559,7 +16559,7 @@
     "price": 500,
     "currency": "EUR",
     "description": "Grave-dirt and old grudges cling to Void Brute, a miniature built for the moment your party realizes the crypt isn't empty. Its void details make it an easy fit for crypts, battlefields-turned-graveyards, or any encounter that needs a touch of the grave.",
-    "scale": "Medium",
+    "scale": "Large",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/void-brute-415594/1.jpg"
@@ -16647,7 +16647,7 @@
     "price": 800,
     "currency": "EUR",
     "description": "There's a confidence to Void Devourer's design that makes it stand out even before it's painted. Between the floating styling and the pose, it's built to be a genuine centerpiece wherever it's placed.",
-    "scale": "Medium",
+    "scale": "Large",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/void-devourer-424878/1.jpg"
@@ -16675,7 +16675,7 @@
     "price": 3750,
     "currency": "EUR",
     "description": "Draconic power runs through every line of Void Dragon, a figure built to dominate a battle mat the way its kind dominates the sky. Sculpted with a dragon silhouette, it holds up as a striking solo display piece as much as a tabletop threat.",
-    "scale": "Medium",
+    "scale": "Huge",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/void-dragon-437835/1.jpg"
@@ -16903,7 +16903,7 @@
     "price": 700,
     "currency": "EUR",
     "description": "Grave-dirt and old grudges cling to Void-Warped Basilisk, a miniature built for the moment your party realizes the crypt isn't empty. Its corrupted details make it an easy fit for crypts, battlefields-turned-graveyards, or any encounter that needs a touch of the grave.",
-    "scale": "Medium",
+    "scale": "Large",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/void-warped-basilisk-437859/1.jpg"
@@ -16930,7 +16930,7 @@
     "price": 1100,
     "currency": "EUR",
     "description": "Voidworm was clearly sculpted with a specific story in mind, and it shows in the detail. A spelljammer figure like this earns its place in a growing collection just as easily as on the table.",
-    "scale": "Medium",
+    "scale": "Large",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/voidworm-424880/1.jpg"
@@ -16984,7 +16984,7 @@
     "price": 2350,
     "currency": "EUR",
     "description": "There is a stillness to Vorus, Dragon Despot that only a dragon can carry — the calm of something that has never needed to hurry. Its dragon bearing makes it a natural centerpiece for any dragon-themed encounter or hoard.",
-    "scale": "Medium",
+    "scale": "Huge",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/vorus-dragon-despot-611732/1.jpg"
@@ -17004,7 +17004,7 @@
     "price": 1950,
     "currency": "EUR",
     "description": "War Elephant was clearly sculpted with a specific story in mind, and it shows in the detail. A striking figure like this earns its place in a growing collection just as easily as on the table.",
-    "scale": "Medium",
+    "scale": "Large",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/3-month-loyalty-reward-war-elephant-216878/1.jpg",
@@ -17033,7 +17033,7 @@
     "price": 650,
     "currency": "EUR",
     "description": "War Guardian moves (in the fiction, if not the resin) with the deliberate certainty of something assembled to a specification. Between the golem silhouette and the mechanical detailing, it's built to look purposeful from any angle. A Medium-size version is also included.",
-    "scale": "Medium",
+    "scale": "Large",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/war-guardian-377813/1.jpg"
@@ -17058,7 +17058,7 @@
     "price": 1700,
     "currency": "EUR",
     "description": "Well of Revelations rewards a close look — the kind of miniature that holds up to scrutiny, not just tabletop distance. Its revelations character makes it a versatile pick for a wide range of encounters and stories.",
-    "scale": "Medium",
+    "scale": "Large",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/well-of-revelations-797445/1.jpg",
@@ -17118,7 +17118,7 @@
     "price": 2250,
     "currency": "EUR",
     "description": "Every surface of Wicker Golem reads as engineered rather than grown, a construct with a job and no capacity to question it. A folk construct like this anchors a dungeon guardian encounter without needing any extra explanation.",
-    "scale": "Medium",
+    "scale": "Huge",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/wicker-golem-679105/1.jpg"
@@ -17171,7 +17171,7 @@
     "price": 450,
     "currency": "EUR",
     "description": "Winged Maledict captures the specific dread of the natural world gone wrong — teeth, claws, and no interest in negotiation. Between its winged silhouette and its stance, it's built to look like it's already decided you're prey.",
-    "scale": "Medium",
+    "scale": "Large",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/winged-maledict-424881/1.jpg"
@@ -17220,7 +17220,7 @@
     "price": 300,
     "currency": "EUR",
     "description": "",
-    "scale": "Small",
+    "scale": "Medium",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/wizened-sorcerer-349916/1.jpg"
@@ -17276,7 +17276,7 @@
     "price": 500,
     "currency": "EUR",
     "description": "Light seems to belong to Wrath Cherub even before a single coat of paint touches it — this is a celestial figure through and through. Whether cast as ally or terrifying arbiter, its wrath character carries the scene either way.",
-    "scale": "Medium",
+    "scale": "Large",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/wrath-cherub-719948/1.jpg"
@@ -17391,7 +17391,7 @@
     "price": 450,
     "currency": "EUR",
     "description": "Xenoraptor x2 is a striking addition to any collection — a figure with real character in every line of the sculpt. The xenoraptor detailing gives painters plenty to work with, from a subtle finish to something bolder.",
-    "scale": "Medium",
+    "scale": "Large",
     "material": "resin",
     "images": [
       "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-1/xenoraptor-x2-424883/1.jpg",
