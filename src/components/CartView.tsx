@@ -42,7 +42,7 @@ export function CartView() {
         {items.map((item) => (
           <div
             key={`${item.productId}-${item.variationId ?? "base"}`}
-            className="flex items-center gap-4 p-4"
+            className="flex flex-wrap items-center gap-4 p-4 sm:flex-nowrap"
           >
             <Link
               href={`/products/${item.slug}`}
@@ -56,7 +56,7 @@ export function CartView() {
                 className="object-cover"
               />
             </Link>
-            <div className="flex flex-1 flex-col gap-1">
+            <div className="flex min-w-0 flex-1 flex-col gap-1">
               <Link
                 href={`/products/${item.slug}`}
                 className="text-sm font-semibold hover:text-accent"
@@ -74,55 +74,57 @@ export function CartView() {
                 })}
               </span>
             </div>
-            <div className="flex items-center border border-border">
-              <button
-                type="button"
-                onClick={() =>
-                  setQuantity(item.productId, item.quantity - 1, item.variationId)
-                }
-                aria-label={dict.common.decreaseQuantity}
-                className="flex h-8 w-8 items-center justify-center text-base transition-colors hover:text-accent"
-              >
-                &minus;
-              </button>
-              <span className="w-8 text-center text-sm font-medium">
-                {item.quantity}
+            <div className="flex w-full basis-full items-center justify-between gap-4 sm:w-auto sm:basis-auto">
+              <div className="flex items-center border border-border">
+                <button
+                  type="button"
+                  onClick={() =>
+                    setQuantity(item.productId, item.quantity - 1, item.variationId)
+                  }
+                  aria-label={dict.common.decreaseQuantity}
+                  className="flex h-8 w-8 items-center justify-center text-base transition-colors hover:text-accent"
+                >
+                  &minus;
+                </button>
+                <span className="w-8 text-center text-sm font-medium">
+                  {item.quantity}
+                </span>
+                <button
+                  type="button"
+                  onClick={() =>
+                    setQuantity(item.productId, item.quantity + 1, item.variationId)
+                  }
+                  aria-label={dict.common.increaseQuantity}
+                  className="flex h-8 w-8 items-center justify-center text-base transition-colors hover:text-accent"
+                >
+                  +
+                </button>
+              </div>
+              <span className="w-20 shrink-0 text-right text-sm font-semibold text-accent">
+                {formatPrice(item.price * item.quantity, "EUR", locale)}
               </span>
               <button
                 type="button"
-                onClick={() =>
-                  setQuantity(item.productId, item.quantity + 1, item.variationId)
-                }
-                aria-label={dict.common.increaseQuantity}
-                className="flex h-8 w-8 items-center justify-center text-base transition-colors hover:text-accent"
+                onClick={() => removeItem(item.productId, item.variationId)}
+                aria-label={interpolate(dict.cart.removeAria, { name: item.name })}
+                className="shrink-0 text-foreground/40 transition-colors hover:text-red-400"
               >
-                +
+                <svg
+                  aria-hidden
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  stroke="currentColor"
+                  strokeWidth={1.5}
+                  className="h-5 w-5"
+                >
+                  <path
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
+                    d="M6 18L18 6M6 6l12 12"
+                  />
+                </svg>
               </button>
             </div>
-            <span className="w-20 shrink-0 text-right text-sm font-semibold text-accent">
-              {formatPrice(item.price * item.quantity, "EUR", locale)}
-            </span>
-            <button
-              type="button"
-              onClick={() => removeItem(item.productId, item.variationId)}
-              aria-label={interpolate(dict.cart.removeAria, { name: item.name })}
-              className="shrink-0 text-foreground/40 transition-colors hover:text-red-400"
-            >
-              <svg
-                aria-hidden
-                viewBox="0 0 24 24"
-                fill="none"
-                stroke="currentColor"
-                strokeWidth={1.5}
-                className="h-5 w-5"
-              >
-                <path
-                  strokeLinecap="round"
-                  strokeLinejoin="round"
-                  d="M6 18L18 6M6 6l12 12"
-                />
-              </svg>
-            </button>
           </div>
         ))}
       </div>

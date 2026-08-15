@@ -237,7 +237,7 @@ const pt: Dictionary = {
           "Devido à natureza de produção por encomenda (print-to-order), só podemos aceitar cancelamentos dentro de 3 horas após a colocação da encomenda. Depois desse período, o cancelamento pode estar sujeito a uma taxa de reposição de stock de 3€ por artigo.",
           "O período de reflexão de 3 horas é respeitado desde que recebamos o primeiro contacto dentro dessas 3 horas após a colocação da encomenda — por isso não se preocupe se não respondermos de imediato (também precisamos de dormir!).",
           "Esta política existe porque temos um inventário de milhares de produtos e simplesmente não podemos manter stock parado, o que ocuparia um espaço que não temos e que poderá nunca mais ser vendido exatamente na configuração que encomendou. Isso causaria prejuízo financeiro, além de não ser a opção mais sustentável do ponto de vista ambiental.",
-          "Se precisar de alterar uma encomenda — quantidades, tamanhos, trocar uma miniatura, etc. — envie-nos um email para support@pangolinresinworks.com o mais rapidamente possível e faremos os possíveis para satisfazer o pedido.",
+          "Se precisar de alterar uma encomenda — quantidades, tamanhos, trocar uma miniatura, etc. — envie-nos um email para customerservice@pangolinresinworks.com o mais rapidamente possível e faremos os possíveis para satisfazer o pedido.",
         ],
       },
       {
@@ -246,7 +246,7 @@ const pt: Dictionary = {
           "Por serem artigos feitos por encomenda, só são elegíveis para devolução se chegarem diferentes do descrito, com defeito, ou danificados. Não existe direito de devolução por simples arrependimento depois de a peça entrar em produção (ou seja, após o período de reflexão de 3 horas).",
           "A nossa política pode parecer diferente daquilo a que está habituado nos grandes retalhistas genéricos. Ao abrigo da legislação portuguesa e europeia de defesa do consumidor (Decreto-Lei n.º 24/2014, que transpõe a Diretiva 2011/83/UE relativa aos direitos dos consumidores), o direito de livre resolução de 14 dias não se aplica a bens confecionados segundo as especificações do consumidor ou claramente personalizados — o que abrange todas as miniaturas que imprimimos por encomenda.",
           "Para ter direito a uma devolução por um motivo válido, deve contactar-nos no prazo de 7 dias após a entrega. Ser-lhe-ão pedidas fotografias do artigo tal como o recebeu, juntamente com fotografias da embalagem original (isto ajuda-nos a reclamar junto da transportadora em caso de dano no transporte), além do recibo ou comprovativo de compra.",
-          "Para discutir qualquer problema com a sua encomenda, contacte-nos em support@pangolinresinworks.com. Se for necessária uma devolução, enviaremos uma etiqueta de devolução, juntamente com instruções sobre como e para onde enviar a sua encomenda. Artigos devolvidos sem pedido prévio de devolução não serão aceites nem reembolsados.",
+          "Para discutir qualquer problema com a sua encomenda, contacte-nos em customerservice@pangolinresinworks.com. Se for necessária uma devolução, enviaremos uma etiqueta de devolução, juntamente com instruções sobre como e para onde enviar a sua encomenda. Artigos devolvidos sem pedido prévio de devolução não serão aceites nem reembolsados.",
         ],
       },
       {
@@ -265,7 +265,7 @@ const pt: Dictionary = {
       {
         heading: "Quem Somos",
         paragraphs: [
-          "A Pangolin Resinworks ([nome legal da empresa e morada a adicionar aqui]) é um pequeno estúdio, sediado em Portugal e gerido por duas pessoas, que vende miniaturas em resina feitas por encomenda. Pode contactar-nos em support@pangolinresinworks.com.",
+          "A Pangolin Resinworks ([nome legal da empresa e morada a adicionar aqui]) é um pequeno estúdio, sediado em Portugal e gerido por duas pessoas, que vende miniaturas em resina feitas por encomenda. Pode contactar-nos em customerservice@pangolinresinworks.com.",
         ],
       },
       {
@@ -307,7 +307,7 @@ const pt: Dictionary = {
       {
         heading: "Os Seus Direitos",
         paragraphs: [
-          "Ao abrigo do Regulamento Geral sobre a Proteção de Dados (RGPD), tem o direito de aceder, corrigir ou solicitar a eliminação dos seus dados pessoais, bem como de se opor a ou restringir determinados usos dos mesmos. Tem também o direito de apresentar reclamação junto da Comissão Nacional de Proteção de Dados (CNPD), a entidade reguladora portuguesa. Para exercer qualquer um destes direitos, envie um email para support@pangolinresinworks.com.",
+          "Ao abrigo do Regulamento Geral sobre a Proteção de Dados (RGPD), tem o direito de aceder, corrigir ou solicitar a eliminação dos seus dados pessoais, bem como de se opor a ou restringir determinados usos dos mesmos. Tem também o direito de apresentar reclamação junto da Comissão Nacional de Proteção de Dados (CNPD), a entidade reguladora portuguesa. Para exercer qualquer um destes direitos, envie um email para customerservice@pangolinresinworks.com.",
         ],
       },
       {
@@ -319,7 +319,7 @@ const pt: Dictionary = {
       {
         heading: "Contacte-nos",
         paragraphs: [
-          "Tem dúvidas sobre esta política ou sobre os seus dados? Envie-nos um email para support@pangolinresinworks.com.",
+          "Tem dúvidas sobre esta política ou sobre os seus dados? Envie-nos um email para customerservice@pangolinresinworks.com.",
         ],
       },
     ],

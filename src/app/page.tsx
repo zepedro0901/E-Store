@@ -26,7 +26,7 @@ export default async function Home() {
       <section className="relative overflow-hidden">
         <div className="absolute inset-0">
           <Image
-            src="https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/collection-4/pentelia-mother-of-all-dragons/1.jpg"
+            src="https://images.pangolinresinworks.com/collection-4/pentelia-mother-of-all-dragons/1.jpg"
             alt=""
             aria-hidden
             fill

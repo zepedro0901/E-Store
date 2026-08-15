@@ -235,7 +235,7 @@ const en = {
           "Due to the print-to-order nature of our production, we can only accept order cancellations within 3 hours of the order being placed. After that, cancelling an order may be subject to a 3€ per item restocking fee.",
           "The 3-hour cooling-off period is honoured as long as we receive first contact from you within 3 hours of placing the order — so don't worry if we don't reply within that window (everyone's got to sleep sometime!).",
           "This policy exists because we carry an inventory of thousands of products and simply can't hold stock, which would take up space we don't have and may realistically never sell again in the exact configuration you ordered. That would cause financial loss, and it isn't the most environmentally friendly approach either.",
-          "If you need to make changes to an order — quantities, sizes, swapping a mini, etc. — email us at support@pangolinresinworks.com as soon as possible and we'll always do our best to make it happen.",
+          "If you need to make changes to an order — quantities, sizes, swapping a mini, etc. — email us at customerservice@pangolinresinworks.com as soon as possible and we'll always do our best to make it happen.",
         ],
       },
       {
@@ -244,7 +244,7 @@ const en = {
           "As items are made to order, they're only eligible for return if they arrive not as described, defective, or damaged. There's no change-of-mind return once an item has entered production (i.e. after the 3-hour cooling-off period).",
           "Our policy may look different to what you're used to from bigger, generic retailers. Under Portuguese and EU consumer law (Decreto-Lei n.º 24/2014, transposing Directive 2011/83/EU on consumer rights), the standard 14-day right of withdrawal does not apply to goods made to the consumer's specifications or clearly personalised — which covers every miniature we print to order.",
           "To be eligible for a return with a qualifying issue, you must contact us within 7 days of delivery. You'll be asked for photos of the item as received, along with photos of the original packaging (this helps us claim with our shipping company if the damage happened in transit), plus your receipt or proof of purchase.",
-          "To discuss any issue with your order, contact us at support@pangolinresinworks.com. If a return is necessary, we'll send you a return shipping label along with instructions on how and where to send your package. Items sent back to us without first requesting a return will not be accepted or refunded.",
+          "To discuss any issue with your order, contact us at customerservice@pangolinresinworks.com. If a return is necessary, we'll send you a return shipping label along with instructions on how and where to send your package. Items sent back to us without first requesting a return will not be accepted or refunded.",
         ],
       },
       {
@@ -263,7 +263,7 @@ const en = {
       {
         heading: "Who We Are",
         paragraphs: [
-          "Pangolin Resinworks ([legal business name and address to add here]) is a small, two-person studio based in Portugal, selling made-to-order resin miniatures. You can reach us at support@pangolinresinworks.com.",
+          "Pangolin Resinworks ([legal business name and address to add here]) is a small, two-person studio based in Portugal, selling made-to-order resin miniatures. You can reach us at customerservice@pangolinresinworks.com.",
         ],
       },
       {
@@ -305,7 +305,7 @@ const en = {
       {
         heading: "Your Rights",
         paragraphs: [
-          "Under the General Data Protection Regulation (GDPR), you have the right to access, correct, or request deletion of your personal data, and to object to or restrict certain uses of it. You also have the right to lodge a complaint with Portugal's data protection authority, the Comissão Nacional de Proteção de Dados (CNPD). To exercise any of these rights, email us at support@pangolinresinworks.com.",
+          "Under the General Data Protection Regulation (GDPR), you have the right to access, correct, or request deletion of your personal data, and to object to or restrict certain uses of it. You also have the right to lodge a complaint with Portugal's data protection authority, the Comissão Nacional de Proteção de Dados (CNPD). To exercise any of these rights, email us at customerservice@pangolinresinworks.com.",
         ],
       },
       {
@@ -317,7 +317,7 @@ const en = {
       {
         heading: "Contact Us",
         paragraphs: [
-          "Questions about this policy or your data? Email us at support@pangolinresinworks.com.",
+          "Questions about this policy or your data? Email us at customerservice@pangolinresinworks.com.",
         ],
       },
     ],

@@ -5,7 +5,7 @@ import { useEffect, useRef, useState } from "react";
 import { useTranslations } from "@/i18n/use-translations";
 
 const SCALE_GUIDE_IMAGE =
-  "https://pub-346443e037884128baef7c2a9dc3e366.r2.dev/site/scale-guide.png";
+  "https://images.pangolinresinworks.com/site/scale-guide.png";
 // Source image is 1000x535 (~1.87:1) — keep the popover render at that ratio.
 const SCALE_GUIDE_WIDTH = 560;
 const SCALE_GUIDE_HEIGHT = 300;

@@ -43,7 +43,7 @@ export async function ProductCard({ product }: { product: Product }) {
             {formatScale(product.scale, dict.sizeCategories)}
           </p>
         )}
-        <div className="mt-auto flex items-center justify-between gap-2 pt-2">
+        <div className="mt-auto flex flex-wrap items-center justify-between gap-2 pt-2">
           <p className="text-base font-semibold text-accent">
             {min === max
               ? formatPrice(min, product.currency, locale)

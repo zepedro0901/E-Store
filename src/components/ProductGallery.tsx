@@ -57,7 +57,7 @@ export function ProductGallery({
   }
 
   return (
-    <div className="flex flex-col gap-3">
+    <div className="flex min-w-0 flex-col gap-3">
       <div className="relative aspect-square w-full overflow-hidden rounded-xl border border-border bg-surface">
         <Image
           key={activeImage}

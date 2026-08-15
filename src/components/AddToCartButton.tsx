@@ -118,7 +118,7 @@ export function AddToCartButton({
       {menuOpen && (
         <div
           role="listbox"
-          className="absolute right-0 top-full z-20 mt-1 w-48 rounded-lg border border-border bg-surface py-1 shadow-lg"
+          className="absolute left-1/2 top-full z-20 mt-1 w-48 -translate-x-1/2 rounded-lg border border-border bg-surface py-1 shadow-lg"
         >
           {variations.map((variation) => {
             const disabled = variation.inStock === false;
