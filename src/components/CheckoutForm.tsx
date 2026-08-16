@@ -3,6 +3,7 @@
 import { useState } from "react";
 import { useRouter } from "next/navigation";
 import Link from "next/link";
+import Image from "next/image";
 import { useCartStore } from "@/lib/cart-store";
 import { formatPrice } from "@/lib/format";
 import { useTranslations } from "@/i18n/use-translations";
@@ -147,15 +148,26 @@ export function CheckoutForm() {
           {items.map((item) => (
             <div
               key={`${item.productId}-${item.variationId ?? "base"}`}
-              className="flex justify-between gap-3 text-sm"
+              className="flex items-center justify-between gap-3 text-sm"
             >
-              <span className="text-foreground/80">
-                {item.name}
-                {item.variationLabel && (
-                  <span className="text-foreground/50"> ({item.variationLabel})</span>
-                )}{" "}
-                <span className="text-foreground/45">&times;{item.quantity}</span>
-              </span>
+              <div className="flex min-w-0 items-center gap-3">
+                <div className="relative h-12 w-12 shrink-0 overflow-hidden bg-surface-2">
+                  <Image
+                    src={item.image}
+                    alt={item.name}
+                    fill
+                    sizes="48px"
+                    className="object-cover"
+                  />
+                </div>
+                <span className="min-w-0 text-foreground/80">
+                  {item.name}
+                  {item.variationLabel && (
+                    <span className="text-foreground/50"> ({item.variationLabel})</span>
+                  )}{" "}
+                  <span className="text-foreground/45">&times;{item.quantity}</span>
+                </span>
+              </div>
               <span className="shrink-0 font-mono text-foreground/70">
                 {formatPrice(item.price * item.quantity, "EUR", locale)}
               </span>

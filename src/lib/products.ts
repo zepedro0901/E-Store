@@ -149,6 +149,8 @@ export interface ListProductsParams {
   category?: string;
   theme?: string;
   q?: string;
+  minPrice?: number;
+  maxPrice?: number;
   sort?: SortOption;
   page?: number;
   pageSize?: number;
@@ -167,6 +169,8 @@ export function listProducts({
   category,
   theme,
   q,
+  minPrice,
+  maxPrice,
   sort = "newest",
   page = 1,
   pageSize = PAGE_SIZE,
@@ -185,6 +189,17 @@ export function listProducts({
   const needle = q?.trim().toLowerCase();
   if (needle) {
     filtered = filtered.filter((p) => matchesSearch(p, needle));
+  }
+
+  const [lo, hi] =
+    minPrice != null && maxPrice != null && minPrice > maxPrice
+      ? [maxPrice, minPrice]
+      : [minPrice, maxPrice];
+  if (lo != null) {
+    filtered = filtered.filter((p) => p.price >= lo);
+  }
+  if (hi != null) {
+    filtered = filtered.filter((p) => p.price <= hi);
   }
 
   const sorted = sortProducts(

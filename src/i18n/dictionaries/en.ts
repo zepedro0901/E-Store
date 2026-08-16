@@ -94,6 +94,8 @@ const en = {
     allStudios: "All studios",
     theme: "Theme",
     allThemes: "All themes",
+    priceMin: "Min price",
+    priceMax: "Max price",
     sortBy: "Sort by",
     sortNewest: "Newest",
     sortPriceAsc: "Price: Low to High",

@@ -33,7 +33,13 @@ export default async function ThemePage({
   searchParams,
 }: {
   params: Promise<{ slug: string }>;
-  searchParams: Promise<{ sort?: string; q?: string; page?: string }>;
+  searchParams: Promise<{
+    sort?: string;
+    q?: string;
+    minPrice?: string;
+    maxPrice?: string;
+    page?: string;
+  }>;
 }) {
   const { slug } = await params;
   const { locale, dict } = await getDictionary();
@@ -42,6 +48,16 @@ export default async function ThemePage({
 
   const sp = await searchParams;
   const q = sp.q || undefined;
+  const minPriceInput = sp.minPrice ? Number(sp.minPrice) : undefined;
+  const maxPriceInput = sp.maxPrice ? Number(sp.maxPrice) : undefined;
+  const minPrice =
+    minPriceInput != null && !Number.isNaN(minPriceInput)
+      ? Math.round(minPriceInput * 100)
+      : undefined;
+  const maxPrice =
+    maxPriceInput != null && !Number.isNaN(maxPriceInput)
+      ? Math.round(maxPriceInput * 100)
+      : undefined;
   const sort: SortOption = SORT_OPTIONS.includes(sp.sort as SortOption)
     ? (sp.sort as SortOption)
     : "newest";
@@ -52,11 +68,13 @@ export default async function ThemePage({
     total,
     totalPages,
     page: currentPage,
-  } = listProducts({ theme: slug, q, sort, page, locale });
+  } = listProducts({ theme: slug, q, minPrice, maxPrice, sort, page, locale });
 
   const buildHref = (targetPage: number) => {
     const usp = new URLSearchParams();
     if (q) usp.set("q", q);
+    if (sp.minPrice) usp.set("minPrice", sp.minPrice);
+    if (sp.maxPrice) usp.set("maxPrice", sp.maxPrice);
     if (sort !== "newest") usp.set("sort", sort);
     if (targetPage > 1) usp.set("page", String(targetPage));
     const qs = usp.toString();
@@ -74,7 +92,13 @@ export default async function ThemePage({
       <p className="mt-1 text-sm text-foreground/55">
         {interpolate(dict.products.productsCount, { count: total })}
       </p>
-      <FilterBar action={`/theme/${slug}`} sort={sort} q={q} />
+      <FilterBar
+        action={`/theme/${slug}`}
+        sort={sort}
+        q={q}
+        minPrice={minPriceInput}
+        maxPrice={maxPriceInput}
+      />
       <ProductGrid products={items} />
       <Pagination
         page={currentPage}

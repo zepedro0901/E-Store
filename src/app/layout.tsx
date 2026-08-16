@@ -24,6 +24,7 @@ const bigShoulders = Big_Shoulders({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://pangolinresinworks.com"),
   title: {
     template: "%s | Pangolin Resinworks",
     default: "Pangolin Resinworks",

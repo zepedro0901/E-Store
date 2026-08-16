@@ -96,6 +96,8 @@ const pt: Dictionary = {
     allStudios: "Todos os estúdios",
     theme: "Tema",
     allThemes: "Todos os temas",
+    priceMin: "Preço mín.",
+    priceMax: "Preço máx.",
     sortBy: "Ordenar por",
     sortNewest: "Mais recentes",
     sortPriceAsc: "Preço: Menor para Maior",

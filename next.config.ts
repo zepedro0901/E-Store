@@ -39,6 +39,16 @@ const nextConfig: NextConfig = {
       },
     ];
   },
+  async redirects() {
+    return [
+      {
+        source: "/:path*",
+        has: [{ type: "host", value: "e-store-website-iota.vercel.app" }],
+        destination: "https://pangolinresinworks.com/:path*",
+        permanent: true,
+      },
+    ];
+  },
 };
 
 export default nextConfig;

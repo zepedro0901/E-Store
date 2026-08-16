@@ -7,6 +7,8 @@ export async function FilterBar({
   theme,
   sort,
   q,
+  minPrice,
+  maxPrice,
   showCategoryFilter = false,
   showThemeFilter = false,
 }: {
@@ -15,6 +17,8 @@ export async function FilterBar({
   theme?: string;
   sort?: string;
   q?: string;
+  minPrice?: number;
+  maxPrice?: number;
   showCategoryFilter?: boolean;
   showThemeFilter?: boolean;
 }) {
@@ -90,6 +94,42 @@ export async function FilterBar({
           </select>
         </div>
       )}
+      <div className="flex flex-col gap-1">
+        <label
+          htmlFor="minPrice"
+          className="text-xs font-medium text-foreground/55"
+        >
+          {dict.filterBar.priceMin}
+        </label>
+        <input
+          id="minPrice"
+          name="minPrice"
+          type="number"
+          min={0}
+          step="0.01"
+          inputMode="decimal"
+          defaultValue={minPrice ?? ""}
+          className="w-24 rounded-lg border border-border bg-background px-3 py-2 text-sm outline-none transition-colors focus:border-accent"
+        />
+      </div>
+      <div className="flex flex-col gap-1">
+        <label
+          htmlFor="maxPrice"
+          className="text-xs font-medium text-foreground/55"
+        >
+          {dict.filterBar.priceMax}
+        </label>
+        <input
+          id="maxPrice"
+          name="maxPrice"
+          type="number"
+          min={0}
+          step="0.01"
+          inputMode="decimal"
+          defaultValue={maxPrice ?? ""}
+          className="w-24 rounded-lg border border-border bg-background px-3 py-2 text-sm outline-none transition-colors focus:border-accent"
+        />
+      </div>
       <div className="flex flex-col gap-1">
         <label
           htmlFor="sort"

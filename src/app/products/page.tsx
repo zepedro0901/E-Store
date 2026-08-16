@@ -20,6 +20,8 @@ export default async function ProductsPage({
     theme?: string;
     sort?: string;
     q?: string;
+    minPrice?: string;
+    maxPrice?: string;
     page?: string;
   }>;
 }) {
@@ -28,6 +30,16 @@ export default async function ProductsPage({
   const category = params.category || undefined;
   const theme = params.theme || undefined;
   const q = params.q || undefined;
+  const minPriceInput = params.minPrice ? Number(params.minPrice) : undefined;
+  const maxPriceInput = params.maxPrice ? Number(params.maxPrice) : undefined;
+  const minPrice =
+    minPriceInput != null && !Number.isNaN(minPriceInput)
+      ? Math.round(minPriceInput * 100)
+      : undefined;
+  const maxPrice =
+    maxPriceInput != null && !Number.isNaN(maxPriceInput)
+      ? Math.round(maxPriceInput * 100)
+      : undefined;
   const sort: SortOption = SORT_OPTIONS.includes(params.sort as SortOption)
     ? (params.sort as SortOption)
     : "newest";
@@ -38,13 +50,15 @@ export default async function ProductsPage({
     total,
     totalPages,
     page: currentPage,
-  } = listProducts({ category, theme, q, sort, page, locale });
+  } = listProducts({ category, theme, q, minPrice, maxPrice, sort, page, locale });
 
   const buildHref = (targetPage: number) => {
     const usp = new URLSearchParams();
     if (category) usp.set("category", category);
     if (theme) usp.set("theme", theme);
     if (q) usp.set("q", q);
+    if (params.minPrice) usp.set("minPrice", params.minPrice);
+    if (params.maxPrice) usp.set("maxPrice", params.maxPrice);
     if (sort !== "newest") usp.set("sort", sort);
     if (targetPage > 1) usp.set("page", String(targetPage));
     const qs = usp.toString();
@@ -65,6 +79,8 @@ export default async function ProductsPage({
         theme={theme}
         sort={sort}
         q={q}
+        minPrice={minPriceInput}
+        maxPrice={maxPriceInput}
         showCategoryFilter
         showThemeFilter
       />
