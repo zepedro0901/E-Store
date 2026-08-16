@@ -4,7 +4,7 @@ import productsData from "../../data/products.json";
 import type { Category, Product, SortOption, Theme } from "@/types/product";
 import { defaultLocale, type Locale } from "@/i18n/locales";
 
-const categories = categoriesData as Category[];
+const categories = (categoriesData as Category[]).filter((c) => !c.hidden);
 const themes = themesData as Theme[];
 const products = (productsData as Product[]).filter((p) => !p.hidden);
 

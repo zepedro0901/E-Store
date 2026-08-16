@@ -928,8 +928,7 @@
     "createdAt": "2024-08-01",
     "themes": [
       "undead"
-    ],
-    "variations": [
+    ],"variations": [
       {
         "id": "Arcane-Master",
         "label": "Arcane Master",
@@ -941,7 +940,7 @@
         "label": "Arcane Master + Minion",
         "image": "https://images.pangolinresinworks.com/collection-1/arcane-master-the-necromancer-390861/1.jpg",
         "price": 450
-      }
+      } 
     ]
   },
   {
@@ -13244,10 +13243,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-02-02",
-    "themes": [
-      "humanoids",
-      "undead"
-    ]
+    "themes": ["humanoids","undead"]
   },
   {
     "id": "mmf-771464",
@@ -13483,9 +13479,7 @@
         "image": "https://images.pangolinresinworks.com/collection-1/siege-trolls-810332/3.jpg"
       }
     ],
-    "themes": [
-      "humanoids"
-    ]
+    "themes": ["humanoids"]
   },
   {
     "id": "mmf-407766",
@@ -14908,18 +14902,14 @@
     ],
     "inStock": true,
     "createdAt": "2026-01-01",
-    "themes": [
-      "humanoids"
-    ]
+    "themes": ["humanoids"]
   },
   {
     "id": "mmf-349916-the-guild-master",
     "slug": "the-guild-master-349916",
     "name": "The Guild Master",
     "category": "flesh-of-gods",
-    "themes": [
-      "humanoids"
-    ],
+    "themes": ["humanoids"],
     "tags": [],
     "price": 300,
     "currency": "EUR",
@@ -17078,10 +17068,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-06-01",
-    "themes": [
-      "undead",
-      "monsters-beasts"
-    ],
+    "themes": ["undead","monsters-beasts"],
     "variations": [
       {
         "id": "Well",
@@ -17760,8 +17747,7 @@
           "abominableyeti"
         ]
       }
-    },
-    "hidden": true
+    }
   },
   {
     "id": "rescale-405069",
@@ -17983,8 +17969,7 @@
     "themes": [
       "celestials",
       "humanoids"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-491223",
@@ -18042,8 +18027,7 @@
           "aïabus"
         ]
       }
-    },
-    "hidden": true
+    }
   },
   {
     "id": "rescale-781173-armor",
@@ -18150,8 +18134,7 @@
         "label": "Giant Scorpion Turn - Armor",
         "price": 750
       }
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-781173-mount",
@@ -18227,8 +18210,7 @@
         "label": "Giant Scorpion Turn - Mount",
         "price": 650
       }
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-781173-wild",
@@ -18304,8 +18286,7 @@
         "label": "Giant Scorpion Turn - Wild",
         "price": 700
       }
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-521678",
@@ -18350,8 +18331,7 @@
     "createdAt": "2025-05-02",
     "themes": [
       "monsters-beasts"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-113773",
@@ -18416,8 +18396,7 @@
     "createdAt": "2020-03-09",
     "themes": [
       "celestials"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-781164",
@@ -18459,8 +18438,7 @@
     "createdAt": "2026-04-01",
     "themes": [
       "monsters-beasts"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-648023",
@@ -18503,8 +18481,7 @@
     "createdAt": "2025-09-02",
     "themes": [
       "demons-fiends"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-605360",
@@ -18549,8 +18526,7 @@
     "themes": [
       "humanoids",
       "demons-fiends"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-406144",
@@ -18678,8 +18654,7 @@
     ],
     "themes": [
       "celestials"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-140842",
@@ -18718,8 +18693,7 @@
     "createdAt": "2020-11-05",
     "themes": [
       "monsters-beasts"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-459645",
@@ -18815,8 +18789,7 @@
     ],
     "themes": [
       "monsters-beasts"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-420615",
@@ -18861,8 +18834,7 @@
     "themes": [
       "dragons",
       "undead"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-735189",
@@ -18901,8 +18873,7 @@
     "createdAt": "2026-01-02",
     "themes": [
       "dragons"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-552728",
@@ -18948,8 +18919,7 @@
     "createdAt": "2025-06-02",
     "themes": [
       "dragons"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-671455",
@@ -19002,8 +18972,7 @@
     ],
     "themes": [
       "monsters-beasts"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-781160",
@@ -19047,8 +19016,7 @@
     "createdAt": "2026-04-01",
     "themes": [
       "dragons"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-794748",
@@ -19091,8 +19059,7 @@
     "createdAt": "2026-05-04",
     "themes": [
       "dragons"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-444611",
@@ -19249,10 +19216,7 @@
         "image": "https://images.pangolinresinworks.com/collection-2/pack-brutal-goblin-444611/63d9c72383f1.jpg"
       }
     ],
-    "themes": [
-      "humanoids"
-    ],
-    "hidden": true
+    "themes": ["humanoids"]
   },
   {
     "id": "rescale-444609",
@@ -19403,8 +19367,7 @@
     ],
     "themes": [
       "humanoids"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-448254",
@@ -19476,8 +19439,7 @@
     "themes": [
       "dragons",
       "humanoids"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-432821",
@@ -19572,8 +19534,7 @@
     ],
     "themes": [
       "dragons"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-626934",
@@ -19617,8 +19578,7 @@
     "createdAt": "2025-08-01",
     "themes": [
       "dragons"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-491234",
@@ -19662,8 +19622,7 @@
     "createdAt": "2025-04-01",
     "themes": [
       "dragons"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-459641",
@@ -19706,8 +19665,7 @@
     "createdAt": "2025-02-03",
     "themes": [
       "dragons"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-671451",
@@ -19755,8 +19713,7 @@
     "createdAt": "2025-10-01",
     "themes": [
       "dragons"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-688782",
@@ -19829,8 +19786,7 @@
     "themes": [
       "monsters-beasts",
       "undead"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-735188",
@@ -19871,8 +19827,7 @@
     "createdAt": "2026-01-02",
     "themes": [
       "dragons"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-432825",
@@ -19917,8 +19872,7 @@
       "monsters-beasts",
       "undead",
       "demons-fiends"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-794749-mount",
@@ -19968,8 +19922,7 @@
     "createdAt": "2026-05-04",
     "themes": [
       "dragons"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-794749-wild",
@@ -20019,8 +19972,7 @@
     "createdAt": "2026-05-04",
     "themes": [
       "dragons"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-420625",
@@ -20128,8 +20080,7 @@
     "themes": [
       "monsters-beasts",
       "undead"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-768406-bow",
@@ -20210,8 +20161,7 @@
         "label": "Dark Elf Bow Stand",
         "price": 300
       }
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-768406-shield",
@@ -20292,8 +20242,7 @@
         "label": "Dark Elf Shield Stand B",
         "price": 300
       }
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-768406-sword",
@@ -20389,8 +20338,7 @@
         "label": "Dark Elf Sword Walk B",
         "price": 300
       }
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-411993",
@@ -20501,8 +20449,7 @@
     ],
     "themes": [
       "undead"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-444581",
@@ -20546,8 +20493,7 @@
     "themes": [
       "humanoids",
       "monsters-beasts"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-807175",
@@ -20577,8 +20523,7 @@
     "createdAt": "2026-06-02",
     "themes": [
       "dragons"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-471752",
@@ -20722,8 +20667,7 @@
     "themes": [
       "monsters-beasts",
       "demons-fiends"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-432822",
@@ -20779,8 +20723,7 @@
     "createdAt": "2024-12-02",
     "themes": [
       "dragons"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-411982",
@@ -20995,8 +20938,7 @@
     ],
     "themes": [
       "undead"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-406143",
@@ -21118,8 +21060,7 @@
     ],
     "themes": [
       "dragons"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-688750",
@@ -21169,8 +21110,7 @@
     "createdAt": "2025-11-04",
     "themes": [
       "dragons"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-627015",
@@ -21253,8 +21193,7 @@
     ],
     "themes": [
       "dragons"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-405044",
@@ -21390,8 +21329,7 @@
     "themes": [
       "monsters-beasts",
       "celestials"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-459642",
@@ -21442,8 +21380,7 @@
       "dragons",
       "humanoids",
       "monsters-beasts"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-459643",
@@ -21484,8 +21421,7 @@
     ],
     "inStock": true,
     "createdAt": "2025-02-03",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "rescale-459652",
@@ -21648,8 +21584,7 @@
     ],
     "themes": [
       "humanoids"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-459651",
@@ -21793,8 +21728,7 @@
     ],
     "themes": [
       "humanoids"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-688754",
@@ -21837,8 +21771,7 @@
     "createdAt": "2025-11-04",
     "themes": [
       "dragons"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-671452",
@@ -21887,8 +21820,7 @@
     "createdAt": "2025-10-01",
     "themes": [
       "dragons"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-552698",
@@ -21955,8 +21887,7 @@
     ],
     "themes": [
       "monsters-beasts"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-113780",
@@ -22001,8 +21932,7 @@
     ],
     "inStock": true,
     "createdAt": "2020-03-09",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "rescale-471750",
@@ -22106,8 +22036,7 @@
     ],
     "themes": [
       "demons-fiends"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-688768",
@@ -22179,8 +22108,7 @@
       "humanoids",
       "undead",
       "constructs"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-420629",
@@ -22341,8 +22269,7 @@
     "themes": [
       "monsters-beasts",
       "undead"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-444578",
@@ -22385,8 +22312,7 @@
     "themes": [
       "humanoids",
       "monsters-beasts"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-807184-mount",
@@ -22431,8 +22357,7 @@
         "label": "Goblin Buletteer Turn - Mount",
         "price": 550
       }
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-807184-saddle",
@@ -22477,8 +22402,7 @@
         "label": "Goblin Buletteer Turn - Saddle",
         "price": 450
       }
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-807184-wild",
@@ -22523,8 +22447,7 @@
         "label": "Goblin Buletteer Turn - Wild",
         "price": 450
       }
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-807177-mount",
@@ -22551,8 +22474,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-06-02",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "rescale-807177-wild",
@@ -22579,8 +22501,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-06-02",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "rescale-807199-axe",
@@ -22617,8 +22538,7 @@
         "label": "Goblin Axe Stance B",
         "price": 300
       }
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-807199-bow",
@@ -22650,8 +22570,7 @@
         "label": "Goblin Bow Stance",
         "price": 300
       }
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-807199-fireball",
@@ -22688,8 +22607,7 @@
         "label": "Goblin Fireball",
         "price": 300
       }
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-807199-sword",
@@ -22746,8 +22664,7 @@
         "label": "Goblin Sword Stance C",
         "price": 300
       }
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-688773",
@@ -22847,8 +22764,7 @@
     ],
     "themes": [
       "undead"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-444605",
@@ -22889,8 +22805,7 @@
     "themes": [
       "humanoids",
       "monsters-beasts"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-405043",
@@ -23038,8 +22953,7 @@
     "themes": [
       "monsters-beasts",
       "celestials"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-605373",
@@ -23120,8 +23034,7 @@
     "themes": [
       "monsters-beasts",
       "demons-fiends"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-552731",
@@ -23161,8 +23074,7 @@
     ],
     "inStock": true,
     "createdAt": "2025-06-02",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "rescale-648043",
@@ -23276,8 +23188,7 @@
     ],
     "themes": [
       "demons-fiends"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-648046",
@@ -23320,8 +23231,7 @@
     "createdAt": "2025-09-02",
     "themes": [
       "demons-fiends"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-648031",
@@ -23405,8 +23315,7 @@
     ],
     "themes": [
       "dragons"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-340278",
@@ -23452,8 +23361,7 @@
     "themes": [
       "dragons",
       "terrain-scenery"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-807191",
@@ -23504,8 +23412,7 @@
         "image": "https://images.pangolinresinworks.com/collection-2/pack-hobgoblins-807191/variations/Hook_Close01.jpg"
       }
     ],
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "rescale-768405-mount",
@@ -23599,8 +23506,7 @@
         "label": "F - Mount",
         "price": 750
       }
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-768405-saddle",
@@ -23694,8 +23600,7 @@
         "label": "F - Saddle",
         "price": 700
       }
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-768405-wild",
@@ -23789,8 +23694,7 @@
         "label": "F - Wild",
         "price": 700
       }
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-768402",
@@ -23836,8 +23740,7 @@
     "themes": [
       "monsters-beasts",
       "demons-fiends"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-648049",
@@ -23966,8 +23869,7 @@
     ],
     "themes": [
       "demons-fiends"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-340305",
@@ -24011,8 +23913,7 @@
     "createdAt": "2023-12-22",
     "themes": [
       "monsters-beasts"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-712627-mount",
@@ -24059,8 +23960,7 @@
     ],
     "inStock": true,
     "createdAt": "2025-12-01",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "rescale-712627-saddle",
@@ -24107,8 +24007,7 @@
     ],
     "inStock": true,
     "createdAt": "2025-12-01",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "rescale-712627-wild",
@@ -24155,8 +24054,7 @@
     ],
     "inStock": true,
     "createdAt": "2025-12-01",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "rescale-712630",
@@ -24228,8 +24126,7 @@
         "price": 500
       }
     ],
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "rescale-444608",
@@ -24380,8 +24277,7 @@
     ],
     "themes": [
       "humanoids"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-712618",
@@ -24423,8 +24319,7 @@
     "createdAt": "2025-12-02",
     "themes": [
       "dragons"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-647337",
@@ -24465,8 +24360,7 @@
     "createdAt": "2025-09-02",
     "themes": [
       "dragons"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-648039",
@@ -24582,8 +24476,7 @@
     ],
     "themes": [
       "monsters-beasts"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-648039-mount",
@@ -24606,8 +24499,7 @@
       "https://images.pangolinresinworks.com/collection-2/pack-iron-hell-rider-648039/26cf4a257d0c.jpg"
     ],
     "inStock": true,
-    "createdAt": "2026-08-07",
-    "hidden": true
+    "createdAt": "2026-08-07"
   },
   {
     "id": "rescale-648039-wild",
@@ -24630,8 +24522,7 @@
       "https://images.pangolinresinworks.com/collection-2/pack-iron-hell-rider-648039/72281225fe17.jpg"
     ],
     "inStock": true,
-    "createdAt": "2026-08-07",
-    "hidden": true
+    "createdAt": "2026-08-07"
   },
   {
     "id": "rescale-521684",
@@ -24673,8 +24564,7 @@
     ],
     "inStock": true,
     "createdAt": "2025-05-02",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "rescale-521735",
@@ -24770,8 +24660,7 @@
         "image": "https://images.pangolinresinworks.com/collection-2/pack-jurassic-velociraptor-521735/341238ae4b14.jpg"
       }
     ],
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "rescale-491283",
@@ -24939,8 +24828,7 @@
     ],
     "themes": [
       "humanoids"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-753339-disk",
@@ -25003,8 +24891,7 @@
         "label": "Disk C",
         "price": 300
       }
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-753339-shield",
@@ -25067,8 +24954,7 @@
         "label": "Shield C",
         "price": 300
       }
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-753339-spear",
@@ -25136,8 +25022,7 @@
         "label": "Spear D",
         "price": 300
       }
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-753339-sword",
@@ -25210,8 +25095,7 @@
         "label": "Sword E",
         "price": 300
       }
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-406140",
@@ -25290,8 +25174,7 @@
     ],
     "themes": [
       "dragons"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-411960",
@@ -25366,8 +25249,7 @@
     ],
     "themes": [
       "dragons"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-420617",
@@ -25465,8 +25347,7 @@
     ],
     "themes": [
       "dragons"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-627002",
@@ -25507,8 +25388,7 @@
     ],
     "inStock": true,
     "createdAt": "2025-08-01",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "rescale-627003",
@@ -25548,8 +25428,7 @@
     ],
     "inStock": true,
     "createdAt": "2025-08-01",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "rescale-627004",
@@ -25590,8 +25469,7 @@
     ],
     "inStock": true,
     "createdAt": "2025-08-01",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "rescale-627001",
@@ -25655,8 +25533,7 @@
         "price": 450
       }
     ],
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "rescale-521705",
@@ -25726,8 +25603,7 @@
         "label": "Lizardman Champion Dreadscale Macebones Guard"
       }
     ],
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "rescale-521708",
@@ -25824,8 +25700,7 @@
         "image": "https://images.pangolinresinworks.com/collection-2/pack-lizardman-elite-warfang-521708/dec7ce5649f2.jpg"
       }
     ],
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "rescale-521711",
@@ -25948,8 +25823,7 @@
         "image": "https://images.pangolinresinworks.com/collection-2/pack-lizardman-grimscale-521711/76555ce4cc20.jpg"
       }
     ],
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "rescale-521723",
@@ -26079,8 +25953,7 @@
         "image": "https://images.pangolinresinworks.com/collection-2/pack-lizardman-sneaky-murkborn-521723/12c0175ff09c.jpg"
       }
     ],
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "rescale-626991",
@@ -26128,8 +26001,7 @@
     "createdAt": "2025-08-01",
     "themes": [
       "celestials"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-688760",
@@ -26182,8 +26054,7 @@
     "createdAt": "2025-11-04",
     "themes": [
       "undead"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-807172",
@@ -26209,8 +26080,7 @@
     "createdAt": "2026-06-02",
     "themes": [
       "dragons"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-444622",
@@ -26249,8 +26119,7 @@
     "createdAt": "2025-01-02",
     "themes": [
       "humanoids"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-411994",
@@ -26359,8 +26228,7 @@
     ],
     "themes": [
       "undead"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-526334",
@@ -26450,8 +26318,7 @@
     ],
     "themes": [
       "dragons"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-405039",
@@ -26497,8 +26364,7 @@
     "createdAt": "2024-09-02",
     "themes": [
       "dragons"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-405040",
@@ -26544,8 +26410,7 @@
     "createdAt": "2024-09-02",
     "themes": [
       "dragons"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-406142",
@@ -26607,8 +26472,7 @@
     ],
     "themes": [
       "dragons"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-471742",
@@ -26651,8 +26515,7 @@
     "createdAt": "2025-03-03",
     "themes": [
       "dragons"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-420605",
@@ -26697,8 +26560,7 @@
     "createdAt": "2024-11-01",
     "themes": [
       "dragons"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-432817",
@@ -26778,8 +26640,7 @@
     ],
     "themes": [
       "dragons"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-605369-mount",
@@ -26841,8 +26702,7 @@
     "themes": [
       "monsters-beasts",
       "demons-fiends"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-605369-saddle",
@@ -26904,8 +26764,7 @@
     "themes": [
       "monsters-beasts",
       "demons-fiends"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-605369-wild",
@@ -26967,8 +26826,7 @@
     "themes": [
       "monsters-beasts",
       "demons-fiends"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-111641",
@@ -27009,8 +26867,7 @@
     "createdAt": "2020-02-10",
     "themes": [
       "humanoids"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-472131",
@@ -27081,8 +26938,7 @@
     "themes": [
       "monsters-beasts",
       "demons-fiends"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-491262",
@@ -27275,8 +27131,7 @@
     ],
     "themes": [
       "humanoids"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-444603",
@@ -27317,8 +27172,7 @@
     "themes": [
       "humanoids",
       "monsters-beasts"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-816920-mount",
@@ -27378,8 +27232,7 @@
       "https://images.pangolinresinworks.com/collection-2/nightwing-mourners-alaric-the-shroud-wing-816920/Alaric_Main08.jpg"
     ],
     "inStock": true,
-    "createdAt": "2026-08-07",
-    "hidden": true
+    "createdAt": "2026-08-07"
   },
   {
     "id": "rescale-816920-wild",
@@ -27439,8 +27292,7 @@
       "https://images.pangolinresinworks.com/collection-2/nightwing-mourners-alaric-the-shroud-wing-816920/Alaric_Main08.jpg"
     ],
     "inStock": true,
-    "createdAt": "2026-08-07",
-    "hidden": true
+    "createdAt": "2026-08-07"
   },
   {
     "id": "rescale-816930-mount",
@@ -27500,8 +27352,7 @@
       "https://images.pangolinresinworks.com/collection-2/nightwing-mourners-soren-the-bone-reaper-816930/Soren_Main08.jpg"
     ],
     "inStock": true,
-    "createdAt": "2026-08-07",
-    "hidden": true
+    "createdAt": "2026-08-07"
   },
   {
     "id": "rescale-816930-wild",
@@ -27561,8 +27412,7 @@
       "https://images.pangolinresinworks.com/collection-2/nightwing-mourners-soren-the-bone-reaper-816930/Soren_Main08.jpg"
     ],
     "inStock": true,
-    "createdAt": "2026-08-07",
-    "hidden": true
+    "createdAt": "2026-08-07"
   },
   {
     "id": "rescale-816935-mount",
@@ -27622,8 +27472,7 @@
       "https://images.pangolinresinworks.com/collection-2/nightwing-mourners-ulfric-the-cross-warden-816935/Ulfric_Main08.jpg"
     ],
     "inStock": true,
-    "createdAt": "2026-08-07",
-    "hidden": true
+    "createdAt": "2026-08-07"
   },
   {
     "id": "rescale-816935-wild",
@@ -27683,8 +27532,7 @@
       "https://images.pangolinresinworks.com/collection-2/nightwing-mourners-ulfric-the-cross-warden-816935/Ulfric_Main08.jpg"
     ],
     "inStock": true,
-    "createdAt": "2026-08-07",
-    "hidden": true
+    "createdAt": "2026-08-07"
   },
   {
     "id": "rescale-816936-mount",
@@ -27744,8 +27592,7 @@
       "https://images.pangolinresinworks.com/collection-2/nightwing-mourners-varick-the-dead-bearer-816936/Varick_Main08.jpg"
     ],
     "inStock": true,
-    "createdAt": "2026-08-07",
-    "hidden": true
+    "createdAt": "2026-08-07"
   },
   {
     "id": "rescale-816936-wild",
@@ -27805,8 +27652,7 @@
       "https://images.pangolinresinworks.com/collection-2/nightwing-mourners-varick-the-dead-bearer-816936/Varick_Main08.jpg"
     ],
     "inStock": true,
-    "createdAt": "2026-08-07",
-    "hidden": true
+    "createdAt": "2026-08-07"
   },
   {
     "id": "rescale-688777",
@@ -27909,8 +27755,7 @@
     ],
     "themes": [
       "undead"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-491240",
@@ -27949,8 +27794,7 @@
     "createdAt": "2025-04-01",
     "themes": [
       "monsters-beasts"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-432834",
@@ -27998,8 +27842,7 @@
     "createdAt": "2024-12-02",
     "themes": [
       "undead"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-712629",
@@ -28056,8 +27899,7 @@
     ],
     "themes": [
       "demons-fiends"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-719570",
@@ -28077,8 +27919,7 @@
     "createdAt": "2026-01-01",
     "themes": [
       "humanoids"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-444614",
@@ -28157,8 +27998,7 @@
     ],
     "themes": [
       "humanoids"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-444606",
@@ -28198,8 +28038,7 @@
     "createdAt": "2025-01-02",
     "themes": [
       "humanoids"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-735194",
@@ -28247,8 +28086,7 @@
     "createdAt": "2026-01-02",
     "themes": [
       "humanoids"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-735198-axe",
@@ -28313,8 +28151,7 @@
         "label": "Orc Erudite Axe Run",
         "price": 300
       }
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-735198-bow",
@@ -28379,8 +28216,7 @@
         "label": "Orc Erudite Bow Stand",
         "price": 300
       }
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-735198-corrupted",
@@ -28428,8 +28264,7 @@
     "createdAt": "2026-01-02",
     "themes": [
       "humanoids"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-735198-mace",
@@ -28494,8 +28329,7 @@
         "label": "Orc Mace Walk",
         "price": 300
       }
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-735198-spear",
@@ -28560,8 +28394,7 @@
         "label": "Orc Spear Walk",
         "price": 300
       }
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-735198-sword",
@@ -28626,8 +28459,7 @@
         "label": "Orc Sword Wait",
         "price": 300
       }
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-432848",
@@ -28770,8 +28602,7 @@
     ],
     "themes": [
       "undead"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-432849",
@@ -28910,8 +28741,7 @@
     ],
     "themes": [
       "undead"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-605377",
@@ -29012,8 +28842,7 @@
     "themes": [
       "monsters-beasts",
       "demons-fiends"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-605378",
@@ -29054,8 +28883,7 @@
     "themes": [
       "monsters-beasts",
       "demons-fiends"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-605352",
@@ -29102,8 +28930,7 @@
     "themes": [
       "dragons",
       "demons-fiends"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-411964",
@@ -29151,8 +28978,7 @@
     "createdAt": "2024-10-03",
     "themes": [
       "undead"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-411966",
@@ -29220,8 +29046,7 @@
     ],
     "themes": [
       "undead"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-432836",
@@ -29265,8 +29090,7 @@
     "createdAt": "2024-12-02",
     "themes": [
       "monsters-beasts"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-781162",
@@ -29318,8 +29142,7 @@
     "createdAt": "2026-04-01",
     "themes": [
       "undead"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-552737",
@@ -29400,8 +29223,7 @@
         "image": "https://images.pangolinresinworks.com/collection-2/pack-ratfolk-elite-gun-soldier-552737/84cda68721c2.jpg"
       }
     ],
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "rescale-552740",
@@ -29483,8 +29305,7 @@
         "image": "https://images.pangolinresinworks.com/collection-2/pack-ratfolk-mutilated-mask-552740/c0ff8a68784f.jpg"
       }
     ],
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "rescale-552746",
@@ -29573,8 +29394,7 @@
         "image": "https://images.pangolinresinworks.com/collection-2/pack-ratfolk-plasma-plague-552746/63a070f81c1a.jpg"
       }
     ],
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "rescale-552734",
@@ -29721,8 +29541,7 @@
         "image": "https://images.pangolinresinworks.com/collection-2/pack-ratfolk-soldier-552734/d6d6cd85d89c.jpg"
       }
     ],
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "rescale-521741",
@@ -29779,8 +29598,7 @@
     ],
     "themes": [
       "monsters-beasts"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-444618",
@@ -29833,8 +29651,7 @@
     ],
     "themes": [
       "humanoids"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-444619",
@@ -29902,8 +29719,7 @@
     ],
     "themes": [
       "humanoids"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-626975",
@@ -29945,8 +29761,7 @@
     "createdAt": "2025-08-01",
     "themes": [
       "constructs"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-768401",
@@ -29988,8 +29803,7 @@
     "createdAt": "2026-03-02",
     "themes": [
       "dragons"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-420630",
@@ -30157,8 +29971,7 @@
     "themes": [
       "monsters-beasts",
       "undead"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-605364-mount",
@@ -30237,8 +30050,7 @@
     "themes": [
       "monsters-beasts",
       "demons-fiends"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-605364-wild",
@@ -30317,8 +30129,7 @@
     "themes": [
       "monsters-beasts",
       "demons-fiends"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-406145",
@@ -30441,8 +30252,7 @@
     ],
     "themes": [
       "celestials"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-753323",
@@ -30480,8 +30290,7 @@
     "createdAt": "2026-02-04",
     "themes": [
       "dragons"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-753334",
@@ -30521,8 +30330,7 @@
     "createdAt": "2026-02-04",
     "themes": [
       "monsters-beasts"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-753335",
@@ -30566,8 +30374,7 @@
     "createdAt": "2026-02-18",
     "themes": [
       "constructs"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-712622",
@@ -30609,8 +30416,7 @@
     "createdAt": "2025-12-01",
     "themes": [
       "dragons"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-627057-bow",
@@ -30680,8 +30486,7 @@
         "label": "Bow Turn",
         "price": 300
       }
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-627057-spear",
@@ -30751,8 +30556,7 @@
         "label": "Spear Stance B",
         "price": 300
       }
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-627057-sword",
@@ -30827,8 +30631,7 @@
         "label": "Sword Walk",
         "price": 300
       }
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-753333",
@@ -30866,8 +30669,7 @@
     "createdAt": "2026-02-04",
     "themes": [
       "dragons"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-471751",
@@ -30996,8 +30798,7 @@
     "themes": [
       "monsters-beasts",
       "demons-fiends"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-627025-mount",
@@ -31075,8 +30876,7 @@
     "themes": [
       "monsters-beasts",
       "undead"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-627025-saddle",
@@ -31154,8 +30954,7 @@
     "themes": [
       "monsters-beasts",
       "undead"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-106607",
@@ -31204,8 +31003,7 @@
     ],
     "inStock": true,
     "createdAt": "2019-12-06",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "rescale-626959-mount",
@@ -31254,8 +31052,7 @@
     "createdAt": "2025-08-01",
     "themes": [
       "monsters-beasts"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-626959-saddle",
@@ -31304,8 +31101,7 @@
     "createdAt": "2025-08-01",
     "themes": [
       "monsters-beasts"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-405045",
@@ -31449,8 +31245,7 @@
     ],
     "themes": [
       "monsters-beasts"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-459648",
@@ -31551,8 +31346,7 @@
     "themes": [
       "humanoids",
       "monsters-beasts"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-432840",
@@ -31592,8 +31386,7 @@
     "createdAt": "2024-12-02",
     "themes": [
       "undead"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-106467",
@@ -31649,8 +31442,7 @@
     "createdAt": "2019-12-04",
     "themes": [
       "monsters-beasts"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-627043",
@@ -31769,8 +31561,7 @@
     ],
     "themes": [
       "celestials"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-605354",
@@ -31818,8 +31609,7 @@
     "themes": [
       "monsters-beasts",
       "demons-fiends"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-768380",
@@ -31870,8 +31660,7 @@
     "createdAt": "2026-03-02",
     "themes": [
       "dragons"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-605361",
@@ -31919,8 +31708,7 @@
     "themes": [
       "monsters-beasts",
       "demons-fiends"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-794753-axe",
@@ -31984,8 +31772,7 @@
         "label": "Broken Crown Axe Stand",
         "price": 450
       }
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-794753-shield",
@@ -32049,8 +31836,7 @@
         "label": "Broken Crown Shield Wait",
         "price": 550
       }
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-794753-spear",
@@ -32102,8 +31888,7 @@
     "themes": [
       "undead",
       "demons-fiends"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-648024",
@@ -32141,8 +31926,7 @@
     "createdAt": "2025-09-02",
     "themes": [
       "demons-fiends"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-794751-mount",
@@ -32191,8 +31975,7 @@
     "createdAt": "2026-05-04",
     "themes": [
       "monsters-beasts"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-794751-saddle",
@@ -32241,8 +32024,7 @@
     "createdAt": "2026-05-04",
     "themes": [
       "monsters-beasts"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-794751-wild",
@@ -32291,8 +32073,7 @@
     "createdAt": "2026-05-04",
     "themes": [
       "monsters-beasts"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-794754",
@@ -32447,8 +32228,7 @@
         "price": 300
       }
     ],
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "rescale-794752",
@@ -32499,8 +32279,7 @@
     "themes": [
       "monsters-beasts",
       "demons-fiends"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-816937",
@@ -32553,8 +32332,7 @@
       "https://images.pangolinresinworks.com/collection-2/the-four-mourners-alaric-the-high-816937/Alaric_Main04.jpg"
     ],
     "inStock": true,
-    "createdAt": "2026-08-07",
-    "hidden": true
+    "createdAt": "2026-08-07"
   },
   {
     "id": "rescale-816941",
@@ -32604,8 +32382,7 @@
       "https://images.pangolinresinworks.com/collection-2/the-four-mourners-soren-the-hollow-816941/Soren_Main04.jpg"
     ],
     "inStock": true,
-    "createdAt": "2026-08-07",
-    "hidden": true
+    "createdAt": "2026-08-07"
   },
   {
     "id": "rescale-816944",
@@ -32655,8 +32432,7 @@
       "https://images.pangolinresinworks.com/collection-2/the-four-mourners-ulfric-the-grave-816944/Ulfric_Main04.jpg"
     ],
     "inStock": true,
-    "createdAt": "2026-08-07",
-    "hidden": true
+    "createdAt": "2026-08-07"
   },
   {
     "id": "rescale-816945",
@@ -32706,8 +32482,7 @@
       "https://images.pangolinresinworks.com/collection-2/the-four-mourners-varick-the-grim-816945/Varick_Main04.jpg"
     ],
     "inStock": true,
-    "createdAt": "2026-08-07",
-    "hidden": true
+    "createdAt": "2026-08-07"
   },
   {
     "id": "rescale-768390",
@@ -32753,8 +32528,7 @@
     "createdAt": "2026-03-02",
     "themes": [
       "dragons"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-552701",
@@ -32794,8 +32568,7 @@
     ],
     "inStock": true,
     "createdAt": "2025-06-02",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "rescale-627053-shield",
@@ -32867,8 +32640,7 @@
         "label": "Shield Walk",
         "price": 300
       }
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-627053-spear",
@@ -32935,8 +32707,7 @@
         "label": "Spear Walk",
         "price": 300
       }
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-627053-sword",
@@ -33003,8 +32774,7 @@
         "label": "Sword Walk",
         "price": 300
       }
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-627056",
@@ -33046,8 +32816,7 @@
     ],
     "inStock": true,
     "createdAt": "2025-08-01",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "rescale-491253",
@@ -33089,8 +32858,7 @@
     "createdAt": "2025-04-01",
     "themes": [
       "dragons"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-340280",
@@ -33210,8 +32978,7 @@
     ],
     "themes": [
       "demons-fiends"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-340279",
@@ -33256,8 +33023,7 @@
     "createdAt": "2023-12-01",
     "themes": [
       "dragons"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-340302",
@@ -33346,8 +33112,7 @@
     ],
     "themes": [
       "dragons"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-340277",
@@ -33387,8 +33152,7 @@
     "themes": [
       "dragons",
       "terrain-scenery"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-340276",
@@ -33428,8 +33192,7 @@
     "themes": [
       "dragons",
       "terrain-scenery"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-340275",
@@ -33490,8 +33253,7 @@
     "themes": [
       "dragons",
       "terrain-scenery"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-340303",
@@ -33531,8 +33293,7 @@
     "createdAt": "2023-12-01",
     "themes": [
       "monsters-beasts"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-340304",
@@ -33572,8 +33333,7 @@
     "createdAt": "2023-12-01",
     "themes": [
       "monsters-beasts"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-340381",
@@ -33613,8 +33373,7 @@
     "createdAt": "2023-12-01",
     "themes": [
       "monsters-beasts"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-340315",
@@ -33705,8 +33464,7 @@
     "themes": [
       "dragons",
       "undead"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-340307",
@@ -33810,8 +33568,7 @@
     ],
     "themes": [
       "undead"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-340306",
@@ -33872,8 +33629,7 @@
     ],
     "themes": [
       "monsters-beasts"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-340311",
@@ -33972,8 +33728,7 @@
     ],
     "themes": [
       "dragons"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-712620",
@@ -34011,8 +33766,7 @@
     "createdAt": "2025-12-01",
     "themes": [
       "dragons"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-781156",
@@ -34054,8 +33808,7 @@
     "createdAt": "2026-04-01",
     "themes": [
       "dragons"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-123870",
@@ -34101,8 +33854,7 @@
     "createdAt": "2020-06-03",
     "themes": [
       "monsters-beasts"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-444595",
@@ -34144,8 +33896,7 @@
     "themes": [
       "humanoids",
       "monsters-beasts"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-605362-mount",
@@ -34195,8 +33946,7 @@
     "themes": [
       "monsters-beasts",
       "demons-fiends"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-605362-wild",
@@ -34246,8 +33996,7 @@
     "themes": [
       "monsters-beasts",
       "demons-fiends"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-712631-axe",
@@ -34339,8 +34088,7 @@
         "label": "Big Axe Walk",
         "price": 300
       }
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-712631-bow",
@@ -34407,8 +34155,7 @@
         "label": "Bow Walk",
         "price": 300
       }
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-712631-drum",
@@ -34453,8 +34200,7 @@
     ],
     "inStock": true,
     "createdAt": "2025-12-01",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "rescale-712631-spear",
@@ -34526,8 +34272,7 @@
         "label": "Spear Walk",
         "price": 300
       }
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-712631-sword",
@@ -34604,8 +34349,7 @@
         "label": "Sword Run",
         "price": 300
       }
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-712631-war-chief",
@@ -34650,8 +34394,7 @@
     ],
     "inStock": true,
     "createdAt": "2025-12-01",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "rescale-420610",
@@ -34701,8 +34444,7 @@
     "themes": [
       "monsters-beasts",
       "undead"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-781176-bow",
@@ -34756,8 +34498,7 @@
         "label": "Undead Bow Attack B",
         "price": 300
       }
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-781176-halberd",
@@ -34821,8 +34562,7 @@
         "label": "Undead Halberd Walk B",
         "price": 300
       }
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-781176-spear",
@@ -34881,8 +34621,7 @@
         "label": "Undead Spear Walk",
         "price": 300
       }
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-781176-sword",
@@ -34961,8 +34700,7 @@
         "label": "Undead Sword Stand C",
         "price": 300
       }
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-816946-axe",
@@ -35052,8 +34790,7 @@
         "label": "Duskhelm Huscarls Dual Axe Guard",
         "price": 300
       }
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-816946-bow",
@@ -35113,8 +34850,7 @@
         "label": "Duskhelm Huscarls Bow Walk",
         "price": 300
       }
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-816946-sword",
@@ -35189,8 +34925,7 @@
         "label": "Duskhelm Huscarls Sword Stand",
         "price": 300
       }
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-816915",
@@ -35236,8 +34971,7 @@
       "https://images.pangolinresinworks.com/collection-2/vampiric-dragon-adult-816915/AdultVampiricDragon_Main07.jpg"
     ],
     "inStock": true,
-    "createdAt": "2026-08-07",
-    "hidden": true
+    "createdAt": "2026-08-07"
   },
   {
     "id": "rescale-753338-mount",
@@ -35314,8 +35048,7 @@
         "label": "F - Mount",
         "price": 850
       }
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-753338-wild",
@@ -35392,8 +35125,7 @@
         "label": "F - Wild",
         "price": 800
       }
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-671459-mount",
@@ -35438,8 +35170,7 @@
     ],
     "inStock": true,
     "createdAt": "2025-10-01",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "rescale-671459-saddle",
@@ -35484,8 +35215,7 @@
     ],
     "inStock": true,
     "createdAt": "2025-10-01",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "rescale-671459-wild",
@@ -35530,8 +35260,7 @@
     ],
     "inStock": true,
     "createdAt": "2025-10-01",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "rescale-671461",
@@ -35602,8 +35331,7 @@
         "price": 300
       }
     ],
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "rescale-671460-axe",
@@ -35671,8 +35399,7 @@
         "label": "Dual Axe B",
         "price": 300
       }
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-671460-bow",
@@ -35740,8 +35467,7 @@
         "label": "Bow D",
         "price": 300
       }
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-671460-hammer",
@@ -35809,8 +35535,7 @@
         "label": "Hammer",
         "price": 300
       }
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-671460-sit",
@@ -35856,8 +35581,7 @@
     ],
     "inStock": true,
     "createdAt": "2025-10-01",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "rescale-671460-sword",
@@ -35915,8 +35639,7 @@
         "label": "Sword",
         "price": 300
       }
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-459649",
@@ -36034,8 +35757,7 @@
     ],
     "themes": [
       "demons-fiends"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-420614",
@@ -36077,8 +35799,7 @@
     "themes": [
       "monsters-beasts",
       "undead"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-432827",
@@ -36123,8 +35844,7 @@
     "themes": [
       "monsters-beasts",
       "undead"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-459647",
@@ -36206,8 +35926,7 @@
     ],
     "themes": [
       "monsters-beasts"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-411962",
@@ -36256,8 +35975,7 @@
     "createdAt": "2024-10-01",
     "themes": [
       "undead"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-768404",
@@ -36303,8 +36021,7 @@
     "createdAt": "2026-03-02",
     "themes": [
       "monsters-beasts"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-735191-mount",
@@ -36351,8 +36068,7 @@
     "createdAt": "2026-01-02",
     "themes": [
       "monsters-beasts"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-735191-wild",
@@ -36399,8 +36115,7 @@
     "createdAt": "2026-01-02",
     "themes": [
       "monsters-beasts"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-143070",
@@ -36432,8 +36147,7 @@
     "createdAt": "2020-11-25",
     "themes": [
       "monsters-beasts"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-816916",
@@ -36475,8 +36189,7 @@
       "https://images.pangolinresinworks.com/collection-2/wendigo-816916/Wendigo_Main06.jpg"
     ],
     "inStock": true,
-    "createdAt": "2026-08-07",
-    "hidden": true
+    "createdAt": "2026-08-07"
   },
   {
     "id": "rescale-816914",
@@ -36521,8 +36234,7 @@
       "https://images.pangolinresinworks.com/collection-2/white-dragon-elder-816914/AncientWhiteDragon_main08.jpg"
     ],
     "inStock": true,
-    "createdAt": "2026-08-07",
-    "hidden": true
+    "createdAt": "2026-08-07"
   },
   {
     "id": "rescale-671457",
@@ -36586,8 +36298,7 @@
     ],
     "themes": [
       "monsters-beasts"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-411965",
@@ -36637,8 +36348,7 @@
     "createdAt": "2024-10-03",
     "themes": [
       "undead"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-411968",
@@ -36820,8 +36530,7 @@
     ],
     "themes": [
       "undead"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-735195-mount",
@@ -36894,8 +36603,7 @@
         "label": "E - Mount",
         "price": 1050
       }
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-735195-wild",
@@ -36968,8 +36676,7 @@
         "label": "E - Wild",
         "price": 1000
       }
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-411961",
@@ -37025,8 +36732,7 @@
     "createdAt": "2024-10-01",
     "themes": [
       "undead"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-471746",
@@ -37070,8 +36776,7 @@
     "themes": [
       "monsters-beasts",
       "celestials"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "rescale-471744",
@@ -37109,8 +36814,7 @@
     ],
     "inStock": true,
     "createdAt": "2025-03-03",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "rescale-521726",
@@ -37222,8 +36926,7 @@
         "image": "https://images.pangolinresinworks.com/collection-2/pack-zicoalt-521726/61435afe52a7.jpg"
       }
     ],
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "rescale-432844",
@@ -37422,8 +37125,7 @@
     ],
     "themes": [
       "undead"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-299089",
@@ -37447,8 +37149,7 @@
         "name": "Aboleth",
         "description": "Antes da chegada dos deuses, os aboleths espreitavam em oceanos primordiais e lagos subterrâneos. Estendiam as suas mentes e tomavam controlo das formas de vida emergentes do reino mortal, transformando essas criaturas em seus escravos.\r\nAboleth para usar em qualquer aventura épica!"
       }
-    },
-    "hidden": true
+    }
   },
   {
     "id": "yks-338262",
@@ -37497,8 +37198,7 @@
         "price": 300,
         "image": "https://images.pangolinresinworks.com/collection-3/abyssal-chicken/variations/03.jpg"
       }
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-new-abyssal-chicken-rooster",
@@ -37521,8 +37221,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "demons-fiends"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-338265",
@@ -37545,8 +37244,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "demons-fiends"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-457082",
@@ -37568,8 +37266,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "undead"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-483262",
@@ -37594,8 +37291,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "dragons"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-368703",
@@ -37620,8 +37316,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "dragons"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-250984",
@@ -37643,8 +37338,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-250985",
@@ -37666,8 +37360,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-590466",
@@ -37691,8 +37384,7 @@
     "themes": [
       "monsters-beasts",
       "demons-fiends"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-588432",
@@ -37715,8 +37407,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "undead"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-233156",
@@ -37735,8 +37426,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-new-akhlut",
@@ -37783,8 +37473,7 @@
         "price": 600,
         "image": "https://images.pangolinresinworks.com/collection-3/akhlut/variations/01.jpg"
       }
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-525443",
@@ -37805,8 +37494,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-257478",
@@ -37829,8 +37517,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "undead"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-251869",
@@ -37851,8 +37538,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-556220",
@@ -37873,8 +37559,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-242023",
@@ -37894,8 +37579,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-260894",
@@ -37916,8 +37600,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-259414",
@@ -37942,8 +37625,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "dragons"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-169218",
@@ -37992,8 +37674,7 @@
         "price": 300,
         "image": "https://images.pangolinresinworks.com/collection-3/animated-armour/variations/r-01-A.jpg"
       }
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-145451",
@@ -38040,8 +37721,7 @@
         "price": 300,
         "image": "https://images.pangolinresinworks.com/collection-3/ankheg/variations/DEAD.jpg"
       }
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-147430",
@@ -38062,8 +37742,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-new-arcanaloth",
@@ -38096,8 +37775,7 @@
         "price": 300,
         "image": "https://images.pangolinresinworks.com/collection-3/arcanaloth/variations/02.jpg"
       }
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-148585",
@@ -38118,8 +37796,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-299095",
@@ -38141,8 +37818,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-406635",
@@ -38160,8 +37836,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-233167",
@@ -38189,8 +37864,7 @@
         "name": "Bulette a Atacar - Book of Beasts",
         "description": "Tubarão-da-Terra da campanha de kickstarter 'Adventurers Guide - The Book of Beasts'. Ainda há apoios em atraso disponíveis!\r\nTubarão-da-Terra a atacar para usar em qualquer aventura épica!"
       }
-    },
-    "hidden": true
+    }
   },
   {
     "id": "yks-284106",
@@ -38210,8 +37884,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-260899",
@@ -38232,8 +37905,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-new-auril-crone",
@@ -38261,8 +37933,7 @@
       "pt": {
         "name": "Auril - Anciã"
       }
-    },
-    "hidden": true
+    }
   },
   {
     "id": "yks-143954",
@@ -38281,8 +37952,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-new-auril-maiden",
@@ -38304,8 +37974,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-144230",
@@ -38325,8 +37994,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-139343",
@@ -38346,8 +38014,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-new-auril-womb",
@@ -38366,8 +38033,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-149429",
@@ -38388,8 +38054,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-180279",
@@ -38410,8 +38075,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "monsters-beasts"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-new-aussie-folk",
@@ -38454,8 +38118,7 @@
         "price": 300,
         "image": "https://images.pangolinresinworks.com/collection-3/aussie-folk/variations/Platy-folk-01.jpg"
       }
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-416809",
@@ -38490,8 +38153,7 @@
         "price": 300,
         "image": "https://images.pangolinresinworks.com/collection-3/axe-beak/variations/02.jpg"
       }
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-232897",
@@ -38511,8 +38173,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-376695",
@@ -38532,8 +38193,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "monsters-beasts"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-434367",
@@ -38551,8 +38211,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-448439",
@@ -38585,8 +38244,7 @@
         "price": 600,
         "image": "https://images.pangolinresinworks.com/collection-3/banderhobb/variations/02.jpg"
       }
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-223457",
@@ -38607,8 +38265,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-233055",
@@ -38628,8 +38285,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-414811",
@@ -38651,8 +38307,7 @@
       "humanoids",
       "monsters-beasts",
       "undead"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-new-baphomet",
@@ -38670,8 +38325,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-752418",
@@ -38689,8 +38343,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-440543",
@@ -38709,8 +38362,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-421155",
@@ -38730,8 +38382,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-204902",
@@ -38751,8 +38402,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-727270",
@@ -38774,8 +38424,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "terrain-scenery"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-727273",
@@ -38797,8 +38446,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "terrain-scenery"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-727275",
@@ -38820,8 +38468,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "terrain-scenery"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-727243",
@@ -38843,8 +38490,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "terrain-scenery"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-727246",
@@ -38867,8 +38513,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "terrain-scenery"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-727250",
@@ -38890,8 +38535,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "terrain-scenery"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-727254",
@@ -38913,8 +38557,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "terrain-scenery"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-727256",
@@ -38936,8 +38579,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "terrain-scenery"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-443543",
@@ -38961,8 +38603,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "monsters-beasts"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-146893",
@@ -38980,8 +38621,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-145953",
@@ -39027,8 +38667,7 @@
         "price": 450,
         "image": "https://images.pangolinresinworks.com/collection-3/beholder/variations/01.jpg"
       }
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-222570",
@@ -39051,8 +38690,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-new-blemmye",
@@ -39099,8 +38737,7 @@
         "price": 400,
         "image": "https://images.pangolinresinworks.com/collection-3/blemmye/variations/04.png"
       }
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-129858",
@@ -39119,8 +38756,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-238151",
@@ -39143,8 +38779,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-234253",
@@ -39164,8 +38799,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "constructs"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-376694",
@@ -39186,8 +38820,7 @@
     "themes": [
       "humanoids",
       "monsters-beasts"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-525458",
@@ -39208,8 +38841,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-106829",
@@ -39279,8 +38911,7 @@
         "price": 300,
         "image": "https://images.pangolinresinworks.com/collection-3/bugbear/variations/Dead.jpg"
       }
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-146896",
@@ -39327,8 +38958,7 @@
         "price": 550,
         "image": "https://images.pangolinresinworks.com/collection-3/bulette/variations/DEAD.jpg"
       }
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-184730",
@@ -39348,8 +38978,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-220050",
@@ -39403,8 +39032,7 @@
         "price": 300,
         "image": "https://images.pangolinresinworks.com/collection-3/bullywug/variations/05.jpg"
       }
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-237836",
@@ -39423,8 +39051,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-233165",
@@ -39445,8 +39072,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-443547",
@@ -39470,8 +39096,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "monsters-beasts"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-272797",
@@ -39493,8 +39118,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-153038",
@@ -39517,8 +39141,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "demons-fiends"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-525455",
@@ -39539,8 +39162,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-620501",
@@ -39561,8 +39183,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-539174",
@@ -39583,8 +39204,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-346641",
@@ -39604,8 +39224,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-251873",
@@ -39626,8 +39245,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-233281",
@@ -39648,8 +39266,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-234852",
@@ -39668,8 +39285,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-278138",
@@ -39704,8 +39320,7 @@
         "price": 850,
         "image": "https://images.pangolinresinworks.com/collection-3/chimera/variations/Traditional-01.jpg"
       }
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-new-chuul",
@@ -39752,8 +39367,7 @@
         "price": 300,
         "image": "https://images.pangolinresinworks.com/collection-3/chuul/variations/04.jpg"
       }
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-195856",
@@ -39793,8 +39407,7 @@
         "price": 300,
         "image": "https://images.pangolinresinworks.com/collection-3/chwinga/variations/01.jpg"
       }
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-232645",
@@ -39815,10 +39428,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [
-      "humanoids"
-    ],
-    "hidden": true
+    "themes": ["humanoids"]
   },
   {
     "id": "yks-392507",
@@ -39838,8 +39448,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-248322",
@@ -39859,8 +39468,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-172718",
@@ -39881,8 +39489,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "humanoids"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-206835",
@@ -39902,8 +39509,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-160255",
@@ -39926,8 +39532,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "terrain-scenery"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-160259",
@@ -39950,8 +39555,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "terrain-scenery"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-146898",
@@ -39971,8 +39575,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "undead"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-167303",
@@ -39993,8 +39596,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-new-crabfolk",
@@ -40041,8 +39643,7 @@
         "price": 300,
         "image": "https://images.pangolinresinworks.com/collection-3/crabfolk/variations/04.jpg"
       }
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-276183",
@@ -40062,8 +39663,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "monsters-beasts"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-237837",
@@ -40082,8 +39682,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-new-crawling-claw",
@@ -40125,8 +39724,7 @@
         "price": 300,
         "image": "https://images.pangolinresinworks.com/collection-3/crawling-claw/variations/03.png"
       }
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-636541",
@@ -40150,8 +39748,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "monsters-beasts"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-190356",
@@ -40174,8 +39771,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "monsters-beasts"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-257476",
@@ -40198,8 +39794,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "undead"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-252343",
@@ -40219,8 +39814,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-147734",
@@ -40243,8 +39837,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-234853",
@@ -40263,8 +39856,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-233057",
@@ -40284,8 +39876,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-232646",
@@ -40306,10 +39897,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [
-      "humanoids"
-    ],
-    "hidden": true
+    "themes": ["humanoids"]
   },
   {
     "id": "yks-239214",
@@ -40330,8 +39918,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-252339",
@@ -40351,8 +39938,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-260900",
@@ -40373,8 +39959,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-114210",
@@ -40412,8 +39997,7 @@
     "createdAt": "2020-03-17",
     "themes": [
       "humanoids"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-147726",
@@ -40433,8 +40017,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-233279",
@@ -40455,8 +40038,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-233277",
@@ -40477,8 +40059,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-233278",
@@ -40499,8 +40080,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-232917",
@@ -40525,8 +40105,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "demons-fiends"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-808278",
@@ -40546,8 +40125,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-235162",
@@ -40572,8 +40150,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "demons-fiends"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-146900",
@@ -40591,8 +40168,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-232391",
@@ -40617,8 +40193,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "monsters-beasts"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-new-deep-gnome",
@@ -40688,8 +40263,7 @@
         "price": 300,
         "image": "https://images.pangolinresinworks.com/collection-3/deep-gnome/variations/PuddingKing.jpg"
       }
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-new-deep-gnome-topsy",
@@ -40728,8 +40302,7 @@
         "price": 300,
         "image": "https://images.pangolinresinworks.com/collection-3/deep-gnome/variations/01.jpg"
       }
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-new-deep-gnome-turvy",
@@ -40768,8 +40341,7 @@
         "price": 300,
         "image": "https://images.pangolinresinworks.com/collection-3/deep-gnome/variations/01.jpg"
       }
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-237838",
@@ -40788,8 +40360,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-232913",
@@ -40809,8 +40380,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-232657",
@@ -40830,8 +40400,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-233169",
@@ -40851,8 +40420,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-233280",
@@ -40871,8 +40439,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-232651",
@@ -40891,10 +40458,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [
-      "humanoids"
-    ],
-    "hidden": true
+    "themes": ["humanoids"]
   },
   {
     "id": "yks-232662",
@@ -40914,8 +40478,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-232828",
@@ -40934,8 +40497,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-232834",
@@ -40955,8 +40517,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-233285",
@@ -40976,8 +40537,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-233840",
@@ -40997,8 +40557,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-233832",
@@ -41018,8 +40577,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "monsters-beasts"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-234257",
@@ -41037,8 +40595,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-234115",
@@ -41058,8 +40615,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-new-derro",
@@ -41113,8 +40669,7 @@
         "price": 300,
         "image": "https://images.pangolinresinworks.com/collection-3/derro/variations/Savant.jpg"
       }
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-150752",
@@ -41136,8 +40691,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "humanoids"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-782780",
@@ -41158,8 +40712,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-190355",
@@ -41194,8 +40747,7 @@
         "price": 1600,
         "image": "https://images.pangolinresinworks.com/collection-3/dire-bat/variations/02.jpg"
       }
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-234112",
@@ -41216,8 +40768,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-new-dire-wolf",
@@ -41250,8 +40801,7 @@
         "price": 300,
         "image": "https://images.pangolinresinworks.com/collection-3/dire-wolf/variations/02.jpg"
       }
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-147238",
@@ -41272,8 +40822,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "monsters-beasts"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-232911",
@@ -41294,8 +40843,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-311394",
@@ -41315,8 +40863,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-338073",
@@ -41336,8 +40883,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-221346",
@@ -41358,8 +40904,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-147235",
@@ -41382,8 +40927,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "humanoids"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-new-dragon-adult-blue",
@@ -41403,8 +40947,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "dragons"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-new-dragon-adult-green",
@@ -41424,8 +40967,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "dragons"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-new-dragon-ancient-red",
@@ -41448,8 +40990,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "dragons"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-new-dragon-themberchaud",
@@ -41483,8 +41024,7 @@
         "price": 4050,
         "image": "https://images.pangolinresinworks.com/collection-3/dragon-themberchaud/variations/Themberchaud-LWing.jpg"
       }
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-147236",
@@ -41504,8 +41044,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "humanoids"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-new-drow",
@@ -41530,8 +41069,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "humanoids"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-448954",
@@ -41553,8 +41091,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "humanoids"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-448952",
@@ -41576,8 +41113,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "humanoids"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-448956",
@@ -41599,8 +41135,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "humanoids"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-448955",
@@ -41622,8 +41157,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "humanoids"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-346669",
@@ -41646,8 +41180,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-238154",
@@ -41670,8 +41203,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-239211",
@@ -41713,8 +41245,7 @@
     "createdAt": "2022-08-11",
     "themes": [
       "humanoids"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-302333",
@@ -41763,8 +41294,7 @@
         "price": 300,
         "image": "https://images.pangolinresinworks.com/collection-3/duergar/variations/04.jpg"
       }
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-233157",
@@ -41784,8 +41314,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-411498",
@@ -41806,8 +41335,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-310625",
@@ -41832,8 +41360,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "humanoids"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-147237",
@@ -41853,8 +41380,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "monsters-beasts"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-234862",
@@ -41875,8 +41401,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "monsters-beasts"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-new-elementals-air",
@@ -41896,8 +41421,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-new-elementals-earth",
@@ -41916,8 +41440,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-new-elementals-fire",
@@ -41937,8 +41460,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-new-elementals-water",
@@ -41958,8 +41480,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-new-ettercap",
@@ -42014,8 +41535,7 @@
         "price": 300,
         "image": "https://images.pangolinresinworks.com/collection-3/ettercap/variations/Boss.jpg"
       }
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-234124",
@@ -42036,9 +41556,7 @@
     "inStock": true,
     "createdAt": "2026-08-11",
     "themes": [
-      "humanoids"
-    ],
-    "hidden": true
+      "humanoids"    ]
   },
   {
     "id": "yks-377220",
@@ -42058,8 +41576,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-232832",
@@ -42078,8 +41595,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-181432",
@@ -42098,8 +41614,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-448438",
@@ -42120,8 +41635,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-233158",
@@ -42141,8 +41655,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-new-fire-giant",
@@ -42192,8 +41705,7 @@
         "price": 1550,
         "image": "https://images.pangolinresinworks.com/collection-3/fire-giant/variations/04.jpg"
       }
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-199546",
@@ -42217,8 +41729,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "monsters-beasts"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-new-flame-salamander",
@@ -42265,8 +41776,7 @@
         "price": 300,
         "image": "https://images.pangolinresinworks.com/collection-3/flame-salamander/variations/04.jpg"
       }
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-302330",
@@ -42313,8 +41823,7 @@
         "price": 300,
         "image": "https://images.pangolinresinworks.com/collection-3/flameskull/variations/04.jpg"
       }
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-289170",
@@ -42336,8 +41845,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-234864",
@@ -42357,8 +41865,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "monsters-beasts"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-278134",
@@ -42376,8 +41883,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-338264",
@@ -42399,8 +41905,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "demons-fiends"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-278139",
@@ -42424,8 +41929,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "monsters-beasts"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-539162",
@@ -42446,8 +41950,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-239213",
@@ -42470,8 +41973,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-166283",
@@ -42492,8 +41994,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "terrain-scenery"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-118061",
@@ -42513,8 +42014,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-329115",
@@ -42534,8 +42034,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-539177",
@@ -42557,8 +42056,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-276906",
@@ -42576,8 +42074,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-new-gargoyle",
@@ -42631,8 +42128,7 @@
         "price": 300,
         "image": "https://images.pangolinresinworks.com/collection-3/gargoyle/variations/05.jpg"
       }
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-768183",
@@ -42650,8 +42146,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-new-ghoul",
@@ -42701,8 +42196,7 @@
         "price": 300,
         "image": "https://images.pangolinresinworks.com/collection-3/ghoul/variations/04.jpg"
       }
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-210716",
@@ -42745,8 +42239,7 @@
     "createdAt": "2022-02-21",
     "themes": [
       "monsters-beasts"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-new-giant-boar-piglet",
@@ -42783,8 +42276,7 @@
         "price": 300,
         "image": "https://images.pangolinresinworks.com/collection-3/giant-boar/variations/01.jpg"
       }
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-620504",
@@ -42805,8 +42297,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "monsters-beasts"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-new-giant-rat-maks",
@@ -42826,8 +42317,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "monsters-beasts"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-739869",
@@ -42851,8 +42341,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "monsters-beasts"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-220221",
@@ -42875,8 +42364,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "monsters-beasts"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-411335",
@@ -42909,8 +42397,7 @@
         "price": 300,
         "image": "https://images.pangolinresinworks.com/collection-3/gill-man/variations/-Man-01.jpg"
       }
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-346639",
@@ -42943,8 +42430,7 @@
         "price": 350,
         "image": "https://images.pangolinresinworks.com/collection-3/girallon/variations/02.jpg"
       }
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-177060",
@@ -42967,8 +42453,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-199241",
@@ -42991,8 +42476,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "demons-fiends"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-157423",
@@ -43048,8 +42532,7 @@
         "price": 300,
         "image": "https://images.pangolinresinworks.com/collection-3/gnoll/variations/BOSS.jpg"
       }
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-147241",
@@ -43112,8 +42595,7 @@
         "price": 300,
         "image": "https://images.pangolinresinworks.com/collection-3/goblin/variations/Dead.jpg"
       }
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-new-goblin-king-grinkle",
@@ -43132,8 +42614,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-149806",
@@ -43154,8 +42635,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-234861",
@@ -43196,8 +42676,7 @@
         "price": 300,
         "image": "https://images.pangolinresinworks.com/collection-3/goose-hydra/variations/03.jpg"
       }
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-new-gorgon",
@@ -43231,8 +42710,7 @@
         "price": 350,
         "image": "https://images.pangolinresinworks.com/collection-3/gorgon/variations/01.jpg"
       }
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-177412",
@@ -43257,8 +42735,7 @@
     "themes": [
       "humanoids",
       "undead"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-171132",
@@ -43279,8 +42756,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "terrain-scenery"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-new-graz-zt",
@@ -43298,8 +42774,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-182268",
@@ -43339,8 +42814,7 @@
     "themes": [
       "monsters-beasts",
       "undead"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-228451",
@@ -43362,8 +42836,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-338072",
@@ -43396,8 +42869,7 @@
         "price": 300,
         "image": "https://images.pangolinresinworks.com/collection-3/grell/variations/02.jpg"
       }
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-147242",
@@ -43417,8 +42889,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "monsters-beasts"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-697766",
@@ -43436,8 +42907,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-174187",
@@ -43459,8 +42929,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-new-grimlock",
@@ -43514,8 +42983,7 @@
         "price": 300,
         "image": "https://images.pangolinresinworks.com/collection-3/grimlock/variations/05.png"
       }
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-new-grinch",
@@ -43533,8 +43001,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-434370",
@@ -43552,8 +43019,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-149804",
@@ -43573,8 +43039,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-141200",
@@ -43596,8 +43061,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "busts"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-149013",
@@ -43619,8 +43083,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "busts"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-472883",
@@ -43641,8 +43104,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-166995",
@@ -43663,8 +43125,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "dragons"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-440554",
@@ -43687,8 +43148,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "humanoids"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-new-hags-annis-hag",
@@ -43706,8 +43166,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-new-hags-green-hag",
@@ -43729,8 +43188,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-new-hags-night-hag",
@@ -43748,8 +43206,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-147243",
@@ -43796,8 +43253,7 @@
         "price": 300,
         "image": "https://images.pangolinresinworks.com/collection-3/harpy/variations/01.jpg"
       }
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-194006",
@@ -43817,8 +43273,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-176395",
@@ -43837,8 +43292,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-147245",
@@ -43861,8 +43315,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-302329",
@@ -43895,8 +43348,7 @@
         "price": 300,
         "image": "https://images.pangolinresinworks.com/collection-3/hollyphant/variations/02.jpg"
       }
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-389268",
@@ -43916,8 +43368,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-443608",
@@ -43938,8 +43389,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-443614",
@@ -43960,8 +43410,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-443611",
@@ -43982,8 +43431,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-443621",
@@ -44003,8 +43451,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-237573",
@@ -44029,8 +43476,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "terrain-scenery"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-556214",
@@ -44051,8 +43497,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-257475",
@@ -44075,8 +43520,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "undead"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-157867",
@@ -44100,8 +43544,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "constructs"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-329118",
@@ -44121,8 +43564,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-302073",
@@ -44142,8 +43584,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-289171",
@@ -44164,8 +43605,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-353739",
@@ -44186,8 +43626,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-411284",
@@ -44212,8 +43651,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "demons-fiends"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-240774",
@@ -44234,8 +43672,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-240773",
@@ -44255,8 +43692,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-240771",
@@ -44277,8 +43713,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-240772",
@@ -44299,8 +43734,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-395399",
@@ -44323,8 +43757,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-299613",
@@ -44348,8 +43781,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "humanoids"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-782792",
@@ -44370,8 +43802,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-411503",
@@ -44392,8 +43823,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-235181",
@@ -44414,8 +43844,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "dragons"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-235182",
@@ -44436,8 +43865,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "dragons"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-697769",
@@ -44459,8 +43887,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "dragons"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-235178",
@@ -44481,8 +43908,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "dragons"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-235176",
@@ -44504,8 +43930,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "dragons"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-235183",
@@ -44528,8 +43953,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-146890",
@@ -44553,8 +43977,7 @@
     "themes": [
       "monsters-beasts",
       "demons-fiends"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-459858",
@@ -44575,8 +43998,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-571508",
@@ -44597,8 +44019,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-459856",
@@ -44619,8 +44040,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-459853",
@@ -44641,8 +44061,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-459855",
@@ -44663,8 +44082,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-142891",
@@ -44685,8 +44103,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-233161",
@@ -44709,8 +44126,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "undead"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-237571",
@@ -44729,8 +44145,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-445526",
@@ -44750,8 +44165,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-472885",
@@ -44771,8 +44185,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-395412",
@@ -44795,8 +44208,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "humanoids"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-590463",
@@ -44819,8 +44231,7 @@
     "themes": [
       "monsters-beasts",
       "demons-fiends"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-369814",
@@ -44843,8 +44254,7 @@
     "themes": [
       "monsters-beasts",
       "demons-fiends"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-147248",
@@ -44866,8 +44276,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "undead"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-319321",
@@ -44890,8 +44299,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-109142",
@@ -44911,8 +44319,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-232826",
@@ -44932,8 +44339,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-232827",
@@ -44954,8 +44360,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-232824",
@@ -44975,8 +44380,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-211584",
@@ -44996,8 +44400,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-147721",
@@ -45016,8 +44419,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-457080",
@@ -45038,8 +44440,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-244950",
@@ -45062,8 +44463,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-244954",
@@ -45107,8 +44507,7 @@
     "createdAt": "2022-09-14",
     "themes": [
       "monsters-beasts"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-244951",
@@ -45130,8 +44529,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-244952",
@@ -45153,8 +44551,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-588426",
@@ -45176,8 +44573,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "undead"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-232830",
@@ -45196,8 +44592,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-464850",
@@ -45218,8 +44613,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-242025",
@@ -45239,8 +44633,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-242026",
@@ -45261,8 +44654,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-148707",
@@ -45284,8 +44676,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "monsters-beasts"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-186333",
@@ -45307,8 +44698,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "undead"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-284715",
@@ -45331,8 +44721,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "humanoids"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-147457",
@@ -45354,8 +44743,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "monsters-beasts"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-164026",
@@ -45377,8 +44765,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "monsters-beasts"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-188752",
@@ -45399,8 +44786,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-288106",
@@ -45420,8 +44806,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-288108",
@@ -45441,8 +44826,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-392501",
@@ -45462,8 +44846,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-147459",
@@ -45482,8 +44865,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-147724",
@@ -45503,8 +44885,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-150765",
@@ -45527,8 +44908,7 @@
     "themes": [
       "undead",
       "terrain-scenery"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-190884",
@@ -45550,8 +44930,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "terrain-scenery"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-89115",
@@ -45573,8 +44952,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "terrain-scenery"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-152638",
@@ -45595,8 +44973,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "terrain-scenery"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-217950",
@@ -45619,8 +44996,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-218461",
@@ -45643,8 +45019,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-147727",
@@ -45663,8 +45038,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-233282",
@@ -45685,8 +45059,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-441136",
@@ -45709,8 +45082,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "undead"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-233283",
@@ -45730,8 +45102,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-233284",
@@ -45751,8 +45122,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-637537",
@@ -45772,8 +45142,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-637545",
@@ -45793,8 +45162,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-637554",
@@ -45814,8 +45182,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-637581",
@@ -45835,8 +45202,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-637592",
@@ -45856,8 +45222,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-637613",
@@ -45877,8 +45242,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-733958",
@@ -45900,8 +45264,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "monsters-beasts"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-733960",
@@ -45924,8 +45287,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "monsters-beasts"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-422592",
@@ -45947,8 +45309,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "monsters-beasts"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-102604",
@@ -45967,8 +45328,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-147728",
@@ -45986,8 +45346,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-232906",
@@ -46007,8 +45366,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-232900",
@@ -46030,8 +45388,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-556211",
@@ -46052,8 +45409,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-556199",
@@ -46074,8 +45430,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-732610",
@@ -46096,8 +45451,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-384266",
@@ -46120,8 +45474,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "monsters-beasts"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-327432",
@@ -46141,8 +45494,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-147732",
@@ -46165,8 +45517,7 @@
     "themes": [
       "monsters-beasts",
       "undead"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-235105",
@@ -46188,8 +45539,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-238152",
@@ -46212,8 +45562,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-440557",
@@ -46236,8 +45585,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "humanoids"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-164027",
@@ -46258,8 +45606,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-164033",
@@ -46281,8 +45628,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-165775",
@@ -46304,8 +45650,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "busts"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-395416",
@@ -46325,8 +45670,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-395417",
@@ -46346,8 +45690,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-395415",
@@ -46367,8 +45710,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-362195",
@@ -46389,8 +45731,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-378707",
@@ -46410,8 +45751,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-100341",
@@ -46446,8 +45786,7 @@
     "createdAt": "2019-09-06",
     "themes": [
       "monsters-beasts"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-329121",
@@ -46467,8 +45806,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-392503",
@@ -46488,8 +45826,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-392499",
@@ -46509,8 +45846,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-150760",
@@ -46529,8 +45865,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-378709",
@@ -46553,8 +45888,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "humanoids"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-395409",
@@ -46577,8 +45911,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "humanoids"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-395410",
@@ -46601,8 +45934,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "humanoids"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-395414",
@@ -46625,8 +45957,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "humanoids"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-745935",
@@ -46651,8 +45982,7 @@
     "themes": [
       "undead",
       "demons-fiends"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-164028",
@@ -46672,8 +46002,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-164030",
@@ -46695,8 +46024,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-165774",
@@ -46717,8 +46045,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "busts"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-233830",
@@ -46740,8 +46067,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "monsters-beasts"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-248344",
@@ -46764,8 +46090,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "humanoids"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-248339",
@@ -46788,8 +46113,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "humanoids"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-248342",
@@ -46811,8 +46135,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "humanoids"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-248347",
@@ -46835,8 +46158,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "humanoids"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-248325",
@@ -46861,8 +46183,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "monsters-beasts"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-232833",
@@ -46881,8 +46202,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-384263",
@@ -46903,8 +46223,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-539168",
@@ -46926,8 +46245,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-539171",
@@ -46950,8 +46268,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-239212",
@@ -46972,8 +46289,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-214245",
@@ -46995,8 +46311,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-279830",
@@ -47018,8 +46333,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "undead"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-279827",
@@ -47041,8 +46355,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "undead"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-279828",
@@ -47064,8 +46377,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "undead"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-279832",
@@ -47090,8 +46402,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "undead"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-323055",
@@ -47112,8 +46423,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-411504",
@@ -47134,8 +46444,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-260898",
@@ -47156,8 +46465,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-235165",
@@ -47180,8 +46488,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "demons-fiends"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-252338",
@@ -47203,8 +46510,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "undead"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-215046",
@@ -47225,8 +46531,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-464853",
@@ -47247,8 +46552,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-464860",
@@ -47269,8 +46573,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-464856",
@@ -47291,8 +46594,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-682982",
@@ -47312,8 +46614,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-682984",
@@ -47334,8 +46635,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-682983",
@@ -47356,8 +46656,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-802279",
@@ -47377,8 +46676,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-802278",
@@ -47398,8 +46696,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-802280",
@@ -47419,8 +46716,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-802282",
@@ -47440,8 +46736,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-802281",
@@ -47461,8 +46756,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-670462",
@@ -47485,8 +46779,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "humanoids"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-207969",
@@ -47511,8 +46804,7 @@
     "themes": [
       "humanoids",
       "demons-fiends"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-257481",
@@ -47535,8 +46827,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "undead"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-233164",
@@ -47559,8 +46850,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "undead"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-604751",
@@ -47581,8 +46871,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-311392",
@@ -47602,8 +46891,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-149803",
@@ -47625,8 +46913,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "monsters-beasts"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-233828",
@@ -47646,8 +46933,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-225127",
@@ -47685,8 +46971,7 @@
     "createdAt": "2022-05-25",
     "themes": [
       "humanoids"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-192486",
@@ -47710,8 +46995,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "monsters-beasts"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-150357",
@@ -47735,8 +47019,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "monsters-beasts"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-445529",
@@ -47756,8 +47039,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-375520",
@@ -47781,8 +47063,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "humanoids"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-411506",
@@ -47803,8 +47084,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-782788",
@@ -47825,8 +47105,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-357002",
@@ -47847,8 +47126,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-777799",
@@ -47871,8 +47149,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "undead"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-472880",
@@ -47892,8 +47169,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-234860",
@@ -47916,8 +47192,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "monsters-beasts"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-497230",
@@ -47937,8 +47212,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-497236",
@@ -47958,8 +47232,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-497226",
@@ -47980,8 +47253,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-497227",
@@ -48002,8 +47274,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-497233",
@@ -48023,8 +47294,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-232910",
@@ -48044,8 +47314,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-232652",
@@ -48066,8 +47335,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-252342",
@@ -48087,8 +47355,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-242024",
@@ -48109,8 +47376,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-338263",
@@ -48133,8 +47399,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "demons-fiends"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-416811",
@@ -48157,8 +47422,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "monsters-beasts"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-457076",
@@ -48179,8 +47443,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-445525",
@@ -48201,8 +47464,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-206615",
@@ -48225,8 +47487,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "monsters-beasts"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-270440",
@@ -48248,8 +47509,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-303810",
@@ -48274,8 +47534,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "demons-fiends"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-445528",
@@ -48296,8 +47555,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-312997",
@@ -48318,8 +47576,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-234254",
@@ -48339,8 +47596,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "undead"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-234256",
@@ -48362,8 +47618,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "undead"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-234255",
@@ -48383,8 +47638,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "undead"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-199242",
@@ -48408,8 +47662,7 @@
     "themes": [
       "monsters-beasts",
       "undead"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-149423",
@@ -48429,8 +47682,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-149121",
@@ -48450,8 +47702,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-149424",
@@ -48471,8 +47722,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-149425",
@@ -48493,8 +47743,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-149426",
@@ -48514,8 +47763,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-149427",
@@ -48536,8 +47784,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-233829",
@@ -48557,8 +47804,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-279831",
@@ -48580,8 +47826,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "undead"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-620500",
@@ -48602,8 +47847,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-233056",
@@ -48623,8 +47867,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-235164",
@@ -48648,8 +47891,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "demons-fiends"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-395686",
@@ -48669,8 +47911,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-148427",
@@ -48690,8 +47931,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-148428",
@@ -48710,8 +47950,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-278135",
@@ -48732,8 +47971,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-227681",
@@ -48755,8 +47993,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "monsters-beasts"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-166285",
@@ -48777,8 +48014,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-732611",
@@ -48799,8 +48035,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-226992",
@@ -48820,8 +48055,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-194007",
@@ -48842,8 +48076,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-312992",
@@ -48864,8 +48097,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-464848",
@@ -48886,8 +48118,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-457083",
@@ -48910,8 +48141,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "undead"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-234866",
@@ -48933,8 +48163,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "monsters-beasts"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-378704",
@@ -48955,8 +48184,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "monsters-beasts"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-148575",
@@ -48977,8 +48205,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "monsters-beasts"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-147438",
@@ -49000,8 +48227,7 @@
     "themes": [
       "monsters-beasts",
       "busts"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-148591",
@@ -49023,8 +48249,7 @@
     "themes": [
       "monsters-beasts",
       "busts"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-234863",
@@ -49046,8 +48271,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "monsters-beasts"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-148576",
@@ -49068,8 +48292,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-136640",
@@ -49091,8 +48314,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "busts"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-148587",
@@ -49114,8 +48336,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "busts"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-396551",
@@ -49136,8 +48357,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-396552",
@@ -49158,8 +48378,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-250987",
@@ -49180,8 +48399,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-614455",
@@ -49203,8 +48421,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "monsters-beasts"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-346643",
@@ -49225,8 +48442,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-346642",
@@ -49247,8 +48463,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-346645",
@@ -49269,8 +48484,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-346644",
@@ -49291,8 +48505,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-346646",
@@ -49313,8 +48526,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-346647",
@@ -49334,8 +48546,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-411509",
@@ -49356,8 +48567,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-163210",
@@ -49378,8 +48588,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "terrain-scenery"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-440559",
@@ -49404,8 +48613,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "humanoids"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-407264",
@@ -49428,8 +48636,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-440552",
@@ -49450,8 +48657,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-511967",
@@ -49476,8 +48682,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "dragons"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-387827",
@@ -49499,8 +48704,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-383406",
@@ -49523,8 +48727,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-383411",
@@ -49547,8 +48750,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-387828",
@@ -49570,8 +48772,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-312993",
@@ -49591,8 +48792,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-235103",
@@ -49613,8 +48813,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-146897",
@@ -49633,8 +48832,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-89116",
@@ -49652,8 +48850,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-225256",
@@ -49675,8 +48872,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "monsters-beasts"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-223449",
@@ -49701,8 +48897,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "monsters-beasts"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-148578",
@@ -49722,8 +48917,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-387830",
@@ -49744,8 +48938,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-148579",
@@ -49764,8 +48957,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-234107",
@@ -49785,8 +48977,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-234108",
@@ -49807,8 +48998,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-234111",
@@ -49828,8 +49018,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-204904",
@@ -49848,8 +49037,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-204906",
@@ -49872,8 +49060,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-234851",
@@ -49892,8 +49079,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-163433",
@@ -49916,8 +49102,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-148580",
@@ -49939,8 +49124,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-148420",
@@ -49963,8 +49147,7 @@
     "themes": [
       "monsters-beasts",
       "undead"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-148423",
@@ -49985,8 +49168,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "undead"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-148421",
@@ -50009,8 +49191,7 @@
     "themes": [
       "monsters-beasts",
       "undead"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-148425",
@@ -50032,8 +49213,7 @@
     "themes": [
       "monsters-beasts",
       "undead"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-148422",
@@ -50056,8 +49236,7 @@
     "themes": [
       "monsters-beasts",
       "undead"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-333479",
@@ -50077,8 +49256,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-333482",
@@ -50099,8 +49277,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-291893",
@@ -50120,8 +49297,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-665141",
@@ -50144,8 +49320,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "undead"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-665143",
@@ -50168,8 +49343,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "undead"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-665150",
@@ -50192,8 +49366,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "undead"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-665139",
@@ -50216,8 +49389,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "undead"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-665147",
@@ -50240,8 +49412,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "undead"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-232899",
@@ -50261,8 +49432,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-588429",
@@ -50284,8 +49454,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "undead"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-175467",
@@ -50325,8 +49494,7 @@
     "themes": [
       "monsters-beasts",
       "demons-fiends"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-457084",
@@ -50349,8 +49517,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "undead"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-250983",
@@ -50371,8 +49538,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-356997",
@@ -50393,8 +49559,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-333478",
@@ -50417,8 +49582,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-233159",
@@ -50438,8 +49602,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-231021",
@@ -50462,8 +49625,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "terrain-scenery"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-148581",
@@ -50484,8 +49646,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "monsters-beasts"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-475685",
@@ -50508,8 +49669,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "monsters-beasts"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-475684",
@@ -50532,8 +49692,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "monsters-beasts"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-475687",
@@ -50556,8 +49715,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "monsters-beasts"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-475683",
@@ -50580,8 +49738,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "monsters-beasts"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-475686",
@@ -50604,8 +49761,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "monsters-beasts"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-395408",
@@ -50625,8 +49781,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-378700",
@@ -50647,8 +49802,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-378702",
@@ -50669,8 +49823,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-411510",
@@ -50691,8 +49844,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-334369",
@@ -50712,8 +49864,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-235163",
@@ -50736,8 +49887,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "demons-fiends"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-148584",
@@ -50760,8 +49910,7 @@
     "themes": [
       "monsters-beasts",
       "undead"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-233162",
@@ -50784,8 +49933,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "undead"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-223125",
@@ -50810,8 +49958,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "undead"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-171129",
@@ -50837,8 +49984,7 @@
     "themes": [
       "undead",
       "terrain-scenery"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-236973",
@@ -50858,8 +50004,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-164109",
@@ -50882,8 +50027,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "demons-fiends"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "yks-209007",
@@ -50903,8 +50047,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-256897",
@@ -50925,8 +50068,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-256900",
@@ -50947,8 +50089,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-256890",
@@ -50969,8 +50110,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-256896",
@@ -50991,8 +50131,7 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
-    "hidden": true
+    "themes": []
   },
   {
     "id": "yks-176672",
@@ -51016,8 +50155,7 @@
     "createdAt": "2026-08-11",
     "themes": [
       "undead"
-    ],
-    "hidden": true
+    ]
   },
   {
     "id": "dmstash-7180",
@@ -53597,8 +52735,7 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "themes": [
-      "humanoids"
-    ]
+      "humanoids"    ]
   },
   {
     "id": "dmstash-110646",
@@ -53757,8 +52894,7 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "themes": [
-      "humanoids"
-    ]
+      "humanoids"    ]
   },
   {
     "id": "dmstash-57435",
@@ -56370,8 +55506,7 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "themes": [
-      "humanoids"
-    ]
+      "humanoids"    ]
   },
   {
     "id": "dmstash-35090",

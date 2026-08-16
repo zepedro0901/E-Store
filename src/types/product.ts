@@ -47,6 +47,7 @@ export interface Category {
   name: string;
   description?: string;
   image?: string;
+  hidden?: boolean; // excluded from all storefront listings/lookups when true
   translations?: NameTranslations;
 }
 

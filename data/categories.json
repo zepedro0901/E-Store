@@ -15,6 +15,7 @@
     "name": "Rescale Miniatures",
     "description": "Dragons, dungeon monsters, and modular fantasy warbands.",
     "image": "https://images.pangolinresinworks.com/collection-2/deep-dragon-adult-807175/d7113cc5be04.jpg",
+    "hidden": true,
     "translations": {
       "pt": {
         "description": "Dragões, monstros de masmorra e hostes de fantasia modulares."
@@ -26,6 +27,7 @@
     "name": "YKS Miniatures",
     "description": "D&D-ready fantasy creatures and characters.",
     "image": "https://images.pangolinresinworks.com/collection-3/loxodon-druid-244954/1.jpg",
+    "hidden": true,
     "translations": {
       "pt": {
         "description": "Criaturas e personagens de fantasia prontas para D&D."
