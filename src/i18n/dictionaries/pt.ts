@@ -128,6 +128,10 @@ const pt: Dictionary = {
     scrollThumbnailsLeft: "Deslizar miniaturas para a esquerda",
     scrollThumbnailsRight: "Deslizar miniaturas para a direita",
     viewImageOf: "Ver imagem {index} de {total}",
+    zoomImage: "Ampliar imagem",
+    closeZoom: "Fechar imagem ampliada",
+    zoomIn: "Mais zoom",
+    zoomOut: "Menos zoom",
   },
   cart: {
     title: "O Seu Carrinho",

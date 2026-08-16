@@ -126,6 +126,10 @@ const en = {
     scrollThumbnailsLeft: "Scroll thumbnails left",
     scrollThumbnailsRight: "Scroll thumbnails right",
     viewImageOf: "View image {index} of {total}",
+    zoomImage: "Zoom image",
+    closeZoom: "Close zoomed image",
+    zoomIn: "Zoom in",
+    zoomOut: "Zoom out",
   },
   cart: {
     title: "Your Cart",
