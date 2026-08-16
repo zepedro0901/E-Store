@@ -4,6 +4,7 @@ import { sendOrderRequestEmail } from "@/lib/email";
 import { saveOrder } from "@/lib/orders";
 import { checkRateLimit } from "@/lib/rate-limit";
 import { getDictionary } from "@/i18n/get-dictionary";
+import { EU_COUNTRIES } from "@/lib/shipping";
 
 const cartItemSchema = z.object({
   productId: z.string().min(1),
@@ -24,7 +25,7 @@ const requestSchema = z.object({
     address: z.string().trim().min(1).max(300),
     city: z.string().trim().min(1).max(150),
     postalCode: z.string().trim().min(1).max(20),
-    country: z.string().trim().min(1).max(150),
+    country: z.enum(EU_COUNTRIES),
     notes: z.string().trim().max(1000).optional(),
   }),
   items: z.array(cartItemSchema).min(1).max(50),

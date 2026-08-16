@@ -1,6 +1,7 @@
 import { Resend } from "resend";
 import type { CartItem } from "@/types/product";
 import { formatPrice } from "@/lib/format";
+import { computeShippingCents } from "@/lib/shipping";
 
 export interface OrderRequestCustomer {
   name: string;
@@ -27,7 +28,9 @@ export async function sendOrderRequestEmail(
   }
 
   const resend = new Resend(apiKey);
-  const total = items.reduce((sum, i) => sum + i.price * i.quantity, 0);
+  const subtotal = items.reduce((sum, i) => sum + i.price * i.quantity, 0);
+  const shipping = computeShippingCents(subtotal, customer.country);
+  const total = subtotal + shipping;
 
   const itemRows = items
     .map(
@@ -68,9 +71,20 @@ export async function sendOrderRequestEmail(
         </thead>
         <tbody>${itemRows}</tbody>
       </table>
-      <p style="text-align:right;font-size:1.1em;margin-top:12px;">
-        <strong>Order total: ${formatPrice(total, "EUR", "en")}</strong>
-      </p>
+      <table style="border-collapse:collapse;width:100%;margin-top:8px;">
+        <tr>
+          <td style="padding:2px 12px 2px 0;text-align:right;color:#666;">Subtotal</td>
+          <td style="padding:2px 0;text-align:right;width:120px;">${formatPrice(subtotal, "EUR", "en")}</td>
+        </tr>
+        <tr>
+          <td style="padding:2px 12px 2px 0;text-align:right;color:#666;">Shipping</td>
+          <td style="padding:2px 0;text-align:right;">${shipping === 0 ? "Free" : formatPrice(shipping, "EUR", "en")}</td>
+        </tr>
+        <tr>
+          <td style="padding:6px 12px 0 0;text-align:right;font-size:1.1em;"><strong>Order total</strong></td>
+          <td style="padding:6px 0 0;text-align:right;font-size:1.1em;"><strong>${formatPrice(total, "EUR", "en")}</strong></td>
+        </tr>
+      </table>
     </div>
   `;
 

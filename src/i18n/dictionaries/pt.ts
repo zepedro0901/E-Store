@@ -142,6 +142,7 @@ const pt: Dictionary = {
     removeAria: "Remover {name}",
     clearCart: "Esvaziar Carrinho",
     requestToOrder: "Pedido de Encomenda",
+    freeShippingInfo: "Envio grátis em encomendas acima de 50€ para Portugal, ou acima de 100€ para o resto da UE.",
     orderNotice:
       "Ao submeter este carrinho, está a enviar um pedido de encomenda — não um pagamento. Vamos analisá-lo e confirmá-lo primeiro; só paga as miniaturas e o envio depois de aceitarmos a encomenda, e a produção começa após o pagamento.",
   },
@@ -166,6 +167,8 @@ const pt: Dictionary = {
     disclaimer:
       "Isto envia um pedido de encomenda, não um pagamento. Vamos analisá-lo e responder para confirmar — só paga as miniaturas e o envio depois de aceitarmos a encomenda, e a produção começa após o pagamento.",
     orderSummary: "Resumo da Encomenda",
+    shippingLabel: "Envio",
+    freeShipping: "Grátis",
     genericError: "Algo correu mal.",
     genericSendError: "Algo correu mal ao enviar o seu pedido.",
   },
@@ -192,6 +195,7 @@ const pt: Dictionary = {
     returns: "Devoluções e Cancelamentos",
     privacy: "Política de Privacidade",
     shipping: "Envio",
+    terms: "Termos de Serviço",
     help: "Ajuda",
   },
   faq: {
@@ -266,7 +270,7 @@ const pt: Dictionary = {
   privacy: {
     metaTitle: "Política de Privacidade",
     title: "Política de Privacidade",
-    updated: "Última atualização: [adicionar data antes de publicar]",
+    updated: "Última atualização: 16 de agosto de 2026",
     sections: [
       {
         heading: "Quem Somos",
@@ -330,6 +334,91 @@ const pt: Dictionary = {
       },
     ],
   },
+  terms: {
+    metaTitle: "Termos de Serviço",
+    title: "Termos de Serviço",
+    updated: "Última atualização: 16 de agosto de 2026",
+    sections: [
+      {
+        heading: "Quem Somos",
+        paragraphs: [
+          "A Pangolin Resinworks ([nome legal da empresa e morada a adicionar aqui]) é um pequeno estúdio, sediado em Portugal e gerido por duas pessoas, que vende miniaturas em resina feitas por encomenda através deste site. Pode contactar-nos em customerservice@pangolinresinworks.com.",
+        ],
+      },
+      {
+        heading: "Aceitação Destes Termos",
+        paragraphs: [
+          "Ao utilizar este site ou submeter um pedido de encomenda, aceita estes Termos de Serviço, bem como a nossa Política de Privacidade, a Política de Envio e a política de Devoluções e Cancelamentos. Se não concordar com alguma parte destes termos, por favor não utilize o site.",
+        ],
+      },
+      {
+        heading: "Pedidos de Encomenda, Não Compra Instantânea",
+        paragraphs: [
+          "Submeter o formulário de checkout envia-nos um pedido de encomenda — não é um pagamento nem uma venda vinculativa. Analisamos cada pedido e respondemos por email para o confirmar. Só paga pelas miniaturas e pelo envio depois de confirmarmos a encomenda, e a produção só começa depois de recebermos o pagamento. Reservamo-nos o direito de recusar qualquer pedido de encomenda, por exemplo se um artigo estiver indisponível ou se um anúncio contiver um erro.",
+        ],
+      },
+      {
+        heading: "Produtos e Natureza de Produção por Encomenda",
+        paragraphs: [
+          "Todas as miniaturas são impressas em 3D, limpas e acabadas por encomenda em resina. Como cada peça é produzida individualmente e fotografada sob diferentes condições de luz, pequenas variações na cor, nos suportes ou no acabamento em relação às fotografias do produto são normais e não são consideradas defeitos. Os anúncios dos produtos descrevem apenas a miniatura física — não estão incluídas tintas, cola ou outros acessórios, salvo indicação em contrário.",
+        ],
+      },
+      {
+        heading: "Licenciamento dos Designs",
+        paragraphs: [
+          "Os designs (esculturas digitais) das miniaturas que imprimimos são licenciados junto de escultores digitais e estúdios terceiros para venda por impressão sob encomenda — não reivindicamos ter criado nós próprios os designs subjacentes.",
+        ],
+      },
+      {
+        heading: "Preços e Pagamento",
+        paragraphs: [
+          "Os preços são apresentados em euros e podem ser atualizados a qualquer momento; o preço confirmado com a sua encomenda no momento em que a aceitamos é o preço que irá pagar. Não recolhemos nem armazenamos dados de cartões de pagamento neste site — assim que a sua encomenda for confirmada, combinamos o pagamento diretamente consigo por email.",
+        ],
+      },
+      {
+        heading: "Envio e Entrega",
+        paragraphs: [
+          "Os destinos, custos e prazos de envio estão definidos na nossa Política de Envio, que faz parte destes Termos.",
+        ],
+      },
+      {
+        heading: "Devoluções e Cancelamentos",
+        paragraphs: [
+          "O cancelamento de encomendas, as devoluções e a forma como tratamos artigos danificados ou com defeito estão definidos na nossa política de Devoluções e Cancelamentos, que faz parte destes Termos. Como as nossas miniaturas são feitas por encomenda, o direito de livre resolução de 14 dias previsto na UE não se aplica assim que a produção tenha começado.",
+        ],
+      },
+      {
+        heading: "Utilização do Site",
+        paragraphs: [
+          "Compromete-se a utilizar este site apenas para fins lícitos e a não tentar perturbar o seu funcionamento, submeter pedidos de encomenda falsos, ou fazer uso indevido de qualquer conteúdo do site.",
+        ],
+      },
+      {
+        heading: "Limitação de Responsabilidade",
+        paragraphs: [
+          "Somos um pequeno estúdio gerido por duas pessoas e disponibilizamos este site e os nossos produtos tal como se encontram (\"as is\"). Na medida permitida pela lei portuguesa, não somos responsáveis por perdas indiretas ou consequenciais decorrentes da utilização do site ou da sua encomenda. Nada nestes Termos limita qualquer responsabilidade que não possa ser excluída ao abrigo da legislação de defesa do consumidor aplicável.",
+        ],
+      },
+      {
+        heading: "Lei Aplicável e Resolução de Litígios",
+        paragraphs: [
+          "Estes Termos regem-se pela lei portuguesa. Se um litígio não puder ser resolvido diretamente connosco, os consumidores da UE podem também recorrer à plataforma de Resolução de Litígios Online da Comissão Europeia, em ec.europa.eu/consumers/odr, para procurar uma solução extrajudicial.",
+        ],
+      },
+      {
+        heading: "Alterações a Estes Termos",
+        paragraphs: [
+          "Podemos atualizar estes Termos periodicamente. Quaisquer alterações serão publicadas nesta página, e continuar a utilizar o site depois de as alterações serem publicadas significa que aceita os Termos atualizados.",
+        ],
+      },
+      {
+        heading: "Contacte-nos",
+        paragraphs: [
+          "Tem dúvidas sobre estes Termos? Envie-nos um email para customerservice@pangolinresinworks.com.",
+        ],
+      },
+    ],
+  },
   shipping: {
     metaTitle: "Política de Envio",
     title: "Política de Envio",
@@ -351,7 +440,7 @@ const pt: Dictionary = {
       {
         heading: "Destinos e Custos de Envio",
         paragraphs: [
-          "[Adicionar aqui os países/regiões para onde envia e as respetivas tarifas de envio — por exemplo, preços nacionais vs. internacionais, limites para envio grátis, transportadoras utilizadas.]",
+          "Atualmente enviamos para Portugal e para o resto da União Europeia através dos CTT. O envio custa uma tarifa fixa de 10€ para Portugal e 20€ para o resto da UE, com envio gratuito em encomendas acima de 50€ (Portugal) e 100€ (UE).",
         ],
       },
       {
@@ -363,16 +452,45 @@ const pt: Dictionary = {
       {
         heading: "Encomendas Perdidas, Atrasadas ou Danificadas",
         paragraphs: [
-          "Se a sua encomenda chegar danificada, contacte-nos no prazo de 7 dias com fotografias do artigo e da respetiva embalagem — consulte a nossa política de Devoluções e Cancelamentos para o processo completo. Se a sua encomenda não chegar dentro de [adicionar prazo de entrega esperado] após o envio, contacte-nos e trataremos do assunto junto da transportadora.",
+          "Se a sua encomenda chegar danificada, contacte-nos no prazo de 7 dias com fotografias do artigo e da respetiva embalagem — consulte a nossa política de Devoluções e Cancelamentos para o processo completo. Se a sua encomenda não chegar dentro de 15 dias úteis após o envio, contacte-nos e trataremos do assunto junto da transportadora.",
         ],
       },
       {
         heading: "Rastreio",
         paragraphs: [
-          "[Adicionar se fornece números de rastreio e como os clientes os recebem.]",
+          "O rastreio é opcional. Ao confirmarmos a sua encomenda, pode escolher uma opção de envio com rastreio por um custo adicional, ou uma opção mais económica sem rastreio. Se escolher envio com rastreio, enviaremos o número de rastreio por email assim que a encomenda for expedida.",
         ],
       },
     ],
+  },
+  countries: {
+    Portugal: "Portugal",
+    Austria: "Áustria",
+    Belgium: "Bélgica",
+    Bulgaria: "Bulgária",
+    Croatia: "Croácia",
+    Cyprus: "Chipre",
+    Czechia: "Chéquia",
+    Denmark: "Dinamarca",
+    Estonia: "Estónia",
+    Finland: "Finlândia",
+    France: "França",
+    Germany: "Alemanha",
+    Greece: "Grécia",
+    Hungary: "Hungria",
+    Ireland: "Irlanda",
+    Italy: "Itália",
+    Latvia: "Letónia",
+    Lithuania: "Lituânia",
+    Luxembourg: "Luxemburgo",
+    Malta: "Malta",
+    Netherlands: "Países Baixos",
+    Poland: "Polónia",
+    Romania: "Roménia",
+    Slovakia: "Eslováquia",
+    Slovenia: "Eslovénia",
+    Spain: "Espanha",
+    Sweden: "Suécia",
   },
 };
 

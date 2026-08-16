@@ -140,6 +140,7 @@ const en = {
     removeAria: "Remove {name}",
     clearCart: "Clear Cart",
     requestToOrder: "Request to Order",
+    freeShippingInfo: "Free shipping on orders over €50 to Portugal, or over €100 to the rest of the EU.",
     orderNotice:
       "Submitting this cart sends an order request — not a payment. We'll review and confirm it first; you only pay for the miniatures and shipping once we accept the order, and production starts after payment.",
   },
@@ -164,6 +165,8 @@ const en = {
     disclaimer:
       "This sends an order request, not a payment. We'll review it and reply to confirm — you'll pay for the miniatures and shipping only once we accept the order, and production starts after payment.",
     orderSummary: "Order Summary",
+    shippingLabel: "Shipping",
+    freeShipping: "Free",
     genericError: "Something went wrong.",
     genericSendError: "Something went wrong sending your request.",
   },
@@ -190,6 +193,7 @@ const en = {
     returns: "Returns & Cancellations",
     privacy: "Privacy Policy",
     shipping: "Shipping",
+    terms: "Terms of Service",
     help: "Help",
   },
   faq: {
@@ -264,7 +268,7 @@ const en = {
   privacy: {
     metaTitle: "Privacy Policy",
     title: "Privacy Policy",
-    updated: "Last updated: [add date before publishing]",
+    updated: "Last updated: August 16, 2026",
     sections: [
       {
         heading: "Who We Are",
@@ -328,6 +332,91 @@ const en = {
       },
     ],
   },
+  terms: {
+    metaTitle: "Terms of Service",
+    title: "Terms of Service",
+    updated: "Last updated: August 16, 2026",
+    sections: [
+      {
+        heading: "Who We Are",
+        paragraphs: [
+          "Pangolin Resinworks ([legal business name and address to add here]) is a small, two-person studio based in Portugal, selling made-to-order resin miniatures through this website. You can reach us at customerservice@pangolinresinworks.com.",
+        ],
+      },
+      {
+        heading: "Acceptance of These Terms",
+        paragraphs: [
+          "By using this website or submitting an order request, you agree to these Terms of Service, along with our Privacy Policy, Shipping Policy, and Returns & Cancellations policy. If you don't agree with any part of these terms, please don't use the site.",
+        ],
+      },
+      {
+        heading: "Order Requests, Not Instant Purchase",
+        paragraphs: [
+          "Submitting the checkout form sends us an order request — it is not a payment or a binding sale. We review each request and reply by email to confirm it. You only pay for the miniatures and shipping once we've confirmed the order, and production only begins after payment is received. We reserve the right to decline any order request, for example if an item is unavailable or a listing contains an error.",
+        ],
+      },
+      {
+        heading: "Products & Made-to-Order Nature",
+        paragraphs: [
+          "Every miniature is 3D printed, cleaned, and finished to order in resin. Because each piece is produced individually and photographed under different lighting, small variations in colour, supports, or finish compared to the product photos are normal and are not considered defects. Product listings describe the physical miniature only — no paints, glue, or other accessories are included unless stated otherwise.",
+        ],
+      },
+      {
+        heading: "Design Licensing",
+        paragraphs: [
+          "The miniature designs (sculpts) we print are licensed from third-party digital sculptors and studios for print-on-demand sale — we don't claim to have created the underlying designs ourselves.",
+        ],
+      },
+      {
+        heading: "Pricing & Payment",
+        paragraphs: [
+          "Prices are shown in euros and may be updated at any time; the price confirmed with your order at the time we accept it is the price you'll pay. We don't collect or store payment card details on this website — once your order is confirmed, we arrange payment with you directly by email.",
+        ],
+      },
+      {
+        heading: "Shipping & Delivery",
+        paragraphs: [
+          "Shipping destinations, costs, and expected timeframes are set out in our Shipping Policy, which forms part of these Terms.",
+        ],
+      },
+      {
+        heading: "Returns & Cancellations",
+        paragraphs: [
+          "Order cancellations, returns, and how we handle damaged or defective items are set out in our Returns & Cancellations policy, which forms part of these Terms. As our miniatures are made to your order, the standard EU 14-day right of withdrawal does not apply once production has started.",
+        ],
+      },
+      {
+        heading: "Website Use",
+        paragraphs: [
+          "You agree to use this website only for lawful purposes and not to attempt to disrupt its operation, submit false order requests, or misuse any content on the site.",
+        ],
+      },
+      {
+        heading: "Limitation of Liability",
+        paragraphs: [
+          "We are a small, two-person studio and provide this website and our products on an \"as is\" basis. To the extent permitted by Portuguese law, we are not liable for indirect or consequential losses arising from your use of the site or your order. Nothing in these Terms limits any liability that cannot be excluded under applicable consumer protection law.",
+        ],
+      },
+      {
+        heading: "Governing Law & Disputes",
+        paragraphs: [
+          "These Terms are governed by Portuguese law. If a dispute can't be resolved directly with us, EU consumers can also use the European Commission's Online Dispute Resolution platform at ec.europa.eu/consumers/odr to seek an out-of-court settlement.",
+        ],
+      },
+      {
+        heading: "Changes To These Terms",
+        paragraphs: [
+          "We may update these Terms from time to time. Any changes will be posted on this page, and continuing to use the site after changes are posted means you accept the updated Terms.",
+        ],
+      },
+      {
+        heading: "Contact Us",
+        paragraphs: [
+          "Questions about these Terms? Email us at customerservice@pangolinresinworks.com.",
+        ],
+      },
+    ],
+  },
   shipping: {
     metaTitle: "Shipping Policy",
     title: "Shipping Policy",
@@ -349,7 +438,7 @@ const en = {
       {
         heading: "Shipping Destinations & Costs",
         paragraphs: [
-          "[Add the countries/regions you ship to and your shipping rates here — e.g. domestic vs. international pricing, free-shipping thresholds, carriers used.]",
+          "We currently ship to Portugal and the rest of the European Union via CTT. Shipping is a flat €10 within Portugal and €20 for the rest of the EU, with free shipping on orders over €50 (Portugal) and €100 (EU).",
         ],
       },
       {
@@ -361,16 +450,45 @@ const en = {
       {
         heading: "Lost, Delayed, or Damaged Parcels",
         paragraphs: [
-          "If your order arrives damaged, contact us within 7 days with photos of the item and its packaging — see our Returns & Cancellations policy for the full process. If your order hasn't arrived within [add expected delivery window] of dispatch, get in touch and we'll look into it with the courier.",
+          "If your order arrives damaged, contact us within 7 days with photos of the item and its packaging — see our Returns & Cancellations policy for the full process. If your order hasn't arrived within 15 business days of dispatch, get in touch and we'll look into it with the courier.",
         ],
       },
       {
         heading: "Tracking",
         paragraphs: [
-          "[Add whether you provide tracking numbers, and how customers receive them.]",
+          "Tracking is optional. When we confirm your order, you can choose a tracked shipping option for an added cost, or a cheaper untracked option. If you choose tracked shipping, we'll email you the tracking number once your order ships.",
         ],
       },
     ],
+  },
+  countries: {
+    Portugal: "Portugal",
+    Austria: "Austria",
+    Belgium: "Belgium",
+    Bulgaria: "Bulgaria",
+    Croatia: "Croatia",
+    Cyprus: "Cyprus",
+    Czechia: "Czechia",
+    Denmark: "Denmark",
+    Estonia: "Estonia",
+    Finland: "Finland",
+    France: "France",
+    Germany: "Germany",
+    Greece: "Greece",
+    Hungary: "Hungary",
+    Ireland: "Ireland",
+    Italy: "Italy",
+    Latvia: "Latvia",
+    Lithuania: "Lithuania",
+    Luxembourg: "Luxembourg",
+    Malta: "Malta",
+    Netherlands: "Netherlands",
+    Poland: "Poland",
+    Romania: "Romania",
+    Slovakia: "Slovakia",
+    Slovenia: "Slovenia",
+    Spain: "Spain",
+    Sweden: "Sweden",
   },
 };
 

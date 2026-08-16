@@ -3,6 +3,7 @@ import { getDb } from "@/db";
 import { orders, orderCounters } from "@/db/schema";
 import type { CartItem } from "@/types/product";
 import type { OrderRequestCustomer } from "@/lib/email";
+import { computeShippingCents } from "@/lib/shipping";
 
 export interface OrderRecord {
   orderNumber: string;
@@ -18,7 +19,8 @@ export async function saveOrder(
 ): Promise<OrderRecord> {
   const db = getDb();
   const year = new Date().getFullYear();
-  const total = items.reduce((sum, i) => sum + i.price * i.quantity, 0);
+  const subtotal = items.reduce((sum, i) => sum + i.price * i.quantity, 0);
+  const total = subtotal + computeShippingCents(subtotal, customer.country);
 
   const [counter] = await db
     .insert(orderCounters)

@@ -7,6 +7,7 @@ import Image from "next/image";
 import { useCartStore } from "@/lib/cart-store";
 import { formatPrice } from "@/lib/format";
 import { useTranslations } from "@/i18n/use-translations";
+import { EU_COUNTRIES, computeShippingCents } from "@/lib/shipping";
 
 const FIELD_CLASS =
   "w-full border border-border bg-surface px-3 py-2 text-sm outline-none transition-colors focus:border-accent/50";
@@ -21,6 +22,7 @@ export function CheckoutForm() {
 
   const [status, setStatus] = useState<"idle" | "submitting" | "error">("idle");
   const [error, setError] = useState<string | null>(null);
+  const [country, setCountry] = useState<string>(EU_COUNTRIES[0]);
 
   if (!hasHydrated) return null;
 
@@ -39,6 +41,8 @@ export function CheckoutForm() {
   }
 
   const subtotal = items.reduce((sum, i) => sum + i.price * i.quantity, 0);
+  const shipping = computeShippingCents(subtotal, country);
+  const total = subtotal + shipping;
 
   async function handleSubmit(e: React.FormEvent<HTMLFormElement>) {
     e.preventDefault();
@@ -110,7 +114,19 @@ export function CheckoutForm() {
           </label>
           <label className="flex flex-col gap-1.5">
             <span className={LABEL_CLASS}>{dict.checkout.country}</span>
-            <input name="country" required className={FIELD_CLASS} />
+            <select
+              name="country"
+              required
+              value={country}
+              onChange={(e) => setCountry(e.target.value)}
+              className={FIELD_CLASS}
+            >
+              {EU_COUNTRIES.map((c) => (
+                <option key={c} value={c}>
+                  {dict.countries[c]}
+                </option>
+              ))}
+            </select>
           </label>
         </div>
 
@@ -174,11 +190,27 @@ export function CheckoutForm() {
             </div>
           ))}
         </div>
-        <div className="flex items-center justify-between border-t border-border pt-4">
-          <span className="text-sm text-foreground/55">{dict.common.total}</span>
-          <span className="font-display text-xl font-bold text-accent">
-            {formatPrice(subtotal, "EUR", locale)}
-          </span>
+        <div className="flex flex-col gap-2 border-t border-border pt-4">
+          <div className="flex items-center justify-between text-sm">
+            <span className="text-foreground/55">{dict.common.subtotal}</span>
+            <span className="font-mono text-foreground/70">
+              {formatPrice(subtotal, "EUR", locale)}
+            </span>
+          </div>
+          <div className="flex items-center justify-between text-sm">
+            <span className="text-foreground/55">{dict.checkout.shippingLabel}</span>
+            <span className="font-mono text-foreground/70">
+              {shipping === 0
+                ? dict.checkout.freeShipping
+                : formatPrice(shipping, "EUR", locale)}
+            </span>
+          </div>
+          <div className="flex items-center justify-between pt-2">
+            <span className="text-sm text-foreground/55">{dict.common.total}</span>
+            <span className="font-display text-xl font-bold text-accent">
+              {formatPrice(total, "EUR", locale)}
+            </span>
+          </div>
         </div>
       </div>
     </div>

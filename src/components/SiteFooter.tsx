@@ -129,6 +129,14 @@ export async function SiteFooter() {
                 {dict.policiesNav.privacy}
               </Link>
             </li>
+            <li>
+              <Link
+                href="/terms"
+                className="text-foreground/65 transition-colors hover:text-accent"
+              >
+                {dict.policiesNav.terms}
+              </Link>
+            </li>
           </ul>
         </div>
       </div>
