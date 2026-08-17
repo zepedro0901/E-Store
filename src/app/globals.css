@@ -46,6 +46,16 @@ input[type="number"] {
   appearance: textfield;
 }
 
+/* iOS Safari auto-zooms the page on focus for any field under 16px.
+   Our fields use text-sm (14px); override to 16px on mobile only. */
+@media (max-width: 640px) {
+  input,
+  select,
+  textarea {
+    font-size: 16px !important;
+  }
+}
+
 /* Signature texture: overlapping scale/shingle tiles, doubling as
    pangolin scale + dragon scale + cast-resin ripple. Kept faint —
    this is ambient texture, not a graphic. */

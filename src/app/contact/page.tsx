@@ -26,7 +26,7 @@ export default async function ContactPage() {
         </p>
         <a
           href="mailto:customerservice@pangolinresinworks.com"
-          className="mt-2 inline-block font-display text-lg font-semibold tracking-tight text-foreground transition-colors hover:text-accent"
+          className="mt-2 inline-block max-w-full break-all font-display text-lg font-semibold tracking-tight text-foreground transition-colors hover:text-accent"
         >
           customerservice@pangolinresinworks.com
         </a>

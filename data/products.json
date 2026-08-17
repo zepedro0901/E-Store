@@ -376,9 +376,7 @@
     "inStock": true,
     "createdAt": "2026-01-03",
     "themes": [
-      "humanoids",
-      "demons-fiends"
-    ]
+      "humanoids"    ]
   },
   {
     "id": "mmf-738690",
@@ -1308,7 +1306,7 @@
     "inStock": true,
     "createdAt": "2025-09-02",
     "themes": [
-      "monsters-beasts"
+      "monsters-beasts","humanoids"
     ]
   },
   {
@@ -1335,7 +1333,7 @@
     "inStock": true,
     "createdAt": "2026-07-02",
     "themes": [
-      "demons-fiends"
+      "humanoids"
     ]
   },
   {
@@ -1846,7 +1844,7 @@
     "createdAt": "2025-06-02",
     "themes": [
       "dragons",
-      "demons-fiends"
+      "humanoids"
     ]
   },
   {
@@ -1879,7 +1877,7 @@
     "createdAt": "2025-06-02",
     "themes": [
       "dragons",
-      "demons-fiends"
+      "humanoids"
     ]
   },
   {
@@ -1990,7 +1988,6 @@
     "inStock": true,
     "createdAt": "2025-05-01",
     "themes": [
-      "monsters-beasts",
       "undead",
       "demons-fiends"
     ]
@@ -3023,9 +3020,7 @@
     "createdAt": "2025-08-02",
     "themes": [
       "monsters-beasts",
-      "undead",
-      "constructs"
-    ]
+      "undead"    ]
   },
   {
     "id": "mmf-738680",
@@ -3676,9 +3671,7 @@
     "inStock": true,
     "createdAt": "2025-06-02",
     "themes": [
-      "dragons",
-      "demons-fiends"
-    ]
+      "dragons"    ]
   },
   {
     "id": "mmf-449233",
@@ -4885,7 +4878,7 @@
     "inStock": true,
     "createdAt": "2024-02-01",
     "themes": [
-      "demons-fiends"
+      "demons-fiends","undead","humanoids"
     ]
   },
   {
@@ -5002,8 +4995,7 @@
     "inStock": true,
     "createdAt": "2024-09-01",
     "themes": [
-      "humanoids",
-      "undead"
+      "humanoids"
     ]
   },
   {
@@ -5173,7 +5165,7 @@
     "inStock": true,
     "createdAt": "2026-07-02",
     "themes": [
-      "celestials"
+      "celestials","constructs"
     ]
   },
   {
@@ -5245,9 +5237,7 @@
       }
     ],
     "themes": [
-      "undead",
-      "demons-fiends"
-    ]
+      "undead"    ]
   },
   {
     "id": "mmf-719946",
@@ -5513,7 +5503,7 @@
     "inStock": true,
     "createdAt": "2025-03-03",
     "themes": [
-      "demons-fiends"
+      "humanoids"
     ]
   },
   {
@@ -7448,7 +7438,7 @@
     "inStock": true,
     "createdAt": "2024-11-02",
     "themes": [
-      "monsters-beasts",
+      "humanoids",
       "demons-fiends"
     ]
   },
@@ -7478,7 +7468,7 @@
     "inStock": true,
     "createdAt": "2024-11-02",
     "themes": [
-      "demons-fiends"
+      "demons-fiends","humanoids"
     ]
   },
   {
@@ -7823,7 +7813,7 @@
     "inStock": true,
     "createdAt": "2025-01-03",
     "themes": [
-      "undead"
+      "humanoids"
     ]
   },
   {
@@ -8177,7 +8167,7 @@
     "inStock": true,
     "createdAt": "2024-05-01",
     "themes": [
-      "demons-fiends"
+      "humanoids"
     ]
   },
   {
@@ -8378,9 +8368,7 @@
     "inStock": true,
     "createdAt": "2024-07-01",
     "themes": [
-      "humanoids",
-      "demons-fiends"
-    ]
+      "humanoids"    ]
   },
   {
     "id": "mmf-810315",
@@ -8437,7 +8425,7 @@
     "inStock": true,
     "createdAt": "2024-10-02",
     "themes": [
-      "constructs"
+      "humanoids"
     ]
   },
   {
@@ -8828,7 +8816,7 @@
     "inStock": true,
     "createdAt": "2026-03-01",
     "themes": [
-      "undead"
+      "undead","monsters-beasts"
     ]
   },
   {
@@ -9484,8 +9472,7 @@
     "createdAt": "2024-09-01",
     "themes": [
       "undead",
-      "demons-fiends"
-    ]
+"humanoids"    ]
   },
   {
     "id": "mmf-407815",
@@ -9514,7 +9501,7 @@
     "inStock": true,
     "createdAt": "2024-10-02",
     "themes": [
-      "constructs"
+      "humanoids"
     ]
   },
   {
@@ -10262,7 +10249,7 @@
     "inStock": true,
     "createdAt": "2026-03-01",
     "themes": [
-      "undead"
+      "undead","monsters-beasts"
     ]
   },
   {
@@ -11002,7 +10989,7 @@
     "inStock": true,
     "createdAt": "2025-11-02",
     "themes": [
-      "undead"
+      "humanoids"
     ]
   },
   {
@@ -11204,7 +11191,7 @@
       }
     ],
     "themes": [
-      "monsters-beasts"
+      "monsters-beasts","humanoids"
     ]
   },
   {
@@ -11758,7 +11745,7 @@
     "inStock": true,
     "createdAt": "2026-01-03",
     "themes": [
-      "undead"
+      "humanoids"
     ]
   },
   {
@@ -12489,7 +12476,7 @@
     "inStock": true,
     "createdAt": "2025-08-02",
     "themes": [
-      "monsters-beasts",
+      "humanoids",
       "undead"
     ]
   },
@@ -12519,7 +12506,7 @@
     "inStock": true,
     "createdAt": "2024-11-02",
     "themes": [
-      "demons-fiends"
+      "demons-fiends","humanoids"
     ]
   },
   {
@@ -12602,9 +12589,7 @@
     "inStock": true,
     "createdAt": "2024-05-01",
     "themes": [
-      "dragons",
-      "demons-fiends"
-    ]
+      "dragons"    ]
   },
   {
     "id": "mmf-797440",
@@ -13062,7 +13047,7 @@
       }
     ],
     "themes": [
-      "demons-fiends"
+      "undead"
     ]
   },
   {
@@ -13232,7 +13217,7 @@
     "inStock": true,
     "createdAt": "2026-02-02",
     "themes": [
-      "humanoids",
+      "constructs",
       "undead"
     ]
   },
@@ -13421,7 +13406,7 @@
     "inStock": true,
     "createdAt": "2025-09-02",
     "themes": [
-      "monsters-beasts"
+      "monsters-beasts","humanoids"
     ]
   },
   {
@@ -13506,7 +13491,7 @@
     "createdAt": "2024-10-02",
     "themes": [
       "demons-fiends",
-      "celestials"
+      "celestials","constructs","humanoids"
     ]
   },
   {
@@ -14040,7 +14025,7 @@
     "inStock": true,
     "createdAt": "2024-05-01",
     "themes": [
-      "demons-fiends"
+      "humanoids"
     ]
   },
   {
@@ -14618,7 +14603,7 @@
     "inStock": true,
     "createdAt": "2024-05-01",
     "themes": [
-      "monsters-beasts",
+      "undead",
       "demons-fiends"
     ]
   },
@@ -14820,7 +14805,7 @@
     "inStock": true,
     "createdAt": "2024-05-01",
     "themes": [
-      "demons-fiends"
+      "demons-fiends","undead","humanoids"
     ]
   },
   {
@@ -15119,7 +15104,7 @@
     "inStock": true,
     "createdAt": "2024-05-01",
     "themes": [
-      "celestials"
+      "demons-fiends"
     ]
   },
   {
@@ -15209,7 +15194,7 @@
     "inStock": true,
     "createdAt": "2024-07-01",
     "themes": [
-      "demons-fiends"
+      "dragons"
     ]
   },
   {
@@ -15422,7 +15407,7 @@
     "inStock": true,
     "createdAt": "2026-03-01",
     "themes": [
-      "demons-fiends"
+      "humanoids"
     ]
   },
   {
@@ -15455,8 +15440,7 @@
     "inStock": true,
     "createdAt": "2024-02-01",
     "themes": [
-      "humanoids",
-      "undead"
+      "humanoids"
     ]
   },
   {
@@ -15963,7 +15947,7 @@
     "inStock": true,
     "createdAt": "2024-05-01",
     "themes": [
-      "demons-fiends"
+      "humanoids"
     ]
   },
   {
@@ -16223,7 +16207,7 @@
     "inStock": true,
     "createdAt": "2026-02-02",
     "themes": [
-      "undead"
+      "undead","humanoids"
     ]
   },
   {
@@ -16447,7 +16431,7 @@
     "inStock": true,
     "createdAt": "2025-11-02",
     "themes": [
-      "demons-fiends"
+      "humanoids"
     ]
   },
   {
@@ -16625,7 +16609,7 @@
     "inStock": true,
     "createdAt": "2024-05-01",
     "themes": [
-      "demons-fiends"
+      "humanoids"
     ]
   },
   {
@@ -16715,7 +16699,7 @@
     "createdAt": "2024-09-01",
     "themes": [
       "undead",
-      "demons-fiends"
+      "humanoids"
     ]
   },
   {
@@ -16851,7 +16835,7 @@
     "inStock": true,
     "createdAt": "2024-12-02",
     "themes": [
-      "monsters-beasts"
+      "undead","humanoids","demons-fiends"
     ]
   },
   {
@@ -16880,7 +16864,7 @@
     "createdAt": "2024-11-02",
     "themes": [
       "undead",
-      "constructs"
+      "humanoids"
     ]
   },
   {
@@ -17039,7 +17023,7 @@
     "inStock": true,
     "createdAt": "2024-06-02",
     "themes": [
-      "constructs"
+      "humanoids"
     ]
   },
   {
@@ -17469,7 +17453,7 @@
       }
     ],
     "themes": [
-      "demons-fiends"
+      "demons-fiends","humanoids"
     ]
   },
   {
@@ -51050,8 +51034,7 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "themes": [
-      "humanoids",
-      "celestials"
+      "humanoids"
     ],
     "translations": {
       "pt": {
@@ -51293,9 +51276,7 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "themes": [
-      "humanoids",
-      "demons-fiends"
-    ]
+      "humanoids"    ]
   },
   {
     "id": "dmstash-7181",
@@ -53970,7 +53951,6 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "themes": [
-      "monsters-beasts",
       "demons-fiends"
     ]
   },
@@ -55462,9 +55442,7 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "themes": [
-      "humanoids",
-      "undead"
-    ]
+      "humanoids"    ]
   },
   {
     "id": "dmstash-15255",
@@ -56417,9 +56395,7 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "themes": [
-      "humanoids",
-      "undead"
-    ]
+      "humanoids"    ]
   },
   {
     "id": "dmstash-23473",
@@ -56446,7 +56422,7 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "themes": [
-      "monsters-beasts"
+      "humanoids","demons-fiends"
     ],
     "variations": [
       {
@@ -57070,7 +57046,7 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "themes": [
-      "undead",
+      "humanoids",
       "celestials"
     ]
   },
@@ -57098,7 +57074,7 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "themes": [
-      "undead",
+      "humanoids",
       "celestials"
     ]
   },
@@ -57258,7 +57234,7 @@
     "createdAt": "2026-07-31",
     "themes": [
       "humanoids",
-      "undead"
+      "celestials"
     ]
   },
   {
@@ -57475,7 +57451,7 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "themes": [
-      "undead"
+      "undead","demons-fiends","humanoids"
     ]
   },
   {
@@ -58119,9 +58095,7 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "themes": [
-      "humanoids",
-      "undead"
-    ]
+      "humanoids"    ]
   },
   {
     "id": "dmstash-66884",
@@ -59139,7 +59113,7 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "themes": [
-      "monsters-beasts"
+      "monsters-beasts","constructs"
     ]
   },
   {
@@ -60296,7 +60270,6 @@
     "createdAt": "2026-07-31",
     "themes": [
       "humanoids",
-      "undead",
       "celestials"
     ]
   },
@@ -60537,7 +60510,6 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "themes": [
-      "humanoids",
       "monsters-beasts"
     ]
   },
@@ -61876,9 +61848,7 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "themes": [
-      "humanoids",
-      "undead"
-    ]
+      "humanoids"    ]
   },
   {
     "id": "dmstash-23470",
@@ -62048,9 +62018,7 @@
     "createdAt": "2026-07-31",
     "themes": [
       "dragons",
-      "humanoids",
-      "demons-fiends"
-    ]
+      "humanoids"    ]
   },
   {
     "id": "dmstash-13703",
@@ -62199,7 +62167,6 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "themes": [
-      "monsters-beasts",
       "demons-fiends"
     ]
   },
@@ -62254,7 +62221,7 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "themes": [
-      "monsters-beasts",
+      "humanoids",
       "undead"
     ]
   },
@@ -62872,7 +62839,7 @@
     "createdAt": "2026-07-31",
     "themes": [
       "humanoids",
-      "monsters-beasts"
+      "dragons"
     ]
   },
   {
@@ -63213,9 +63180,7 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "themes": [
-      "humanoids",
-      "undead"
-    ]
+      "humanoids"    ]
   },
   {
     "id": "dmstash-14294",
@@ -64007,9 +63972,7 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "themes": [
-      "humanoids",
-      "undead"
-    ]
+      "humanoids"    ]
   },
   {
     "id": "dmstash-87468",
@@ -64355,9 +64318,7 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "themes": [
-      "humanoids",
-      "undead"
-    ]
+      "humanoids"    ]
   },
   {
     "id": "dmstash-6185",
@@ -64792,7 +64753,7 @@
     "createdAt": "2026-07-31",
     "themes": [
       "humanoids",
-      "undead"
+      "celestials"
     ]
   },
   {
@@ -64822,7 +64783,6 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "themes": [
-      "monsters-beasts",
       "constructs"
     ],
     "variations": [
@@ -65088,7 +65048,7 @@
     "createdAt": "2026-07-31",
     "themes": [
       "humanoids",
-      "monsters-beasts"
+      "constructs"
     ]
   },
   {
@@ -65121,7 +65081,7 @@
     "createdAt": "2026-07-31",
     "themes": [
       "humanoids",
-      "monsters-beasts"
+      "constructs"
     ]
   },
   {
@@ -65391,7 +65351,6 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "themes": [
-      "monsters-beasts",
       "constructs"
     ]
   },
@@ -65846,7 +65805,7 @@
     "createdAt": "2026-07-31",
     "themes": [
       "humanoids",
-      "monsters-beasts"
+      "demons-fiends"
     ],
     "variations": [
       {
@@ -66204,7 +66163,6 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "themes": [
-      "monsters-beasts",
       "constructs"
     ]
   },
@@ -66231,8 +66189,7 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "themes": [
-      "humanoids",
-      "monsters-beasts",
+  
       "constructs"
     ]
   },
@@ -66450,8 +66407,7 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "themes": [
-      "humanoids",
-      "undead"
+      "humanoids"
     ]
   },
   {
@@ -66566,9 +66522,7 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "themes": [
-      "humanoids",
-      "demons-fiends"
-    ]
+      "humanoids"    ]
   },
   {
     "id": "dmstash-96521",
@@ -66700,8 +66654,7 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "themes": [
-      "humanoids",
-      "monsters-beasts",
+      "celestials",
       "constructs"
     ]
   },
@@ -66730,7 +66683,7 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "themes": [
-      "monsters-beasts"
+      "humanoids","demons-fiends"
     ],
     "variations": [
       {
@@ -66902,8 +66855,7 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "themes": [
-      "humanoids",
-      "undead"
+      "humanoids"
     ]
   },
   {
@@ -66954,8 +66906,7 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "themes": [
-      "undead",
-      "demons-fiends"
+      "humanoids"
     ]
   },
   {
@@ -67117,8 +67068,7 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "themes": [
-      "humanoids",
-      "undead"
+      "humanoids"
     ]
   },
   {
@@ -67465,8 +67415,7 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "themes": [
-      "monsters-beasts",
-      "undead"
+      "monsters-beasts"
     ]
   },
   {
@@ -68401,9 +68350,7 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "themes": [
-      "humanoids",
-      "demons-fiends"
-    ],
+      "humanoids"    ],
     "variations": [
       {
         "id": "figure-1",
@@ -68658,7 +68605,7 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "themes": [
-      "monsters-beasts",
+      "humanoids",
       "undead"
     ]
   },
@@ -69400,8 +69347,7 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "themes": [
-      "humanoids",
-      "undead"
+      "humanoids"
     ]
   },
   {
@@ -69426,8 +69372,7 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "themes": [
-      "humanoids",
-      "monsters-beasts"
+      "monsters-beasts","demons-fiends","undead"
     ]
   },
   {
@@ -69479,7 +69424,7 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "themes": [
-      "monsters-beasts",
+      "humanoids",
       "undead",
       "constructs"
     ]
@@ -69566,8 +69511,7 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "themes": [
-      "monsters-beasts",
-      "undead"
+      "monsters-beasts"
     ]
   },
   {
@@ -70735,7 +70679,7 @@
     "createdAt": "2026-07-31",
     "themes": [
       "humanoids",
-      "undead"
+      "celestials"
     ]
   },
   {
@@ -71011,7 +70955,7 @@
     "createdAt": "2026-07-31",
     "themes": [
       "humanoids",
-      "monsters-beasts"
+      "undead"
     ],
     "variations": [
       {
@@ -71189,7 +71133,6 @@
     "createdAt": "2026-07-31",
     "themes": [
       "humanoids",
-      "monsters-beasts",
       "demons-fiends"
     ],
     "variations": [
@@ -71317,7 +71260,7 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "themes": [
-      "monsters-beasts",
+      "humanoids",
       "undead"
     ],
     "variations": [
@@ -71572,9 +71515,7 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "themes": [
-      "monsters-beasts",
-      "demons-fiends"
-    ]
+      "monsters-beasts"    ]
   },
   {
     "id": "dmstash-5242",
@@ -71711,7 +71652,6 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "themes": [
-      "monsters-beasts",
       "undead"
     ],
     "variations": [
@@ -71762,7 +71702,7 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "themes": [
-      "monsters-beasts"
+      "undead"
     ],
     "variations": [
       {
@@ -72022,7 +71962,7 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "themes": [
-      "monsters-beasts"
+      "humanoids"
     ],
     "variations": [
       {
@@ -72274,7 +72214,7 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "themes": [
-      "monsters-beasts",
+      "humanoids",
       "demons-fiends"
     ]
   },
@@ -72487,8 +72427,7 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "themes": [
-      "monsters-beasts",
-      "undead"
+      "monsters-beasts"
     ]
   },
   {
@@ -72514,8 +72453,7 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "themes": [
-      "monsters-beasts",
-      "undead"
+      "monsters-beasts"
     ]
   },
   {
@@ -72956,7 +72894,7 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "themes": [
-      "monsters-beasts"
+      "constructs"
     ]
   },
   {
@@ -73059,7 +72997,7 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "themes": [
-      "undead"
+      "humanoids"
     ]
   },
   {
@@ -73334,7 +73272,7 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "themes": [
-      "monsters-beasts",
+      "humanoids",
       "undead"
     ],
     "variations": [
@@ -73387,7 +73325,7 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "themes": [
-      "monsters-beasts"
+      "humanoids"
     ]
   },
   {
@@ -73522,7 +73460,7 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "themes": [
-      "monsters-beasts"
+      "monsters-beasts","undead","demons-fiends"
     ]
   },
   {
@@ -73658,8 +73596,7 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "themes": [
-      "humanoids",
-      "undead"
+      "humanoids"
     ]
   },
   {
@@ -73770,7 +73707,7 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "themes": [
-      "monsters-beasts",
+      "humanoids",
       "undead"
     ],
     "variations": [
@@ -73954,7 +73891,6 @@
     "createdAt": "2026-07-31",
     "themes": [
       "humanoids",
-      "monsters-beasts",
       "demons-fiends"
     ]
   },
@@ -73982,8 +73918,7 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "themes": [
-      "humanoids",
-      "undead"
+      "humanoids"
     ]
   },
   {
@@ -74008,7 +73943,6 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "themes": [
-      "monsters-beasts",
       "constructs"
     ]
   },
@@ -74114,7 +74048,7 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "themes": [
-      "monsters-beasts"
+      "constructs"
     ]
   },
   {
@@ -74472,8 +74406,7 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "themes": [
-      "humanoids",
-      "undead"
+      "humanoids"
     ]
   },
   {
@@ -74584,9 +74517,7 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "themes": [
-      "humanoids",
-      "demons-fiends"
-    ]
+      "humanoids"    ]
   },
   {
     "id": "dmstash-55567",
@@ -74750,7 +74681,7 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "themes": [
-      "monsters-beasts"
+      "monsters-beasts","constructs"
     ]
   },
   {
@@ -75046,8 +74977,7 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "themes": [
-      "humanoids",
-      "undead"
+      "humanoids"
     ]
   },
   {
@@ -75292,8 +75222,7 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "themes": [
-      "dragons",
-      "undead"
+      "dragons"
     ]
   },
   {
@@ -75348,7 +75277,7 @@
     "inStock": true,
     "createdAt": "2026-07-31",
     "themes": [
-      "monsters-beasts"
+      "monsters-beasts","constructs"
     ],
     "variations": [
       {
@@ -75426,7 +75355,6 @@
     "createdAt": "2026-07-31",
     "themes": [
       "humanoids",
-      "monsters-beasts",
       "undead"
     ]
   },
