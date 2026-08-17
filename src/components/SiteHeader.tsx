@@ -9,12 +9,12 @@ export async function SiteHeader() {
 
   return (
     <header className="sticky top-0 z-10 border-b border-border bg-background/90 backdrop-blur-sm">
-      <div className="mx-auto flex w-full max-w-6xl flex-wrap items-center justify-between gap-4 px-6 py-4">
+      <div className="mx-auto flex w-full max-w-6xl flex-wrap items-center justify-between gap-x-4 gap-y-2 px-4 py-3 sm:px-6 sm:py-4">
         <Link
           href="/"
           className="flex items-center gap-3 font-display text-lg font-semibold tracking-wide"
         >
-          <span className="flex h-9 w-9 items-center justify-center overflow-hidden rounded-full bg-surface-2 ring-1 ring-accent/30">
+          <span className="flex h-9 w-9 shrink-0 items-center justify-center overflow-hidden rounded-full bg-surface-2 ring-1 ring-accent/30">
             <Image
               src="/images/Pangolin 3.png"
               alt="Pangolin Resinworks"
@@ -23,13 +23,21 @@ export async function SiteHeader() {
               className="h-full w-full object-contain"
             />
           </span>
-          Pangolin Resinworks
+          <span className="hidden sm:inline">Pangolin Resinworks</span>
         </Link>
 
-        <form
-          action="/products"
-          className="order-3 w-full sm:order-none sm:w-auto sm:flex-1 sm:max-w-xs"
-        >
+        <nav className="flex items-center gap-3 text-xs font-medium uppercase tracking-wide sm:gap-6 sm:text-sm">
+          <Link
+            href="/products"
+            className="text-foreground/70 transition-colors hover:text-accent"
+          >
+            {dict.common.allProducts}
+          </Link>
+          <LanguageSwitcher />
+          <CartIcon />
+        </nav>
+
+        <form action="/products" className="order-3 w-full sm:order-none sm:w-auto sm:flex-1 sm:max-w-xs">
           <div className="relative">
             <svg
               aria-hidden
@@ -44,21 +52,10 @@ export async function SiteHeader() {
               type="search"
               name="q"
               placeholder={dict.header.searchPlaceholder}
-              className="w-full rounded-full border border-border bg-surface py-2 pl-9 pr-3 text-sm outline-none transition-colors focus:border-accent/50"
+              className="w-full rounded-full border border-border bg-surface py-1.5 pl-9 pr-3 text-sm outline-none transition-colors focus:border-accent/50 sm:py-2"
             />
           </div>
         </form>
-
-        <nav className="flex items-center gap-6 text-sm font-medium uppercase tracking-wide">
-          <Link
-            href="/products"
-            className="text-foreground/70 transition-colors hover:text-accent"
-          >
-            {dict.common.allProducts}
-          </Link>
-          <LanguageSwitcher />
-          <CartIcon />
-        </nav>
       </div>
     </header>
   );
