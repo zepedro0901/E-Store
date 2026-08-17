@@ -5,16 +5,14 @@ import { saveOrder } from "@/lib/orders";
 import { checkRateLimit } from "@/lib/rate-limit";
 import { getDictionary } from "@/i18n/get-dictionary";
 import { EU_COUNTRIES } from "@/lib/shipping";
+import { resolveCartItem } from "@/lib/products";
+import type { CartItem } from "@/types/product";
 
 const cartItemSchema = z.object({
   productId: z.string().min(1),
   slug: z.string().min(1),
-  name: z.string().min(1),
-  price: z.number().int().nonnegative(),
-  image: z.string().min(1),
   quantity: z.number().int().positive().max(99),
   variationId: z.string().optional(),
-  variationLabel: z.string().optional(),
 });
 
 const requestSchema = z.object({
@@ -54,10 +52,16 @@ export async function POST(request: Request) {
     );
   }
 
-  const order = await saveOrder(parsed.data.customer, parsed.data.items);
+  const resolved = parsed.data.items.map(resolveCartItem);
+  if (resolved.some((item) => item === null)) {
+    return NextResponse.json({ error: dict.api.invalidOrder }, { status: 400 });
+  }
+  const items = resolved as CartItem[];
+
+  const order = await saveOrder(parsed.data.customer, items);
 
   try {
-    await sendOrderRequestEmail(parsed.data.customer, parsed.data.items, order.orderNumber);
+    await sendOrderRequestEmail(parsed.data.customer, order.items, order.orderNumber);
   } catch (err) {
     console.error("Failed to send order request email:", err);
     return NextResponse.json(

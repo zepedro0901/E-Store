@@ -1,7 +1,7 @@
 import categoriesData from "../../data/categories.json";
 import themesData from "../../data/themes.json";
 import productsData from "../../data/products.json";
-import type { Category, Product, SortOption, Theme } from "@/types/product";
+import type { CartItem, Category, Product, SortOption, Theme } from "@/types/product";
 import { defaultLocale, type Locale } from "@/i18n/locales";
 
 const categories = (categoriesData as Category[]).filter((c) => !c.hidden);
@@ -98,6 +98,42 @@ export function getFeaturedProducts(
     .filter((p) => p.featured)
     .slice(0, limit)
     .map((p) => localizeProduct(p, locale));
+}
+
+// Re-derives a cart item's price/name/image from the catalog instead of
+// trusting the client-supplied values, so a tampered checkout request can't
+// force an arbitrary price. Returns null if the product/variation doesn't
+// exist (or is hidden), which the caller should treat as an invalid order.
+export function resolveCartItem(
+  item: Pick<CartItem, "productId" | "slug" | "variationId" | "quantity">,
+): CartItem | null {
+  const product = products.find(
+    (p) => p.slug === item.slug && p.id === item.productId,
+  );
+  if (!product) return null;
+
+  let price = product.price;
+  let image = product.images[0] ?? "";
+  let variationLabel: string | undefined;
+
+  if (item.variationId) {
+    const variation = product.variations?.find((v) => v.id === item.variationId);
+    if (!variation) return null;
+    price = variation.price ?? product.price;
+    image = variation.image ?? image;
+    variationLabel = variation.label;
+  }
+
+  return {
+    productId: product.id,
+    slug: product.slug,
+    name: product.name,
+    price,
+    image,
+    quantity: item.quantity,
+    variationId: item.variationId,
+    variationLabel,
+  };
 }
 
 export function getProductPriceRange(product: Product): {
