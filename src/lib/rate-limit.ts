@@ -1,18 +1,24 @@
-const WINDOW_MS = 10 * 60 * 1000;
+import { sql } from "drizzle-orm";
+import { getDb } from "@/db";
+import { rateLimits } from "@/db/schema";
+
+const WINDOW_SECONDS = 10 * 60;
 const MAX_REQUESTS = 5;
 
-const requestLog = new Map<string, number[]>();
+export async function checkRateLimit(key: string): Promise<boolean> {
+  const db = getDb();
 
-export function checkRateLimit(key: string): boolean {
-  const now = Date.now();
-  const timestamps = (requestLog.get(key) ?? []).filter((t) => now - t < WINDOW_MS);
+  const [row] = await db
+    .insert(rateLimits)
+    .values({ key, windowStart: sql`now()`, count: 1 })
+    .onConflictDoUpdate({
+      target: rateLimits.key,
+      set: {
+        count: sql`CASE WHEN ${rateLimits.windowStart} < now() - (interval '1 second' * ${WINDOW_SECONDS}) THEN 1 ELSE ${rateLimits.count} + 1 END`,
+        windowStart: sql`CASE WHEN ${rateLimits.windowStart} < now() - (interval '1 second' * ${WINDOW_SECONDS}) THEN now() ELSE ${rateLimits.windowStart} END`,
+      },
+    })
+    .returning({ count: rateLimits.count });
 
-  if (timestamps.length >= MAX_REQUESTS) {
-    requestLog.set(key, timestamps);
-    return false;
-  }
-
-  timestamps.push(now);
-  requestLog.set(key, timestamps);
-  return true;
+  return row.count <= MAX_REQUESTS;
 }

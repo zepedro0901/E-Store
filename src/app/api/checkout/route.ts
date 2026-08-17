@@ -35,7 +35,7 @@ export async function POST(request: Request) {
   const { dict } = await getDictionary();
 
   const ip = request.headers.get("x-forwarded-for")?.split(",")[0]?.trim() || "unknown";
-  if (!checkRateLimit(ip)) {
+  if (!(await checkRateLimit(ip))) {
     return NextResponse.json({ error: dict.api.rateLimit }, { status: 429 });
   }
 

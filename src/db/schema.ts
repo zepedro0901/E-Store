@@ -15,3 +15,9 @@ export const orderCounters = pgTable("order_counters", {
   year: integer("year").primaryKey(),
   lastSeq: integer("last_seq").notNull().default(0),
 });
+
+export const rateLimits = pgTable("rate_limits", {
+  key: text("key").primaryKey(),
+  windowStart: timestamp("window_start", { withTimezone: true }).notNull().defaultNow(),
+  count: integer("count").notNull().default(1),
+});
