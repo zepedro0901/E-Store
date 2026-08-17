@@ -194,7 +194,17 @@ const en = {
     privacy: "Privacy Policy",
     shipping: "Shipping",
     terms: "Terms of Service",
+    contact: "Contact",
     help: "Help",
+  },
+  contact: {
+    metaTitle: "Contact",
+    title: "Contact Us",
+    subtitle:
+      "Got a question about an order, a miniature, or anything else? We'd love to hear from you.",
+    intro:
+      "Pangolin Resinworks is just the two of us, so every message gets a real, personal reply — we just ask for a little patience if it takes us a day or two to get back to you.",
+    emailLabel: "Email",
   },
   faq: {
     metaTitle: "FAQ",

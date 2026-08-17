@@ -196,7 +196,17 @@ const pt: Dictionary = {
     privacy: "Política de Privacidade",
     shipping: "Envio",
     terms: "Termos de Serviço",
+    contact: "Contacto",
     help: "Ajuda",
+  },
+  contact: {
+    metaTitle: "Contacto",
+    title: "Contacte-nos",
+    subtitle:
+      "Tem uma pergunta sobre uma encomenda, uma miniatura, ou outra coisa qualquer? Adorávamos ouvir de si.",
+    intro:
+      "A Pangolin Resinworks somos só nós os dois, por isso cada mensagem recebe uma resposta pessoal e verdadeira — pedimos apenas um pouco de paciência se demorarmos um dia ou dois a responder.",
+    emailLabel: "Email",
   },
   faq: {
     metaTitle: "Perguntas Frequentes",

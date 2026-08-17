@@ -1,5 +1,7 @@
 import type { Metadata } from "next";
 import { Big_Shoulders, Geist, Geist_Mono } from "next/font/google";
+import { Analytics } from "@vercel/analytics/next";
+import { SpeedInsights } from "@vercel/speed-insights/next";
 import { SiteHeader } from "@/components/SiteHeader";
 import { SiteFooter } from "@/components/SiteFooter";
 import { CartHydration } from "@/components/CartHydration";
@@ -51,6 +53,8 @@ export default async function RootLayout({
           <main className="flex flex-1 flex-col">{children}</main>
           <SiteFooter />
         </LocaleProvider>
+        <Analytics />
+        <SpeedInsights />
       </body>
     </html>
   );

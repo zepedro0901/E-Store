@@ -137,6 +137,14 @@ export async function SiteFooter() {
                 {dict.policiesNav.terms}
               </Link>
             </li>
+            <li>
+              <Link
+                href="/contact"
+                className="text-foreground/65 transition-colors hover:text-accent"
+              >
+                {dict.policiesNav.contact}
+              </Link>
+            </li>
           </ul>
         </div>
       </div>
