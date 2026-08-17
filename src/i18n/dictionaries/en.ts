@@ -44,9 +44,9 @@ const en = {
     newestArrivals: "Newest Arrivals",
   },
   home: {
-    heroKicker: "Resin Miniatures",
-    heroTitleLine1: "Printed",
-    heroTitleLine2: "to Order",
+    heroKicker: "Printed to Order",
+    heroTitleLine1: "Resin",
+    heroTitleLine2: "Miniatures",
     heroSubtitle:
       "Printed, cured, and finished by hand — one miniature at a time. A growing catalog of dark fantasy characters, monsters, and dragons.",
     exploreCollections: "Explore Collections",

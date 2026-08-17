@@ -46,9 +46,9 @@ const pt: Dictionary = {
     newestArrivals: "Novidades",
   },
   home: {
-    heroKicker: "Miniaturas em Resina",
-    heroTitleLine1: "Impressas",
-    heroTitleLine2: "por Encomenda",
+    heroKicker: "Impressas por Encomenda",
+    heroTitleLine1: "Miniaturas",
+    heroTitleLine2: "em Resina",
     heroSubtitle:
       "Impressas, curadas e acabadas à mão — uma miniatura de cada vez. Um catálogo crescente de personagens fantásticos, monstros e dragões.",
     exploreCollections: "Explorar Coleções",
