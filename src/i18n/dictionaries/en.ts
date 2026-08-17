@@ -319,7 +319,7 @@ const en = {
       {
         heading: "Cookies",
         paragraphs: [
-          "Our website sets one small cookie to remember your language preference (English or Portuguese). We don't use tracking, analytics, or advertising cookies.",
+          "Our website sets one small cookie to remember your language preference (English or Portuguese). We also use Vercel Web Analytics and Speed Insights, which are cookieless — they don't set cookies or track you across sites. We don't use advertising cookies or cross-site tracking.",
         ],
       },
       {

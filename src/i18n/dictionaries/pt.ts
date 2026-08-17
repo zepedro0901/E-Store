@@ -321,7 +321,7 @@ const pt: Dictionary = {
       {
         heading: "Cookies",
         paragraphs: [
-          "O nosso site utiliza apenas um pequeno cookie para memorizar a sua preferência de idioma (português ou inglês). Não usamos cookies de rastreio, análise ou publicidade.",
+          "O nosso site utiliza apenas um pequeno cookie para memorizar a sua preferência de idioma (português ou inglês). Também utilizamos o Vercel Web Analytics e o Speed Insights, que não usam cookies nem o rastreiam entre sites. Não usamos cookies de publicidade nem rastreio entre sites.",
         ],
       },
       {
