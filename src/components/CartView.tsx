@@ -36,9 +36,6 @@ export function CartView() {
   return (
     <div className="flex flex-col gap-8">
       <p className="rounded-xl border border-accent/30 bg-accent/5 p-3 text-xs leading-relaxed text-foreground/70">
-        {dict.cart.freeShippingInfo}
-      </p>
-      <p className="rounded-xl border border-accent/30 bg-accent/5 p-3 text-xs leading-relaxed text-foreground/70">
         {dict.cart.orderNotice}
       </p>
       <div className="flex flex-col divide-y divide-border border border-border">
@@ -161,6 +158,9 @@ export function CartView() {
           </Link>
         </div>
       </div>
+      <p className="w-fit self-end rounded-xl border border-accent/30 bg-accent/5 p-3 text-right text-xs leading-relaxed text-foreground/70 end-auto">
+        {dict.cart.freeShippingInfo}
+      </p>
     </div>
   );
 }

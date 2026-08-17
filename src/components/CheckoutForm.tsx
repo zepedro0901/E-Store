@@ -198,7 +198,15 @@ export function CheckoutForm() {
             </span>
           </div>
           <div className="flex items-center justify-between text-sm">
-            <span className="text-foreground/55">{dict.checkout.shippingLabel}</span>
+            <span className="text-foreground/55">
+              {dict.checkout.shippingLabel}
+              <span
+                title={dict.cart.freeShippingInfo}
+                className="ml-2 inline-flex h-4 w-4 cursor-help items-center justify-center rounded-full border border-foreground/30 text-[10px] leading-none text-foreground/55"
+              >
+                ?
+              </span>
+            </span>
             <span className="font-mono text-foreground/70">
               {shipping === 0
                 ? dict.checkout.freeShipping

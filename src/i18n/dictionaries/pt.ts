@@ -46,11 +46,11 @@ const pt: Dictionary = {
     newestArrivals: "Novidades",
   },
   home: {
-    heroKicker: "001 — Miniaturas em Resina",
-    heroTitleLine1: "Impressas por",
-    heroTitleLine2: "encomenda",
+    heroKicker: "Miniaturas em Resina",
+    heroTitleLine1: "Impressas",
+    heroTitleLine2: "por Encomenda",
     heroSubtitle:
-      "Impressas, curadas e acabadas à mão — uma miniatura de cada vez. Um catálogo crescente de personagens de fantásticos, monstros e dragões.",
+      "Impressas, curadas e acabadas à mão — uma miniatura de cada vez. Um catálogo crescente de personagens fantásticos, monstros e dragões.",
     exploreCollections: "Explorar Coleções",
     statMiniatures: "Miniaturas no catálogo",
     statCollections: "Coleções selecionadas",
@@ -141,10 +141,10 @@ const pt: Dictionary = {
     each: "{price} cada",
     removeAria: "Remover {name}",
     clearCart: "Esvaziar Carrinho",
-    requestToOrder: "Pedido de Encomenda",
+    requestToOrder: "Encomendar",
     freeShippingInfo: "Envio grátis em encomendas acima de 50€ para Portugal, ou acima de 100€ para o resto da UE.",
     orderNotice:
-      "Ao submeter este carrinho, está a enviar um pedido de encomenda — não um pagamento. Vamos analisá-lo e confirmá-lo primeiro; só paga as miniaturas e o envio depois de aceitarmos a encomenda, e a produção começa após o pagamento.",
+      "Ao submeter este carrinho, está a enviar um pedido de encomenda — não um pagamento. Só paga as miniaturas e o envio depois de aceitarmos a encomenda, e a produção começa após o pagamento.",
   },
   checkout: {
     title: "Preencher dados de encomenda",
@@ -165,7 +165,7 @@ const pt: Dictionary = {
     sending: "A enviar…",
     submit: "Enviar Pedido de Encomenda",
     disclaimer:
-      "Isto envia um pedido de encomenda, não um pagamento. Vamos analisá-lo e responder para confirmar — só paga as miniaturas e o envio depois de aceitarmos a encomenda, e a produção começa após o pagamento.",
+      "Isto envia um pedido de encomenda, não um pagamento. Só paga as miniaturas e o envio depois de aceitarmos a encomenda, e a produção começa após o pagamento.",
     orderSummary: "Resumo da Encomenda",
     shippingLabel: "Envio",
     freeShipping: "Grátis",
@@ -444,7 +444,7 @@ const pt: Dictionary = {
       {
         heading: "Embalagem",
         paragraphs: [
-          "Embalamos todas as encomendas em espuma de esferovite resistente e leve, com caixas de parede dupla e reforço extra quando necessário. É a combinação mais fiável e ecológica que encontrámos ao longo de dois anos a enviar miniaturas em resina.",
+          "Embalamos todas as encomendas com esferas de esferovite resistentes e leves, com caixas de parede dupla e reforço extra quando necessário. É a combinação mais fiável e ecológica que encontrámos ao longo de dois anos a enviar miniaturas em resina.",
         ],
       },
       {

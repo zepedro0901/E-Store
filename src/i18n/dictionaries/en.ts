@@ -44,9 +44,9 @@ const en = {
     newestArrivals: "Newest Arrivals",
   },
   home: {
-    heroKicker: "001 — Resin Miniatures",
-    heroTitleLine1: "Printed to",
-    heroTitleLine2: "order",
+    heroKicker: "Resin Miniatures",
+    heroTitleLine1: "Printed",
+    heroTitleLine2: "to Order",
     heroSubtitle:
       "Printed, cured, and finished by hand — one miniature at a time. A growing catalog of dark fantasy characters, monsters, and dragons.",
     exploreCollections: "Explore Collections",
@@ -362,7 +362,7 @@ const en = {
       {
         heading: "Order Requests, Not Instant Purchase",
         paragraphs: [
-          "Submitting the checkout form sends us an order request — it is not a payment or a binding sale. We review each request and reply by email to confirm it. You only pay for the miniatures and shipping once we've confirmed the order, and production only begins after payment is received. We reserve the right to decline any order request, for example if an item is unavailable or a listing contains an error.",
+          "Submitting the checkout form sends us an order request — it is not a payment or a binding sale. You only pay for the miniatures and shipping once we've confirmed the order, and production only begins after payment is received. We reserve the right to decline any order request, for example if an item is unavailable or a listing contains an error.",
         ],
       },
       {
