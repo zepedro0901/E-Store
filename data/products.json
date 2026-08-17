@@ -52213,9 +52213,7 @@
     "name": "Arena Terrain – Crucible Traps",
     "category": "dm-stash",
     "tags": [
-      "crucible-of-the-chosen",
-      "terrain"
-    ],
+      "crucible-of-the-chosen"    ],
     "price": 0,
     "currency": "EUR",
     "description": "An assortment of various sharp or spiky objects perfect for kicking or throwing your foes into. The blood stains and bones lodged between them suggests they have seen much usage in the past, though not as much cleaning. It is also entirely possible the divine have simply willed it to be like this, as some sort of morale test.",
@@ -53011,8 +53009,8 @@
     "name": "Ballroom of Castle Beaufax",
     "category": "dm-stash",
     "tags": [
-      "crimson-masquerade",
-      "terrain"
+      "crimson-masquerade"
+      
     ],
     "price": 0,
     "currency": "EUR",
@@ -53227,8 +53225,8 @@
     "name": "Bastion of the Wandering Mage",
     "category": "dm-stash",
     "tags": [
-      "bastion-of-the-wandering-mage",
-      "terrain"
+      "bastion-of-the-wandering-mage"
+      
     ],
     "price": 0,
     "currency": "EUR",
@@ -55009,9 +55007,7 @@
     "name": "Clashed Realms – Impossible Room",
     "category": "dm-stash",
     "tags": [
-      "hell-at-heaven-s-gate",
-      "terrain"
-    ],
+      "hell-at-heaven-s-gate"    ],
     "price": 0,
     "currency": "EUR",
     "description": "A meeting place of planes within Syelden. It exists both within and beyond Syelden’s expanse at once. Here time ticks at a different pace, for one week within is only one day in most planes beyond. It is a place of training, respite, and of transportation through the infinite planes of Syelden. During the invasion, it is used for respite, for the Dark Spawn of Mindoriel do not know of its existence, yet.",
@@ -55172,9 +55168,7 @@
     "name": "Cordelia's Cottage – Fungi Homestead Terrain",
     "category": "dm-stash",
     "tags": [
-      "the-fey-court",
-      "terrain"
-    ],
+      "the-fey-court"    ],
     "price": 0,
     "currency": "EUR",
     "description": "The quaint but comfortable home of the hermit Cordelia. Nestled in a small clearing within Steinved Forest.",
@@ -56067,9 +56061,7 @@
     "name": "Dragonmaw Keep – Mountain Keep Terrain Set",
     "category": "dm-stash",
     "tags": [
-      "clash-of-the-dragons",
-      "terrain"
-    ],
+      "clash-of-the-dragons"    ],
     "price": 0,
     "currency": "EUR",
     "description": "The enormous fortress built atop the isle's tallest peak, this citadel is home to Azmordion and the Silverscales.",
@@ -58238,9 +58230,7 @@
     "name": "Founders’ Dining Hall – Arcane University Hall",
     "category": "dm-stash",
     "tags": [
-      "the-arcane-university",
-      "terrain"
-    ],
+      "the-arcane-university"    ],
     "price": 0,
     "currency": "EUR",
     "description": "The centrepiece and most grand building of the university. On its ground level is the Founders’ Dining Hall, a grandiose place where the students receive their daily dinners and lunches. While attendance to such meals is not mandatory, students are seldom to pass up a meal already paid in their tuition, and the food far surpasses anything they might find elsewhere in the city, brought fresh from the kitchens in the basement.",
@@ -59636,8 +59626,8 @@
     "name": "Halls of Khandara",
     "category": "dm-stash",
     "tags": [
-      "a-colossal-threat",
-      "terrain"
+      "a-colossal-threat"
+      
     ],
     "price": 0,
     "currency": "EUR",
@@ -60478,9 +60468,7 @@
     "name": "Hunter’s Respite – Mountaintop Encampment",
     "category": "dm-stash",
     "tags": [
-      "a-wild-hunt",
-      "terrain"
-    ],
+      "a-wild-hunt"    ],
     "price": 0,
     "currency": "EUR",
     "description": "A WEHL encampment that boasts formidable defenses against the wilds of Tharador. This campsite formation is a standard sight among larger WEHL squads.",
@@ -63609,9 +63597,7 @@
     "name": "Limlight – Plagued Village",
     "category": "dm-stash",
     "tags": [
-      "the-dire-end",
-      "terrain"
-    ],
+      "the-dire-end"    ],
     "price": 0,
     "currency": "EUR",
     "description": "A quaint village near the border of Belfrie. Limlight is a historical settlement noted for being the site of a great battle during the Belfrie Rebellion at the end of the Second Era. Whilst it saw devastation then, it has long since been rebuilt, though has been seen as a place of significance and interest by historians and other scholars. Now, it is the site of a new battle, as a second Dragonblight outbreak threatens to engulf Tharador, it is here that the disease started, and must be quelled before it breaks the arcane containment that surrounds the village.",
@@ -65786,9 +65772,7 @@
     "name": "Nosaryni – The Burning Doors",
     "category": "dm-stash",
     "tags": [
-      "beyond-heaven-and-hell",
-      "terrain"
-    ],
+      "beyond-heaven-and-hell"    ],
     "price": 0,
     "currency": "EUR",
     "description": "Doors from the Nocturnal Abyss that have broken through the Gems of Edraves for a moment, cementing their place on Tharador long enough to unleash a hellish rebuke upon the serene land. Though the gates don’t stay open long before they falter and collapse, it is enough time for Nosmarka’s spawn to wreak havoc upon wherever they first opened. The only solution to stopping them is to dive feet first into hell and cut down whoever is making them.",
@@ -67596,9 +67580,7 @@
     "name": "Ruins of Arkani – Ancient Anshani Walls",
     "category": "dm-stash",
     "tags": [
-      "orcish-incursion",
-      "terrain"
-    ],
+      "orcish-incursion"    ],
     "price": 0,
     "currency": "EUR",
     "description": "The Ruins of an old Anshani research post reclaimed by dense forest. This building’s original purpose is a mystery, thought to have housed a small garrison of Anshani researchers and agents centuries before the Great Departure. What they were doing is unclear, as the building itself was abandoned a few decades before the Departure, and all its records stripped clean. What remains is an empty shell, ripe for squatters of all sorts to call their home.",
@@ -67621,9 +67603,7 @@
     "name": "Ruins of Duradi – Anshani Ancient Outpost",
     "category": "dm-stash",
     "tags": [
-      "lost-found",
-      "terrain"
-    ],
+      "lost-found"    ],
     "price": 0,
     "currency": "EUR",
     "description": "The Ruins of Duradi, known for its poignant feature “The Begging Hand,” stand as haunting remnants of the lost Anshani Empire. Once a formidable statue donning Anshani armour, it is now a weathered monolith silently pleading to the heavens. Duradi, a former research base housing humans and the site of innumerable experiments on Kurorgor the Black, has since been claimed by the Lost Soulforged as their haven post the Great Departure. The ruins also shelter their Orcish disciples, making Duradi an enduring symbol of resilience and the constant ebb and flow of power on Godless Isle.",
@@ -67646,9 +67626,7 @@
     "name": "Ruins of Terataya – Ancient Temple Ruins",
     "category": "dm-stash",
     "tags": [
-      "the-great-crusade",
-      "terrain"
-    ],
+      "the-great-crusade"    ],
     "price": 0,
     "currency": "EUR",
     "description": "Long buried by the sands, these ruins first saw life as an ancient Sun Elven outpost during the First Era. When humans began to settle the land, it was abandoned, though built upon by the Goltians to become a temple to the Tharameni. After the fall of Golita, it has remained empty, though for reasons not yet known to the Church, the undead in the area are congregating here.",
@@ -67885,9 +67863,7 @@
     "name": "Sanctum of Glanbeli – Drow Moon Shrine",
     "category": "dm-stash",
     "tags": [
-      "drow-from-beyond",
-      "terrain"
-    ],
+      "drow-from-beyond"    ],
     "price": 0,
     "currency": "EUR",
     "description": "A sacred shrine of Glanbeli that is the current target of Vaezirak and his followers.",
@@ -70290,9 +70266,7 @@
     "name": "Terrain – Bones of Cazarion",
     "category": "dm-stash",
     "tags": [
-      "rise-of-the-dragon",
-      "terrain"
-    ],
+      "rise-of-the-dragon"    ],
     "price": 0,
     "currency": "EUR",
     "description": "Cazarion was the last Mineran Dragon of the hollow, called a divine messenger by some and a tyrant by others. The story of his death is the subject of many ballads, tales and epic sagas told throughout the Hollow. Details change each time, and it seems the true cause is lost to history. If his bones are to be believed, he was skewered by dozens of ballistae in his final flight against the forces of Rokarthion, but some attribute these to having been planted by Rokarthion years after the elder’s death.",
@@ -70316,9 +70290,7 @@
     "name": "Terrain – Granny Nora’s Hovel",
     "category": "dm-stash",
     "tags": [
-      "a-new-leaf",
-      "terrain"
-    ],
+      "a-new-leaf"    ],
     "price": 0,
     "currency": "EUR",
     "description": "The interior of the hovel of Granny Nora. It has been used by her for sixty years while her nefarious schemes poisoned Tryamin Forest. To the unassuming observer, all the interior of her hovel is quaint and cute, the collections of a druidic maiden, the persona she projects. Yet beneath the veneer is the darker truth, as sickly scents and revolting sights are the true form of her home’s interior.",
@@ -70341,9 +70313,7 @@
     "name": "Terrain Set – A Place of Respite",
     "category": "dm-stash",
     "tags": [
-      "adventure-calls",
-      "terrain"
-    ],
+      "adventure-calls"    ],
     "price": 0,
     "currency": "EUR",
     "description": "A place of respite and rest for any weary adventurer. An adventurer’s camp is their home away from home, where their woes are forgotten and their wounds healed. Though do not be completely careless, for peril can still strike at home, and the denizens of Tharador are oft drawn by the warmth of fire at night.",
@@ -70366,9 +70336,7 @@
     "name": "Terrain Set – Cemetery of the Damned",
     "category": "dm-stash",
     "tags": [
-      "bound-in-the-bloodmoon",
-      "terrain"
-    ],
+      "bound-in-the-bloodmoon"    ],
     "price": 0,
     "currency": "EUR",
     "description": "An old abandoned cemetery that has not seen use in half a century, quickly exceeding capacity during the Bloodlung outbreak.",
@@ -70391,9 +70359,7 @@
     "name": "Terrain Set – Crescent Moon Casino",
     "category": "dm-stash",
     "tags": [
-      "betting-in-blood",
-      "terrain"
-    ],
+      "betting-in-blood"    ],
     "price": 0,
     "currency": "EUR",
     "description": "An old bordello transformed into the magnificent jewel of Tradver City, seen by all who enter via Dream's Doorway.",
@@ -70415,9 +70381,7 @@
     "name": "Terrain Set – Grimgate Sewers",
     "category": "dm-stash",
     "tags": [
-      "cogs-of-revolution",
-      "terrain"
-    ],
+      "cogs-of-revolution"    ],
     "price": 0,
     "currency": "EUR",
     "description": "A honeycomb network of storm drains and sewer tunnels that runs beneath the streets of Tharador's largest city.",
@@ -70439,9 +70403,7 @@
     "name": "Terrain Set – Kazadran Mines",
     "category": "dm-stash",
     "tags": [
-      "dwarves-of-the-deep",
-      "terrain"
-    ],
+      "dwarves-of-the-deep"    ],
     "price": 0,
     "currency": "EUR",
     "description": "A silver and jewel mine that has been overrun with Troggs and other foul creatures in the wake of the Rupture and its aftershocks.",
@@ -70463,9 +70425,7 @@
     "name": "Terrain Set – Koldeni Encampment",
     "category": "dm-stash",
     "tags": [
-      "war-of-the-elements",
-      "terrain"
-    ],
+      "war-of-the-elements"    ],
     "price": 0,
     "currency": "EUR",
     "description": "The bulwark encampment of the invading Elemi from Abunen Kolden, composed of palisades and watchtowers built of stakes.",
@@ -70493,9 +70453,7 @@
     "name": "Terrain Set – Lion's Den Citadel",
     "category": "dm-stash",
     "tags": [
-      "a-grim-siege",
-      "terrain"
-    ],
+      "a-grim-siege"    ],
     "price": 0,
     "currency": "EUR",
     "description": "Perched atop Beckett Rock and looming over Grimhelm like an iron sentinel, Lion's Den Citadel has stood as the military heart of Baldur for centuries.",
@@ -70517,9 +70475,7 @@
     "name": "Terrain Set – Nosmarka's Hellish Abyss",
     "category": "dm-stash",
     "tags": [
-      "devils-divine",
-      "terrain"
-    ],
+      "devils-divine"    ],
     "price": 0,
     "currency": "EUR",
     "description": "The evershifting arena of Nosmarka's Abyss. Islands here rise and fall as though they were bound by a tide.",
@@ -70542,7 +70498,6 @@
     "category": "dm-stash",
     "tags": [
       "a-grim-fate",
-      "terrain",
       "variations"
     ],
     "price": 300,
@@ -70589,9 +70544,7 @@
     "name": "Terrain Set – The Defiled Chalice of Namneri",
     "category": "dm-stash",
     "tags": [
-      "aberrant-ascensions",
-      "terrain"
-    ],
+      "aberrant-ascensions"    ],
     "price": 0,
     "currency": "EUR",
     "description": "As Dragonblight swept the land, Hendrak teleported into Syelden itself where he would pilfer the Chalice for his ascension.",
@@ -70616,9 +70569,7 @@
     "name": "Terrain Set – The Shifting Foundry",
     "category": "dm-stash",
     "tags": [
-      "the-baldurian-inquisition",
-      "terrain"
-    ],
+      "the-baldurian-inquisition"    ],
     "price": 0,
     "currency": "EUR",
     "description": "A secretive foundry held by Baldur's Crown in an unsuspecting building in Grimhelm, home to daring experiments.",
@@ -70640,9 +70591,7 @@
     "name": "Terrain Set – The Silent Garden",
     "category": "dm-stash",
     "tags": [
-      "an-eastern-journey",
-      "terrain"
-    ],
+      "an-eastern-journey"    ],
     "price": 0,
     "currency": "EUR",
     "description": "A demiplane created by the powerful magics of the Cult, used as a means to store captives they consider dangerous.",
@@ -71197,9 +71146,7 @@
     "name": "The Bloodied Cairn – Ritual Site",
     "category": "dm-stash",
     "tags": [
-      "shadow-over-nordheim",
-      "terrain"
-    ],
+      "shadow-over-nordheim"    ],
     "price": 0,
     "currency": "EUR",
     "description": "An old stone circle that has stood since the First Era. Any true history of this ominous formation is lost to legend.",
@@ -71302,9 +71249,7 @@
     "name": "The Crucible",
     "category": "dm-stash",
     "tags": [
-      "welcome-to-the-arena",
-      "terrain"
-    ],
+      "welcome-to-the-arena"    ],
     "price": 0,
     "currency": "EUR",
     "description": "Hidden in the Steelpeak Mountains of Belfrie, the Crucible is an open secret of Tharador’s High Society. Spectators come from across the continent, all of whom do so via teleportation circles hidden in plain sight in major cities. Its yearly tournament is currently underway, with spectators arriving from all corners of Tharador to empty or bolster their coffers as blood is spilled on the sand and wine fills their gullets.",
@@ -71331,9 +71276,7 @@
     "name": "The Damned Galleon – Shipwreck Terrain Set",
     "category": "dm-stash",
     "tags": [
-      "blood-on-the-sails",
-      "terrain"
-    ],
+      "blood-on-the-sails"    ],
     "price": 0,
     "currency": "EUR",
     "description": "The aft-most part of the Damned Galleon washed ashore after it met its gruesome end. A handful of its cursed bounty landed with it.",
@@ -71615,9 +71558,7 @@
     "name": "The Mole’s Hole – Crime Syndicate Hideout",
     "category": "dm-stash",
     "tags": [
-      "law-disorder",
-      "terrain"
-    ],
+      "law-disorder"    ],
     "price": 0,
     "currency": "EUR",
     "description": "Located on a small hillock in Grimgate’s outskirts, the Mole’s Hole is a well-kept establishment that whets the whistle of any travellers making their way out the city, or who just arrived. Little do they know that beneath their feet, the masterminds of one of Baldur’s deadliest crime syndicates sketch out their macabre plans and greet each other with bloodstained hands.",
@@ -71932,9 +71873,7 @@
     "category": "dm-stash",
     "tags": [
       "elves-of-the-golden-sun",
-      "dice-tower",
-      "terrain"
-    ],
+      "dice-tower"    ],
     "price": 0,
     "currency": "EUR",
     "description": "The towering spire that is visible miles away from its place in Hinatal, its spherical glass topper shining from dusk until dawn. It is in this temple that the Teardrop of Glanion is housed, a powerful artefact capable of temporarily harnessing the power of the sun, a tool of potentially endless destruction. Many have sought it for its power, and the enormous amount of Breath contained within it.",
@@ -72273,7 +72212,6 @@
     "category": "dm-stash",
     "tags": [
       "the-siege-of-nirloom",
-      "terrain",
       "variations"
     ],
     "price": 300,
@@ -75345,9 +75283,7 @@
     "name": "Xylanth’s Lair",
     "category": "dm-stash",
     "tags": [
-      "under-darkness",
-      "terrain"
-    ],
+      "under-darkness"    ],
     "price": 0,
     "currency": "EUR",
     "description": "The lair of the Phase Spider Broodmother, Xylanth. Here the creature has made its home, where its victims from all over the Underground meet their final resting place. It is a wicked place of darkness and fetid smells, hundreds of years of decay and black ichor staining the ground.",
@@ -75558,9 +75494,7 @@
     "name": "Yomikage no Jinja – Shrine of the Underworld’s Shadow",
     "category": "dm-stash",
     "tags": [
-      "spirits-from-the-east",
-      "terrain"
-    ],
+      "spirits-from-the-east"    ],
     "price": 0,
     "currency": "EUR",
     "description": "A Shrine dedicated to Yamarochi no Yomi found in the capital city of Shio. It is said that this shrine is a portal or gate to the Underworld of Yomi, but is constantly watched over by Yamarochi himself. In recent times the shrine has fallen into neglect as war ravages the landscape. Whether the site is truly a place one can travel to the underworld is unknown, but there have been instances where people have tried, and it’s mused they ultimately succeeded since they were found dead at the base of the shrine.",
