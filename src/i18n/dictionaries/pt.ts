@@ -275,7 +275,7 @@ const pt: Dictionary = {
       {
         heading: "Quem Somos",
         paragraphs: [
-          "A Pangolin Resinworks ([nome legal da empresa e morada a adicionar aqui]) é um pequeno estúdio, sediado em Portugal e gerido por duas pessoas, que vende miniaturas em resina feitas por encomenda. Pode contactar-nos em customerservice@pangolinresinworks.com.",
+          "A Pangolin Resinworks (Caminho de Sto António nº87, 9020-001 Funchal, Portugal) é um pequeno estúdio, sediado em Portugal e gerido por duas pessoas, que vende miniaturas em resina feitas por encomenda. Pode contactar-nos em customerservice@pangolinresinworks.com.",
         ],
       },
       {
@@ -342,7 +342,7 @@ const pt: Dictionary = {
       {
         heading: "Quem Somos",
         paragraphs: [
-          "A Pangolin Resinworks ([nome legal da empresa e morada a adicionar aqui]) é um pequeno estúdio, sediado em Portugal e gerido por duas pessoas, que vende miniaturas em resina feitas por encomenda através deste site. Pode contactar-nos em customerservice@pangolinresinworks.com.",
+          "A Pangolin Resinworks (Caminho de Sto António nº87, 9020-001 Funchal, Portugal) é um pequeno estúdio, sediado em Portugal e gerido por duas pessoas, que vende miniaturas em resina feitas por encomenda através deste site. Pode contactar-nos em customerservice@pangolinresinworks.com.",
         ],
       },
       {

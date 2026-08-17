@@ -273,7 +273,7 @@ const en = {
       {
         heading: "Who We Are",
         paragraphs: [
-          "Pangolin Resinworks ([legal business name and address to add here]) is a small, two-person studio based in Portugal, selling made-to-order resin miniatures. You can reach us at customerservice@pangolinresinworks.com.",
+          "Pangolin Resinworks (Caminho de Sto António nº87, 9020-001 Funchal, Portugal) is a small, two-person studio based in Portugal, selling made-to-order resin miniatures. You can reach us at customerservice@pangolinresinworks.com.",
         ],
       },
       {
@@ -340,7 +340,7 @@ const en = {
       {
         heading: "Who We Are",
         paragraphs: [
-          "Pangolin Resinworks ([legal business name and address to add here]) is a small, two-person studio based in Portugal, selling made-to-order resin miniatures through this website. You can reach us at customerservice@pangolinresinworks.com.",
+          "Pangolin Resinworks (Caminho de Sto António nº87, 9020-001 Funchal, Portugal) is a small, two-person studio based in Portugal, selling made-to-order resin miniatures through this website. You can reach us at customerservice@pangolinresinworks.com.",
         ],
       },
       {
