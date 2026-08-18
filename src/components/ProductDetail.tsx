@@ -47,7 +47,7 @@ export function ProductDetail({
           variationId={variationId}
           onVariationChange={handleVariationChange}
         />
-        <p className="text-sm leading-relaxed text-foreground/65">
+        <p className="text-justify text-sm leading-relaxed text-foreground/65">
           {product.description}
         </p>
         <dl className="grid grid-cols-2 gap-2 rounded-xl border border-border bg-surface p-4 text-sm">

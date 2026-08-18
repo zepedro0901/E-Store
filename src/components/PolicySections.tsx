@@ -13,7 +13,10 @@ export function PolicySections({ sections }: { sections: PolicySection[] }) {
           </h2>
           <div className="mt-3 flex flex-col gap-3">
             {section.paragraphs.map((paragraph, i) => (
-              <p key={i} className="text-sm leading-relaxed text-foreground/70 break-words">
+              <p
+                key={i}
+                className="text-justify text-sm leading-relaxed text-foreground/70 break-words"
+              >
                 {paragraph}
               </p>
             ))}

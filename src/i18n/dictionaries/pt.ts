@@ -205,7 +205,7 @@ const pt: Dictionary = {
     subtitle:
       "Tem uma pergunta sobre uma encomenda, uma miniatura, ou outra coisa qualquer? Adorávamos ouvir de si.",
     intro:
-      "A Pangolin Resinworks somos só nós os dois, por isso cada mensagem recebe uma resposta pessoal e verdadeira - pedimos apenas um pouco de paciência se demorarmos um dia ou dois a responder.",
+      "A Pangolin Resinworks é constituido por duas pessoas, por isso cada mensagem recebe uma resposta pessoal e verdadeira - pedimos apenas um pouco de paciência se demorarmos um dia ou dois a responder.",
     emailLabel: "Email",
   },
   faq: {
@@ -216,7 +216,7 @@ const pt: Dictionary = {
       {
         question: "Onde está a minha encomenda? Quanto tempo demora?",
         answer:
-          "Pode ficar descansado, imprimimos, limpamos e enviamos a sua encomenda o mais depressa possível. A Pangolin Resinworks somos só nós os dois, por isso em períodos de maior procura pode formar-se uma pequena fila de espera. O tempo médio de expedição é de 1 a 2 semanas. Se precisar da sua encomenda mais depressa, contacte-nos antes de encomendar e faremos o possível, dentro do razoável, para ajudar!",
+          "Pode ficar descansado, imprimimos, limpamos e enviamos a sua encomenda o mais depressa possível. A Pangolin Resinworks é constituida por duas pessoas, por isso em períodos de maior procura pode formar-se uma pequena fila de espera. O tempo médio de expedição é de 1 a 2 semanas. Se precisar da sua encomenda mais depressa, contacte-nos antes de encomendar e faremos o possível, dentro do razoável, para ajudar!",
       },
       {
         question: "Como são embaladas as minhas miniaturas?",
@@ -266,7 +266,9 @@ const pt: Dictionary = {
           "Por serem artigos feitos por encomenda, só são elegíveis para devolução se chegarem diferentes do descrito, com defeito, ou danificados. Não existe direito de devolução por arrependimento depois de a peça entrar em produção (ou seja, após o período de reflexão de 3 horas).",
           "A nossa política pode parecer diferente daquilo a que está habituado nos grandes retalhistas genéricos. Ao abrigo da legislação portuguesa e europeia de defesa do consumidor (Decreto-Lei n.º 24/2014, que transpõe a Diretiva 2011/83/UE relativa aos direitos dos consumidores), o direito de livre resolução de 14 dias não se aplica a bens confecionados segundo as especificações do consumidor ou claramente personalizados - o que abrange todas as miniaturas que imprimimos por encomenda.",
           "Para ter direito a uma devolução por um motivo válido, deve contactar-nos no prazo de 7 dias após a entrega. Ser-lhe-ão pedidas fotografias do artigo tal como o recebeu, juntamente com fotografias da embalagem original (isto ajuda-nos a reclamar junto da transportadora em caso de dano no transporte), além do recibo ou comprovativo de compra.",
-          "Para discutir qualquer problema com a sua encomenda, contacte-nos em customerservice@pangolinresinworks.com. Se for necessária uma devolução, enviaremos uma etiqueta de devolução, juntamente com instruções sobre como e para onde enviar a sua encomenda. Artigos devolvidos sem pedido prévio de devolução não serão aceites nem reembolsados.",
+          "Para discutir qualquer problema com a sua encomenda, contacte-nos em:",
+          "customerservice@pangolinresinworks.com.",
+          "Se for necessária uma devolução, enviaremos uma etiqueta de devolução, juntamente com instruções sobre como e para onde enviar a sua encomenda. Artigos devolvidos sem pedido prévio de devolução não serão aceites nem reembolsados.",
         ],
       },
       {
@@ -347,7 +349,7 @@ const pt: Dictionary = {
   terms: {
     metaTitle: "Termos de Serviço",
     title: "Termos de Serviço",
-    updated: "Última atualização: 16 de agosto de 2026",
+    updated: "Última atualização: 18 de agosto de 2026",
     sections: [
       {
         heading: "Quem Somos",
@@ -412,7 +414,7 @@ const pt: Dictionary = {
       {
         heading: "Lei Aplicável e Resolução de Litígios",
         paragraphs: [
-          "Estes Termos regem-se pela lei portuguesa. Se um litígio não puder ser resolvido diretamente connosco, os consumidores da UE podem também recorrer à plataforma de Resolução de Litígios Online da Comissão Europeia, em ec.europa.eu/consumers/odr, para procurar uma solução extrajudicial.",
+          "Estes Termos regem-se pela lei portuguesa. Se um litígio não puder ser resolvido diretamente connosco, os consumidores da UE podem recorrer à Resolução Alternativa de Litígios (RAL) através da entidade competente no seu país. Em Portugal, pode obter mais informações em consumidor.gov.pt.",
         ],
       },
       {

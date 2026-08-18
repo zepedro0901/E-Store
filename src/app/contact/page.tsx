@@ -14,10 +14,10 @@ export default async function ContactPage() {
       <h1 className="font-display text-4xl font-bold uppercase tracking-tight">
         {dict.contact.title}
       </h1>
-      <p className="mt-3 text-sm text-foreground/60">{dict.contact.subtitle}</p>
+      <p className="mt-3 text-justify text-sm text-foreground/60">{dict.contact.subtitle}</p>
 
       <div className="mt-10 border-t border-border pt-8">
-        <p className="text-sm leading-relaxed text-foreground/70">
+        <p className="text-justify text-sm leading-relaxed text-foreground/70">
           {dict.contact.intro}
         </p>
 

@@ -264,7 +264,9 @@ const en = {
           "As items are made to order, they're only eligible for return if they arrive not as described, defective, or damaged. There's no change-of-mind return once an item has entered production (i.e. after the 3-hour cooling-off period).",
           "Our policy may look different to what you're used to from bigger, generic retailers. Under Portuguese and EU consumer law (Decreto-Lei n.º 24/2014, transposing Directive 2011/83/EU on consumer rights), the standard 14-day right of withdrawal does not apply to goods made to the consumer's specifications or clearly personalised - which covers every miniature we print to order.",
           "To be eligible for a return with a qualifying issue, you must contact us within 7 days of delivery. You'll be asked for photos of the item as received, along with photos of the original packaging (this helps us claim with our shipping company if the damage happened in transit), plus your receipt or proof of purchase.",
-          "To discuss any issue with your order, contact us at customerservice@pangolinresinworks.com. If a return is necessary, we'll send you a return shipping label along with instructions on how and where to send your package. Items sent back to us without first requesting a return will not be accepted or refunded.",
+          "To discuss any issue with your order, contact us at",
+          "customerservice@pangolinresinworks.com.",
+          "If a return is necessary, we'll send you a return shipping label along with instructions on how and where to send your package. Items sent back to us without first requesting a return will not be accepted or refunded.",
         ],
       },
       {
@@ -345,7 +347,7 @@ const en = {
   terms: {
     metaTitle: "Terms of Service",
     title: "Terms of Service",
-    updated: "Last updated: August 16, 2026",
+    updated: "Last updated: August 18, 2026",
     sections: [
       {
         heading: "Who We Are",
@@ -410,7 +412,7 @@ const en = {
       {
         heading: "Governing Law & Disputes",
         paragraphs: [
-          "These Terms are governed by Portuguese law. If a dispute can't be resolved directly with us, EU consumers can also use the European Commission's Online Dispute Resolution platform at ec.europa.eu/consumers/odr to seek an out-of-court settlement.",
+          "These Terms are governed by Portuguese law. If a dispute can't be resolved directly with us, EU consumers can pursue out-of-court dispute resolution through their national Alternative Dispute Resolution (ADR) entity. In Portugal, more information is available at consumidor.gov.pt.",
         ],
       },
       {
