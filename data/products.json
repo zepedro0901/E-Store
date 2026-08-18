@@ -39711,8 +39711,8 @@
     "description": "The tyrannical duergar, also known as gray dwarves, dwell in fantastic cities deep in the Underdark. Using ancient dwarven knowledge and myriad slaves, they work tirelessly to expand their subterranean kingdoms.\r\nDuergar for use in any epic adventure!",
     "scale": "Medium",
     "material": "resin",
-    "images": [      "https://images.pangolinresinworks.com/collection-3/knot-of-duergar-299613/1.jpg",
-
+    "images": [
+      "https://images.pangolinresinworks.com/collection-3/knot-of-duergar-299613/1.jpg",
       "https://images.pangolinresinworks.com/collection-3/duergar/variations/01.jpg",
       "https://images.pangolinresinworks.com/collection-3/duergar/variations/02.jpg",
       "https://images.pangolinresinworks.com/collection-3/duergar/variations/03.jpg",
@@ -39972,7 +39972,7 @@
     "scale": "Medium",
     "material": "resin",
     "images": [
-    "https://images.pangolinresinworks.com/collection-3/flameskulls-289170/1.jpg",
+      "https://images.pangolinresinworks.com/collection-3/flameskulls-289170/1.jpg",
       "https://images.pangolinresinworks.com/collection-3/flameskull/variations/01.jpg",
       "https://images.pangolinresinworks.com/collection-3/flameskull/variations/02.jpg",
       "https://images.pangolinresinworks.com/collection-3/flameskull/variations/03.jpg",
@@ -40010,7 +40010,6 @@
       }
     ]
   },
- 
   {
     "id": "yks-278134",
     "slug": "flumph-278134",
@@ -40029,7 +40028,6 @@
     "createdAt": "2026-08-11",
     "themes": []
   },
- 
   {
     "id": "yks-539162",
     "slug": "flying-gargoyle-539162",
@@ -40231,16 +40229,42 @@
     "scale": "Medium",
     "material": "resin",
     "images": [
+      "https://images.pangolinresinworks.com/collection-3/giant-spider/giant-spider-all.jpg",
       "https://images.pangolinresinworks.com/collection-3/giant-spider/variations/02.jpg",
       "https://images.pangolinresinworks.com/collection-3/giant-spider/gallery-2.jpg",
       "https://images.pangolinresinworks.com/collection-3/giant-spider/gallery-3.jpg",
-      "https://images.pangolinresinworks.com/collection-3/giant-spider/gallery-4.jpg",
-      "https://images.pangolinresinworks.com/collection-3/giant-spider/gallery-5.jpg"
+      "https://images.pangolinresinworks.com/collection-3/giant-spider/gallery-4.jpg"
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
     "themes": [
       "monsters-beasts"
+    ],
+    "variations": [
+      {
+        "id": "01",
+        "label": "Pose 1",
+        "price": 400,
+        "image": "https://images.pangolinresinworks.com/collection-3/giant-spider/variations/02.jpg"
+      },
+      {
+        "id": "02",
+        "label": "Pose 2",
+        "price": 400,
+        "image": "https://images.pangolinresinworks.com/collection-3/giant-spider/gallery-2.jpg"
+      },
+      {
+        "id": "03",
+        "label": "Pose 3",
+        "price": 400,
+        "image": "https://images.pangolinresinworks.com/collection-3/giant-spider/gallery-3.jpg"
+      },
+      {
+        "id": "04",
+        "label": "Pose 4",
+        "price": 400,
+        "image": "https://images.pangolinresinworks.com/collection-3/giant-spider/gallery-4.jpg"
+      }
     ]
   },
   {
@@ -40286,16 +40310,16 @@
     "themes": [],
     "variations": [
       {
-        "id": "-man-01",
-        "label": "-Man_01",
+        "id": "standing",
+        "label": "Standing",
         "price": 300,
         "image": "https://images.pangolinresinworks.com/collection-3/gill-man/variations/-Man-01.jpg"
       },
       {
-        "id": "-man-02",
-        "label": "-Man_02",
+        "id": "submerged",
+        "label": "Submerged",
         "price": 300,
-        "image": "https://images.pangolinresinworks.com/collection-3/gill-man/variations/-Man-01.jpg"
+        "image": "https://images.pangolinresinworks.com/collection-3/gill-man/gallery-2.jpg"
       }
     ]
   },
@@ -40311,10 +40335,9 @@
     "scale": "Medium",
     "material": "resin",
     "images": [
+      "https://images.pangolinresinworks.com/collection-3/girallon-346639/collective.jpg",
       "https://images.pangolinresinworks.com/collection-3/girallon/variations/01.jpg",
-      "https://images.pangolinresinworks.com/collection-3/girallon/variations/02.jpg",
-      "https://images.pangolinresinworks.com/collection-3/charging-girallon-346641/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/girallon-346639/collective.jpg"
+      "https://images.pangolinresinworks.com/collection-3/girallon/variations/02.jpg"
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
@@ -40331,12 +40354,6 @@
         "label": "Pose 2",
         "price": 350,
         "image": "https://images.pangolinresinworks.com/collection-3/girallon/variations/02.jpg"
-      },
-      {
-        "id": "charging",
-        "label": "Charging",
-        "price": 350,
-        "image": "https://images.pangolinresinworks.com/collection-3/charging-girallon-346641/1.jpg"
       }
     ]
   },
@@ -40355,9 +40372,7 @@
       "https://images.pangolinresinworks.com/collection-3/glabrezu/variations/01.jpg",
       "https://images.pangolinresinworks.com/collection-3/glabrezu/gallery-2.jpg",
       "https://images.pangolinresinworks.com/collection-3/glabrezu/gallery-3.jpg",
-      "https://images.pangolinresinworks.com/collection-3/glabrezu/gallery-4.jpg",
-      "https://images.pangolinresinworks.com/collection-3/glabrezu/gallery-5.jpg",
-      "https://images.pangolinresinworks.com/collection-3/glabrezu/gallery-6.jpg"
+      "https://images.pangolinresinworks.com/collection-3/glabrezu/gallery-4.jpg"
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
@@ -40398,6 +40413,7 @@
     "scale": "Medium",
     "material": "resin",
     "images": [
+      "https://images.pangolinresinworks.com/collection-3/gnoll/variations/collective.jpg",
       "https://images.pangolinresinworks.com/collection-3/gnoll/variations/01.jpg",
       "https://images.pangolinresinworks.com/collection-3/gnoll/variations/02.jpg",
       "https://images.pangolinresinworks.com/collection-3/gnoll/variations/03.jpg",
@@ -40518,10 +40534,10 @@
     "scale": "Medium",
     "material": "resin",
     "images": [
+      "https://images.pangolinresinworks.com/collection-3/goose-hydra/gallery-4.jpg",
       "https://images.pangolinresinworks.com/collection-3/goose-hydra/variations/01.jpg",
       "https://images.pangolinresinworks.com/collection-3/goose-hydra/variations/02.jpg",
-      "https://images.pangolinresinworks.com/collection-3/goose-hydra/variations/03.jpg",
-      "https://images.pangolinresinworks.com/collection-3/goose-hydra/gallery-4.jpg"
+      "https://images.pangolinresinworks.com/collection-3/goose-hydra/variations/03.jpg"
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
@@ -40570,27 +40586,6 @@
     "themes": [
       "humanoids",
       "undead"
-    ]
-  },
-  {
-    "id": "yks-171132",
-    "slug": "graveyard-scatter-tabletop-props-pre-supported-171132",
-    "name": "Graveyard Scatter - Tabletop Props (Pre-Supported)",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Graveyard scatter for use in any epic dungeon adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/graveyard-scatter-tabletop-props-pre-supported-171132/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/graveyard-scatter-tabletop-props-pre-supported-171132/2.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": [
-      "terrain-scenery"
     ]
   },
   {
@@ -40668,8 +40663,7 @@
     "material": "resin",
     "images": [
       "https://images.pangolinresinworks.com/collection-3/grell/variations/01.jpg",
-      "https://images.pangolinresinworks.com/collection-3/grell/variations/02.jpg",
-      "https://images.pangolinresinworks.com/collection-3/diving-grell-338073/1.jpg"
+      "https://images.pangolinresinworks.com/collection-3/grell/variations/02.jpg"
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
@@ -40686,12 +40680,6 @@
         "label": "Pose 2",
         "price": 300,
         "image": "https://images.pangolinresinworks.com/collection-3/grell/variations/02.jpg"
-      },
-      {
-        "id": "diving",
-        "label": "Diving",
-        "price": 300,
-        "image": "https://images.pangolinresinworks.com/collection-3/diving-grell-338073/1.jpg"
       }
     ]
   },
@@ -40745,9 +40733,9 @@
     "scale": "Medium",
     "material": "resin",
     "images": [
+      "https://images.pangolinresinworks.com/collection-3/griffin/gallery-3.jpg",
       "https://images.pangolinresinworks.com/collection-3/griffin/variations/02.jpg",
       "https://images.pangolinresinworks.com/collection-3/griffin/gallery-2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/griffin/gallery-3.jpg",
       "https://images.pangolinresinworks.com/collection-3/griffin/gallery-4.jpg",
       "https://images.pangolinresinworks.com/collection-3/griffin/gallery-5.jpg",
       "https://images.pangolinresinworks.com/collection-3/laying-griffin-237571/1.jpg"
@@ -40769,24 +40757,6 @@
         "image": "https://images.pangolinresinworks.com/collection-3/laying-griffin-237571/1.jpg"
       }
     ]
-  },
-  {
-    "id": "yks-434370",
-    "slug": "grinch-max-434370",
-    "name": "Grinch - Max",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 300,
-    "currency": "EUR",
-    "description": "The Grinch and his loyal dog, Max, live a solitary existence inside a cave on Mount Crumpet. His main source of aggravation comes during Christmastime when his neighbours in Whoville celebrate the holidays with a bang. When the Whos decide to make Christmas bigger and brighter, the disgruntled Grinch realises there is one way to gain peace and quiet. With help from Max, the green grump hatches a scheme to pose as Santa Claus, steal Christmas and silence the Whos' holiday cheer once and for all.\r\nThe Grinch for use in any epic adventure!",
-    "scale": "Medium",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/grinch/variations/01.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": []
   },
   {
     "id": "yks-149804",
@@ -40820,9 +40790,7 @@
     "scale": "",
     "material": "resin",
     "images": [
-      "https://images.pangolinresinworks.com/collection-3/grinkle-the-goblin-king-bust-141200/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/grinkle-the-goblin-king-bust-141200/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/grinkle-the-goblin-king-bust-141200/3.jpg"
+      "https://images.pangolinresinworks.com/collection-3/grinkle-the-goblin-king-bust-141200/1.jpg"
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
@@ -40948,9 +40916,9 @@
     "scale": "Medium",
     "material": "resin",
     "images": [
+      "https://images.pangolinresinworks.com/collection-3/hellhound/variations/collective.jpg",
       "https://images.pangolinresinworks.com/collection-3/hellhound/variations/02.jpg",
       "https://images.pangolinresinworks.com/collection-3/stalking-hellhound-194007/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/running-hellhound-472880/1.jpg",
       "https://images.pangolinresinworks.com/collection-3/growling-hellhound-472883/1.jpg",
       "https://images.pangolinresinworks.com/collection-3/leaping-hellhound-472885/1.jpg"
     ],
@@ -40958,12 +40926,6 @@
     "createdAt": "2026-08-11",
     "themes": [],
     "variations": [
-      {
-        "id": "standard",
-        "label": "Standard",
-        "price": 300,
-        "image": "https://images.pangolinresinworks.com/collection-3/hellhound/variations/02.jpg"
-      },
       {
         "id": "stalking",
         "label": "Stalking",
@@ -41021,17 +40983,55 @@
     "scale": "Medium",
     "material": "resin",
     "images": [
-      "https://images.pangolinresinworks.com/collection-3/hobgoblin/variations/BOSS.jpg",
+      "https://images.pangolinresinworks.com/collection-3/hobgoblin-147245/collective.jpg",
       "https://images.pangolinresinworks.com/collection-3/hobgoblin/gallery-2.jpg",
       "https://images.pangolinresinworks.com/collection-3/hobgoblin/gallery-3.jpg",
       "https://images.pangolinresinworks.com/collection-3/hobgoblin/gallery-4.jpg",
       "https://images.pangolinresinworks.com/collection-3/hobgoblin/gallery-5.jpg",
-      "https://images.pangolinresinworks.com/collection-3/hobgoblin/gallery-6.jpg",
-      "https://images.pangolinresinworks.com/collection-3/hobgoblin-147245/collective.jpg"
+      "https://images.pangolinresinworks.com/collection-3/hobgoblin/variations/BOSS.jpg",
+      "https://images.pangolinresinworks.com/collection-3/hobgoblin/gallery-6.jpg"
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [],
+    "variations": [
+      {
+        "id": "standard",
+        "label": "Standard",
+        "price": 300,
+        "image": "https://images.pangolinresinworks.com/collection-3/hobgoblin/gallery-2.jpg"
+      },
+      {
+        "id": "a",
+        "label": "A",
+        "price": 300,
+        "image": "https://images.pangolinresinworks.com/collection-3/hobgoblin/gallery-3.jpg"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "price": 300,
+        "image": "https://images.pangolinresinworks.com/collection-3/hobgoblin/gallery-4.jpg"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "price": 300,
+        "image": "https://images.pangolinresinworks.com/collection-3/hobgoblin/gallery-5.jpg"
+      },
+      {
+        "id": "boss",
+        "label": "Boss",
+        "price": 300,
+        "image": "https://images.pangolinresinworks.com/collection-3/hobgoblin/variations/BOSS.jpg"
+      },
+      {
+        "id": "defeated",
+        "label": "Defeated",
+        "price": 300,
+        "image": "https://images.pangolinresinworks.com/collection-3/hobgoblin/gallery-6.jpg"
+      }
+    ]
   },
   {
     "id": "yks-302329",
@@ -41078,23 +41078,16 @@
     "scale": "",
     "material": "resin",
     "images": [
-      "https://images.pangolinresinworks.com/collection-3/hook-horror-389268/1.jpg",
+      "https://images.pangolinresinworks.com/collection-3/hook-horror-389268/collective.jpg",
       "https://images.pangolinresinworks.com/collection-3/hook-horror-alert-443608/1.jpg",
       "https://images.pangolinresinworks.com/collection-3/hook-horror-screeching-443611/1.jpg",
       "https://images.pangolinresinworks.com/collection-3/hook-horror-charging-443614/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/hook-horror-stalking-443621/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/hook-horror-389268/collective.jpg"
+      "https://images.pangolinresinworks.com/collection-3/hook-horror-stalking-443621/1.jpg"
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
     "themes": [],
     "variations": [
-      {
-        "id": "standard",
-        "label": "Standard",
-        "price": 0,
-        "image": "https://images.pangolinresinworks.com/collection-3/hook-horror-389268/1.jpg"
-      },
       {
         "id": "alert",
         "label": "Alert",
@@ -41119,31 +41112,6 @@
         "price": 0,
         "image": "https://images.pangolinresinworks.com/collection-3/hook-horror-stalking-443621/1.jpg"
       }
-    ]
-  },
-  {
-    "id": "yks-237573",
-    "slug": "horses-and-unicorns-tabletop-props-pre-supported-237573",
-    "name": "Horses and Unicorns - Tabletop Props (Pre-Supported)",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "A selection of Horses/Unicorns for use in any epic adventure!  for use in any epic adventure!\r\nSeparate horn mesh provided to convert to Unicorns.",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/horses-and-unicorns-tabletop-props-pre-supported-237573/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/horses-and-unicorns-tabletop-props-pre-supported-237573/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/horses-and-unicorns-tabletop-props-pre-supported-237573/3.jpg",
-      "https://images.pangolinresinworks.com/collection-3/horses-and-unicorns-tabletop-props-pre-supported-237573/4.jpg",
-      "https://images.pangolinresinworks.com/collection-3/horses-and-unicorns-tabletop-props-pre-supported-237573/5.jpg",
-      "https://images.pangolinresinworks.com/collection-3/horses-and-unicorns-tabletop-props-pre-supported-237573/6.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": [
-      "terrain-scenery"
     ]
   },
   {
@@ -41252,7 +41220,7 @@
     "scale": "",
     "material": "resin",
     "images": [
-      "https://images.pangolinresinworks.com/collection-3/intellect-devourer-302073/1.jpg",
+      "https://images.pangolinresinworks.com/collection-3/intellect-devourers-289171/1.jpg",
       "https://images.pangolinresinworks.com/collection-3/intellect-devourer-302073/2.jpg",
       "https://images.pangolinresinworks.com/collection-3/intellect-devourer-302073/3.jpg",
       "https://images.pangolinresinworks.com/collection-3/sitting-intellect-devourer-312997/1.jpg",
@@ -41263,12 +41231,6 @@
     "createdAt": "2026-08-11",
     "themes": [],
     "variations": [
-      {
-        "id": "standard",
-        "label": "Standard",
-        "price": 0,
-        "image": "https://images.pangolinresinworks.com/collection-3/intellect-devourer-302073/1.jpg"
-      },
       {
         "id": "sitting",
         "label": "Sitting",
@@ -41290,125 +41252,31 @@
     ]
   },
   {
-    "id": "yks-289171",
-    "slug": "intellect-devourers-289171",
-    "name": "Intellect Devourers",
+    "id": "yks-kenku",
+    "slug": "kenku",
+    "name": "Kenku",
     "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "An intellect devourer resembles a walking brain protected by a crusty covering and set on bestial clawed legs. This foul aberration feeds on the intelligence of sentient creatures, taking over a victim's body on behalf of its mind flayer masters.\r\nIntellect Devourer for use in any epic adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/intellect-devourers-289171/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/intellect-devourers-289171/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/intellect-devourers-289171/3.jpg",
-      "https://images.pangolinresinworks.com/collection-3/intellect-devourers-289171/4.jpg"
+    "tags": [
+      "variations"
     ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": []
-  },
-  {
-    "id": "yks-411284",
-    "slug": "ixitxachitl-swarm-411284",
-    "name": "Ixitxachitl Swarm",
-    "category": "yks-miniatures",
-    "tags": [],
     "price": 0,
     "currency": "EUR",
-    "description": "Many creatures mistake ixitxachitl for common manta rays, but this can prove a deadly mistake. The ixitxachitl are as evil as they are cunning, leading to their common nickname \"demon rays.\" They inhabit bodies of fresh and salt water, but their violent nature means that little is known of them.\r\nIxitxachitl for use in any epic adventure!",
+    "description": "Kenku are feathered humanoids that wander the world as vagabonds, driven by greed. They can perfectly imitate any sound they hear.\r\nChoose from four classes - Barbarian, Bard, Monk, and Rogue - each ready for use in any epic adventure!",
     "scale": "",
     "material": "resin",
     "images": [
-      "https://images.pangolinresinworks.com/collection-3/ixitxachitl-swarm-411284/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/ixitxachitl-swarm-411284/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/ixitxachitl-swarm-411284/3.jpg",
-      "https://images.pangolinresinworks.com/collection-3/ixitxachitl-swarm-411284/4.jpg",
-      "https://images.pangolinresinworks.com/collection-3/ixitxachitl-swarm-411284/5.jpg",
-      "https://images.pangolinresinworks.com/collection-3/ixitxachitl-swarm-411284/6.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": [
-      "demons-fiends"
-    ]
-  },
-  {
-    "id": "yks-240774",
-    "slug": "kenku-barbarian-240774",
-    "name": "Kenku Barbarian",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Kenku are feathered humanoids that wander the world as vagabonds, driven by greed. They can perfectly imitate any sound they hear.\r\nKenku Barbarian for use in any epic adventure!  for use in any epic adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
+      "https://images.pangolinresinworks.com/collection-3/kenku-mob-240770/1.jpg",
       "https://images.pangolinresinworks.com/collection-3/kenku-barbarian-240774/1.jpg",
       "https://images.pangolinresinworks.com/collection-3/kenku-barbarian-240774/2.jpg",
       "https://images.pangolinresinworks.com/collection-3/kenku-barbarian-240774/3.jpg",
-      "https://images.pangolinresinworks.com/collection-3/kenku-barbarian-240774/4.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": []
-  },
-  {
-    "id": "yks-240773",
-    "slug": "kenku-bard-240773",
-    "name": "Kenku Bard",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Kenku are feathered humanoids that wander the world as vagabonds, driven by greed. They can perfectly imitate any sound they hear.\r\nKenku Bard for use in any epic adventure!  for use in any epic adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
+      "https://images.pangolinresinworks.com/collection-3/kenku-barbarian-240774/4.jpg",
       "https://images.pangolinresinworks.com/collection-3/kenku-bard-240773/1.jpg",
       "https://images.pangolinresinworks.com/collection-3/kenku-bard-240773/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/kenku-bard-240773/3.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": []
-  },
-  {
-    "id": "yks-240771",
-    "slug": "kenku-monk-240771",
-    "name": "Kenku Monk",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Kenku are feathered humanoids that wander the world as vagabonds, driven by greed. They can perfectly imitate any sound they hear.\r\nKenku Monk for use in any epic adventure!  for use in any epic adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
+      "https://images.pangolinresinworks.com/collection-3/kenku-bard-240773/3.jpg",
       "https://images.pangolinresinworks.com/collection-3/kenku-monk-240771/1.jpg",
       "https://images.pangolinresinworks.com/collection-3/kenku-monk-240771/2.jpg",
       "https://images.pangolinresinworks.com/collection-3/kenku-monk-240771/3.jpg",
-      "https://images.pangolinresinworks.com/collection-3/kenku-monk-240771/4.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": []
-  },
-  {
-    "id": "yks-240772",
-    "slug": "kenku-rogue-240772",
-    "name": "Kenku Rogue",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Kenku are feathered humanoids that wander the world as vagabonds, driven by greed. They can perfectly imitate any sound they hear.\r\nKenku Rogue for use in any epic adventure!  for use in any epic adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
+      "https://images.pangolinresinworks.com/collection-3/kenku-monk-240771/4.jpg",
       "https://images.pangolinresinworks.com/collection-3/kenku-rogue-240772/1.jpg",
       "https://images.pangolinresinworks.com/collection-3/kenku-rogue-240772/2.jpg",
       "https://images.pangolinresinworks.com/collection-3/kenku-rogue-240772/3.jpg",
@@ -41416,12 +41284,38 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
+    "variations": [
+      {
+        "id": "barbarian",
+        "label": "Barbarian",
+        "price": 0,
+        "image": "https://images.pangolinresinworks.com/collection-3/kenku-barbarian-240774/1.jpg"
+      },
+      {
+        "id": "bard",
+        "label": "Bard",
+        "price": 0,
+        "image": "https://images.pangolinresinworks.com/collection-3/kenku-bard-240773/1.jpg"
+      },
+      {
+        "id": "monk",
+        "label": "Monk",
+        "price": 0,
+        "image": "https://images.pangolinresinworks.com/collection-3/kenku-monk-240771/1.jpg"
+      },
+      {
+        "id": "rogue",
+        "label": "Rogue",
+        "price": 0,
+        "image": "https://images.pangolinresinworks.com/collection-3/kenku-rogue-240772/1.jpg"
+      }
+    ],
     "themes": []
   },
   {
     "id": "yks-395399",
     "slug": "kindness-of-wereravens-395399",
-    "name": "Kindness of Wereravens",
+    "name": "Wereraven",
     "category": "yks-miniatures",
     "tags": [],
     "price": 0,
@@ -41431,17 +41325,36 @@
     "material": "resin",
     "images": [
       "https://images.pangolinresinworks.com/collection-3/kindness-of-wereravens-395399/1.jpg",
+      "https://images.pangolinresinworks.com/collection-3/kindness-of-wereravens-395399/6.jpg",
       "https://images.pangolinresinworks.com/collection-3/kindness-of-wereravens-395399/2.jpg",
       "https://images.pangolinresinworks.com/collection-3/kindness-of-wereravens-395399/3.jpg",
       "https://images.pangolinresinworks.com/collection-3/kindness-of-wereravens-395399/4.jpg",
-      "https://images.pangolinresinworks.com/collection-3/kindness-of-wereravens-395399/5.jpg",
-      "https://images.pangolinresinworks.com/collection-3/kindness-of-wereravens-395399/6.jpg"
+      "https://images.pangolinresinworks.com/collection-3/kindness-of-wereravens-395399/5.jpg"
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [],
+    "variations": [
+      {
+        "id": "feral",
+        "label": "Feral",
+        "price": 0,
+        "image": "https://images.pangolinresinworks.com/collection-3/kindness-of-wereravens-395399/6.jpg"
+      },
+      {
+        "id": "spear",
+        "label": "Spear",
+        "price": 0,
+        "image": "https://images.pangolinresinworks.com/collection-3/kindness-of-wereravens-395399/2.jpg"
+      },
+      {
+        "id": "archer",
+        "label": "Archer",
+        "price": 0,
+        "image": "https://images.pangolinresinworks.com/collection-3/kindness-of-wereravens-395399/4.jpg"
+      }
+    ]
   },
-
   {
     "id": "yks-782792",
     "slug": "koala-folk-ranger-782792",
@@ -41639,27 +41552,6 @@
     ]
   },
   {
-    "id": "yks-459858",
-    "slug": "kuo-toa-archpriest-459858",
-    "name": "Kuo-toa - Archpriest",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Kuo-toa are degenerate fishlike humanoids that once inhabited the shores and islands of the surface world. Long ago humans and their ilk drove the kuo-toa underground, where they dwell in madness and everlasting night.\r\nKuo-toa for use in any epic dungeon adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/kuo-toa-archpriest-459858/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/kuo-toa-archpriest-459858/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/kuo-toa-archpriest-459858/3.jpg",
-      "https://images.pangolinresinworks.com/collection-3/kuo-toa-archpriest-459858/4.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": []
-  },
-  {
     "id": "yks-459853",
     "slug": "kuo-toa-spear-459853",
     "name": "Kuo-toa",
@@ -41671,10 +41563,12 @@
     "scale": "",
     "material": "resin",
     "images": [
+      "https://images.pangolinresinworks.com/collection-3/kuo-toa-hook-459857/collective.jpg",
       "https://images.pangolinresinworks.com/collection-3/kuo-toa-spear-459853/1.jpg",
       "https://images.pangolinresinworks.com/collection-3/kuo-toa-trident-459855/1.jpg",
       "https://images.pangolinresinworks.com/collection-3/kuo-toa-pincer-459856/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/kuo-toa-hook-571508/1.jpg"
+      "https://images.pangolinresinworks.com/collection-3/kuo-toa-hook-571508/1.jpg",
+      "https://images.pangolinresinworks.com/collection-3/kuo-toa-archpriest-459858/1.jpg"
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
@@ -41703,6 +41597,12 @@
         "label": "Hook",
         "price": 0,
         "image": "https://images.pangolinresinworks.com/collection-3/kuo-toa-hook-571508/1.jpg"
+      },
+      {
+        "id": "archpriest",
+        "label": "Archpriest",
+        "price": 0,
+        "image": "https://images.pangolinresinworks.com/collection-3/kuo-toa-archpriest-459858/1.jpg"
       }
     ]
   },
@@ -44889,6 +44789,8 @@
     "scale": "",
     "material": "resin",
     "images": [
+      "https://images.pangolinresinworks.com/collection-3/ettercap/gallery-6.jpg",
+      "https://images.pangolinresinworks.com/collection-3/ettercap/variations/Boss.jpg",
       "https://images.pangolinresinworks.com/collection-3/stalking-ettercap-226992/1.jpg",
       "https://images.pangolinresinworks.com/collection-3/crouching-ettercap-252339/1.jpg",
       "https://images.pangolinresinworks.com/collection-3/screaming-ettercap-252342/1.jpg",
@@ -44898,6 +44800,12 @@
     "createdAt": "2026-08-11",
     "themes": [],
     "variations": [
+      {
+        "id": "boss",
+        "label": "Boss",
+        "price": 0,
+        "image": "https://images.pangolinresinworks.com/collection-3/ettercap/variations/Boss.jpg"
+      },
       {
         "id": "stalking",
         "label": "Stalking",
@@ -46359,26 +46267,6 @@
         "image": "https://images.pangolinresinworks.com/collection-3/wererat-feral-475687/1.jpg"
       }
     ]
-  },
-  {
-    "id": "yks-395408",
-    "slug": "wereraven-395408",
-    "name": "Wereraven",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Wereravens are secretive and extraordinarily cautious lycanthropes that trust one another but are wary of just about everyone else. Although skilled at blending into society, they keep mostly to themselves, respect local laws, and strive to do good whenever possible.\r\nWereraven for use in any epic adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/wereraven-395408/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/wereraven-395408/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/wereraven-395408/3.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": []
   },
   {
     "id": "yks-378700",
