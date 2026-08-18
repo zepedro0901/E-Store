@@ -38020,61 +38020,6 @@
     ]
   },
   {
-    "id": "yks-299095",
-    "slug": "army-of-bullywugs-299095",
-    "name": "Bullywugs",
-    "category": "yks-miniatures",
-    "tags": [
-      "frog",
-      "jungle",
-      "swamp",
-      "amphibian"
-    ],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Life as a bullywug is nasty, brutish, and wet. These frog-headed amphibious humanoids must stay constantly moist, dwelling in rainy forests, marshes, and damp caves.\r\nBullywugs for use in any epic adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/army-of-bullywugs-299095/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/army-of-bullywugs-299095/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/army-of-bullywugs-299095/3.jpg",
-      "https://images.pangolinresinworks.com/collection-3/army-of-bullywugs-299095/4.jpg",
-      "https://images.pangolinresinworks.com/collection-3/army-of-bullywugs-299095/5.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": [
-      "humanoids"
-    ],
-    "variations": [
-      {
-        "id": "01",
-        "label": "Pose 1",
-        "price": 0,
-        "image": "https://images.pangolinresinworks.com/collection-3/army-of-bullywugs-299095/2.jpg"
-      },
-      {
-        "id": "02",
-        "label": "Pose 2",
-        "price": 0,
-        "image": "https://images.pangolinresinworks.com/collection-3/army-of-bullywugs-299095/3.jpg"
-      },
-      {
-        "id": "03",
-        "label": "Pose 3",
-        "price": 0,
-        "image": "https://images.pangolinresinworks.com/collection-3/army-of-bullywugs-299095/4.jpg"
-      },
-      {
-        "id": "04",
-        "label": "Pose 4",
-        "price": 0,
-        "image": "https://images.pangolinresinworks.com/collection-3/army-of-bullywugs-299095/5.jpg"
-      }
-    ]
-  },
-  {
     "id": "yks-406635",
     "slug": "atropal-406635",
     "name": "Atropal",
@@ -38646,15 +38591,15 @@
     ]
   },
   {
-    "id": "yks-129858",
-    "slug": "blood-tyrant-129858",
-    "name": "Blood Tyrant",
+    "id": "yks-146900",
+    "slug": "death-kiss-146900",
+    "name": "Death Kiss",
     "category": "yks-miniatures",
     "tags": [],
     "price": 0,
     "currency": "EUR",
-    "description": "A Blood Tyrant is a lesser tyrant-kin with tentacles that ended in mouths instead of eyestalks. Blood Tyrant's came to being as physical manifestations of tyrants' vivid dreams of mass blood loss.\r\nBlood Tyrant for use in any epic adventure!  Set to 54mm scaling for easier printing and because bigger is better! but you can reduce to 60% for 28-32mm scale.",
-    "scale": "",
+    "description": "A Death Kiss is a lesser beholder-kin with tentacles that ended in mouths instead of eyestalks. Blood tyrants came to being as physical manifestations of tyrants' vivid dreams of mass blood loss.\r\nDeath Kiss for use in any epic dungeon adventure!",
+    "scale": "Medium",
     "material": "resin",
     "images": [
       "https://images.pangolinresinworks.com/collection-3/blood-tyrant-129858/1.jpg",
@@ -38752,26 +38697,6 @@
     ]
   },
   {
-    "id": "yks-234253",
-    "slug": "bone-golem-book-of-beasts-234253",
-    "name": "Bone Golem - Book of Beasts",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Bone Golem from the 'Adventurers Guide - The Book of Beasts' kickstarter campaign. Late pledges still available!\r\nBone Golem for use in any epic adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/bone-golem-book-of-beasts-234253/1.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": [
-      "constructs"
-    ]
-  },
-  {
     "id": "yks-376694",
     "slug": "braxat-376694",
     "name": "Braxat",
@@ -38783,7 +38708,8 @@
     "scale": "Medium",
     "material": "resin",
     "images": [
-      "https://images.pangolinresinworks.com/collection-3/braxat/variations/01.jpg"
+      "https://images.pangolinresinworks.com/collection-3/braxat/variations/02.jpg",
+      "https://images.pangolinresinworks.com/collection-3/braxat/variations/03.jpg"
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
@@ -38814,10 +38740,13 @@
     "scale": "Medium, Large",
     "material": "resin",
     "images": [
+      "https://images.pangolinresinworks.com/collection-3/bugbear-106829/bugbear-all.jpg",
       "https://images.pangolinresinworks.com/collection-3/bugbear-106829/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/bugbear-106829/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/bugbear-106829/3.jpg",
-      "https://images.pangolinresinworks.com/collection-3/bugbear-106829/collective.jpg"
+      "https://images.pangolinresinworks.com/collection-3/bugbear/variations/A.jpg",
+      "https://images.pangolinresinworks.com/collection-3/bugbear/variations/B.jpg",
+      "https://images.pangolinresinworks.com/collection-3/bugbear-106829/C.jpg",
+      "https://images.pangolinresinworks.com/collection-3/bugbear/variations/BOSS.jpg",
+      "https://images.pangolinresinworks.com/collection-3/defeated-bugbear-book-of-beasts-232657/1.jpg"
     ],
     "inStock": true,
     "createdAt": "2019-12-09",
@@ -38825,12 +38754,6 @@
       "humanoids"
     ],
     "variations": [
-      {
-        "id": "01",
-        "label": "Pose 1",
-        "price": 300,
-        "image": "https://images.pangolinresinworks.com/collection-3/bugbear/variations/01.jpg"
-      },
       {
         "id": "a",
         "label": "A",
@@ -38844,22 +38767,28 @@
         "image": "https://images.pangolinresinworks.com/collection-3/bugbear/variations/B.jpg"
       },
       {
+        "id": "c",
+        "label": "C",
+        "price": 300,
+        "image": "https://images.pangolinresinworks.com/collection-3/bugbear-106829/C.jpg"
+      },
+      {
+        "id": "bugbear",
+        "label": "D",
+        "price": 300,
+        "image": "https://images.pangolinresinworks.com/collection-3/bugbear-106829/1.jpg"
+      },
+      {
         "id": "boss",
         "label": "Boss",
         "price": 300,
         "image": "https://images.pangolinresinworks.com/collection-3/bugbear/variations/BOSS.jpg"
       },
       {
-        "id": "c",
-        "label": "C",
-        "price": 300,
-        "image": "https://images.pangolinresinworks.com/collection-3/bugbear/variations/C.jpg"
-      },
-      {
         "id": "dead",
         "label": "Dead",
         "price": 300,
-        "image": "https://images.pangolinresinworks.com/collection-3/bugbear/variations/Dead.jpg"
+        "image": "https://images.pangolinresinworks.com/collection-3/defeated-bugbear-book-of-beasts-232657/1.jpg"
       }
     ]
   },
@@ -38885,20 +38814,20 @@
     "themes": [],
     "variations": [
       {
-        "id": "01",
-        "label": "Pose 1",
+        "id": "walking",
+        "label": "Walking",
         "price": 600,
         "image": "https://images.pangolinresinworks.com/collection-3/bulette/variations/01.jpg"
       },
       {
-        "id": "a",
-        "label": "A",
+        "id": "unborrowing",
+        "label": "Unborrowing",
         "price": 450,
         "image": "https://images.pangolinresinworks.com/collection-3/bulette/variations/A.jpg"
       },
       {
-        "id": "b",
-        "label": "B",
+        "id": "screeching",
+        "label": "Screeching",
         "price": 650,
         "image": "https://images.pangolinresinworks.com/collection-3/bulette/variations/B.jpg"
       },
@@ -38935,13 +38864,19 @@
     "slug": "bullywug-220050",
     "name": "Bullywug",
     "category": "yks-miniatures",
-    "tags": [],
+    "tags": [
+      "frog",
+      "jungle",
+      "swamp",
+      "amphibian"
+    ],
     "price": 300,
     "currency": "EUR",
     "description": "Life as a bullywug is nasty, brutish, and wet. These frog-headed amphibious humanoids must stay constantly moist, dwelling in rainy forests, marshes, and damp caves.\r\nBullywug for use in any epic adventure!",
     "scale": "Medium",
     "material": "resin",
     "images": [
+      "https://images.pangolinresinworks.com/collection-3/army-of-bullywugs-299095/1.jpg",
       "https://images.pangolinresinworks.com/collection-3/bullywug/variations/01.jpg",
       "https://images.pangolinresinworks.com/collection-3/bullywug/variations/02.jpg",
       "https://images.pangolinresinworks.com/collection-3/bullywug/variations/03.jpg",
@@ -38950,7 +38885,9 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": [],
+    "themes": [
+      "humanoids"
+    ],
     "variations": [
       {
         "id": "01",
@@ -38985,27 +38922,6 @@
     ]
   },
   {
-    "id": "yks-233165",
-    "slug": "bursting-bulette-book-of-beasts-233165",
-    "name": "Bursting Bulette - Book of Beasts",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Bursting Land Shark from the 'Adventurers Guide - The Book of Beasts' kickstarter campaign. Late pledges still available!\r\nBursting Land Shark for use in any epic adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/bursting-bulette-book-of-beasts-233165/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/bursting-bulette-book-of-beasts-233165/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/bursting-bulette-book-of-beasts-233165/3.jpg",
-      "https://images.pangolinresinworks.com/collection-3/bursting-bulette-book-of-beasts-233165/4.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": []
-  },
-  {
     "id": "yks-272797",
     "slug": "cast-of-crabfolk-272797",
     "name": "Cast of Crabfolk",
@@ -39025,7 +38941,33 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [],
+    "variations": [
+      {
+        "id": "01",
+        "label": "Pose 1",
+        "price": 0,
+        "image": "https://images.pangolinresinworks.com/collection-3/cast-of-crabfolk-272797/2.jpg"
+      },
+      {
+        "id": "02",
+        "label": "Pose 2",
+        "price": 0,
+        "image": "https://images.pangolinresinworks.com/collection-3/cast-of-crabfolk-272797/3.jpg"
+      },
+      {
+        "id": "03",
+        "label": "Pose 3",
+        "price": 0,
+        "image": "https://images.pangolinresinworks.com/collection-3/cast-of-crabfolk-272797/4.jpg"
+      },
+      {
+        "id": "04",
+        "label": "Pose 4",
+        "price": 0,
+        "image": "https://images.pangolinresinworks.com/collection-3/cast-of-crabfolk-272797/5.jpg"
+      }
+    ]
   },
   {
     "id": "yks-153038",
@@ -39051,27 +38993,6 @@
     ]
   },
   {
-    "id": "yks-233281",
-    "slug": "charging-minotaur-book-of-beasts-233281",
-    "name": "Charging Minotaur - Book of Beasts",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Charging Minotaur from the 'Adventurers Guide - The Book of Beasts' kickstarter campaign. Late pledges still available!\r\nCharging Minotaur for use in any epic adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/charging-minotaur-book-of-beasts-233281/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/charging-minotaur-book-of-beasts-233281/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/charging-minotaur-book-of-beasts-233281/3.jpg",
-      "https://images.pangolinresinworks.com/collection-3/charging-minotaur-book-of-beasts-233281/4.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": []
-  },
-  {
     "id": "yks-278138",
     "slug": "chimera-278138",
     "name": "Chimera",
@@ -39094,79 +39015,16 @@
     "variations": [
       {
         "id": "traditional-01",
-        "label": "Traditional_01",
+        "label": "Walking",
         "price": 900,
         "image": "https://images.pangolinresinworks.com/collection-3/chimera/variations/Traditional-01.jpg"
       },
       {
         "id": "traditional-02",
-        "label": "Traditional_02",
+        "label": "Flying",
         "price": 850,
-        "image": "https://images.pangolinresinworks.com/collection-3/chimera/variations/Traditional-01.jpg"
+        "image": "https://images.pangolinresinworks.com/collection-3/chimera/gallery-2.jpg"
       }
-    ]
-  },
-  {
-    "id": "yks-195856",
-    "slug": "chwinga-195856",
-    "name": "Chwinga",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 300,
-    "currency": "EUR",
-    "description": "A chwinga is a tiny elemental spirit that lives in plants, rocks, and rivers far from civilization. Those found in cold climates also live in ice and snow. Painfully shy, chwingas prefer to move about unseen.\r\nChwinga for use in any epic dungeon adventure!",
-    "scale": "Medium",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/chwinga/variations/01.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": [
-      "undead"
-    ],
-    "variations": [
-      {
-        "id": "01",
-        "label": "Pose 1",
-        "price": 300,
-        "image": "https://images.pangolinresinworks.com/collection-3/chwinga/variations/01.jpg"
-      },
-      {
-        "id": "02",
-        "label": "Pose 2",
-        "price": 300,
-        "image": "https://images.pangolinresinworks.com/collection-3/chwinga/variations/01.jpg"
-      },
-      {
-        "id": "03",
-        "label": "Pose 3",
-        "price": 300,
-        "image": "https://images.pangolinresinworks.com/collection-3/chwinga/variations/01.jpg"
-      }
-    ]
-  },
-  {
-    "id": "yks-232645",
-    "slug": "clawed-goblin-book-of-beasts-232645",
-    "name": "Clawed Goblin - Book of Beasts",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Clawed Goblin from the 'Adventurers Guide - The Book of Beasts' kickstarter campaign. Late pledges still available!\r\nClawed Goblin for use in any epic adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/clawed-goblin-book-of-beasts-232645/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/clawed-goblin-book-of-beasts-232645/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/clawed-goblin-book-of-beasts-232645/3.jpg",
-      "https://images.pangolinresinworks.com/collection-3/clawed-goblin-book-of-beasts-232645/4.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": [
-      "humanoids"
     ]
   },
   {
@@ -39231,29 +39089,6 @@
     "themes": []
   },
   {
-    "id": "yks-160255",
-    "slug": "coins-full-size-tabletop-props-160255",
-    "name": "Coins - Full Size - Tabletop Props",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Full sized coins with custom art on both sides for use in any epic adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/coins-full-size-tabletop-props-160255/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/coins-full-size-tabletop-props-160255/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/coins-full-size-tabletop-props-160255/3.jpg",
-      "https://images.pangolinresinworks.com/collection-3/coins-full-size-tabletop-props-160255/4.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": [
-      "terrain-scenery"
-    ]
-  },
-  {
     "id": "yks-146898",
     "slug": "corpse-flower-146898",
     "name": "Corpse Flower",
@@ -39265,7 +39100,8 @@
     "scale": "Medium",
     "material": "resin",
     "images": [
-      "https://images.pangolinresinworks.com/collection-3/corpse-flower/variations/01.jpg"
+      "https://images.pangolinresinworks.com/collection-3/corpse-flower/variations/01.jpg",
+      "https://images.pangolinresinworks.com/collection-3/corpse-flower/variations/02.jpg"
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
@@ -39317,7 +39153,7 @@
   {
     "id": "yks-636541",
     "slug": "crawling-claw-elden-636541",
-    "name": "Crawling Claw - Elden",
+    "name": "Crawling Claw",
     "category": "yks-miniatures",
     "tags": [],
     "price": 300,
@@ -39326,22 +39162,54 @@
     "scale": "Medium",
     "material": "resin",
     "images": [
+      "https://images.pangolinresinworks.com/collection-3/crawling-claw-elden/gallery-5.png",
       "https://images.pangolinresinworks.com/collection-3/crawling-claw/variations/01.png",
       "https://images.pangolinresinworks.com/collection-3/crawling-claw-elden/gallery-2.png",
       "https://images.pangolinresinworks.com/collection-3/crawling-claw-elden/gallery-3.png",
-      "https://images.pangolinresinworks.com/collection-3/crawling-claw-elden/gallery-4.png",
-      "https://images.pangolinresinworks.com/collection-3/crawling-claw-elden/gallery-5.png"
+      "https://images.pangolinresinworks.com/collection-3/crawling-claw-elden/gallery-4.png"
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
     "themes": [
       "monsters-beasts"
+    ],
+    "variations": [
+      {
+        "id": "swarm",
+        "label": "Swarm",
+        "price": 300,
+        "image": "https://images.pangolinresinworks.com/collection-3/crawling-claw-elden/gallery-5.png"
+      },
+      {
+        "id": "standing",
+        "label": "Standing",
+        "price": 300,
+        "image": "https://images.pangolinresinworks.com/collection-3/crawling-claw/variations/01.png"
+      },
+      {
+        "id": "grabbing",
+        "label": "Grabbing",
+        "price": 300,
+        "image": "https://images.pangolinresinworks.com/collection-3/crawling-claw-elden/gallery-2.png"
+      },
+      {
+        "id": "walking",
+        "label": "Walking",
+        "price": 300,
+        "image": "https://images.pangolinresinworks.com/collection-3/crawling-claw-elden/gallery-3.png"
+      },
+      {
+        "id": "attacking",
+        "label": "Attacking",
+        "price": 300,
+        "image": "https://images.pangolinresinworks.com/collection-3/crawling-claw-elden/gallery-4.png"
+      }
     ]
   },
   {
     "id": "yks-147734",
-    "slug": "creeping-nothic-147734",
-    "name": "Creeping Nothic",
+    "slug": "nothic-147734",
+    "name": "Nothic",
     "category": "yks-miniatures",
     "tags": [],
     "price": 0,
@@ -39355,60 +39223,34 @@
       "https://images.pangolinresinworks.com/collection-3/creeping-nothic-147734/3.jpg",
       "https://images.pangolinresinworks.com/collection-3/creeping-nothic-147734/4.jpg",
       "https://images.pangolinresinworks.com/collection-3/creeping-nothic-147734/5.jpg",
-      "https://images.pangolinresinworks.com/collection-3/creeping-nothic-147734/6.jpg"
+      "https://images.pangolinresinworks.com/collection-3/creeping-nothic-147734/6.jpg",
+      "https://images.pangolinresinworks.com/collection-3/intent-nothic-353739/1.jpg",
+      "https://images.pangolinresinworks.com/collection-3/intent-nothic-353739/2.jpg",
+      "https://images.pangolinresinworks.com/collection-3/intent-nothic-353739/3.jpg",
+      "https://images.pangolinresinworks.com/collection-3/intent-nothic-353739/4.jpg"
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
-  },
-  {
-    "id": "yks-232646",
-    "slug": "crossbow-goblin-book-of-beasts-232646",
-    "name": "Crossbow Goblin - Book of Beasts",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Crossbow Goblin from the 'Adventurers Guide - The Book of Beasts' kickstarter campaign. Late pledges still available!\r\nCrossbow Goblin for use in any epic adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/crossbow-goblin-book-of-beasts-232646/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/crossbow-goblin-book-of-beasts-232646/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/crossbow-goblin-book-of-beasts-232646/3.jpg",
-      "https://images.pangolinresinworks.com/collection-3/crossbow-goblin-book-of-beasts-232646/4.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": [
-      "humanoids"
+    "themes": [],
+    "variations": [
+      {
+        "id": "creeping",
+        "label": "Creeping",
+        "price": 0,
+        "image": "https://images.pangolinresinworks.com/collection-3/creeping-nothic-147734/1.jpg"
+      },
+      {
+        "id": "intent",
+        "label": "Intent",
+        "price": 0,
+        "image": "https://images.pangolinresinworks.com/collection-3/intent-nothic-353739/1.jpg"
+      }
     ]
   },
   {
-    "id": "yks-239214",
-    "slug": "crouched-harpy-239214",
-    "name": "Crouched Harpy",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Harpt are a twisted mix of a vulture and a humanoid female. With jet black eyes and powerful wings it uses it's sweet song to lure countless adventurers and carry them away to their deaths.\r\nHarpy for use in any epic adventure!  for use in any epic adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/crouched-harpy-239214/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/crouched-harpy-239214/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/crouched-harpy-239214/3.jpg",
-      "https://images.pangolinresinworks.com/collection-3/crouched-harpy-239214/4.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": []
-  },
-  {
-    "id": "yks-114210",
-    "slug": "cthulhid-114210",
-    "name": "Cthulhid",
+    "id": "yks-147726",
+    "slug": "cthulid-147726",
+    "name": "Cthulid",
     "category": "yks-miniatures",
     "tags": [
       "creature",
@@ -39430,44 +39272,24 @@
     ],
     "price": 0,
     "currency": "EUR",
-    "description": "Tabletop miniature. Scale: 32mm and 54mm.",
+    "description": "Mind flayers are tyrants and slavers. They are aggressive and attempt to mentally dominate any non-slave, non-illithid that they meet, twisting the potential of other creatures to further their evil and far-reaching goals\r\nMind Flayer for use in any epic dungeon adventure!",
     "scale": "Medium, Large",
     "material": "resin",
     "images": [
-      "https://images.pangolinresinworks.com/collection-3/cthulhid-114210/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/cthulhid-114210/2.jpg"
+      "https://images.pangolinresinworks.com/collection-3/cthulid-147726/1.jpg",
+      "https://images.pangolinresinworks.com/collection-3/cthulid-147726/2.jpg",
+      "https://images.pangolinresinworks.com/collection-3/cthulid-147726/3.jpg"
     ],
     "inStock": true,
-    "createdAt": "2020-03-17",
+    "createdAt": "2026-08-11",
     "themes": [
       "humanoids"
     ]
   },
   {
-    "id": "yks-147726",
-    "slug": "cthulid-147726",
-    "name": "Cthulid",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Mind flayers are tyrants and slavers. They are aggressive and attempt to mentally dominate any non-slave, non-illithid that they meet, twisting the potential of other creatures to further their evil and far-reaching goals\r\nMind Flayer for use in any epic dungeon adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/cthulid-147726/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/cthulid-147726/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/cthulid-147726/3.jpg",
-      "https://images.pangolinresinworks.com/collection-3/cthulid-147726/collective.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": []
-  },
-  {
     "id": "yks-233279",
     "slug": "cthulid-high-priest-book-of-beasts-233279",
-    "name": "Cthulid High Priest - Book of Beasts",
+    "name": "Cthulid High Priest ",
     "category": "yks-miniatures",
     "tags": [],
     "price": 0,
@@ -39488,7 +39310,7 @@
   {
     "id": "yks-233277",
     "slug": "cthulid-mage-book-of-beasts-233277",
-    "name": "Cthulid Mage - Book of Beasts",
+    "name": "Cthulid Mage ",
     "category": "yks-miniatures",
     "tags": [],
     "price": 0,
@@ -39509,7 +39331,7 @@
   {
     "id": "yks-233278",
     "slug": "cthulid-warlock-book-of-beasts-233278",
-    "name": "Cthulid Warlock - Book of Beasts",
+    "name": "Cthulid Warlock ",
     "category": "yks-miniatures",
     "tags": [],
     "price": 0,
@@ -39528,51 +39350,6 @@
     "themes": []
   },
   {
-    "id": "yks-232917",
-    "slug": "cultists-232917",
-    "name": "Cultists",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Cultists swear allegiance to dark powers such as elemental princes, demon lords, or archdevils. Most conceal their loyalties to avoid being ostracized, imprisoned, or executed for their beliefs. Unlike evil acolytes, cultists often show signs of insanity in their beliefs and practices.\r\nGroup of Cultists for use in any epic adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/cultists-232917/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/cultists-232917/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/cultists-232917/3.jpg",
-      "https://images.pangolinresinworks.com/collection-3/cultists-232917/4.jpg",
-      "https://images.pangolinresinworks.com/collection-3/cultists-232917/5.jpg",
-      "https://images.pangolinresinworks.com/collection-3/cultists-232917/6.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": [
-      "demons-fiends"
-    ]
-  },
-  {
-    "id": "yks-808278",
-    "slug": "cyclops-greatclub-808278",
-    "name": "Cyclops - Greatclub",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Cyclopes are one-eyed giants that eke out a meager existence in wild lands. They are a terrifying threat in combat due to their size and strength, but they can often be tricked by clever foes.\r\nCyclops for use in any epic adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/cyclops-greatclub-808278/1.png",
-      "https://images.pangolinresinworks.com/collection-3/cyclops-greatclub-808278/2.png",
-      "https://images.pangolinresinworks.com/collection-3/cyclops-greatclub-808278/3.png"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": []
-  },
-  {
     "id": "yks-235162",
     "slug": "dagger-cultist-235162",
     "name": "Cultist",
@@ -39584,6 +39361,7 @@
     "scale": "",
     "material": "resin",
     "images": [
+      "https://images.pangolinresinworks.com/collection-3/cultists-232917/1.jpg",
       "https://images.pangolinresinworks.com/collection-3/dagger-cultist-235162/1.jpg",
       "https://images.pangolinresinworks.com/collection-3/worshipping-cultist-235163/1.jpg",
       "https://images.pangolinresinworks.com/collection-3/sneaking-cultist-235164/1.jpg",
@@ -39622,24 +39400,6 @@
     ]
   },
   {
-    "id": "yks-146900",
-    "slug": "death-kiss-146900",
-    "name": "Death Kiss",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 550,
-    "currency": "EUR",
-    "description": "A Death Kiss is a lesser beholder-kin with tentacles that ended in mouths instead of eyestalks. Blood tyrants came to being as physical manifestations of tyrants' vivid dreams of mass blood loss.\r\nDeath Kiss for use in any epic dungeon adventure!",
-    "scale": "Medium",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/death-kiss/variations/01.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": []
-  },
-  {
     "id": "yks-232391",
     "slug": "death-tyrant-232391",
     "name": "Death Tyrant",
@@ -39665,69 +39425,9 @@
     ]
   },
   {
-    "id": "yks-232913",
-    "slug": "defeated-beholder-book-of-beasts-232913",
-    "name": "Defeated Beholder - Book of Beasts",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Defeated Eye Tyrant from the 'Adventurers Guide - The Book of Beasts' kickstarter campaign. Late pledges still available!\r\nDefeated Eye Tyrant for use in any epic adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/defeated-beholder-book-of-beasts-232913/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/defeated-beholder-book-of-beasts-232913/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/defeated-beholder-book-of-beasts-232913/3.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": []
-  },
-  {
-    "id": "yks-232657",
-    "slug": "defeated-bugbear-book-of-beasts-232657",
-    "name": "Defeated Bugbear - Book of Beasts",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Defeated Bugbear from the 'Adventurers Guide - The Book of Beasts' kickstarter campaign. Late pledges still available!\r\nDefeated Bugbear for use in any epic adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/defeated-bugbear-book-of-beasts-232657/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/defeated-bugbear-book-of-beasts-232657/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/defeated-bugbear-book-of-beasts-232657/3.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": []
-  },
-  {
-    "id": "yks-233169",
-    "slug": "defeated-bulette-book-of-beasts-233169",
-    "name": "Defeated Bulette - Book of Beasts",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Defeated Land Shark from the 'Adventurers Guide - The Book of Beasts' kickstarter campaign. Late pledges still available!\r\nDefeated Land Shark for use in any epic adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/defeated-bulette-book-of-beasts-233169/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/defeated-bulette-book-of-beasts-233169/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/defeated-bulette-book-of-beasts-233169/3.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": []
-  },
-  {
     "id": "yks-233280",
     "slug": "defeated-cthulid-book-of-beasts-233280",
-    "name": "Defeated Cthulid - Book of Beasts",
+    "name": "Cthulid Defeated",
     "category": "yks-miniatures",
     "tags": [],
     "price": 0,
@@ -39738,184 +39438,6 @@
     "images": [
       "https://images.pangolinresinworks.com/collection-3/defeated-cthulid-book-of-beasts-233280/1.jpg",
       "https://images.pangolinresinworks.com/collection-3/defeated-cthulid-book-of-beasts-233280/2.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": []
-  },
-  {
-    "id": "yks-232651",
-    "slug": "defeated-goblin-book-of-beasts-232651",
-    "name": "Defeated Goblin - Book of Beasts",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Defeated Goblin from the 'Adventurers Guide - The Book of Beasts' kickstarter campaign. Late pledges still available!\r\nDefeated Goblin for use in any epic adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/defeated-goblin-book-of-beasts-232651/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/defeated-goblin-book-of-beasts-232651/2.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": [
-      "humanoids"
-    ]
-  },
-  {
-    "id": "yks-232662",
-    "slug": "defeated-hobgoblin-book-of-beasts-232662",
-    "name": "Defeated Hobgoblin - Book of Beasts",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Defeated Hobgoblin from the 'Adventurers Guide - The Book of Beasts' kickstarter campaign. Late pledges still available!\r\nDefeated Hobgoblin for use in any epic adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/defeated-hobgoblin-book-of-beasts-232662/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/defeated-hobgoblin-book-of-beasts-232662/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/defeated-hobgoblin-book-of-beasts-232662/3.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": []
-  },
-  {
-    "id": "yks-232828",
-    "slug": "defeated-lizardfolk-book-of-beasts-232828",
-    "name": "Defeated Lizardfolk - Book of Beasts",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Defeated Lizardfolk from the 'Adventurers Guide - The Book of Beasts' kickstarter campaign. Late pledges still available!\r\nDefeated Lizardfolk for use in any epic adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/defeated-lizardfolk-book-of-beasts-232828/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/defeated-lizardfolk-book-of-beasts-232828/2.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": []
-  },
-  {
-    "id": "yks-232834",
-    "slug": "defeated-mimic-book-of-beasts-232834",
-    "name": "Defeated Mimic - Book of Beasts",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Defeated Mimic from the 'Adventurers Guide - The Book of Beasts' kickstarter campaign. Late pledges still available!\r\nDefeated Mimic for use in any epic adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/defeated-mimic-book-of-beasts-232834/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/defeated-mimic-book-of-beasts-232834/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/defeated-mimic-book-of-beasts-232834/3.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": []
-  },
-  {
-    "id": "yks-233285",
-    "slug": "defeated-minotaur-book-of-beasts-233285",
-    "name": "Defeated Minotaur - Book of Beasts",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Defeated Minotaur from the 'Adventurers Guide - The Book of Beasts' kickstarter campaign. Late pledges still available!\r\nDefeated Minotaur for use in any epic adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/defeated-minotaur-book-of-beasts-233285/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/defeated-minotaur-book-of-beasts-233285/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/defeated-minotaur-book-of-beasts-233285/3.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": []
-  },
-  {
-    "id": "yks-233840",
-    "slug": "defeated-ogre-book-of-beasts-233840",
-    "name": "Defeated Ogre - Book of Beasts",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Defeated Ogre from the 'Adventurers Guide - The Book of Beasts' kickstarter campaign. Late pledges still available!\r\nDefeated Ogre for use in any epic adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/defeated-ogre-book-of-beasts-233840/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/defeated-ogre-book-of-beasts-233840/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/defeated-ogre-book-of-beasts-233840/3.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": []
-  },
-  {
-    "id": "yks-233832",
-    "slug": "defeated-owlbear-book-of-beast-233832",
-    "name": "Defeated Owlbear - Book of Beast",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Defeated Nightowl from the 'Adventurers Guide - The Book of Beasts' kickstarter campaign. Late pledges still available!\r\nDefeated Nightowl for use in any epic adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/defeated-owlbear-book-of-beast-233832/1.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": [
-      "monsters-beasts"
-    ]
-  },
-  {
-    "id": "yks-234257",
-    "slug": "defeated-skeletons-book-of-beasts-234257",
-    "name": "Defeated Skeletons - Book of Beasts",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Defeated Skeletons from the 'Adventurers Guide - The Book of Beasts' kickstarter campaign. Late pledges still available!\r\nDefeated Skeletons for use in any epic adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/defeated-skeletons-book-of-beasts-234257/1.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": []
-  },
-  {
-    "id": "yks-234115",
-    "slug": "defeated-troll-book-of-beasts-234115",
-    "name": "Defeated Troll - Book of Beasts",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Defeated Troll from the 'Adventurers Guide - The Book of Beasts' kickstarter campaign. Late pledges still available!\r\nDefeated Troll for use in any epic adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/defeated-troll-book-of-beasts-234115/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/defeated-troll-book-of-beasts-234115/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/defeated-troll-book-of-beasts-234115/3.jpg"
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
@@ -39977,9 +39499,7 @@
     "material": "resin",
     "images": [
       "https://images.pangolinresinworks.com/collection-3/dire-bat/variations/01.jpg",
-      "https://images.pangolinresinworks.com/collection-3/dire-bat/variations/02.jpg",
-      "https://images.pangolinresinworks.com/collection-3/crawling-dire-bat-190356/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/swooping-dire-bat-614455/1.jpg"
+      "https://images.pangolinresinworks.com/collection-3/dire-bat/variations/02.jpg"
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
@@ -39987,18 +39507,6 @@
       "monsters-beasts"
     ],
     "variations": [
-      {
-        "id": "01",
-        "label": "Pose 1",
-        "price": 600,
-        "image": "https://images.pangolinresinworks.com/collection-3/dire-bat/variations/01.jpg"
-      },
-      {
-        "id": "02",
-        "label": "Pose 2",
-        "price": 1600,
-        "image": "https://images.pangolinresinworks.com/collection-3/dire-bat/variations/02.jpg"
-      },
       {
         "id": "crawling",
         "label": "Crawling",
@@ -40012,27 +39520,6 @@
         "image": "https://images.pangolinresinworks.com/collection-3/swooping-dire-bat-614455/1.jpg"
       }
     ]
-  },
-  {
-    "id": "yks-234112",
-    "slug": "dire-troll-book-of-beasts-234112",
-    "name": "Dire Troll - Book of Beasts",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Dire Troll from the 'Adventurers Guide - The Book of Beasts' kickstarter campaign. Late pledges still available!\r\nDire Troll for use in any epic adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/dire-troll-book-of-beasts-234112/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/dire-troll-book-of-beasts-234112/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/dire-troll-book-of-beasts-234112/3.jpg",
-      "https://images.pangolinresinworks.com/collection-3/dire-troll-book-of-beasts-234112/4.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": []
   },
   {
     "id": "yks-147238",
@@ -40053,28 +39540,21 @@
     "createdAt": "2026-08-11",
     "themes": [
       "monsters-beasts"
-    ]
-  },
-  {
-    "id": "yks-232911",
-    "slug": "diving-beholder-book-of-beasts-232911",
-    "name": "Diving Beholder - Book of Beasts",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Diving Eye Tyrant from the 'Adventurers Guide - The Book of Beasts' kickstarter campaign. Late pledges still available!\r\nDiving Eye Tyrant for use in any epic adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/diving-beholder-book-of-beasts-232911/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/diving-beholder-book-of-beasts-232911/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/diving-beholder-book-of-beasts-232911/3.jpg",
-      "https://images.pangolinresinworks.com/collection-3/diving-beholder-book-of-beasts-232911/4.jpg"
     ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": []
+    "variations": [
+      {
+        "id": "walking",
+        "label": "Walking",
+        "price": 350,
+        "image": "https://images.pangolinresinworks.com/collection-3/displacer-beast/variations/01.jpg"
+      },
+      {
+        "id": "snarling",
+        "label": "Snarling",
+        "price": 350,
+        "image": "https://images.pangolinresinworks.com/collection-3/displacer-beast/gallery-2.jpg"
+      }
+    ]
   },
   {
     "id": "yks-221346",
@@ -40088,14 +39568,36 @@
     "scale": "Medium",
     "material": "resin",
     "images": [
+      "https://images.pangolinresinworks.com/collection-3/doppelganger/gallery-4.jpg",
       "https://images.pangolinresinworks.com/collection-3/doppelganger/variations/01.jpg",
       "https://images.pangolinresinworks.com/collection-3/doppelganger/gallery-2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/doppelganger/gallery-3.jpg",
-      "https://images.pangolinresinworks.com/collection-3/doppelganger/gallery-4.jpg"
+      "https://images.pangolinresinworks.com/collection-3/doppelganger/gallery-3.jpg"
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "humanoids"
+    ],
+    "variations": [
+      {
+        "id": "original",
+        "label": "Original",
+        "price": 400,
+        "image": "https://images.pangolinresinworks.com/collection-3/doppelganger/variations/01.jpg"
+      },
+      {
+        "id": "transforming",
+        "label": "Transforming",
+        "price": 400,
+        "image": "https://images.pangolinresinworks.com/collection-3/doppelganger/gallery-2.jpg"
+      },
+      {
+        "id": "transformed",
+        "label": "Transformed",
+        "price": 400,
+        "image": "https://images.pangolinresinworks.com/collection-3/doppelganger/gallery-3.jpg"
+      }
+    ]
   },
   {
     "id": "yks-147235",
@@ -40141,9 +39643,9 @@
     ]
   },
   {
-    "id": "yks-448954",
-    "slug": "druid-human-female-lvl-1-448954",
-    "name": "Druid - Human Female - Lvl 1",
+    "id": "yks-346669",
+    "slug": "druid-346669",
+    "name": "Druid",
     "category": "yks-miniatures",
     "tags": [],
     "price": 0,
@@ -40152,72 +39654,16 @@
     "scale": "",
     "material": "resin",
     "images": [
+      "https://images.pangolinresinworks.com/collection-3/druids-level-up-346669/1.jpg",
       "https://images.pangolinresinworks.com/collection-3/druid-human-female-lvl-1-448954/1.jpg",
       "https://images.pangolinresinworks.com/collection-3/druid-human-female-lvl-1-448954/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/druid-human-female-lvl-1-448954/3.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": [
-      "humanoids"
-    ]
-  },
-  {
-    "id": "yks-448952",
-    "slug": "druid-human-female-lvl-10-448952",
-    "name": "Druid - Human Female - Lvl 10",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Druids dwell in forests and other secluded wilderness locations, where they protect the natural world from monsters and the encroachment of civilization. Some are tribal shamans who heal the sick, pray to animal spirits, and provide spiritual guidance.\r\nDruid for use in any epic adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
+      "https://images.pangolinresinworks.com/collection-3/druid-human-female-lvl-1-448954/3.jpg",
       "https://images.pangolinresinworks.com/collection-3/druid-human-female-lvl-10-448952/1.jpg",
       "https://images.pangolinresinworks.com/collection-3/druid-human-female-lvl-10-448952/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/druid-human-female-lvl-10-448952/3.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": [
-      "humanoids"
-    ]
-  },
-  {
-    "id": "yks-448956",
-    "slug": "druid-human-male-lvl-1-448956",
-    "name": "Druid - Human Male - Lvl 1",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Druids dwell in forests and other secluded wilderness locations, where they protect the natural world from monsters and the encroachment of civilization. Some are tribal shamans who heal the sick, pray to animal spirits, and provide spiritual guidance.\r\nDruid for use in any epic adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
+      "https://images.pangolinresinworks.com/collection-3/druid-human-female-lvl-10-448952/3.jpg",
       "https://images.pangolinresinworks.com/collection-3/druid-human-male-lvl-1-448956/1.jpg",
       "https://images.pangolinresinworks.com/collection-3/druid-human-male-lvl-1-448956/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/druid-human-male-lvl-1-448956/3.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": [
-      "humanoids"
-    ]
-  },
-  {
-    "id": "yks-448955",
-    "slug": "druid-human-male-lvl-10-448955",
-    "name": "Druid - Human Male - Lvl 10",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Druids dwell in forests and other secluded wilderness locations, where they protect the natural world from monsters and the encroachment of civilization. Some are tribal shamans who heal the sick, pray to animal spirits, and provide spiritual guidance.\r\nDruid for use in any epic adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
+      "https://images.pangolinresinworks.com/collection-3/druid-human-male-lvl-1-448956/3.jpg",
       "https://images.pangolinresinworks.com/collection-3/druid-human-male-lvl-10-448955/1.jpg",
       "https://images.pangolinresinworks.com/collection-3/druid-human-male-lvl-10-448955/2.jpg",
       "https://images.pangolinresinworks.com/collection-3/druid-human-male-lvl-10-448955/3.jpg"
@@ -40226,30 +39672,33 @@
     "createdAt": "2026-08-11",
     "themes": [
       "humanoids"
-    ]
-  },
-  {
-    "id": "yks-346669",
-    "slug": "druids-level-up-346669",
-    "name": "Druids - Level Up",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Druids dwell in forests and other secluded wilderness locations, where they protect the natural world from monsters and the encroachment of civilization. Some are tribal shamans who heal the sick, pray to animal spirits, and provide spiritual guidance.\r\nDruids use in any epic adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/druids-level-up-346669/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/druids-level-up-346669/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/druids-level-up-346669/3.jpg",
-      "https://images.pangolinresinworks.com/collection-3/druids-level-up-346669/4.jpg",
-      "https://images.pangolinresinworks.com/collection-3/druids-level-up-346669/5.jpg",
-      "https://images.pangolinresinworks.com/collection-3/druids-level-up-346669/6.jpg"
     ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": []
+    "variations": [
+      {
+        "id": "01",
+        "label": "Human Female - Lvl 1",
+        "price": 0,
+        "image": "https://images.pangolinresinworks.com/collection-3/druid-human-female-lvl-1-448954/1.jpg"
+      },
+      {
+        "id": "02",
+        "label": "Human Female - Lvl 10",
+        "price": 0,
+        "image": "https://images.pangolinresinworks.com/collection-3/druid-human-female-lvl-10-448952/1.jpg"
+      },
+      {
+        "id": "03",
+        "label": "Human Male - Lvl 1",
+        "price": 0,
+        "image": "https://images.pangolinresinworks.com/collection-3/druid-human-male-lvl-1-448956/1.jpg"
+      },
+      {
+        "id": "04",
+        "label": "Human Male - Lvl 10",
+        "price": 0,
+        "image": "https://images.pangolinresinworks.com/collection-3/druid-human-male-lvl-10-448955/1.jpg"
+      }
+    ]
   },
   {
     "id": "yks-302333",
@@ -40262,7 +39711,8 @@
     "description": "The tyrannical duergar, also known as gray dwarves, dwell in fantastic cities deep in the Underdark. Using ancient dwarven knowledge and myriad slaves, they work tirelessly to expand their subterranean kingdoms.\r\nDuergar for use in any epic adventure!",
     "scale": "Medium",
     "material": "resin",
-    "images": [
+    "images": [      "https://images.pangolinresinworks.com/collection-3/knot-of-duergar-299613/1.jpg",
+
       "https://images.pangolinresinworks.com/collection-3/duergar/variations/01.jpg",
       "https://images.pangolinresinworks.com/collection-3/duergar/variations/02.jpg",
       "https://images.pangolinresinworks.com/collection-3/duergar/variations/03.jpg",
@@ -40431,7 +39881,7 @@
   {
     "id": "yks-232832",
     "slug": "exposed-mimic-book-of-beasts-232832",
-    "name": "Exposed Mimic - Book of Beasts",
+    "name": "Exposed Mimic ",
     "category": "yks-miniatures",
     "tags": [],
     "price": 0,
@@ -40522,6 +39972,7 @@
     "scale": "Medium",
     "material": "resin",
     "images": [
+    "https://images.pangolinresinworks.com/collection-3/flameskulls-289170/1.jpg",
       "https://images.pangolinresinworks.com/collection-3/flameskull/variations/01.jpg",
       "https://images.pangolinresinworks.com/collection-3/flameskull/variations/02.jpg",
       "https://images.pangolinresinworks.com/collection-3/flameskull/variations/03.jpg",
@@ -40556,43 +40007,10 @@
         "label": "Pose 4",
         "price": 300,
         "image": "https://images.pangolinresinworks.com/collection-3/flameskull/variations/04.jpg"
-      },
-      {
-        "id": "rearing",
-        "label": "Rearing",
-        "price": 300,
-        "image": "https://images.pangolinresinworks.com/collection-3/rearing-flameskull-311392/1.jpg"
-      },
-      {
-        "id": "diving",
-        "label": "Diving",
-        "price": 300,
-        "image": "https://images.pangolinresinworks.com/collection-3/diving-flameskull-311394/1.jpg"
       }
     ]
   },
-  {
-    "id": "yks-289170",
-    "slug": "flameskulls-289170",
-    "name": "Flameskulls",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Blazing green flames and mad, echoing laughter follow a disembodied skull as it patrols its demesne.\r\nFlameskulls for use in any epic adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/flameskulls-289170/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/flameskulls-289170/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/flameskulls-289170/3.jpg",
-      "https://images.pangolinresinworks.com/collection-3/flameskulls-289170/4.jpg",
-      "https://images.pangolinresinworks.com/collection-3/flameskulls-289170/5.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": []
-  },
+ 
   {
     "id": "yks-278134",
     "slug": "flumph-278134",
@@ -40611,30 +40029,7 @@
     "createdAt": "2026-08-11",
     "themes": []
   },
-  {
-    "id": "yks-278139",
-    "slug": "flying-chimera-278139",
-    "name": "Flying Chimera",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Chimeras were created after mortals summoned Demogorgon to the world. The Prince of Demons, unimpressed with the creatures that surrounded it, transformed them into horrific, multi-headed monstrosities.\r\nChimera for use in any epic adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/flying-chimera-278139/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/flying-chimera-278139/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/flying-chimera-278139/3.jpg",
-      "https://images.pangolinresinworks.com/collection-3/flying-chimera-278139/4.jpg",
-      "https://images.pangolinresinworks.com/collection-3/flying-chimera-278139/5.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": [
-      "monsters-beasts"
-    ]
-  },
+ 
   {
     "id": "yks-539162",
     "slug": "flying-gargoyle-539162",
@@ -40647,6 +40042,7 @@
     "scale": "",
     "material": "resin",
     "images": [
+      "https://images.pangolinresinworks.com/collection-3/gargoyle/variations/Gargoyle-ALL.jpg",
       "https://images.pangolinresinworks.com/collection-3/flying-gargoyle-539162/1.jpg",
       "https://images.pangolinresinworks.com/collection-3/perched-gargoyle-active-539168/1.jpg",
       "https://images.pangolinresinworks.com/collection-3/perched-gargoyle-inactive-539171/1.jpg",
@@ -40688,70 +40084,6 @@
         "image": "https://images.pangolinresinworks.com/collection-3/four-armed-gargoyle-539177/1.jpg"
       }
     ]
-  },
-  {
-    "id": "yks-239213",
-    "slug": "flying-harpy-239213",
-    "name": "Flying Harpy",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Harpt are a twisted mix of a vulture and a humanoid female. With jet black eyes and powerful wings it uses it's sweet song to lure countless adventurers and carry them away to their deaths.\r\nFlying Harpy for use in any epic adventure!  for use in any epic adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/flying-harpy-239213/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/flying-harpy-239213/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/flying-harpy-239213/3.jpg",
-      "https://images.pangolinresinworks.com/collection-3/flying-harpy-239213/4.jpg",
-      "https://images.pangolinresinworks.com/collection-3/flying-harpy-239213/5.jpg",
-      "https://images.pangolinresinworks.com/collection-3/flying-harpy-239213/6.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": []
-  },
-  {
-    "id": "yks-166283",
-    "slug": "forest-animals-tabletop-props-pre-supported-166283",
-    "name": "Forest Animals - Tabletop Props (Pre-Supported)",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "A selection of forest animals for use in any epic dungeon adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/forest-animals-tabletop-props-pre-supported-166283/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/forest-animals-tabletop-props-pre-supported-166283/2.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": [
-      "terrain-scenery"
-    ]
-  },
-  {
-    "id": "yks-118061",
-    "slug": "formicid-118061",
-    "name": "Formicid",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Formicid are huge insectoid monsters. They are ambush predators that hunt thier prey from below the ground\r\nFormicid for use in any epic adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/formicid-118061/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/formicid-118061/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/formicid-118061/3.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": []
   },
   {
     "id": "yks-329115",
@@ -40803,7 +40135,8 @@
     "scale": "Medium",
     "material": "resin",
     "images": [
-      "https://images.pangolinresinworks.com/collection-3/gelatinous-cube/variations/01.png"
+      "https://images.pangolinresinworks.com/collection-3/gelatinous-cube/variations/01.png",
+      "https://images.pangolinresinworks.com/collection-3/gelatinous-cube/variations/02.png"
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
@@ -40843,8 +40176,7 @@
       "https://images.pangolinresinworks.com/collection-3/giant-boar-210716/2.jpg",
       "https://images.pangolinresinworks.com/collection-3/giant-boar-210716/3.jpg",
       "https://images.pangolinresinworks.com/collection-3/giant-boar/gallery-4.jpg",
-      "https://images.pangolinresinworks.com/collection-3/giant-boar/gallery-5.jpg",
-      "https://images.pangolinresinworks.com/collection-3/giant-boar/gallery-6.jpg"
+      "https://images.pangolinresinworks.com/collection-3/giant-boar/gallery-5.jpg"
     ],
     "inStock": true,
     "createdAt": "2022-02-21",
@@ -40871,6 +40203,20 @@
     "createdAt": "2026-08-11",
     "themes": [
       "monsters-beasts"
+    ],
+    "variations": [
+      {
+        "id": "attack",
+        "label": "Attack",
+        "price": 300,
+        "image": "https://images.pangolinresinworks.com/collection-3/giant-goat/variations/oat-Giant-02.jpg"
+      },
+      {
+        "id": "standing",
+        "label": "Standing",
+        "price": 300,
+        "image": "https://images.pangolinresinworks.com/collection-3/giant-goat/gallery-2.jpg"
+      }
     ]
   },
   {
@@ -41108,13 +40454,13 @@
     "scale": "Medium",
     "material": "resin",
     "images": [
+      "https://images.pangolinresinworks.com/collection-3/goblin-147241/collective.jpg",
       "https://images.pangolinresinworks.com/collection-3/goblin/variations/01.jpg",
       "https://images.pangolinresinworks.com/collection-3/goblin/variations/A.jpg",
       "https://images.pangolinresinworks.com/collection-3/goblin/variations/B.jpg",
       "https://images.pangolinresinworks.com/collection-3/goblin/variations/BOSS.jpg",
       "https://images.pangolinresinworks.com/collection-3/goblin/variations/C.jpg",
-      "https://images.pangolinresinworks.com/collection-3/goblin/variations/Dead.jpg",
-      "https://images.pangolinresinworks.com/collection-3/goblin-147241/collective.jpg"
+      "https://images.pangolinresinworks.com/collection-3/goblin/variations/Dead.jpg"
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
@@ -41123,32 +40469,32 @@
     ],
     "variations": [
       {
-        "id": "01",
-        "label": "Pose 1",
-        "price": 300,
-        "image": "https://images.pangolinresinworks.com/collection-3/goblin/variations/01.jpg"
-      },
-      {
-        "id": "a",
-        "label": "A",
-        "price": 300,
-        "image": "https://images.pangolinresinworks.com/collection-3/goblin/variations/A.jpg"
-      },
-      {
-        "id": "b",
-        "label": "B",
-        "price": 300,
-        "image": "https://images.pangolinresinworks.com/collection-3/goblin/variations/B.jpg"
-      },
-      {
         "id": "boss",
         "label": "Boss",
         "price": 300,
         "image": "https://images.pangolinresinworks.com/collection-3/goblin/variations/BOSS.jpg"
       },
       {
-        "id": "c",
-        "label": "C",
+        "id": "sword",
+        "label": "Sword",
+        "price": 300,
+        "image": "https://images.pangolinresinworks.com/collection-3/goblin/variations/01.jpg"
+      },
+      {
+        "id": "claws",
+        "label": "Claws",
+        "price": 300,
+        "image": "https://images.pangolinresinworks.com/collection-3/goblin/variations/A.jpg"
+      },
+      {
+        "id": "crossbow",
+        "label": "Crossbow",
+        "price": 300,
+        "image": "https://images.pangolinresinworks.com/collection-3/goblin/variations/B.jpg"
+      },
+      {
+        "id": "lance",
+        "label": "Lance",
         "price": 300,
         "image": "https://images.pangolinresinworks.com/collection-3/goblin/variations/C.jpg"
       },
@@ -41159,27 +40505,6 @@
         "image": "https://images.pangolinresinworks.com/collection-3/goblin/variations/Dead.jpg"
       }
     ]
-  },
-  {
-    "id": "yks-149806",
-    "slug": "goblinoid-crew-149806",
-    "name": "Goblinoid Crew",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Crew of 3 Goblinoids at a discount!\r\nGoblin, Hobgoblin and Bugbear for use in any epic dungeon adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/goblinoid-crew-149806/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/goblinoid-crew-149806/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/goblinoid-crew-149806/3.jpg",
-      "https://images.pangolinresinworks.com/collection-3/goblinoid-crew-149806/4.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": []
   },
   {
     "id": "yks-234861",
@@ -41561,39 +40886,53 @@
     "scale": "Medium",
     "material": "resin",
     "images": [
+      "https://images.pangolinresinworks.com/collection-3/harpy-147243/collective.jpg",
       "https://images.pangolinresinworks.com/collection-3/harpy/variations/01.jpg",
       "https://images.pangolinresinworks.com/collection-3/harpy/gallery-2.jpg",
       "https://images.pangolinresinworks.com/collection-3/harpy/gallery-3.jpg",
       "https://images.pangolinresinworks.com/collection-3/harpy/gallery-4.jpg",
-      "https://images.pangolinresinworks.com/collection-3/harpy-147243/collective.jpg"
+      "https://images.pangolinresinworks.com/collection-3/crouched-harpy-239214/1.jpg",
+      "https://images.pangolinresinworks.com/collection-3/crouched-harpy-239214/2.jpg",
+      "https://images.pangolinresinworks.com/collection-3/crouched-harpy-239214/3.jpg",
+      "https://images.pangolinresinworks.com/collection-3/crouched-harpy-239214/4.jpg",
+      "https://images.pangolinresinworks.com/collection-3/flying-harpy-239213/1.jpg",
+      "https://images.pangolinresinworks.com/collection-3/flying-harpy-239213/2.jpg",
+      "https://images.pangolinresinworks.com/collection-3/flying-harpy-239213/3.jpg",
+      "https://images.pangolinresinworks.com/collection-3/flying-harpy-239213/4.jpg",
+      "https://images.pangolinresinworks.com/collection-3/flying-harpy-239213/5.jpg",
+      "https://images.pangolinresinworks.com/collection-3/flying-harpy-239213/6.jpg",
+      "https://images.pangolinresinworks.com/collection-3/perched-harpy-239212/1.jpg",
+      "https://images.pangolinresinworks.com/collection-3/perched-harpy-239212/2.jpg",
+      "https://images.pangolinresinworks.com/collection-3/perched-harpy-239212/3.jpg",
+      "https://images.pangolinresinworks.com/collection-3/perched-harpy-239212/4.jpg"
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
     "themes": [],
     "variations": [
       {
-        "id": "01",
-        "label": "Pose 1",
+        "id": "standing",
+        "label": "Standing",
         "price": 300,
         "image": "https://images.pangolinresinworks.com/collection-3/harpy/variations/01.jpg"
       },
       {
-        "id": "02",
-        "label": "Pose 2",
+        "id": "crouched",
+        "label": "Crouched",
         "price": 300,
-        "image": "https://images.pangolinresinworks.com/collection-3/harpy/variations/01.jpg"
+        "image": "https://images.pangolinresinworks.com/collection-3/crouched-harpy-239214/1.jpg"
       },
       {
-        "id": "03",
-        "label": "Pose 3",
+        "id": "flying",
+        "label": "Flying",
         "price": 300,
-        "image": "https://images.pangolinresinworks.com/collection-3/harpy/variations/01.jpg"
+        "image": "https://images.pangolinresinworks.com/collection-3/flying-harpy-239213/1.jpg"
       },
       {
-        "id": "04",
-        "label": "Pose 4",
+        "id": "perched",
+        "label": "Perched",
         "price": 300,
-        "image": "https://images.pangolinresinworks.com/collection-3/harpy/variations/01.jpg"
+        "image": "https://images.pangolinresinworks.com/collection-3/perched-harpy-239212/1.jpg"
       }
     ]
   },
@@ -41819,11 +41158,11 @@
     "scale": "",
     "material": "resin",
     "images": [
+      "https://images.pangolinresinworks.com/collection-3/hungry-ghoul-257475/collective.jpg",
       "https://images.pangolinresinworks.com/collection-3/hungry-ghoul-257475/1.jpg",
       "https://images.pangolinresinworks.com/collection-3/crawling-ghoul-257476/1.jpg",
       "https://images.pangolinresinworks.com/collection-3/alert-ghoul-257478/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/reaching-ghoul-257481/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/hungry-ghoul-257475/collective.jpg"
+      "https://images.pangolinresinworks.com/collection-3/reaching-ghoul-257481/1.jpg"
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
@@ -41972,27 +41311,6 @@
     "themes": []
   },
   {
-    "id": "yks-353739",
-    "slug": "intent-nothic-353739",
-    "name": "Intent Nothic",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Nothics were wizards cursed for delving too deep into arcane knowledge. Once transformed, the nothic held no discernible memory of its former self, except for a faint notion that there might be a way to reverse its condition.\r\nNothic use in any epic adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/intent-nothic-353739/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/intent-nothic-353739/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/intent-nothic-353739/3.jpg",
-      "https://images.pangolinresinworks.com/collection-3/intent-nothic-353739/4.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": []
-  },
-  {
     "id": "yks-411284",
     "slug": "ixitxachitl-swarm-411284",
     "name": "Ixitxachitl Swarm",
@@ -42123,30 +41441,7 @@
     "createdAt": "2026-08-11",
     "themes": []
   },
-  {
-    "id": "yks-299613",
-    "slug": "knot-of-duergar-299613",
-    "name": "Knot of Duergar",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "The tyrannical duergar, also known as gray dwarves, dwell in fantastic cities deep in the Underdark. Using ancient dwarven knowledge and myriad slaves, they work tirelessly to expand their subterranean kingdoms.\r\nDuergar for use in any epic adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/knot-of-duergar-299613/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/knot-of-duergar-299613/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/knot-of-duergar-299613/3.jpg",
-      "https://images.pangolinresinworks.com/collection-3/knot-of-duergar-299613/4.jpg",
-      "https://images.pangolinresinworks.com/collection-3/knot-of-duergar-299613/5.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": [
-      "humanoids"
-    ]
-  },
+
   {
     "id": "yks-782792",
     "slug": "koala-folk-ranger-782792",
@@ -42435,7 +41730,7 @@
   {
     "id": "yks-233161",
     "slug": "lantern-wraith-book-of-beasts-233161",
-    "name": "Lantern Wraith - Book of Beasts",
+    "name": "Lantern Wraith ",
     "category": "yks-miniatures",
     "tags": [],
     "price": 0,
@@ -42604,7 +41899,7 @@
   {
     "id": "yks-232826",
     "slug": "lizardfolk-archer-book-of-beasts-232826",
-    "name": "Lizardfolk Archer - Book of Beasts",
+    "name": "Lizardfolk Archer ",
     "category": "yks-miniatures",
     "tags": [],
     "price": 0,
@@ -42624,7 +41919,7 @@
   {
     "id": "yks-232827",
     "slug": "lizardfolk-brute-book-of-beasts-232827",
-    "name": "Lizardfolk Brute - Book of Beasts",
+    "name": "Lizardfolk Brute ",
     "category": "yks-miniatures",
     "tags": [],
     "price": 0,
@@ -42645,7 +41940,7 @@
   {
     "id": "yks-232824",
     "slug": "lizardfolk-stalker-book-of-beasts-232824",
-    "name": "Lizardfolk Stalker - Book of Beasts",
+    "name": "Lizardfolk Stalker ",
     "category": "yks-miniatures",
     "tags": [],
     "price": 0,
@@ -42665,7 +41960,7 @@
   {
     "id": "yks-211584",
     "slug": "lizardfolk-war-chief-book-of-beasts-ks-sample-211584",
-    "name": "Lizardfolk War Chief - Book of Beasts KS Sample",
+    "name": "Lizardfolk War Chief  KS Sample",
     "category": "yks-miniatures",
     "tags": [],
     "price": 0,
@@ -42857,7 +42152,7 @@
   {
     "id": "yks-232830",
     "slug": "lunging-mimic-book-of-beasts-232830",
-    "name": "Lunging Mimic - Book of Beasts",
+    "name": "Lunging Mimic ",
     "category": "yks-miniatures",
     "tags": [],
     "price": 0,
@@ -43138,7 +42433,7 @@
   {
     "id": "yks-217950",
     "slug": "mimic-bundle-book-of-beasts-217950",
-    "name": "Mimic Bundle - Book of Beasts",
+    "name": "Mimic Bundle ",
     "category": "yks-miniatures",
     "tags": [],
     "price": 0,
@@ -43161,7 +42456,7 @@
   {
     "id": "yks-218461",
     "slug": "mimic-wagon-book-of-beasts-218461",
-    "name": "Mimic Wagon - Book of Beasts",
+    "name": "Mimic Wagon ",
     "category": "yks-miniatures",
     "tags": [],
     "price": 0,
@@ -43193,34 +42488,62 @@
     "scale": "",
     "material": "resin",
     "images": [
+      "https://images.pangolinresinworks.com/collection-3/minotaur-147727/collective.jpg",
       "https://images.pangolinresinworks.com/collection-3/minotaur-147727/1.jpg",
       "https://images.pangolinresinworks.com/collection-3/minotaur-147727/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/minotaur-147727/collective.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": []
-  },
-  {
-    "id": "yks-233282",
-    "slug": "minotaur-mace-book-of-beasts-233282",
-    "name": "Minotaur Mace - Book of Beasts",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Minotaur Mace from the 'Adventurers Guide - The Book of Beasts' kickstarter campaign. Late pledges still available!\r\nMinotaur Mace for use in any epic adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
+      "https://images.pangolinresinworks.com/collection-3/charging-minotaur-book-of-beasts-233281/1.jpg",
+      "https://images.pangolinresinworks.com/collection-3/charging-minotaur-book-of-beasts-233281/2.jpg",
+      "https://images.pangolinresinworks.com/collection-3/charging-minotaur-book-of-beasts-233281/3.jpg",
+      "https://images.pangolinresinworks.com/collection-3/charging-minotaur-book-of-beasts-233281/4.jpg",
+      "https://images.pangolinresinworks.com/collection-3/defeated-minotaur-book-of-beasts-233285/1.jpg",
+      "https://images.pangolinresinworks.com/collection-3/defeated-minotaur-book-of-beasts-233285/2.jpg",
+      "https://images.pangolinresinworks.com/collection-3/defeated-minotaur-book-of-beasts-233285/3.jpg",
       "https://images.pangolinresinworks.com/collection-3/minotaur-mace-book-of-beasts-233282/1.jpg",
       "https://images.pangolinresinworks.com/collection-3/minotaur-mace-book-of-beasts-233282/2.jpg",
       "https://images.pangolinresinworks.com/collection-3/minotaur-mace-book-of-beasts-233282/3.jpg",
-      "https://images.pangolinresinworks.com/collection-3/minotaur-mace-book-of-beasts-233282/4.jpg"
+      "https://images.pangolinresinworks.com/collection-3/minotaur-mace-book-of-beasts-233282/4.jpg",
+      "https://images.pangolinresinworks.com/collection-3/minotaur-trident-book-of-beasts-233283/1.jpg",
+      "https://images.pangolinresinworks.com/collection-3/minotaur-trident-book-of-beasts-233283/2.jpg",
+      "https://images.pangolinresinworks.com/collection-3/minotaur-trident-book-of-beasts-233283/3.jpg",
+      "https://images.pangolinresinworks.com/collection-3/minotaur-warchief-book-of-beasts-233284/1.jpg",
+      "https://images.pangolinresinworks.com/collection-3/minotaur-warchief-book-of-beasts-233284/2.jpg",
+      "https://images.pangolinresinworks.com/collection-3/minotaur-warchief-book-of-beasts-233284/3.jpg"
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [],
+    "variations": [
+      {
+        "id": "standard",
+        "label": "Standard",
+        "image": "https://images.pangolinresinworks.com/collection-3/minotaur-147727/1.jpg"
+      },
+      {
+        "id": "charging",
+        "label": "Charging",
+        "image": "https://images.pangolinresinworks.com/collection-3/charging-minotaur-book-of-beasts-233281/1.jpg"
+      },
+      {
+        "id": "defeated",
+        "label": "Defeated",
+        "image": "https://images.pangolinresinworks.com/collection-3/defeated-minotaur-book-of-beasts-233285/1.jpg"
+      },
+      {
+        "id": "mace",
+        "label": "Mace",
+        "image": "https://images.pangolinresinworks.com/collection-3/minotaur-mace-book-of-beasts-233282/1.jpg"
+      },
+      {
+        "id": "trident",
+        "label": "Trident",
+        "image": "https://images.pangolinresinworks.com/collection-3/minotaur-trident-book-of-beasts-233283/1.jpg"
+      },
+      {
+        "id": "warchief",
+        "label": "Warchief",
+        "image": "https://images.pangolinresinworks.com/collection-3/minotaur-warchief-book-of-beasts-233284/1.jpg"
+      }
+    ]
   },
   {
     "id": "yks-441136",
@@ -43244,46 +42567,6 @@
     "themes": [
       "undead"
     ]
-  },
-  {
-    "id": "yks-233283",
-    "slug": "minotaur-trident-book-of-beasts-233283",
-    "name": "Minotaur Trident - Book of Beasts",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Minotaur Trident from the 'Adventurers Guide - The Book of Beasts' kickstarter campaign. Late pledges still available!\r\nMinotaur Trident for use in any epic adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/minotaur-trident-book-of-beasts-233283/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/minotaur-trident-book-of-beasts-233283/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/minotaur-trident-book-of-beasts-233283/3.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": []
-  },
-  {
-    "id": "yks-233284",
-    "slug": "minotaur-warchief-book-of-beasts-233284",
-    "name": "Minotaur Warchief - Book of Beasts",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Minotaur Warchief from the 'Adventurers Guide - The Book of Beasts' kickstarter campaign. Late pledges still available!\r\nMinotaur Warchief for use in any epic adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/minotaur-warchief-book-of-beasts-233284/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/minotaur-warchief-book-of-beasts-233284/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/minotaur-warchief-book-of-beasts-233284/3.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": []
   },
   {
     "id": "yks-637537",
@@ -43512,7 +42795,7 @@
   {
     "id": "yks-232906",
     "slug": "myceloid-guardian-book-of-beasts-232906",
-    "name": "Myceloid Guardian - Book of Beasts",
+    "name": "Myceloid Guardian ",
     "category": "yks-miniatures",
     "tags": [],
     "price": 0,
@@ -43532,7 +42815,7 @@
   {
     "id": "yks-232900",
     "slug": "myceloid-sprout-book-of-beasts-232900",
-    "name": "Myceloid Sprout - Book of Beasts",
+    "name": "Myceloid Sprout ",
     "category": "yks-miniatures",
     "tags": [],
     "price": 0,
@@ -44298,7 +43581,7 @@
   {
     "id": "yks-232833",
     "slug": "peaking-mimic-book-of-beasts-232833",
-    "name": "Peaking Mimic - Book of Beasts",
+    "name": "Peaking Mimic ",
     "category": "yks-miniatures",
     "tags": [],
     "price": 0,
@@ -44330,27 +43613,6 @@
       "https://images.pangolinresinworks.com/collection-3/pegasus-384263/2.jpg",
       "https://images.pangolinresinworks.com/collection-3/pegasus-384263/3.jpg",
       "https://images.pangolinresinworks.com/collection-3/pegasus-384263/4.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": []
-  },
-  {
-    "id": "yks-239212",
-    "slug": "perched-harpy-239212",
-    "name": "Perched Harpy",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Harpt are a twisted mix of a vulture and a humanoid female. With jet black eyes and powerful wings it uses it's sweet song to lure countless adventurers and carry them away to their deaths.\r\nPerched Harpy for use in any epic adventure!  for use in any epic adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/perched-harpy-239212/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/perched-harpy-239212/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/perched-harpy-239212/3.jpg",
-      "https://images.pangolinresinworks.com/collection-3/perched-harpy-239212/4.jpg"
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
@@ -44745,7 +44007,7 @@
   {
     "id": "yks-233164",
     "slug": "reaper-wraith-book-of-beasts-233164",
-    "name": "Reaper Wraith - Book of Beasts",
+    "name": "Reaper Wraith ",
     "category": "yks-miniatures",
     "tags": [],
     "price": 0,
@@ -44790,7 +44052,7 @@
   {
     "id": "yks-233828",
     "slug": "rearing-owlbear-book-of-beasts-233828",
-    "name": "Rearing Owlbear - Book of Beasts",
+    "name": "Rearing Owlbear ",
     "category": "yks-miniatures",
     "tags": [],
     "price": 0,
@@ -45103,7 +44365,7 @@
   {
     "id": "yks-232910",
     "slug": "screaming-beholder-book-of-beasts-232910",
-    "name": "Screaming Beholder - Book of Beasts",
+    "name": "Screaming Beholder ",
     "category": "yks-miniatures",
     "tags": [],
     "price": 0,
@@ -45123,7 +44385,7 @@
   {
     "id": "yks-232652",
     "slug": "screaming-bugbear-book-of-beasts-232652",
-    "name": "Screaming Bugbear - Book of Beasts",
+    "name": "Screaming Bugbear ",
     "category": "yks-miniatures",
     "tags": [],
     "price": 0,
@@ -45256,7 +44518,7 @@
   {
     "id": "yks-234254",
     "slug": "skeleton-axemen-book-of-beasts-234254",
-    "name": "Skeleton Axemen - Book of Beasts",
+    "name": "Skeleton Axemen ",
     "category": "yks-miniatures",
     "tags": [],
     "price": 0,
@@ -45276,7 +44538,7 @@
   {
     "id": "yks-234256",
     "slug": "skeleton-riders-book-of-beasts-234256",
-    "name": "Skeleton Riders - Book of Beasts",
+    "name": "Skeleton Riders ",
     "category": "yks-miniatures",
     "tags": [],
     "price": 0,
@@ -45298,7 +44560,7 @@
   {
     "id": "yks-234255",
     "slug": "skeleton-spearmen-book-of-beasts-234255",
-    "name": "Skeleton Spearmen - Book of Beasts",
+    "name": "Skeleton Spearmen ",
     "category": "yks-miniatures",
     "tags": [],
     "price": 0,
@@ -45444,7 +44706,7 @@
   {
     "id": "yks-233829",
     "slug": "sleeping-owlbear-book-of-beasts-233829",
-    "name": "Sleeping Owlbear - Book of Beasts",
+    "name": "Sleeping Owlbear ",
     "category": "yks-miniatures",
     "tags": [],
     "price": 0,
@@ -46394,74 +45656,55 @@
     "scale": "",
     "material": "resin",
     "images": [
+      "https://images.pangolinresinworks.com/collection-3/troll-148579/collective.jpg",
       "https://images.pangolinresinworks.com/collection-3/troll-148579/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/troll-148579/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/troll-148579/collective.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": []
-  },
-  {
-    "id": "yks-234107",
-    "slug": "troll-chukka-book-of-beasts-234107",
-    "name": "Troll Chukka - Book of Beasts",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Troll Chukka from the 'Adventurers Guide - The Book of Beasts' kickstarter campaign. Late pledges still available!\r\nTroll Chukka for use in any epic adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
+      "https://images.pangolinresinworks.com/collection-3/dire-troll-book-of-beasts-234112/1.jpg",
       "https://images.pangolinresinworks.com/collection-3/troll-chukka-book-of-beasts-234107/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/troll-chukka-book-of-beasts-234107/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/troll-chukka-book-of-beasts-234107/3.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": []
-  },
-  {
-    "id": "yks-234108",
-    "slug": "troll-clubba-book-of-beasts-234108",
-    "name": "Troll Clubba - Book of Beasts",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Troll Clubba from the 'Adventurers Guide - The Book of Beasts' kickstarter campaign. Late pledges still available!\r\nTroll Clubba for use in any epic adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
       "https://images.pangolinresinworks.com/collection-3/troll-clubba-book-of-beasts-234108/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/troll-clubba-book-of-beasts-234108/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/troll-clubba-book-of-beasts-234108/3.jpg",
-      "https://images.pangolinresinworks.com/collection-3/troll-clubba-book-of-beasts-234108/4.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": []
-  },
-  {
-    "id": "yks-234111",
-    "slug": "troll-sneaka-book-of-beasts-234111",
-    "name": "Troll Sneaka - Book of Beasts",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Troll Sneaka from the 'Adventurers Guide - The Book of Beasts' kickstarter campaign. Late pledges still available!\r\nTroll Sneaka for use in any epic adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
       "https://images.pangolinresinworks.com/collection-3/troll-sneaka-book-of-beasts-234111/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/troll-sneaka-book-of-beasts-234111/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/troll-sneaka-book-of-beasts-234111/3.jpg"
+      "https://images.pangolinresinworks.com/collection-3/troll-148579/defeated.jpg"
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [],
+    "variations": [
+      {
+        "id": "standard",
+        "label": "Standard",
+        "price": 0,
+        "image": "https://images.pangolinresinworks.com/collection-3/troll-148579/1.jpg"
+      },
+      {
+        "id": "dire",
+        "label": "Dire",
+        "price": 0,
+        "image": "https://images.pangolinresinworks.com/collection-3/dire-troll-book-of-beasts-234112/1.jpg"
+      },
+      {
+        "id": "chukka",
+        "label": "Chukka",
+        "price": 0,
+        "image": "https://images.pangolinresinworks.com/collection-3/troll-chukka-book-of-beasts-234107/1.jpg"
+      },
+      {
+        "id": "clubba",
+        "label": "Clubba",
+        "price": 0,
+        "image": "https://images.pangolinresinworks.com/collection-3/troll-clubba-book-of-beasts-234108/1.jpg"
+      },
+      {
+        "id": "sneaka",
+        "label": "Sneaka",
+        "price": 0,
+        "image": "https://images.pangolinresinworks.com/collection-3/troll-sneaka-book-of-beasts-234111/1.jpg"
+      },
+      {
+        "id": "defeated",
+        "label": "Defeated",
+        "price": 0,
+        "image": "https://images.pangolinresinworks.com/collection-3/troll-148579/defeated.jpg"
+      }
+    ]
   },
   {
     "id": "yks-204904",
@@ -46824,7 +46067,7 @@
   {
     "id": "yks-232899",
     "slug": "veiled-myceloid-book-of-beasts-232899",
-    "name": "Veiled Myceloid - Book of Beasts",
+    "name": "Veiled Myceloid ",
     "category": "yks-miniatures",
     "tags": [],
     "price": 0,
@@ -47248,7 +46491,7 @@
   {
     "id": "yks-233162",
     "slug": "wraith-swordsmen-book-of-beasts-233162",
-    "name": "Wraith Swordsmen - Book of Beasts",
+    "name": "Wraith Swordsmen ",
     "category": "yks-miniatures",
     "tags": [],
     "price": 0,
@@ -47271,7 +46514,7 @@
   {
     "id": "yks-223125",
     "slug": "wraiths-book-of-beasts-223125",
-    "name": "Wraiths - Book of Beasts",
+    "name": "Wraiths ",
     "category": "yks-miniatures",
     "tags": [],
     "price": 0,
