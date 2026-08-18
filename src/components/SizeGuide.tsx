@@ -6,7 +6,7 @@ import { useTranslations } from "@/i18n/use-translations";
 
 const SCALE_GUIDE_IMAGE =
   "https://images.pangolinresinworks.com/site/scale-guide.png";
-// Source image is 1000x535 (~1.87:1) — keep the popover render at that ratio.
+// Source image is 1000x535 (~1.87:1) - keep the popover render at that ratio.
 const SCALE_GUIDE_WIDTH = 560;
 const SCALE_GUIDE_HEIGHT = 300;
 

@@ -17,7 +17,7 @@ export const SORT_OPTIONS: SortOption[] = [
 ];
 
 // The raw data files (name/description/tags) are written in English. That's
-// the base language of the data — independent of `defaultLocale`, which is
+// the base language of the data - independent of `defaultLocale`, which is
 // the site's default *display* language (Portuguese). Only overlay the
 // `translations.pt` fields when the visitor's locale is actually Portuguese.
 export function localizeProduct(product: Product, locale: Locale): Product {

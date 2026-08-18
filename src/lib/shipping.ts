@@ -1,4 +1,4 @@
-// Only Portugal and the rest of the EU are served — see the shipping policy
+// Only Portugal and the rest of the EU are served - see the shipping policy
 // (src/i18n/dictionaries). Rates/thresholds below must stay in sync with that copy.
 export const EU_COUNTRIES = [
   "Portugal",

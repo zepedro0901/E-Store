@@ -14,7 +14,7 @@ The underlying infrastructure for themes already exists and mirrors categories e
 shape to `Category` (`slug`, `name`, `description?`, `image?`, `translations?`), and PT
 translations already present for every theme in `data/themes.json`. The site footer
 (`SiteFooter.tsx`) already lists themes separately from categories. This change only touches
-what the homepage's featured grid displays — no new data, routes, or components.
+what the homepage's featured grid displays - no new data, routes, or components.
 
 All copy added by this change must ship in both English and Portuguese (Portugal), per the
 project's existing i18n setup (`src/i18n/dictionaries/{en,pt}.ts`).
@@ -22,13 +22,13 @@ project's existing i18n setup (`src/i18n/dictionaries/{en,pt}.ts`).
 ## Decisions made during brainstorming
 
 - **Scope:** Homepage grid only. The footer's separate "Studios" (categories) and "Themes"
-  lists are untouched — they already coexist correctly.
+  lists are untouched - they already coexist correctly.
 - **Stats/CTA:** The homepage stat "Curated collections" and the CTA line ("{count}
   miniatures across {collections} collections") currently count categories (4). These stay
-  as-is, still counting categories — out of scope for this change. They are not visually
+  as-is, still counting categories - out of scope for this change. They are not visually
   paired with the grid; leaving them alone keeps this change small.
 - **Visual treatment:** Reuse the exact same card layout, image treatment, and hover
-  interaction currently used for the category grid — just swap the data source and link
+  interaction currently used for the category grid - just swap the data source and link
   target. No new design work.
 - **Process:** Small enough to skip the full plan/subagent execution flow; spec written for
   the record, then implemented directly in this session.
@@ -39,12 +39,12 @@ project's existing i18n setup (`src/i18n/dictionaries/{en,pt}.ts`).
 
 - Replace `const categories = getCategories(locale);` usage in the featured grid section with
   `const themes = getThemes(locale);` (categories import/usage elsewhere on the page, if any,
-  stays — currently there is none besides this section and the stat, and the stat is staying
+  stays - currently there is none besides this section and the stat, and the stat is staying
   on `getCategories`).
 - Section heading text switches from `dict.home.shopByCategory` to `dict.home.shopByTheme`.
 - Grid maps over `themes` instead of `categories`; each card's `href` becomes
   `/theme/${theme.slug}` instead of `/category/${category.slug}`. Card markup (image, gradient
-  overlay, hover border, label, arrow) is unchanged — only the data source and href change.
+  overlay, hover border, label, arrow) is unchanged - only the data source and href change.
 - The section's `id="categories"` becomes `id="themes"`, and the hero button's
   `href="#categories"` (labeled "Explore Collections") becomes `href="#themes"` so the anchor
   still points at the right section.

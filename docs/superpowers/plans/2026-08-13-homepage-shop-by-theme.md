@@ -4,15 +4,15 @@
 
 **Goal:** Replace the homepage's "Shop by Category" grid (4 categories → `/category/[slug]`) with a "Shop By Theme" grid (9 themes → `/theme/[slug]`), fully translated in English and Portuguese (Portugal).
 
-**Architecture:** Swap the data source and link target inside the existing grid section in `src/app/page.tsx` from `getCategories`/`category` to `getThemes`/`theme`. No new components, routes, or data — `getThemes(locale)` and `/theme/[slug]` already exist and already return pre-translated theme data.
+**Architecture:** Swap the data source and link target inside the existing grid section in `src/app/page.tsx` from `getCategories`/`category` to `getThemes`/`theme`. No new components, routes, or data - `getThemes(locale)` and `/theme/[slug]` already exist and already return pre-translated theme data.
 
 **Tech Stack:** Next.js App Router (Server Components), TypeScript, existing `src/i18n` dictionary system.
 
 ## Global Constraints
 
 - Every new/changed user-facing string must exist in both `src/i18n/dictionaries/en.ts` and `src/i18n/dictionaries/pt.ts` (Portuguese must be Portugal Portuguese, not Brazilian).
-- Stats (`statCollections`) and the CTA subtitle stay wired to `getCategories`/categories — out of scope per the spec.
-- Card markup/styling for the grid items must stay visually identical to the current category cards — only data source and `href` change.
+- Stats (`statCollections`) and the CTA subtitle stay wired to `getCategories`/categories - out of scope per the spec.
+- Card markup/styling for the grid items must stay visually identical to the current category cards - only data source and `href` change.
 
 ---
 
@@ -53,7 +53,7 @@ Find the matching `shopByCategory` line in `src/i18n/dictionaries/pt.ts` and ren
 - [ ] **Step 3: Verify no other references to the old key remain**
 
 Run: `grep -rn "shopByCategory" src/`
-Expected: no matches (Task 2 will remove the last usage in `page.tsx` — if this step is run before Task 2, one match in `page.tsx` is expected and will be cleared by Task 2).
+Expected: no matches (Task 2 will remove the last usage in `page.tsx` - if this step is run before Task 2, one match in `page.tsx` is expected and will be cleared by Task 2).
 
 - [ ] **Step 4: Commit**
 
@@ -87,7 +87,7 @@ to:
 import { getAllProducts, getCategories, getFeaturedProducts, getThemes } from "@/lib/products";
 ```
 
-(`getCategories` stays imported/used — the stats block still needs `categories.length`.)
+(`getCategories` stays imported/used - the stats block still needs `categories.length`.)
 
 - [ ] **Step 2: Fetch themes alongside categories**
 

@@ -22,7 +22,7 @@ const pt: Dictionary = {
     material: "Material",
     sizeGuide: "Guia de tamanhos",
     materialDisclaimer:
-      "Impresso em resina cinzenta. Requer montagem — algumas peças poderão ter de ser coladas.",
+      "Impresso em resina cinzenta. Requer montagem - algumas peças poderão ter de ser coladas.",
     },
   sizeCategories: {
     tiny: "Minúsculo",
@@ -38,7 +38,7 @@ const pt: Dictionary = {
   },
   footer: {
     tagline:
-      "Miniaturas em resina acabadas à mão, impressas por encomenda. Cada figura é impressa de raiz — esqueça o stock impresso em massa, apenas trabalho personalizado e cuidado na sua peça.",
+      "Miniaturas em resina acabadas à mão, impressas por encomenda. Cada figura é impressa de raiz - esqueça o stock impresso em massa, apenas trabalho personalizado e cuidado na sua peça.",
     bottomTagline: "Miniaturas em resina acabadas à mão, impressas por encomenda.",
     studios: "Estúdios",
     themes: "Temas",
@@ -50,7 +50,7 @@ const pt: Dictionary = {
     heroTitleLine1: "Miniaturas",
     heroTitleLine2: "em Resina",
     heroSubtitle:
-      "Impressas, curadas e acabadas à mão — uma miniatura de cada vez. Um catálogo crescente de personagens fantásticos, monstros e dragões.",
+      "Impressas, curadas e acabadas à mão - uma miniatura de cada vez. Um catálogo crescente de personagens fantásticos, monstros e dragões.",
     exploreCollections: "Explorar Coleções",
     statMiniatures: "Miniaturas no catálogo",
     statCollections: "Coleções selecionadas",
@@ -59,7 +59,7 @@ const pt: Dictionary = {
     featuredSubtitle: "Uma seleção do que a nossa resina consegue fazer.",
     viewAllProducts: "Ver todos os produtos",
     processTitle: "Do Ficheiro ao Acabamento",
-    processSubtitle: "Sem stock pré-impresso — cada encomenda começa no Passo 01",
+    processSubtitle: "Sem stock pré-impresso - cada encomenda começa no Passo 01",
     processSteps: [
       {
         title: "Imprimir",
@@ -74,7 +74,7 @@ const pt: Dictionary = {
       {
         title: "Curar",
         description:
-          "Endurece sob luz UV até ficar totalmente sólida, destacando cada detalhe esculpido.",
+          "A miniatura endurece sob luz UV até ficar totalmente sólida, destacando cada detalhe esculpido.",
       },
       {
         title: "Acabar",
@@ -144,14 +144,14 @@ const pt: Dictionary = {
     requestToOrder: "Encomendar",
     freeShippingInfo: "Envio grátis em encomendas acima de 50€ para Portugal, ou acima de 100€ para o resto da UE.",
     orderNotice:
-      "Ao submeter este carrinho, está a enviar um pedido de encomenda — não um pagamento. Só paga as miniaturas e o envio depois de aceitarmos a encomenda, e a produção começa após o pagamento.",
+      "Ao submeter este carrinho, está a enviar um pedido de encomenda - não um pagamento. Só paga as miniaturas e o envio depois de aceitarmos a encomenda e a produção começa após o pagamento.",
   },
   checkout: {
     title: "Preencher dados de encomenda",
     subtitle:
       "Preencha os seus dados abaixo e responderemos por email para combinar o pagamento e o envio das miniaturas no seu carrinho.",
     emptyCart:
-      "O seu carrinho está vazio — adicione algumas miniaturas antes de pedir uma encomenda.",
+      "O seu carrinho está vazio - adicione algumas miniaturas antes de pedir uma encomenda.",
     fullName: "Nome completo",
     email: "Email",
     phoneOptional: "Telefone (opcional)",
@@ -161,11 +161,11 @@ const pt: Dictionary = {
     country: "País",
     notesOptional: "Notas (opcional)",
     notesPlaceholder:
-      "Mais alguma coisa que devamos saber — escolha de cores, instruções de entrega, etc.",
+      "Mais alguma coisa que devamos saber - escolha de cores, instruções de entrega, etc.",
     sending: "A enviar…",
     submit: "Enviar Pedido de Encomenda",
     disclaimer:
-      "Isto envia um pedido de encomenda, não um pagamento. Só paga as miniaturas e o envio depois de aceitarmos a encomenda, e a produção começa após o pagamento.",
+      "Isto envia um pedido de encomenda, não um pagamento. Só paga as miniaturas e o envio depois de aceitarmos a encomenda e a produção começa após o pagamento.",
     orderSummary: "Resumo da Encomenda",
     shippingLabel: "Envio",
     freeShipping: "Grátis",
@@ -176,7 +176,7 @@ const pt: Dictionary = {
     title: "Pedido de Encomenda Enviado",
     orderLabel: "Encomenda {order}",
     message:
-      "Obrigado! Recebemos o seu pedido de encomenda. Vamos analisá-lo e responder por email para confirmar — depois de aceite, combinamos o pagamento e o envio, e a produção começa após o pagamento.",
+      "Obrigado! Recebemos o seu pedido de encomenda. Vamos analisá-lo e responder por email para confirmar - depois de aceite, combinamos o pagamento e o envio e a produção começa após o pagamento.",
     continueBrowsing: "Continuar a Explorar",
   },
   metadata: {
@@ -205,7 +205,7 @@ const pt: Dictionary = {
     subtitle:
       "Tem uma pergunta sobre uma encomenda, uma miniatura, ou outra coisa qualquer? Adorávamos ouvir de si.",
     intro:
-      "A Pangolin Resinworks somos só nós os dois, por isso cada mensagem recebe uma resposta pessoal e verdadeira — pedimos apenas um pouco de paciência se demorarmos um dia ou dois a responder.",
+      "A Pangolin Resinworks somos só nós os dois, por isso cada mensagem recebe uma resposta pessoal e verdadeira - pedimos apenas um pouco de paciência se demorarmos um dia ou dois a responder.",
     emailLabel: "Email",
   },
   faq: {
@@ -221,7 +221,7 @@ const pt: Dictionary = {
       {
         question: "Como são embaladas as minhas miniaturas?",
         answer:
-          "Usamos esferovite resistente e leve para acolchoar e proteger as nossas miniaturas durante o envio, juntamente com caixas de parede dupla e reforço extra quando necessário. Testámos praticamente todos os métodos nos últimos dois anos, e esta é a combinação mais eficaz e ecológica que encontrámos. São peças extremamente frágeis e, de vez em quando, há uma baixa durante o transporte — basta avisar-nos de imediato com fotografias do problema e resolveremos a situação com uma substituição ou reembolso. É algo que acontece quando se trabalha com o envio de peças delicadas.\n\nVerifique com atenção se recebeu tudo o que encomendou antes de deitar fora qualquer embalagem — mãos e armas pequenas podem ficar facilmente escondidas lá dentro!",
+          "Usamos esferovite resistente e leve para acolchoar e proteger as nossas miniaturas durante o envio, juntamente com caixas de parede dupla e reforço extra quando necessário. Testámos praticamente todos os métodos nos últimos dois anos e esta é a combinação mais eficaz e ecológica que encontrámos. São peças extremamente frágeis e, de vez em quando, há uma baixa durante o transporte - basta avisar-nos de imediato com fotografias do problema e resolveremos a situação com uma substituição ou reembolso. É algo que acontece quando se trabalha com o envio de peças delicadas.\n\nVerifique com atenção se recebeu tudo o que encomendou antes de deitar fora qualquer embalagem - mãos e armas pequenas podem ficar facilmente escondidas lá dentro!",
       },
       {
         question: "Que tipo de cola devo usar?",
@@ -236,12 +236,12 @@ const pt: Dictionary = {
       {
         question: "Porque é que algumas miniaturas vêm com os suportes de impressão?",
         answer:
-          "Enviamos algumas peças especialmente delicadas ou pequenas — como armas — com os suportes de impressão ainda ligados. Descobrimos que, se não o fizermos, as peças partem-se ou perdem-se. Se as mergulhar em água quente durante cerca de 20 segundos, os suportes devem soltar-se facilmente à mão. Vá com calma, devagar, e habitue o olhar a distinguir o que é suporte do que é parte da miniatura. Verifique bem todos os suportes antes de os deitar fora — mãos e armas pequenas podem passar facilmente despercebidas.",
+          "Enviamos algumas peças especialmente delicadas ou pequenas - como armas - com os suportes de impressão ainda ligados. Descobrimos que, se não o fizermos, as peças partem-se ou perdem-se. Se as mergulhar em água quente durante cerca de 20 segundos, os suportes devem soltar-se facilmente à mão. Vá com calma, devagar e habitue o olhar a distinguir o que é suporte do que é parte da miniatura. Verifique bem todos os suportes antes de os deitar fora - mãos e armas pequenas podem passar facilmente despercebidas.",
       },
       {
-        question: "A minha miniatura está pegajosa ao toque — o que se passa?",
+        question: "A minha miniatura está pegajosa ao toque - o que se passa?",
         answer:
-          "Por vezes, a humidade na embalagem faz com que a nossa solução de limpeza deixe a superfície um pouco pegajosa. Isto resolve-se com uma lavagem em álcool isopropílico ou simplesmente água quente com detergente — deixe secar num local quente e ensolarado e ficará bem. Muito raramente, miniaturas ocas podem reter solução de limpeza que se liberta durante o transporte; se as suas miniaturas chegarem muito molhadas, aplique o mesmo método.",
+          "Por vezes, a humidade na embalagem faz com que a nossa solução de limpeza deixe a superfície um pouco pegajosa. Isto resolve-se com uma lavagem em álcool isopropílico ou simplesmente água quente com detergente - deixe secar num local quente e ensolarado e ficará bem. Muito raramente, miniaturas ocas podem reter solução de limpeza que se liberta durante o transporte; se as suas miniaturas chegarem muito molhadas, aplique o mesmo método.",
       },
     ],
   },
@@ -249,22 +249,22 @@ const pt: Dictionary = {
     metaTitle: "Devoluções e Cancelamentos",
     title: "Devoluções e Cancelamentos",
     intro:
-      "Lembre-se, somos duas pessoas reais a gerir este pequeno negócio, e por vezes acontecem erros! Precisamente por sermos só nós, temos a liberdade de corrigir a situação e discutir qualquer problema diretamente e com bom senso. Trate-nos com simpatia e paciência — queremos sempre clientes satisfeitos, mesmo quando alguma coisa corre mal pelo caminho.",
+      "Lembre-se, somos duas pessoas reais a gerir este pequeno negócio e por vezes acontecem erros! Precisamente por sermos só nós, temos a liberdade de corrigir a situação e discutir qualquer problema diretamente e com bom senso. Trate-nos com simpatia e paciência - queremos sempre clientes satisfeitos, mesmo quando alguma coisa corre mal pelo caminho.",
     sections: [
       {
         heading: "Cancelamento de Encomendas",
         paragraphs: [
           "Devido à natureza de produção por encomenda (print-to-order), só podemos aceitar cancelamentos dentro de 3 horas após a colocação da encomenda. Depois desse período, o cancelamento pode estar sujeito a uma taxa de reposição de stock de 3€ por artigo.",
-          "O período de reflexão de 3 horas é respeitado desde que recebamos o primeiro contacto dentro dessas 3 horas após a colocação da encomenda — por isso não se preocupe se não respondermos de imediato (também precisamos de dormir!).",
+          "O período de reflexão de 3 horas é respeitado desde que recebamos o primeiro contacto dentro dessas 3 horas após a colocação da encomenda - por isso não se preocupe se não respondermos de imediato (também precisamos de dormir!).",
           "Esta política existe porque temos um inventário de milhares de produtos e simplesmente não podemos manter stock parado, o que ocuparia um espaço que não temos e que poderá nunca mais ser vendido exatamente na configuração que encomendou. Isso causaria prejuízo financeiro, além de não ser a opção mais sustentável do ponto de vista ambiental.",
-          "Se precisar de alterar uma encomenda — quantidades, tamanhos, trocar uma miniatura, etc. — envie-nos um email para customerservice@pangolinresinworks.com o mais rapidamente possível e faremos os possíveis para satisfazer o pedido.",
+          "Se precisar de alterar uma encomenda - quantidades, tamanhos, trocar uma miniatura, etc. - envie-nos um email para customerservice@pangolinresinworks.com o mais rapidamente possível e faremos os possíveis para satisfazer o pedido.",
         ],
       },
       {
         heading: "Devoluções",
         paragraphs: [
-          "Por serem artigos feitos por encomenda, só são elegíveis para devolução se chegarem diferentes do descrito, com defeito, ou danificados. Não existe direito de devolução por simples arrependimento depois de a peça entrar em produção (ou seja, após o período de reflexão de 3 horas).",
-          "A nossa política pode parecer diferente daquilo a que está habituado nos grandes retalhistas genéricos. Ao abrigo da legislação portuguesa e europeia de defesa do consumidor (Decreto-Lei n.º 24/2014, que transpõe a Diretiva 2011/83/UE relativa aos direitos dos consumidores), o direito de livre resolução de 14 dias não se aplica a bens confecionados segundo as especificações do consumidor ou claramente personalizados — o que abrange todas as miniaturas que imprimimos por encomenda.",
+          "Por serem artigos feitos por encomenda, só são elegíveis para devolução se chegarem diferentes do descrito, com defeito, ou danificados. Não existe direito de devolução por arrependimento depois de a peça entrar em produção (ou seja, após o período de reflexão de 3 horas).",
+          "A nossa política pode parecer diferente daquilo a que está habituado nos grandes retalhistas genéricos. Ao abrigo da legislação portuguesa e europeia de defesa do consumidor (Decreto-Lei n.º 24/2014, que transpõe a Diretiva 2011/83/UE relativa aos direitos dos consumidores), o direito de livre resolução de 14 dias não se aplica a bens confecionados segundo as especificações do consumidor ou claramente personalizados - o que abrange todas as miniaturas que imprimimos por encomenda.",
           "Para ter direito a uma devolução por um motivo válido, deve contactar-nos no prazo de 7 dias após a entrega. Ser-lhe-ão pedidas fotografias do artigo tal como o recebeu, juntamente com fotografias da embalagem original (isto ajuda-nos a reclamar junto da transportadora em caso de dano no transporte), além do recibo ou comprovativo de compra.",
           "Para discutir qualquer problema com a sua encomenda, contacte-nos em customerservice@pangolinresinworks.com. Se for necessária uma devolução, enviaremos uma etiqueta de devolução, juntamente com instruções sobre como e para onde enviar a sua encomenda. Artigos devolvidos sem pedido prévio de devolução não serão aceites nem reembolsados.",
         ],
@@ -291,13 +291,13 @@ const pt: Dictionary = {
       {
         heading: "Informação que Recolhemos",
         paragraphs: [
-          "Quando submete um pedido de encomenda através do nosso formulário de checkout, recolhemos o seu nome completo, endereço de email, número de telefone (opcional), morada de envio, cidade, código postal, país, e quaisquer notas que decida adicionar. Não recolhemos nem armazenamos dados de cartões de pagamento no nosso site — o pagamento é combinado diretamente consigo por email assim que a sua encomenda for confirmada.",
+          "Quando submete um pedido de encomenda através do nosso formulário de checkout, recolhemos o seu nome completo, endereço de email, número de telefone (opcional), morada de envio, cidade, código postal, país e quaisquer notas que decida adicionar. Não recolhemos nem armazenamos dados de cartões de pagamento no nosso site - o pagamento é combinado diretamente consigo por email assim que a sua encomenda for confirmada.",
         ],
       },
       {
         heading: "Como Usamos a Sua Informação",
         paragraphs: [
-          "Usamos a sua informação para analisar e confirmar pedidos de encomenda, combinar o pagamento e o envio, contactá-lo sobre o estado da sua encomenda, e manter registos para fins contabilísticos e legais.",
+          "Usamos a sua informação para analisar e confirmar pedidos de encomenda, combinar o pagamento e o envio, contactá-lo sobre o estado da sua encomenda e manter registos para fins contabilísticos e legais.",
         ],
       },
       {
@@ -309,13 +309,13 @@ const pt: Dictionary = {
       {
         heading: "Durante Quanto Tempo Guardamos a Sua Informação",
         paragraphs: [
-          "Guardamos os registos de encomendas pelo tempo necessário para cumprir a sua encomenda e as nossas obrigações contabilísticas e fiscais nos termos da lei portuguesa — geralmente 10 anos para documentos de faturação e contabilidade. Pode pedir-nos, a qualquer momento, para eliminarmos dados pessoais que já não precisemos de guardar para estes fins.",
+          "Guardamos os registos de encomendas pelo tempo necessário para cumprir a sua encomenda e as nossas obrigações contabilísticas e fiscais nos termos da lei portuguesa - geralmente 10 anos para documentos de faturação e contabilidade. Pode pedir-nos, a qualquer momento, para eliminarmos dados pessoais que já não precisemos de guardar para estes fins.",
         ],
       },
       {
         heading: "Com Quem Partilhamos a Sua Informação",
         paragraphs: [
-          "Só partilhamos a sua informação com os fornecedores de serviços que nos ajudam a gerir a loja — atualmente os nossos fornecedores de base de dados de encomendas e de envio de email — e quando exigido por lei. Nunca vendemos os seus dados.",
+          "Só partilhamos a sua informação com os fornecedores de serviços que nos ajudam a gerir a loja - atualmente os nossos fornecedores de base de dados de encomendas e de envio de email - e quando exigido por lei. Nunca vendemos os seus dados.",
         ],
       },
       {
@@ -364,25 +364,25 @@ const pt: Dictionary = {
       {
         heading: "Pedidos de Encomenda, Não Compra Instantânea",
         paragraphs: [
-          "Submeter o formulário de checkout envia-nos um pedido de encomenda — não é um pagamento nem uma venda vinculativa. Analisamos cada pedido e respondemos por email para o confirmar. Só paga pelas miniaturas e pelo envio depois de confirmarmos a encomenda, e a produção só começa depois de recebermos o pagamento. Reservamo-nos o direito de recusar qualquer pedido de encomenda, por exemplo se um artigo estiver indisponível ou se um anúncio contiver um erro.",
+          "Submeter o formulário de checkout envia-nos um pedido de encomenda - não é um pagamento nem uma venda vinculativa. Analisamos cada pedido e respondemos por email para o confirmar. Só paga pelas miniaturas e pelo envio depois de confirmarmos a encomenda e a produção só começa depois de recebermos o pagamento. Reservamo-nos o direito de recusar qualquer pedido de encomenda, por exemplo se um artigo estiver indisponível ou se um anúncio contiver um erro.",
         ],
       },
       {
         heading: "Produtos e Natureza de Produção por Encomenda",
         paragraphs: [
-          "Todas as miniaturas são impressas em 3D, limpas e acabadas por encomenda em resina. Como cada peça é produzida individualmente e fotografada sob diferentes condições de luz, pequenas variações na cor, nos suportes ou no acabamento em relação às fotografias do produto são normais e não são consideradas defeitos. Os anúncios dos produtos descrevem apenas a miniatura física — não estão incluídas tintas, cola ou outros acessórios, salvo indicação em contrário.",
+          "Todas as miniaturas são impressas em 3D, limpas e acabadas por encomenda em resina. Como cada peça é produzida individualmente e fotografada sob diferentes condições de luz, pequenas variações na cor, nos suportes ou no acabamento em relação às fotografias do produto são normais e não são consideradas defeitos. Os anúncios dos produtos descrevem apenas a miniatura física - não estão incluídas tintas, cola ou outros acessórios, salvo indicação em contrário.",
         ],
       },
       {
         heading: "Licenciamento dos Designs",
         paragraphs: [
-          "Os designs (esculturas digitais) das miniaturas que imprimimos são licenciados junto de escultores digitais e estúdios terceiros para venda por impressão sob encomenda — não reivindicamos ter criado nós próprios os designs subjacentes.",
+          "Os designs (esculturas digitais) das miniaturas que imprimimos são licenciados junto de escultores digitais e estúdios terceiros para venda por impressão sob encomenda - não reivindicamos ter criado nós próprios os designs subjacentes.",
         ],
       },
       {
         heading: "Preços e Pagamento",
         paragraphs: [
-          "Os preços são apresentados em euros e podem ser atualizados a qualquer momento; o preço confirmado com a sua encomenda no momento em que a aceitamos é o preço que irá pagar. Não recolhemos nem armazenamos dados de cartões de pagamento neste site — assim que a sua encomenda for confirmada, combinamos o pagamento diretamente consigo por email.",
+          "Os preços são apresentados em euros e podem ser atualizados a qualquer momento; o preço confirmado com a sua encomenda no momento em que a aceitamos é o preço que irá pagar. Não recolhemos nem armazenamos dados de cartões de pagamento neste site - assim que a sua encomenda for confirmada, combinamos o pagamento diretamente consigo por email.",
         ],
       },
       {
@@ -418,7 +418,7 @@ const pt: Dictionary = {
       {
         heading: "Alterações a Estes Termos",
         paragraphs: [
-          "Podemos atualizar estes Termos periodicamente. Quaisquer alterações serão publicadas nesta página, e continuar a utilizar o site depois de as alterações serem publicadas significa que aceita os Termos atualizados.",
+          "Podemos atualizar estes Termos periodicamente. Quaisquer alterações serão publicadas nesta página e continuar a utilizar o site depois de as alterações serem publicadas significa que aceita os Termos atualizados.",
         ],
       },
       {
@@ -433,12 +433,12 @@ const pt: Dictionary = {
     metaTitle: "Política de Envio",
     title: "Política de Envio",
     intro:
-      "Cada miniatura que vendemos é impressa, limpa e acabada por encomenda — aqui fica o que pode esperar depois de fazer um pedido.",
+      "Cada miniatura que vendemos é impressa, limpa e acabada por encomenda - aqui fica o que pode esperar depois de fazer um pedido.",
     sections: [
       {
         heading: "Tempos de Expedição",
         paragraphs: [
-          "O tempo médio de expedição é de 1 a 2 semanas a partir da confirmação e pagamento da encomenda. A Pangolin Resinworks somos só nós os dois, por isso em períodos de maior procura pode formar-se uma pequena fila de espera. Se precisar da sua encomenda mais depressa, contacte-nos antes de encomendar e faremos o possível, dentro do razoável, para ajudar.",
+          "O tempo médio de expedição é de 1 a 2 semanas a partir da confirmação e pagamento da encomenda. A Pangolin Resinworks é composta por apenas duas pessoas, por isso em períodos de maior procura pode formar-se uma pequena fila de espera. Se precisar da sua encomenda mais depressa, contacte-nos antes de encomendar e faremos o possível, dentro do razoável, para ajudar.",
         ],
       },
       {
@@ -462,7 +462,7 @@ const pt: Dictionary = {
       {
         heading: "Encomendas Perdidas, Atrasadas ou Danificadas",
         paragraphs: [
-          "Se a sua encomenda chegar danificada, contacte-nos no prazo de 7 dias com fotografias do artigo e da respetiva embalagem — consulte a nossa política de Devoluções e Cancelamentos para o processo completo. Se a sua encomenda não chegar dentro de 15 dias úteis após o envio, contacte-nos e trataremos do assunto junto da transportadora.",
+          "Se a sua encomenda chegar danificada, contacte-nos no prazo de 7 dias com fotografias do artigo e da respetiva embalagem - consulte a nossa política de Devoluções e Cancelamentos para o processo completo. Se a sua encomenda não chegar dentro de 15 dias úteis após o envio, contacte-nos e trataremos do assunto junto da transportadora.",
         ],
       },
       {

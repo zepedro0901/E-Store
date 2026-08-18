@@ -60,7 +60,7 @@ dev-server.log
 /.playwright-mcp/
 /skills-lock.json
 
-# product photography — migrated to Cloudflare R2, kept locally as a working copy
+# product photography - migrated to Cloudflare R2, kept locally as a working copy
 /public/images/collection-1/
 /public/images/collection-2/
 /public/images/collection-3/

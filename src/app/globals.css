@@ -35,7 +35,7 @@ body {
   font-family: var(--font-sans), Arial, Helvetica, sans-serif;
 }
 
-/* Native number-input spin buttons clash with the site's styling — hide them. */
+/* Native number-input spin buttons clash with the site's styling - hide them. */
 input[type="number"]::-webkit-outer-spin-button,
 input[type="number"]::-webkit-inner-spin-button {
   -webkit-appearance: none;
@@ -57,7 +57,7 @@ input[type="number"] {
 }
 
 /* Signature texture: overlapping scale/shingle tiles, doubling as
-   pangolin scale + dragon scale + cast-resin ripple. Kept faint —
+   pangolin scale + dragon scale + cast-resin ripple. Kept faint -
    this is ambient texture, not a graphic. */
 .scale-field {
   background-image: repeating-radial-gradient(

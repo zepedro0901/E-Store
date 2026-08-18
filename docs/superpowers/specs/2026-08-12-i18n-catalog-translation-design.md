@@ -1,4 +1,4 @@
-# Design: Portuguese/English Localization — Phase 2 (Catalog Translation)
+# Design: Portuguese/English Localization - Phase 2 (Catalog Translation)
 
 ## Context
 
@@ -11,29 +11,29 @@ already applies it when the visitor's locale is `pt`. This phase populates that 
 
 ## Decisions made during brainstorming
 
-- **Names are translated**, not left in English — but with a rule for telling proper/invented
+- **Names are translated**, not left in English - but with a rule for telling proper/invented
   names apart from descriptive titles (see below).
 - **Descriptions and tags are translated** in full.
 - **Search must still work across languages**: a Portuguese-locale visitor typing an English
   term (or vice versa) must still find the product. This requires a code change (see
-  "Search fix" below) — translating display text must not break search.
+  "Search fix" below) - translating display text must not break search.
 
 ## Name translation rule
 
 Product names in this catalog follow a few recurring shapes:
 
-1. **Proper/invented name + title**, joined by a comma or dash — e.g. `"Pentalia - Mother of
+1. **Proper/invented name + title**, joined by a comma or dash - e.g. `"Pentalia - Mother of
    all Dragons"`, `"Aethra, Voidcaller Druid"`. Keep the proper-name component exactly as-is
    (it's an invented character name, not an English word); translate the title/epithet
    component. Example: `"Pentalia - Mother of all Dragons"` → `"Pentalia - Mãe de todos os
    Dragões"`.
-2. **Fully generic/descriptive name**, no proper-noun component — e.g. `"Abyssal Claw"`,
+2. **Fully generic/descriptive name**, no proper-noun component - e.g. `"Abyssal Claw"`,
    `"Vampire Warrior"`. Translate the whole name. Example: `"Abyssal Claw"` → `"Garra
    Abissal"`.
-3. **Single invented name with no separable title** — e.g. `"Aboleth"` used as a name rather
+3. **Single invented name with no separable title** - e.g. `"Aboleth"` used as a name rather
    than a species descriptor. Leave as-is; there's nothing to translate.
 
-This is a per-product judgment call, not a mechanical rule — the translator (me, or a
+This is a per-product judgment call, not a mechanical rule - the translator (me, or a
 subagent following this same spec) decides which shape a given name matches.
 
 ## Search fix
@@ -49,7 +49,7 @@ are localized for display as before.
 
 Applies to every batch, including subagent-run batches, so tone stays consistent:
 
-- European Portuguese (Portugal) — not Brazilian. Avoid Brazilian-specific vocabulary and
+- European Portuguese (Portugal) - not Brazilian. Avoid Brazilian-specific vocabulary and
   gerund-heavy phrasing.
 - Keep invented character names and unique epithets untranslated (e.g. `Aethra`, `Pentalia`,
   `Xu Quin`).
@@ -60,13 +60,13 @@ Applies to every batch, including subagent-run batches, so tone stays consistent
   or the English term is what the PT tabletop community actually uses, keep it in English.
 - Tags: translate to natural Portuguese equivalents; keep proper nouns (`Cthulhu`, `Lovecraft`)
   as-is.
-- Descriptions: faithful localization, not reinvention — same meaning, length, and tone as the
+- Descriptions: faithful localization, not reinvention - same meaning, length, and tone as the
   English source (matches the register already established in the Phase 1 UI copy).
-- Scale, material, price, images, ids, slugs — untouched, out of scope.
+- Scale, material, price, images, ids, slugs - untouched, out of scope.
 
 ## Execution plan
 
-1. **Pilot** (this pass): hand-translate a diverse ~20-product sample directly — spread across
+1. **Pilot** (this pass): hand-translate a diverse ~20-product sample directly - spread across
    all 4 studios and covering each name shape above. Written into `data/products.json` and
    shown to the user for review before the full run.
 2. **Full batch** (after pilot approval): dispatch parallel subagents, each given a chunk of

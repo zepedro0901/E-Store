@@ -50,7 +50,7 @@ function normalizeScale(raw) {
     }
   }
 
-  if (categories.size === 0) return trimmed; // nothing recognized — leave untouched
+  if (categories.size === 0) return trimmed; // nothing recognized - leave untouched
 
   const ordered = CATEGORY_ORDER.filter((c) => categories.has(c));
   return [...ordered, ...unparsed].join(", ");

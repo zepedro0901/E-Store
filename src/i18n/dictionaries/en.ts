@@ -20,7 +20,7 @@ const en = {
     material: "Material",
     sizeGuide: "Size guide",
     materialDisclaimer:
-      "Printed in gray resin. Assembly required — some parts may require gluing." 
+      "Printed in gray resin. Assembly required - some parts may require gluing." 
     },
   sizeCategories: {
     tiny: "Tiny",
@@ -36,7 +36,7 @@ const en = {
   },
   footer: {
     tagline:
-      "Hand-finished resin miniatures, printed to order. Every figure is printed fresh — no warehouse of pre-made stock, just careful work on your piece.",
+      "Hand-finished resin miniatures, printed to order. Every figure is printed fresh - no warehouse of pre-made stock, just careful work on your piece.",
     bottomTagline: "Hand-finished resin miniatures, printed to order.",
     studios: "Studios",
     themes: "Themes",
@@ -48,7 +48,7 @@ const en = {
     heroTitleLine1: "Resin",
     heroTitleLine2: "Miniatures",
     heroSubtitle:
-      "Printed, cured, and finished by hand — one miniature at a time. A growing catalog of dark fantasy characters, monsters, and dragons.",
+      "Printed, cured, and finished by hand - one miniature at a time. A growing catalog of dark fantasy characters, monsters, and dragons.",
     exploreCollections: "Explore Collections",
     statMiniatures: "Miniatures in the catalog",
     statCollections: "Curated collections",
@@ -57,7 +57,7 @@ const en = {
     featuredSubtitle: "A hand-picked look at what our resin can do.",
     viewAllProducts: "View all products",
     processTitle: "From File to Finish",
-    processSubtitle: "No pre-printed stock — every order starts at Step 01",
+    processSubtitle: "No pre-printed stock - every order starts at Step 01",
     processSteps: [
       {
         title: "Print",
@@ -142,14 +142,14 @@ const en = {
     requestToOrder: "Request to Order",
     freeShippingInfo: "Free shipping on orders over €50 to Portugal, or over €100 to the rest of the EU.",
     orderNotice:
-      "Submitting this cart sends an order request — not a payment. We'll review and confirm it first; you only pay for the miniatures and shipping once we accept the order, and production starts after payment.",
+      "Submitting this cart sends an order request - not a payment. We'll review and confirm it first; you only pay for the miniatures and shipping once we accept the order, and production starts after payment.",
   },
   checkout: {
     title: "Request an Order",
     subtitle:
       "Fill in your details below and we'll email you back to arrange payment and shipping for the miniatures in your cart.",
     emptyCart:
-      "Your cart is empty — add some miniatures before requesting an order.",
+      "Your cart is empty - add some miniatures before requesting an order.",
     fullName: "Full name",
     email: "Email",
     phoneOptional: "Phone (optional)",
@@ -159,11 +159,11 @@ const en = {
     country: "Country",
     notesOptional: "Notes (optional)",
     notesPlaceholder:
-      "Anything else we should know — color choices, delivery instructions, etc.",
+      "Anything else we should know - color choices, delivery instructions, etc.",
     sending: "Sending…",
     submit: "Submit Order Request",
     disclaimer:
-      "This sends an order request, not a payment. We'll review it and reply to confirm — you'll pay for the miniatures and shipping only once we accept the order, and production starts after payment.",
+      "This sends an order request, not a payment. We'll review it and reply to confirm - you'll pay for the miniatures and shipping only once we accept the order, and production starts after payment.",
     orderSummary: "Order Summary",
     shippingLabel: "Shipping",
     freeShipping: "Free",
@@ -174,7 +174,7 @@ const en = {
     title: "Order Request Sent",
     orderLabel: "Order {order}",
     message:
-      "Thanks! We've received your order request. We'll review it and email you to confirm — once accepted, we'll arrange payment and shipping, and production begins after payment.",
+      "Thanks! We've received your order request. We'll review it and email you to confirm - once accepted, we'll arrange payment and shipping, and production begins after payment.",
     continueBrowsing: "Continue Browsing",
   },
   metadata: {
@@ -203,7 +203,7 @@ const en = {
     subtitle:
       "Got a question about an order, a miniature, or anything else? We'd love to hear from you.",
     intro:
-      "Pangolin Resinworks is just the two of us, so every message gets a real, personal reply — we just ask for a little patience if it takes us a day or two to get back to you.",
+      "Pangolin Resinworks is just the two of us, so every message gets a real, personal reply - we just ask for a little patience if it takes us a day or two to get back to you.",
     emailLabel: "Email",
   },
   faq: {
@@ -219,7 +219,7 @@ const en = {
       {
         question: "How will my minis be packaged?",
         answer:
-          "We use a resistant and light styrofoam to pad and cushion our minis in shipping, along with double-walled boxes and extra padding where needed. We've tried and tested pretty much every method over the last two years, and this is the most successful and environmentally friendly combo we've found. These are incredibly fragile items, and every now and again we have a casualty in shipping — please just let us know straight away with photos of the issue and we'll make it right with a replacement or refund. This is just one of those things when dealing in shipping delicate items.\n\nPlease check that you have everything you ordered carefully before throwing away any packaging — tiny hands and weapons can easily get hidden inside!",
+          "We use a resistant and light styrofoam to pad and cushion our minis in shipping, along with double-walled boxes and extra padding where needed. We've tried and tested pretty much every method over the last two years, and this is the most successful and environmentally friendly combo we've found. These are incredibly fragile items, and every now and again we have a casualty in shipping - please just let us know straight away with photos of the issue and we'll make it right with a replacement or refund. This is just one of those things when dealing in shipping delicate items.\n\nPlease check that you have everything you ordered carefully before throwing away any packaging - tiny hands and weapons can easily get hidden inside!",
       },
       {
         question: "What kind of glue should I use?",
@@ -234,12 +234,12 @@ const en = {
       {
         question: "Why have some of the miniatures come on supports?",
         answer:
-          "We ship some of the particularly delicate or small parts — like weapons — with the supports still attached. We've found that things get broken or lost if we don't. If you submerge them in hot water for about 20 seconds, they should peel right off the supports by hand. Just go slowly and steadily, and get your eye in for what's a support stilt versus what's part of the mini. Please check all supports carefully before throwing any parts away — tiny hands and weapons can easily be missed.",
+          "We ship some of the particularly delicate or small parts - like weapons - with the supports still attached. We've found that things get broken or lost if we don't. If you submerge them in hot water for about 20 seconds, they should peel right off the supports by hand. Just go slowly and steadily, and get your eye in for what's a support stilt versus what's part of the mini. Please check all supports carefully before throwing any parts away - tiny hands and weapons can easily be missed.",
       },
       {
-        question: "My mini feels sticky or tacky to the touch — what's going on?",
+        question: "My mini feels sticky or tacky to the touch - what's going on?",
         answer:
-          "Sometimes the combination of humidity and our packaging causes our cleaning solution to leave the surface a little tacky. This can be fixed with a wash in either isopropyl alcohol or just hot soapy water — leave it to dry somewhere warm and sunny and it'll be fine. Very occasionally, hollowed minis can trap cleaning solution that leaks out in shipping; if your minis arrive very wet, the same method applies.",
+          "Sometimes the combination of humidity and our packaging causes our cleaning solution to leave the surface a little tacky. This can be fixed with a wash in either isopropyl alcohol or just hot soapy water - leave it to dry somewhere warm and sunny and it'll be fine. Very occasionally, hollowed minis can trap cleaning solution that leaks out in shipping; if your minis arrive very wet, the same method applies.",
       },
     ],
   },
@@ -247,22 +247,22 @@ const en = {
     metaTitle: "Returns & Cancellations",
     title: "Returns & Cancellations",
     intro:
-      "Please remember, we are two real human beings running this little business, and mistakes do happen! Because it's just us, we have the freedom to make things right and talk through any issues you may have directly. Treat us with kindness and patience — we always want happy customers, even if we got something wrong along the way.",
+      "Please remember, we are two real human beings running this little business, and mistakes do happen! Because it's just us, we have the freedom to make things right and talk through any issues you may have directly. Treat us with kindness and patience - we always want happy customers, even if we got something wrong along the way.",
     sections: [
       {
         heading: "Order Cancellation",
         paragraphs: [
           "Due to the print-to-order nature of our production, we can only accept order cancellations within 3 hours of the order being placed. After that, cancelling an order may be subject to a 3€ per item restocking fee.",
-          "The 3-hour cooling-off period is honoured as long as we receive first contact from you within 3 hours of placing the order — so don't worry if we don't reply within that window (everyone's got to sleep sometime!).",
+          "The 3-hour cooling-off period is honoured as long as we receive first contact from you within 3 hours of placing the order - so don't worry if we don't reply within that window (everyone's got to sleep sometime!).",
           "This policy exists because we carry an inventory of thousands of products and simply can't hold stock, which would take up space we don't have and may realistically never sell again in the exact configuration you ordered. That would cause financial loss, and it isn't the most environmentally friendly approach either.",
-          "If you need to make changes to an order — quantities, sizes, swapping a mini, etc. — email us at customerservice@pangolinresinworks.com as soon as possible and we'll always do our best to make it happen.",
+          "If you need to make changes to an order - quantities, sizes, swapping a mini, etc. - email us at customerservice@pangolinresinworks.com as soon as possible and we'll always do our best to make it happen.",
         ],
       },
       {
         heading: "Returns",
         paragraphs: [
           "As items are made to order, they're only eligible for return if they arrive not as described, defective, or damaged. There's no change-of-mind return once an item has entered production (i.e. after the 3-hour cooling-off period).",
-          "Our policy may look different to what you're used to from bigger, generic retailers. Under Portuguese and EU consumer law (Decreto-Lei n.º 24/2014, transposing Directive 2011/83/EU on consumer rights), the standard 14-day right of withdrawal does not apply to goods made to the consumer's specifications or clearly personalised — which covers every miniature we print to order.",
+          "Our policy may look different to what you're used to from bigger, generic retailers. Under Portuguese and EU consumer law (Decreto-Lei n.º 24/2014, transposing Directive 2011/83/EU on consumer rights), the standard 14-day right of withdrawal does not apply to goods made to the consumer's specifications or clearly personalised - which covers every miniature we print to order.",
           "To be eligible for a return with a qualifying issue, you must contact us within 7 days of delivery. You'll be asked for photos of the item as received, along with photos of the original packaging (this helps us claim with our shipping company if the damage happened in transit), plus your receipt or proof of purchase.",
           "To discuss any issue with your order, contact us at customerservice@pangolinresinworks.com. If a return is necessary, we'll send you a return shipping label along with instructions on how and where to send your package. Items sent back to us without first requesting a return will not be accepted or refunded.",
         ],
@@ -289,7 +289,7 @@ const en = {
       {
         heading: "Information We Collect",
         paragraphs: [
-          "When you submit an order request through our checkout form, we collect your full name, email address, phone number (optional), shipping address, city, postal code, country, and any notes you choose to add. We do not collect or store payment card details on our website — payment is arranged directly with you by email once your order has been confirmed.",
+          "When you submit an order request through our checkout form, we collect your full name, email address, phone number (optional), shipping address, city, postal code, country, and any notes you choose to add. We do not collect or store payment card details on our website - payment is arranged directly with you by email once your order has been confirmed.",
         ],
       },
       {
@@ -307,19 +307,19 @@ const en = {
       {
         heading: "How Long We Keep Your Information",
         paragraphs: [
-          "We keep order records for as long as needed to fulfil your order and meet our accounting and tax obligations under Portuguese law — generally 10 years for invoicing and accounting records. You can ask us to delete personal data we no longer need to keep for these purposes at any time.",
+          "We keep order records for as long as needed to fulfil your order and meet our accounting and tax obligations under Portuguese law - generally 10 years for invoicing and accounting records. You can ask us to delete personal data we no longer need to keep for these purposes at any time.",
         ],
       },
       {
         heading: "Who We Share It With",
         paragraphs: [
-          "We only share your information with the service providers who help us run the shop — currently our order database and email delivery providers — and where we're required to by law. We never sell your data.",
+          "We only share your information with the service providers who help us run the shop - currently our order database and email delivery providers - and where we're required to by law. We never sell your data.",
         ],
       },
       {
         heading: "Cookies",
         paragraphs: [
-          "Our website sets one small cookie to remember your language preference (English or Portuguese). We also use Vercel Web Analytics and Speed Insights, which are cookieless — they don't set cookies or track you across sites. We don't use advertising cookies or cross-site tracking.",
+          "Our website sets one small cookie to remember your language preference (English or Portuguese). We also use Vercel Web Analytics and Speed Insights, which are cookieless - they don't set cookies or track you across sites. We don't use advertising cookies or cross-site tracking.",
         ],
       },
       {
@@ -362,25 +362,25 @@ const en = {
       {
         heading: "Order Requests, Not Instant Purchase",
         paragraphs: [
-          "Submitting the checkout form sends us an order request — it is not a payment or a binding sale. You only pay for the miniatures and shipping once we've confirmed the order, and production only begins after payment is received. We reserve the right to decline any order request, for example if an item is unavailable or a listing contains an error.",
+          "Submitting the checkout form sends us an order request - it is not a payment or a binding sale. You only pay for the miniatures and shipping once we've confirmed the order, and production only begins after payment is received. We reserve the right to decline any order request, for example if an item is unavailable or a listing contains an error.",
         ],
       },
       {
         heading: "Products & Made-to-Order Nature",
         paragraphs: [
-          "Every miniature is 3D printed, cleaned, and finished to order in resin. Because each piece is produced individually and photographed under different lighting, small variations in colour, supports, or finish compared to the product photos are normal and are not considered defects. Product listings describe the physical miniature only — no paints, glue, or other accessories are included unless stated otherwise.",
+          "Every miniature is 3D printed, cleaned, and finished to order in resin. Because each piece is produced individually and photographed under different lighting, small variations in colour, supports, or finish compared to the product photos are normal and are not considered defects. Product listings describe the physical miniature only - no paints, glue, or other accessories are included unless stated otherwise.",
         ],
       },
       {
         heading: "Design Licensing",
         paragraphs: [
-          "The miniature designs (sculpts) we print are licensed from third-party digital sculptors and studios for print-on-demand sale — we don't claim to have created the underlying designs ourselves.",
+          "The miniature designs (sculpts) we print are licensed from third-party digital sculptors and studios for print-on-demand sale - we don't claim to have created the underlying designs ourselves.",
         ],
       },
       {
         heading: "Pricing & Payment",
         paragraphs: [
-          "Prices are shown in euros and may be updated at any time; the price confirmed with your order at the time we accept it is the price you'll pay. We don't collect or store payment card details on this website — once your order is confirmed, we arrange payment with you directly by email.",
+          "Prices are shown in euros and may be updated at any time; the price confirmed with your order at the time we accept it is the price you'll pay. We don't collect or store payment card details on this website - once your order is confirmed, we arrange payment with you directly by email.",
         ],
       },
       {
@@ -431,7 +431,7 @@ const en = {
     metaTitle: "Shipping Policy",
     title: "Shipping Policy",
     intro:
-      "Every miniature we sell is printed, cleaned and finished to order — here's what to expect once you've placed a request.",
+      "Every miniature we sell is printed, cleaned and finished to order - here's what to expect once you've placed a request.",
     sections: [
       {
         heading: "Dispatch Times",
@@ -460,7 +460,7 @@ const en = {
       {
         heading: "Lost, Delayed, or Damaged Parcels",
         paragraphs: [
-          "If your order arrives damaged, contact us within 7 days with photos of the item and its packaging — see our Returns & Cancellations policy for the full process. If your order hasn't arrived within 15 business days of dispatch, get in touch and we'll look into it with the courier.",
+          "If your order arrives damaged, contact us within 7 days with photos of the item and its packaging - see our Returns & Cancellations policy for the full process. If your order hasn't arrived within 15 business days of dispatch, get in touch and we'll look into it with the courier.",
         ],
       },
       {
