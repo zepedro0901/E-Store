@@ -26,7 +26,7 @@ export async function SiteHeader() {
           <span className="hidden sm:inline">Pangolin Resinworks</span>
         </Link>
 
-        <nav className="flex items-center gap-3 text-xs font-medium uppercase tracking-wide sm:gap-6 sm:text-sm">
+        <nav className="order-2 flex items-center gap-3 text-xs font-medium uppercase tracking-wide sm:order-3 sm:gap-6 sm:text-sm">
           <Link
             href="/products"
             className="text-foreground/70 transition-colors hover:text-accent"
@@ -37,8 +37,8 @@ export async function SiteHeader() {
           <CartIcon />
         </nav>
 
-        <form action="/products" className="order-3 w-full sm:order-none sm:w-auto sm:flex-1 sm:max-w-xs">
-          <div className="relative">
+        <form action="/products" className="order-3 w-full sm:order-2 sm:w-auto sm:flex-1 sm:max-w-xs">
+          <div className="relative mx-auto sm:max-w-xs">
             <svg
               aria-hidden
               viewBox="0 0 20 20"
