@@ -207,7 +207,7 @@ export function listProducts({
   q,
   minPrice,
   maxPrice,
-  sort = "newest",
+  sort = "name-asc",
   page = 1,
   pageSize = PAGE_SIZE,
   locale = defaultLocale,

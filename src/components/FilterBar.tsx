@@ -140,7 +140,7 @@ export async function FilterBar({
         <select
           id="sort"
           name="sort"
-          defaultValue={sort ?? "newest"}
+          defaultValue={sort ?? "name-asc"}
           className="rounded-lg border border-border bg-background px-3 py-2 text-sm outline-none transition-colors focus:border-accent"
         >
           <option value="newest">{dict.filterBar.sortNewest}</option>

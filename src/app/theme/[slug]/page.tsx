@@ -60,7 +60,7 @@ export default async function ThemePage({
       : undefined;
   const sort: SortOption = SORT_OPTIONS.includes(sp.sort as SortOption)
     ? (sp.sort as SortOption)
-    : "newest";
+    : "name-asc";
   const page = Number(sp.page) || 1;
 
   const {
@@ -75,7 +75,7 @@ export default async function ThemePage({
     if (q) usp.set("q", q);
     if (sp.minPrice) usp.set("minPrice", sp.minPrice);
     if (sp.maxPrice) usp.set("maxPrice", sp.maxPrice);
-    if (sort !== "newest") usp.set("sort", sort);
+    if (sort !== "name-asc") usp.set("sort", sort);
     if (targetPage > 1) usp.set("page", String(targetPage));
     const qs = usp.toString();
     return `/theme/${slug}${qs ? `?${qs}` : ""}`;
