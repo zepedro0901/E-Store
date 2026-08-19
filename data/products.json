@@ -37750,11 +37750,11 @@
     "scale": "",
     "material": "resin",
     "images": [
+      "https://images.pangolinresinworks.com/collection-3/alert-troglodyte-242023/collective.jpg",
       "https://images.pangolinresinworks.com/collection-3/alert-troglodyte-242023/1.jpg",
       "https://images.pangolinresinworks.com/collection-3/screaming-troglodyte-242024/1.jpg",
       "https://images.pangolinresinworks.com/collection-3/lurking-troglodyte-242025/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/troglodyte-champion-387830/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/alert-troglodyte-242023/collective.jpg"
+      "https://images.pangolinresinworks.com/collection-3/troglodyte-champion-387830/1.jpg"
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
@@ -37798,11 +37798,11 @@
     "scale": "",
     "material": "resin",
     "images": [
+      "https://images.pangolinresinworks.com/collection-3/alert-witherling-260894/collective.jpg",
       "https://images.pangolinresinworks.com/collection-3/alert-witherling-260894/1.jpg",
       "https://images.pangolinresinworks.com/collection-3/pointing-witherling-260898/1.jpg",
       "https://images.pangolinresinworks.com/collection-3/attacking-witherling-260899/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/crouching-witherling-260900/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/alert-witherling-260894/collective.jpg"
+      "https://images.pangolinresinworks.com/collection-3/crouching-witherling-260900/1.jpg"
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
@@ -39879,25 +39879,6 @@
     "themes": []
   },
   {
-    "id": "yks-232832",
-    "slug": "exposed-mimic-book-of-beasts-232832",
-    "name": "Exposed Mimic ",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Exposed Mimic from the 'Adventurers Guide - The Book of Beasts' kickstarter campaign. Late pledges still available!\r\nExposed Mimic for use in any epic adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/exposed-mimic-book-of-beasts-232832/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/exposed-mimic-book-of-beasts-232832/2.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": []
-  },
-  {
     "id": "yks-181432",
     "slug": "false-hydra-181432",
     "name": "False Hydra",
@@ -40115,7 +40096,8 @@
     "scale": "Medium",
     "material": "resin",
     "images": [
-      "https://images.pangolinresinworks.com/collection-3/frost-salamander/variations/01.jpg"
+      "https://images.pangolinresinworks.com/collection-3/frost-salamander/variations/02.jpg",
+      "https://images.pangolinresinworks.com/collection-3/frost-salamander/variations/03.jpg"
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
@@ -40820,29 +40802,6 @@
     ]
   },
   {
-    "id": "yks-440554",
-    "slug": "gundren-rockseeker-440554",
-    "name": "Gundren Rockseeker",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "One of three dwarf brothers who hail from the Rockseeker Clan of Sorrolk. They are known in Andaria for their various business ventures.\r\nGundren Rockseeker for use in any epic adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/gundren-rockseeker-440554/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/gundren-rockseeker-440554/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/gundren-rockseeker-440554/3.jpg",
-      "https://images.pangolinresinworks.com/collection-3/gundren-rockseeker-440554/4.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": [
-      "humanoids"
-    ]
-  },
-  {
     "id": "yks-147243",
     "slug": "harpy-147243",
     "name": "Harpy",
@@ -40996,26 +40955,26 @@
     "themes": [],
     "variations": [
       {
-        "id": "standard",
-        "label": "Standard",
+        "id": "sword-stand",
+        "label": "Sword Stand",
         "price": 300,
         "image": "https://images.pangolinresinworks.com/collection-3/hobgoblin/gallery-2.jpg"
       },
       {
-        "id": "a",
-        "label": "A",
+        "id": "glaive",
+        "label": "Glaive",
         "price": 300,
         "image": "https://images.pangolinresinworks.com/collection-3/hobgoblin/gallery-3.jpg"
       },
       {
-        "id": "b",
-        "label": "B",
+        "id": "bow",
+        "label": "Bow",
         "price": 300,
         "image": "https://images.pangolinresinworks.com/collection-3/hobgoblin/gallery-4.jpg"
       },
       {
-        "id": "c",
-        "label": "C",
+        "id": "sword",
+        "label": "Sword",
         "price": 300,
         "image": "https://images.pangolinresinworks.com/collection-3/hobgoblin/gallery-5.jpg"
       },
@@ -41187,26 +41146,6 @@
     "themes": [
       "constructs"
     ]
-  },
-  {
-    "id": "yks-329118",
-    "slug": "imp-329118",
-    "name": "Imp",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Imps are found throughout the Lower Planes, either running errands for their infernal masters, spying on rivals, or misleading and waylaying mortals. An imp will proudly serve an evil master of any kind, but it can't be relied on to carry out tasks with any speed or efficiency.\r\nImp for use in any epic adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/imp-329118/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/imp-329118/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/imp-329118/3.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": []
   },
   {
     "id": "yks-302073",
@@ -41628,32 +41567,9 @@
     "themes": []
   },
   {
-    "id": "yks-233161",
-    "slug": "lantern-wraith-book-of-beasts-233161",
-    "name": "Lantern Wraith ",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Lantern Wraith from the 'Adventurers Guide - The Book of Beasts' kickstarter campaign. Late pledges still available!\r\nLantern Wraith for use in any epic adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/lantern-wraith-book-of-beasts-233161/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/lantern-wraith-book-of-beasts-233161/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/lantern-wraith-book-of-beasts-233161/3.jpg",
-      "https://images.pangolinresinworks.com/collection-3/lantern-wraith-book-of-beasts-233161/4.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": [
-      "undead"
-    ]
-  },
-  {
     "id": "yks-445526",
     "slug": "laying-mummy-445526",
-    "name": "Laying Mummy",
+    "name": "Mummy",
     "category": "yks-miniatures",
     "tags": [],
     "price": 0,
@@ -41662,35 +41578,40 @@
     "scale": "",
     "material": "resin",
     "images": [
+      "https://images.pangolinresinworks.com/collection-3/laying-mummy-445526/collective.jpg",
       "https://images.pangolinresinworks.com/collection-3/laying-mummy-445526/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/laying-mummy-445526/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/laying-mummy-445526/3.jpg"
+      "https://images.pangolinresinworks.com/collection-3/rising-mummy-445529/1.jpg",
+      "https://images.pangolinresinworks.com/collection-3/shambling-mummy-445525/1.jpg",
+      "https://images.pangolinresinworks.com/collection-3/shuffling-mummy-445528/1.jpg"
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
-  },
-  {
-    "id": "yks-395412",
-    "slug": "leaping-orc-395412",
-    "name": "Leaping Orc",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Orcs are savage raiders and pillagers with stooped postures, low foreheads, and piggish faces with prominent lower canines that resemble tusks.\r\nOrc for use in any epic adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/leaping-orc-395412/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/leaping-orc-395412/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/leaping-orc-395412/3.jpg",
-      "https://images.pangolinresinworks.com/collection-3/leaping-orc-395412/4.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": [
-      "humanoids"
+    "themes": [],
+    "variations": [
+      {
+        "id": "laying",
+        "label": "Laying",
+        "price": 0,
+        "image": "https://images.pangolinresinworks.com/collection-3/laying-mummy-445526/1.jpg"
+      },
+      {
+        "id": "rising",
+        "label": "Rising",
+        "price": 0,
+        "image": "https://images.pangolinresinworks.com/collection-3/rising-mummy-445529/1.jpg"
+      },
+      {
+        "id": "shambling",
+        "label": "Shambling",
+        "price": 0,
+        "image": "https://images.pangolinresinworks.com/collection-3/shambling-mummy-445525/1.jpg"
+      },
+      {
+        "id": "shuffling",
+        "label": "Shuffling",
+        "price": 0,
+        "image": "https://images.pangolinresinworks.com/collection-3/shuffling-mummy-445528/1.jpg"
+      }
     ]
   },
   {
@@ -41753,29 +41674,6 @@
     ]
   },
   {
-    "id": "yks-319321",
-    "slug": "litter-of-tabaxi-319321",
-    "name": "Litter of Tabaxi",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Tabaxi are catfolk who hail from the land of Maztica. The ultimate wanderers, Tabaxi rarely stay in one place for long. They love to collect interesting artifacts, gather tales, and lay eyes on all the world's wonders. This curiosity pushes them to leave no secrets uncovered, and no treasures or legends lost. They revere a fickle deity called the Cat Lord, who is said to wander the world.\r\nTabaxi for use in any epic adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/litter-of-tabaxi-319321/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/litter-of-tabaxi-319321/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/litter-of-tabaxi-319321/3.jpg",
-      "https://images.pangolinresinworks.com/collection-3/litter-of-tabaxi-319321/4.jpg",
-      "https://images.pangolinresinworks.com/collection-3/litter-of-tabaxi-319321/5.jpg",
-      "https://images.pangolinresinworks.com/collection-3/litter-of-tabaxi-319321/6.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": []
-  },
-  {
     "id": "yks-109142",
     "slug": "lizardfolk-109142",
     "name": "Lizardfolk",
@@ -41787,114 +41685,55 @@
     "scale": "",
     "material": "resin",
     "images": [
+      "https://images.pangolinresinworks.com/collection-3/lizardfolk-109142/collective.jpg",
       "https://images.pangolinresinworks.com/collection-3/lizardfolk-109142/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/lizardfolk-109142/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/lizardfolk-109142/3.jpg",
-      "https://images.pangolinresinworks.com/collection-3/lizardfolk-109142/collective.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": []
-  },
-  {
-    "id": "yks-232826",
-    "slug": "lizardfolk-archer-book-of-beasts-232826",
-    "name": "Lizardfolk Archer ",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Lizardfolk Archer from the 'Adventurers Guide - The Book of Beasts' kickstarter campaign. Late pledges still available!\r\nLizardfolk Archer for use in any epic adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
       "https://images.pangolinresinworks.com/collection-3/lizardfolk-archer-book-of-beasts-232826/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/lizardfolk-archer-book-of-beasts-232826/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/lizardfolk-archer-book-of-beasts-232826/3.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": []
-  },
-  {
-    "id": "yks-232827",
-    "slug": "lizardfolk-brute-book-of-beasts-232827",
-    "name": "Lizardfolk Brute ",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Lizardfolk Brute from the 'Adventurers Guide - The Book of Beasts' kickstarter campaign. Late pledges still available!\r\nLizardfolk Brute for use in any epic adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
       "https://images.pangolinresinworks.com/collection-3/lizardfolk-brute-book-of-beasts-232827/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/lizardfolk-brute-book-of-beasts-232827/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/lizardfolk-brute-book-of-beasts-232827/3.jpg",
-      "https://images.pangolinresinworks.com/collection-3/lizardfolk-brute-book-of-beasts-232827/4.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": []
-  },
-  {
-    "id": "yks-232824",
-    "slug": "lizardfolk-stalker-book-of-beasts-232824",
-    "name": "Lizardfolk Stalker ",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Lizardfolk Stalker from the 'Adventurers Guide - The Book of Beasts' kickstarter campaign. Late pledges still available!\r\nLizardfolk Stalker for use in any epic adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
       "https://images.pangolinresinworks.com/collection-3/lizardfolk-stalker-book-of-beasts-232824/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/lizardfolk-stalker-book-of-beasts-232824/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/lizardfolk-stalker-book-of-beasts-232824/3.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": []
-  },
-  {
-    "id": "yks-211584",
-    "slug": "lizardfolk-war-chief-book-of-beasts-ks-sample-211584",
-    "name": "Lizardfolk War Chief  KS Sample",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Get notified of the launch!\r\nhttps://www.kickstarter.com/projects/yasashiikyojinstudio/adventurers-guide-the-book-of-beasts\r\nEnjoy this sample Lizardfolk War Chief from my upcoming Kickstarter 'Adventurer's Guide - The Book of Beasts'\r\nThis campaign was designed to give you warbands of creatures in the same style, at the same level of quality, with consistent sizing and enough variety to cover a wide range of uses. Many are low CR or horde type creatures that are perfect for starting adventurer's to encounter.\r\nWherever possible I included a close, medium and far ranged option while designing each warband and many of these even have their own War Chief, a bigger, meaner, mini boss variant for those extra special encounters!",
-    "scale": "",
-    "material": "resin",
-    "images": [
       "https://images.pangolinresinworks.com/collection-3/lizardfolk-war-chief-book-of-beasts-ks-sample-211584/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/lizardfolk-war-chief-book-of-beasts-ks-sample-211584/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/lizardfolk-war-chief-book-of-beasts-ks-sample-211584/3.jpg"
+      "https://images.pangolinresinworks.com/collection-3/lizardfolk-with-shield-147721/1.jpg"
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
-  },
-  {
-    "id": "yks-147721",
-    "slug": "lizardfolk-with-shield-147721",
-    "name": "Lizardfolk with Shield",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Lizardfolk are powerfully built reptilian humanoids. Fiercely territorial and savage, they can be highly dangerous when provoked.\r\nLizardfolk with shield for use in any epic dungeon adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/lizardfolk-with-shield-147721/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/lizardfolk-with-shield-147721/2.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [],
+    "variations": [
+      {
+        "id": "standard",
+        "label": "Standard",
+        "price": 0,
+        "image": "https://images.pangolinresinworks.com/collection-3/lizardfolk-109142/1.jpg"
+      },
+      {
+        "id": "archer",
+        "label": "Archer",
+        "price": 0,
+        "image": "https://images.pangolinresinworks.com/collection-3/lizardfolk-archer-book-of-beasts-232826/1.jpg"
+      },
+      {
+        "id": "brute",
+        "label": "Brute",
+        "price": 0,
+        "image": "https://images.pangolinresinworks.com/collection-3/lizardfolk-brute-book-of-beasts-232827/1.jpg"
+      },
+      {
+        "id": "stalker",
+        "label": "Stalker",
+        "price": 0,
+        "image": "https://images.pangolinresinworks.com/collection-3/lizardfolk-stalker-book-of-beasts-232824/1.jpg"
+      },
+      {
+        "id": "war-chief",
+        "label": "War Chief",
+        "price": 0,
+        "image": "https://images.pangolinresinworks.com/collection-3/lizardfolk-war-chief-book-of-beasts-ks-sample-211584/1.jpg"
+      },
+      {
+        "id": "with-shield",
+        "label": "With Shield",
+        "price": 0,
+        "image": "https://images.pangolinresinworks.com/collection-3/lizardfolk-with-shield-147721/1.jpg"
+      }
+    ]
   },
   {
     "id": "yks-244950",
@@ -42050,25 +41889,6 @@
     ]
   },
   {
-    "id": "yks-232830",
-    "slug": "lunging-mimic-book-of-beasts-232830",
-    "name": "Lunging Mimic ",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Lunging Mimic from the 'Adventurers Guide - The Book of Beasts' kickstarter campaign. Late pledges still available!\r\nLunging Mimic for use in any epic adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/lunging-mimic-book-of-beasts-232830/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/lunging-mimic-book-of-beasts-232830/2.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": []
-  },
-  {
     "id": "yks-242026",
     "slug": "magmin-242026",
     "name": "Magmin",
@@ -42131,6 +41951,20 @@
     "createdAt": "2026-08-11",
     "themes": [
       "undead"
+    ],
+    "variations": [
+      {
+        "id": "standing",
+        "label": "Standing",
+        "price": 0,
+        "image": "https://images.pangolinresinworks.com/collection-3/manananggal-186333/1.jpg"
+      },
+      {
+        "id": "screeching",
+        "label": "Screeching",
+        "price": 0,
+        "image": "https://images.pangolinresinworks.com/collection-3/manananggal-186333/1.jpg"
+      }
     ]
   },
   {
@@ -42180,14 +42014,14 @@
     ],
     "variations": [
       {
-        "id": "standard",
-        "label": "Standard",
+        "id": "wings-open",
+        "label": "Wings Open",
         "price": 0,
         "image": "https://images.pangolinresinworks.com/collection-3/manticore-147457/1.jpg"
       },
       {
-        "id": "b",
-        "label": "B",
+        "id": "wings-closed",
+        "label": "Wings Closed",
         "price": 0,
         "image": "https://images.pangolinresinworks.com/collection-3/manticore-b-164026/1.jpg"
       }
@@ -42267,6 +42101,46 @@
     "themes": []
   },
   {
+    "id": "yks-232830",
+    "slug": "lunging-mimic-book-of-beasts-232830",
+    "name": "Mimic",
+    "category": "yks-miniatures",
+    "tags": [],
+    "price": 0,
+    "currency": "EUR",
+    "description": "Mimic from the 'Adventurers Guide - The Book of Beasts' kickstarter campaign. Late pledges still available!\r\nMimic for use in any epic adventure!",
+    "scale": "",
+    "material": "resin",
+    "images": [
+      "https://images.pangolinresinworks.com/collection-3/exposed-mimic-book-of-beasts-232832/1.jpg",
+      "https://images.pangolinresinworks.com/collection-3/lunging-mimic-book-of-beasts-232830/1.jpg",
+      "https://images.pangolinresinworks.com/collection-3/peaking-mimic-book-of-beasts-232833/1.jpg"
+    ],
+    "inStock": true,
+    "createdAt": "2026-08-11",
+    "themes": [],
+    "variations": [
+      {
+        "id": "exposed",
+        "label": "Exposed",
+        "price": 0,
+        "image": "https://images.pangolinresinworks.com/collection-3/exposed-mimic-book-of-beasts-232832/1.jpg"
+      },
+      {
+        "id": "lunging",
+        "label": "Lunging",
+        "price": 0,
+        "image": "https://images.pangolinresinworks.com/collection-3/lunging-mimic-book-of-beasts-232830/1.jpg"
+      },
+      {
+        "id": "peaking",
+        "label": "Peaking",
+        "price": 0,
+        "image": "https://images.pangolinresinworks.com/collection-3/peaking-mimic-book-of-beasts-232833/1.jpg"
+      }
+    ]
+  },
+  {
     "id": "yks-89115",
     "slug": "mimic-toothy-treasure-chest-89115",
     "name": "Mimic - Toothy Treasure Chest",
@@ -42329,29 +42203,6 @@
         "image": "https://images.pangolinresinworks.com/collection-3/mimic-toothy-valentines-chest-152638/1.jpg"
       }
     ]
-  },
-  {
-    "id": "yks-217950",
-    "slug": "mimic-bundle-book-of-beasts-217950",
-    "name": "Mimic Bundle ",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Mimic Bundle from the 'Adventurers Guide - The Book of Beasts' kickstarter campaign. Late pledges still available!\r\nThis pack includes 4 unique mimic variants, including a defeated option.\r\nFully Pre-supported (for resin printing) in 32mm and 54mm scaling options, with chitu files provided!",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/mimic-bundle-book-of-beasts-217950/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/mimic-bundle-book-of-beasts-217950/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/mimic-bundle-book-of-beasts-217950/3.jpg",
-      "https://images.pangolinresinworks.com/collection-3/mimic-bundle-book-of-beasts-217950/4.jpg",
-      "https://images.pangolinresinworks.com/collection-3/mimic-bundle-book-of-beasts-217950/5.jpg",
-      "https://images.pangolinresinworks.com/collection-3/mimic-bundle-book-of-beasts-217950/6.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": []
   },
   {
     "id": "yks-218461",
@@ -42591,7 +42442,7 @@
   {
     "id": "yks-733958",
     "slug": "mothman-flying-tabletop-miniature-pre-supported-stl-733958",
-    "name": "Mothman - Flying - Tabletop Miniature (Pre-Supported STL)",
+    "name": "Mothman",
     "category": "yks-miniatures",
     "tags": [],
     "price": 0,
@@ -42600,28 +42451,10 @@
     "scale": "",
     "material": "resin",
     "images": [
+      "https://images.pangolinresinworks.com/collection-3/mothman-pair-422592/1.jpg",
       "https://images.pangolinresinworks.com/collection-3/mothman-flying-tabletop-miniature-pre-supported-stl-733958/1.jpg",
       "https://images.pangolinresinworks.com/collection-3/mothman-flying-tabletop-miniature-pre-supported-stl-733958/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/mothman-flying-tabletop-miniature-pre-supported-stl-733958/3.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": [
-      "monsters-beasts"
-    ]
-  },
-  {
-    "id": "yks-733960",
-    "slug": "mothman-stalking-tabletop-miniature-pre-supported-stl-733960",
-    "name": "Mothman - Stalking - Tabletop Miniature (Pre-Supported STL)",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "The mothman appears to be a large, winged humanoid with shared features from both owls and moths. While many simply discount the legend of the Mothman as a fairy tale meant to scare children, many others profess that this creature is an omen of a great tragedy yet to come, and that to see the Mothman is to see one's own impending doom.\r\nMothman for use in any epic dungeon adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
+      "https://images.pangolinresinworks.com/collection-3/mothman-flying-tabletop-miniature-pre-supported-stl-733958/3.jpg",
       "https://images.pangolinresinworks.com/collection-3/mothman-stalking-tabletop-miniature-pre-supported-stl-733960/1.jpg",
       "https://images.pangolinresinworks.com/collection-3/mothman-stalking-tabletop-miniature-pre-supported-stl-733960/2.jpg",
       "https://images.pangolinresinworks.com/collection-3/mothman-stalking-tabletop-miniature-pre-supported-stl-733960/3.jpg",
@@ -42631,28 +42464,20 @@
     "createdAt": "2026-08-11",
     "themes": [
       "monsters-beasts"
-    ]
-  },
-  {
-    "id": "yks-422592",
-    "slug": "mothman-pair-422592",
-    "name": "Mothman Pair",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "The mothman appears to be a large, winged humanoid with shared features from both owls and moths. While many simply discount the legend of the Mothman as a fairy tale meant to scare children, many others profess that this creature is an omen of a great tragedy yet to come, and that to see the Mothman is to see one's own impending doom.\r\nMothman for use in any epic adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/mothman-pair-422592/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/mothman-pair-422592/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/mothman-pair-422592/3.jpg"
     ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": [
-      "monsters-beasts"
+    "variations": [
+      {
+        "id": "flying",
+        "label": "Flying",
+        "price": 0,
+        "image": "https://images.pangolinresinworks.com/collection-3/mothman-flying-tabletop-miniature-pre-supported-stl-733958/1.jpg"
+      },
+      {
+        "id": "stalking",
+        "label": "Stalking",
+        "price": 0,
+        "image": "https://images.pangolinresinworks.com/collection-3/mothman-stalking-tabletop-miniature-pre-supported-stl-733960/1.jpg"
+      }
     ]
   },
   {
@@ -42667,72 +42492,41 @@
     "scale": "",
     "material": "resin",
     "images": [
+      "https://images.pangolinresinworks.com/collection-3/myceliod-147728/collective.jpg",
       "https://images.pangolinresinworks.com/collection-3/mycelid-102604/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/mycelid-102604/2.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": []
-  },
-  {
-    "id": "yks-147728",
-    "slug": "myceliod-147728",
-    "name": "Myceliod",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Mycelid, also known as fungus ones or mushroom men are a race of ambulatory fungus creatures. They are known for their peacefulness and appreciation of quiet.\r\nMycelid for use in any epic dungeon adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/myceliod-147728/1.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": []
-  },
-  {
-    "id": "yks-232906",
-    "slug": "myceloid-guardian-book-of-beasts-232906",
-    "name": "Myceloid Guardian ",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Myceloid Guardian from the 'Adventurers Guide - The Book of Beasts' kickstarter campaign. Late pledges still available!\r\nMyceloid Guardian for use in any epic adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
       "https://images.pangolinresinworks.com/collection-3/myceloid-guardian-book-of-beasts-232906/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/myceloid-guardian-book-of-beasts-232906/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/myceloid-guardian-book-of-beasts-232906/3.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": []
-  },
-  {
-    "id": "yks-232900",
-    "slug": "myceloid-sprout-book-of-beasts-232900",
-    "name": "Myceloid Sprout ",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Myceloid Sprout from the 'Adventurers Guide - The Book of Beasts' kickstarter campaign. Late pledges still available!\r\nMyceloid Sprout for use in any epic adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
       "https://images.pangolinresinworks.com/collection-3/myceloid-sprout-book-of-beasts-232900/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/myceloid-sprout-book-of-beasts-232900/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/myceloid-sprout-book-of-beasts-232900/3.jpg",
-      "https://images.pangolinresinworks.com/collection-3/myceloid-sprout-book-of-beasts-232900/4.jpg",
-      "https://images.pangolinresinworks.com/collection-3/myceloid-sprout-book-of-beasts-232900/5.jpg"
+      "https://images.pangolinresinworks.com/collection-3/veiled-myceloid-book-of-beasts-232899/1.jpg"
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [],
+    "variations": [
+      {
+        "id": "standard",
+        "label": "Standard",
+        "price": 0,
+        "image": "https://images.pangolinresinworks.com/collection-3/mycelid-102604/1.jpg"
+      },
+      {
+        "id": "guardian",
+        "label": "Guardian",
+        "price": 0,
+        "image": "https://images.pangolinresinworks.com/collection-3/myceloid-guardian-book-of-beasts-232906/1.jpg"
+      },
+      {
+        "id": "sprout",
+        "label": "Sprout",
+        "price": 0,
+        "image": "https://images.pangolinresinworks.com/collection-3/myceloid-sprout-book-of-beasts-232900/1.jpg"
+      },
+      {
+        "id": "veiled",
+        "label": "Veiled",
+        "price": 0,
+        "image": "https://images.pangolinresinworks.com/collection-3/veiled-myceloid-book-of-beasts-232899/1.jpg"
+      }
+    ]
   },
   {
     "id": "yks-556199",
@@ -42826,26 +42620,6 @@
     ]
   },
   {
-    "id": "yks-327432",
-    "slug": "nightmare-pegasus-327432",
-    "name": "Nightmare + Pegasus",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "The polar opposites of light and dark.\r\nNightmare and Pegasus for use in any epic adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/nightmare-pegasus-327432/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/nightmare-pegasus-327432/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/nightmare-pegasus-327432/3.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": []
-  },
-  {
     "id": "yks-147732",
     "slug": "nightwalker-147732",
     "name": "Nightwalker",
@@ -42869,137 +42643,6 @@
     ]
   },
   {
-    "id": "yks-235105",
-    "slug": "noblewoman-transformed-doppelganger-235105",
-    "name": "Noblewoman (Transformed Doppelganger)",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Something is off about this Noblewoman...\r\nDoppelgangers are devious shapeshifters that take on the appearance of other humanoids, throwing off pursuit or luring victims to their doom with misdirection and disguise.\r\nNoblewoman/Transformed Doppelganger for use in any epic dungeon adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/noblewoman-transformed-doppelganger-235105/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/noblewoman-transformed-doppelganger-235105/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/noblewoman-transformed-doppelganger-235105/3.jpg",
-      "https://images.pangolinresinworks.com/collection-3/noblewoman-transformed-doppelganger-235105/4.jpg",
-      "https://images.pangolinresinworks.com/collection-3/noblewoman-transformed-doppelganger-235105/5.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": []
-  },
-  {
-    "id": "yks-440557",
-    "slug": "nundro-rockseeker-440557",
-    "name": "Nundro Rockseeker",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "One of three dwarf brothers who hail from the Rockseeker Clan of Sorrolk. They are known in Andaria for their various business ventures.\r\nNundro Rockseeker for use in any epic adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/nundro-rockseeker-440557/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/nundro-rockseeker-440557/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/nundro-rockseeker-440557/3.jpg",
-      "https://images.pangolinresinworks.com/collection-3/nundro-rockseeker-440557/4.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": [
-      "humanoids"
-    ]
-  },
-  {
-    "id": "yks-164027",
-    "slug": "obear-164027",
-    "name": "Obear",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Owlbears were monstrous beasts, their heads were like those of owls with the bodies of bears covered in thick fur and feathers.\r\nOwlbear for use in any epic adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/obear-164027/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/obear-164027/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/obear-164027/3.jpg",
-      "https://images.pangolinresinworks.com/collection-3/obear-164027/4.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": []
-  },
-  {
-    "id": "yks-164033",
-    "slug": "obear-cub-164033",
-    "name": "Obear Cub",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Owlbears were monstrous beasts, their heads were like those of owls with the bodies of bears covered in thick fur and feathers, but the cubs are super cute.\r\nOwlbear cub for use in any epic adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/obear-cub-164033/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/obear-cub-164033/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/obear-cub-164033/3.jpg",
-      "https://images.pangolinresinworks.com/collection-3/obear-cub-164033/4.jpg",
-      "https://images.pangolinresinworks.com/collection-3/obear-cub-164033/5.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": []
-  },
-  {
-    "id": "yks-165775",
-    "slug": "obear-cub-bust-165775",
-    "name": "Obear Cub - Bust",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Created specifically for all the painters out there, the Owlbear Cub in bust form.",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/obear-cub-bust-165775/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/obear-cub-bust-165775/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/obear-cub-bust-165775/3.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": [
-      "busts"
-    ]
-  },
-  {
-    "id": "yks-362195",
-    "slug": "ochre-jellies-362195",
-    "name": "Ochre Jellies",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Ochre jellies are yellowish blobs that can slide under doors and through narrow cracks in pursuit of creatures to devour. They have enough bestial cunning to avoid large groups of enemies.\r\nOchre Jelly for use in any epic adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/ochre-jellies-362195/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/ochre-jellies-362195/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/ochre-jellies-362195/3.jpg",
-      "https://images.pangolinresinworks.com/collection-3/ochre-jellies-362195/4.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": []
-  },
-  {
     "id": "yks-378707",
     "slug": "ochre-jelly-378707",
     "name": "Ochre Jelly",
@@ -43011,6 +42654,7 @@
     "scale": "",
     "material": "resin",
     "images": [
+      "https://images.pangolinresinworks.com/collection-3/ochre-jellies-362195/1.jpg",
       "https://images.pangolinresinworks.com/collection-3/ochre-jelly-378707/1.jpg",
       "https://images.pangolinresinworks.com/collection-3/ochre-jelly-378707/2.jpg",
       "https://images.pangolinresinworks.com/collection-3/ochre-jelly-378707/3.jpg",
@@ -43074,14 +42718,56 @@
     "scale": "Medium, Large",
     "material": "resin",
     "images": [
+      "https://images.pangolinresinworks.com/collection-3/ogre-100341/collective.jpg",
       "https://images.pangolinresinworks.com/collection-3/ogre-100341/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/ogre-100341/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/ogre-100341/collective.jpg"
+      "https://images.pangolinresinworks.com/collection-3/ogre-100341/thrower.jpg",
+      "https://images.pangolinresinworks.com/collection-3/ogre-100341/brawler.jpg",
+      "https://images.pangolinresinworks.com/collection-3/ogre-100341/dragger.jpg",
+      "https://images.pangolinresinworks.com/collection-3/ogre-100341/loader.jpg",
+      "https://images.pangolinresinworks.com/collection-3/ogre-100341/defeated.jpg"
     ],
     "inStock": true,
     "createdAt": "2019-09-06",
     "themes": [
       "monsters-beasts"
+    ],
+    "variations": [
+      {
+        "id": "standard",
+        "label": "Standard",
+        "price": 0,
+        "image": "https://images.pangolinresinworks.com/collection-3/ogre-100341/1.jpg"
+      },
+      {
+        "id": "thrower",
+        "label": "Thrower",
+        "price": 0,
+        "image": "https://images.pangolinresinworks.com/collection-3/ogre-100341/thrower.jpg"
+      },
+      {
+        "id": "brawler",
+        "label": "Brawler",
+        "price": 0,
+        "image": "https://images.pangolinresinworks.com/collection-3/ogre-100341/brawler.jpg"
+      },
+      {
+        "id": "dragger",
+        "label": "Dragger",
+        "price": 0,
+        "image": "https://images.pangolinresinworks.com/collection-3/ogre-100341/dragger.jpg"
+      },
+      {
+        "id": "loader",
+        "label": "Loader",
+        "price": 0,
+        "image": "https://images.pangolinresinworks.com/collection-3/ogre-100341/loader.jpg"
+      },
+      {
+        "id": "defeated",
+        "label": "Defeated",
+        "price": 0,
+        "image": "https://images.pangolinresinworks.com/collection-3/ogre-100341/defeated.jpg"
+      }
     ]
   },
   {
@@ -43096,23 +42782,17 @@
     "scale": "",
     "material": "resin",
     "images": [
+      "https://images.pangolinresinworks.com/collection-3/oni-329121/collective.jpg",
       "https://images.pangolinresinworks.com/collection-3/oni-329121/1.jpg",
       "https://images.pangolinresinworks.com/collection-3/oni-kanebo-392499/1.jpg",
       "https://images.pangolinresinworks.com/collection-3/meditating-oni-392501/1.jpg",
       "https://images.pangolinresinworks.com/collection-3/oni-champion-392503/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/cloaked-oni-392507/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/oni-329121/collective.jpg"
+      "https://images.pangolinresinworks.com/collection-3/cloaked-oni-392507/1.jpg"
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
     "themes": [],
     "variations": [
-      {
-        "id": "standard",
-        "label": "Standard",
-        "price": 0,
-        "image": "https://images.pangolinresinworks.com/collection-3/oni-329121/1.jpg"
-      },
       {
         "id": "kanebo",
         "label": "Kanebo",
@@ -43170,85 +42850,43 @@
     "scale": "",
     "material": "resin",
     "images": [
+      "https://images.pangolinresinworks.com/collection-3/orc-378709/collective.jpg",
       "https://images.pangolinresinworks.com/collection-3/orc-378709/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/orc-378709/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/orc-378709/3.jpg",
-      "https://images.pangolinresinworks.com/collection-3/orc-378709/4.jpg",
-      "https://images.pangolinresinworks.com/collection-3/orc-378709/collective.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": [
-      "humanoids"
-    ]
-  },
-  {
-    "id": "yks-395409",
-    "slug": "orc-axemen-395409",
-    "name": "Orc Axemen",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Orcs are savage raiders and pillagers with stooped postures, low foreheads, and piggish faces with prominent lower canines that resemble tusks.\r\nOrc for use in any epic adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
       "https://images.pangolinresinworks.com/collection-3/orc-axemen-395409/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/orc-axemen-395409/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/orc-axemen-395409/3.jpg",
-      "https://images.pangolinresinworks.com/collection-3/orc-axemen-395409/4.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": [
-      "humanoids"
-    ]
-  },
-  {
-    "id": "yks-395410",
-    "slug": "orc-brawler-395410",
-    "name": "Orc Brawler",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Orcs are savage raiders and pillagers with stooped postures, low foreheads, and piggish faces with prominent lower canines that resemble tusks.\r\nOrc for use in any epic adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
       "https://images.pangolinresinworks.com/collection-3/orc-brawler-395410/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/orc-brawler-395410/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/orc-brawler-395410/3.jpg",
-      "https://images.pangolinresinworks.com/collection-3/orc-brawler-395410/4.jpg"
+      "https://images.pangolinresinworks.com/collection-3/leaping-orc-395412/1.jpg",
+      "https://images.pangolinresinworks.com/collection-3/orc-warchief-395414/1.jpg"
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
     "themes": [
       "humanoids"
-    ]
-  },
-  {
-    "id": "yks-395414",
-    "slug": "orc-warchief-395414",
-    "name": "Orc Warchief",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Orcs are savage raiders and pillagers with stooped postures, low foreheads, and piggish faces with prominent lower canines that resemble tusks.\r\nOrc for use in any epic adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/orc-warchief-395414/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/orc-warchief-395414/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/orc-warchief-395414/3.jpg",
-      "https://images.pangolinresinworks.com/collection-3/orc-warchief-395414/4.jpg"
     ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": [
-      "humanoids"
+    "variations": [
+      {
+        "id": "axemen",
+        "label": "Axemen",
+        "price": 0,
+        "image": "https://images.pangolinresinworks.com/collection-3/orc-axemen-395409/1.jpg"
+      },
+      {
+        "id": "brawler",
+        "label": "Brawler",
+        "price": 0,
+        "image": "https://images.pangolinresinworks.com/collection-3/orc-brawler-395410/1.jpg"
+      },
+      {
+        "id": "leaping",
+        "label": "Leaping",
+        "price": 0,
+        "image": "https://images.pangolinresinworks.com/collection-3/leaping-orc-395412/1.jpg"
+      },
+      {
+        "id": "warchief",
+        "label": "Warchief",
+        "price": 0,
+        "image": "https://images.pangolinresinworks.com/collection-3/orc-warchief-395414/1.jpg"
+      }
     ]
   },
   {
@@ -43288,78 +42926,49 @@
     "scale": "",
     "material": "resin",
     "images": [
+      "https://images.pangolinresinworks.com/collection-3/owlbear-164028/collective.jpg",
       "https://images.pangolinresinworks.com/collection-3/owlbear-164028/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/owlbear-164028/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/owlbear-164028/3.jpg",
-      "https://images.pangolinresinworks.com/collection-3/owlbear-164028/collective.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": []
-  },
-  {
-    "id": "yks-164030",
-    "slug": "owlbear-cub-164030",
-    "name": "Owlbear Cub",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Owlbears were monstrous beasts, their heads were like those of owls with the bodies of bears covered in thick fur and feathers, but the cubs are super cute.\r\nOwlbear cub for use in any epic dungeon adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
       "https://images.pangolinresinworks.com/collection-3/owlbear-cub-164030/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/owlbear-cub-164030/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/owlbear-cub-164030/3.jpg",
-      "https://images.pangolinresinworks.com/collection-3/owlbear-cub-164030/4.jpg",
-      "https://images.pangolinresinworks.com/collection-3/owlbear-cub-164030/5.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": []
-  },
-  {
-    "id": "yks-165774",
-    "slug": "owlbear-cub-bust-pre-supported-165774",
-    "name": "Owlbear Cub - Bust",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Created specifically for all the painters out there, the Owlbear Cub in Pre-Supported bust form.",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/owlbear-cub-bust-pre-supported-165774/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/owlbear-cub-bust-pre-supported-165774/2.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": [
-      "busts"
-    ]
-  },
-  {
-    "id": "yks-233830",
-    "slug": "owlbear-cubs-book-of-beast-233830",
-    "name": "Owlbear Cubs - Book of Beast",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Nightowl Cubs from the 'Adventurers Guide - The Book of Beasts' kickstarter campaign. Late pledges still available!\r\nNightowl Cubs for use in any epic adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
       "https://images.pangolinresinworks.com/collection-3/owlbear-cubs-book-of-beast-233830/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/owlbear-cubs-book-of-beast-233830/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/owlbear-cubs-book-of-beast-233830/3.jpg"
+      "https://images.pangolinresinworks.com/collection-3/rearing-owlbear-book-of-beasts-233828/1.jpg",
+      "https://images.pangolinresinworks.com/collection-3/sleeping-owlbear-book-of-beasts-233829/1.jpg"
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
     "themes": [
       "monsters-beasts"
+    ],
+    "variations": [
+      {
+        "id": "standard",
+        "label": "Standard",
+        "price": 0,
+        "image": "https://images.pangolinresinworks.com/collection-3/owlbear-164028/1.jpg"
+      },
+      {
+        "id": "cub",
+        "label": "Cub",
+        "price": 0,
+        "image": "https://images.pangolinresinworks.com/collection-3/owlbear-cub-164030/1.jpg"
+      },
+      {
+        "id": "cubs",
+        "label": "Cubs",
+        "price": 0,
+        "image": "https://images.pangolinresinworks.com/collection-3/owlbear-cubs-book-of-beast-233830/1.jpg"
+      },
+      {
+        "id": "rearing",
+        "label": "Rearing",
+        "price": 0,
+        "image": "https://images.pangolinresinworks.com/collection-3/rearing-owlbear-book-of-beasts-233828/1.jpg"
+      },
+      {
+        "id": "sleeping",
+        "label": "Sleeping",
+        "price": 0,
+        "image": "https://images.pangolinresinworks.com/collection-3/sleeping-owlbear-book-of-beasts-233829/1.jpg"
+      }
     ]
   },
   {
@@ -43454,50 +43063,6 @@
     ]
   },
   {
-    "id": "yks-248325",
-    "slug": "parliament-of-owlin-248325",
-    "name": "Parliament of Owlin",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Owlin are owl-folk, or humanoid sentient owls, that are distant relatives of the giant owls who reside in the Feywild. The beautiful wings sprouting from the shoulders of Owlins grant them the ability to fly swiftly and quietly overhead.\r\nOwlins for use in any epic adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/parliament-of-owlin-248325/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/parliament-of-owlin-248325/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/parliament-of-owlin-248325/3.jpg",
-      "https://images.pangolinresinworks.com/collection-3/parliament-of-owlin-248325/4.jpg",
-      "https://images.pangolinresinworks.com/collection-3/parliament-of-owlin-248325/5.jpg",
-      "https://images.pangolinresinworks.com/collection-3/parliament-of-owlin-248325/6.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": [
-      "monsters-beasts"
-    ]
-  },
-  {
-    "id": "yks-232833",
-    "slug": "peaking-mimic-book-of-beasts-232833",
-    "name": "Peaking Mimic ",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Peaking Mimic from the 'Adventurers Guide - The Book of Beasts' kickstarter campaign. Late pledges still available!\r\nPeaking Mimic for use in any epic adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/peaking-mimic-book-of-beasts-232833/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/peaking-mimic-book-of-beasts-232833/2.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": []
-  },
-  {
     "id": "yks-384263",
     "slug": "pegasus-384263",
     "name": "Pegasus",
@@ -43541,72 +43106,6 @@
     "themes": []
   },
   {
-    "id": "yks-279830",
-    "slug": "plague-doctor-artificer-279830",
-    "name": "Plague Doctor Artificer",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Plague doctors are specialists from the apothecary school to torch and dissolve corpses and undead in the infected regions of the city. Their weapons are also deadly against armored enemies.\r\nPlague Doctor for use in any epic adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/plague-doctor-artificer-279830/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/plague-doctor-artificer-279830/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/plague-doctor-artificer-279830/3.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": [
-      "undead"
-    ]
-  },
-  {
-    "id": "yks-279827",
-    "slug": "plague-doctor-cleric-279827",
-    "name": "Plague Doctor Cleric",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Plague doctors are specialists from the apothecary school to torch and dissolve corpses and undead in the infected regions of the city. Their weapons are also deadly against armored enemies.\r\nPlague Doctor for use in any epic adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/plague-doctor-cleric-279827/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/plague-doctor-cleric-279827/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/plague-doctor-cleric-279827/3.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": [
-      "undead"
-    ]
-  },
-  {
-    "id": "yks-279828",
-    "slug": "plague-doctor-lantern-279828",
-    "name": "Plague Doctor Lantern",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Plague doctors are specialists from the apothecary school to torch and dissolve corpses and undead in the infected regions of the city. Their weapons are also deadly against armored enemies.\r\nPlague Doctor for use in any epic adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/plague-doctor-lantern-279828/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/plague-doctor-lantern-279828/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/plague-doctor-lantern-279828/3.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": [
-      "undead"
-    ]
-  },
-  {
     "id": "yks-279832",
     "slug": "plague-doctors-279832",
     "name": "Plague Doctors",
@@ -43619,22 +43118,47 @@
     "material": "resin",
     "images": [
       "https://images.pangolinresinworks.com/collection-3/plague-doctors-279832/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/plague-doctors-279832/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/plague-doctors-279832/3.jpg",
-      "https://images.pangolinresinworks.com/collection-3/plague-doctors-279832/4.jpg",
-      "https://images.pangolinresinworks.com/collection-3/plague-doctors-279832/5.jpg",
-      "https://images.pangolinresinworks.com/collection-3/plague-doctors-279832/6.jpg"
+      "https://images.pangolinresinworks.com/collection-3/plague-doctor-cleric-279827/1.jpg",
+      "https://images.pangolinresinworks.com/collection-3/smol-plague-doctor-279831/1.jpg",
+      "https://images.pangolinresinworks.com/collection-3/plague-doctor-artificer-279830/1.jpg",
+      "https://images.pangolinresinworks.com/collection-3/plague-doctor-lantern-279828/1.jpg"
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
     "themes": [
       "undead"
+    ],
+    "variations": [
+      {
+        "id": "cleric",
+        "label": "Cleric",
+        "price": 0,
+        "image": "https://images.pangolinresinworks.com/collection-3/plague-doctor-cleric-279827/1.jpg"
+      },
+      {
+        "id": "smol",
+        "label": "Smol",
+        "price": 0,
+        "image": "https://images.pangolinresinworks.com/collection-3/smol-plague-doctor-279831/1.jpg"
+      },
+      {
+        "id": "artificer",
+        "label": "Artificer",
+        "price": 0,
+        "image": "https://images.pangolinresinworks.com/collection-3/plague-doctor-artificer-279830/1.jpg"
+      },
+      {
+        "id": "lantern",
+        "label": "Lantern",
+        "price": 0,
+        "image": "https://images.pangolinresinworks.com/collection-3/plague-doctor-lantern-279828/1.jpg"
+      }
     ]
   },
   {
     "id": "yks-323055",
     "slug": "plague-of-imps-323055",
-    "name": "Plague of Imps",
+    "name": "Imp",
     "category": "yks-miniatures",
     "tags": [],
     "price": 0,
@@ -43650,7 +43174,29 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [
+      "demons-fiends"
+    ],
+    "variations": [
+      {
+        "id": "perched",
+        "label": "Perched",
+        "price": 0,
+        "image": "https://images.pangolinresinworks.com/collection-3/plague-of-imps-323055/2.jpg"
+      },
+      {
+        "id": "sneaky",
+        "label": "Sneaky",
+        "price": 0,
+        "image": "https://images.pangolinresinworks.com/collection-3/plague-of-imps-323055/3.jpg"
+      },
+      {
+        "id": "flying",
+        "label": "Flying",
+        "price": 0,
+        "image": "https://images.pangolinresinworks.com/collection-3/plague-of-imps-323055/4.jpg"
+      }
+    ]
   },
   {
     "id": "yks-411504",
@@ -43728,6 +43274,7 @@
     "scale": "",
     "material": "resin",
     "images": [
+      "https://images.pangolinresinworks.com/collection-3/quasit-alert-682982/collective.jpg",
       "https://images.pangolinresinworks.com/collection-3/quasit-alert-682982/1.png",
       "https://images.pangolinresinworks.com/collection-3/quasit-screeching-682983/1.png",
       "https://images.pangolinresinworks.com/collection-3/quasit-leaping-682984/1.png"
@@ -43905,71 +43452,6 @@
     ]
   },
   {
-    "id": "yks-233164",
-    "slug": "reaper-wraith-book-of-beasts-233164",
-    "name": "Reaper Wraith ",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Reaper Wraith from the 'Adventurers Guide - The Book of Beasts' kickstarter campaign. Late pledges still available!\r\nReaper Wraith for use in any epic adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/reaper-wraith-book-of-beasts-233164/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/reaper-wraith-book-of-beasts-233164/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/reaper-wraith-book-of-beasts-233164/3.jpg",
-      "https://images.pangolinresinworks.com/collection-3/reaper-wraith-book-of-beasts-233164/4.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": [
-      "undead"
-    ]
-  },
-  {
-    "id": "yks-149803",
-    "slug": "rearing-giant-goat-149803",
-    "name": "Rearing Giant Goat",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Giant goats were a rare, larger than normal species of goat growing to 5ft tall at the shoulder. They mimicked their smaller kin by charging and ramming with their long sharp horns.\r\nGiant goat for use in any epic dungeon adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/rearing-giant-goat-149803/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/rearing-giant-goat-149803/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/rearing-giant-goat-149803/3.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": [
-      "monsters-beasts"
-    ]
-  },
-  {
-    "id": "yks-233828",
-    "slug": "rearing-owlbear-book-of-beasts-233828",
-    "name": "Rearing Owlbear ",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Rearing Nightowl from the 'Adventurers Guide - The Book of Beasts' kickstarter campaign. Late pledges still available!\r\nRearing Nightowl for use in any epic adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/rearing-owlbear-book-of-beasts-233828/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/rearing-owlbear-book-of-beasts-233828/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/rearing-owlbear-book-of-beasts-233828/3.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": []
-  },
-  {
     "id": "yks-225127",
     "slug": "red-wizard-225127",
     "name": "Red Wizard",
@@ -44056,26 +43538,6 @@
     ]
   },
   {
-    "id": "yks-445529",
-    "slug": "rising-mummy-445529",
-    "name": "Rising Mummy",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Raised by dark funerary rituals, a mummy shambles from the shrouded stillness of a time-lost temple or tomb. Having been awoken from its rest, it punishes transgressors with the power of its unholy curse.\r\nMummy for use in any epic adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/rising-mummy-445529/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/rising-mummy-445529/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/rising-mummy-445529/3.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": []
-  },
-  {
     "id": "yks-375520",
     "slug": "rockseeker-brothers-375520",
     "name": "Rockseeker Brothers",
@@ -44088,15 +43550,34 @@
     "material": "resin",
     "images": [
       "https://images.pangolinresinworks.com/collection-3/rockseeker-brothers-375520/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/rockseeker-brothers-375520/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/rockseeker-brothers-375520/3.jpg",
-      "https://images.pangolinresinworks.com/collection-3/rockseeker-brothers-375520/4.jpg",
-      "https://images.pangolinresinworks.com/collection-3/rockseeker-brothers-375520/5.jpg"
+      "https://images.pangolinresinworks.com/collection-3/gundren-rockseeker-440554/1.jpg",
+      "https://images.pangolinresinworks.com/collection-3/nundro-rockseeker-440557/1.jpg",
+      "https://images.pangolinresinworks.com/collection-3/tharden-rockseeker-440559/1.jpg"
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
     "themes": [
       "humanoids"
+    ],
+    "variations": [
+      {
+        "id": "gundren",
+        "label": "Gundren",
+        "price": 0,
+        "image": "https://images.pangolinresinworks.com/collection-3/gundren-rockseeker-440554/1.jpg"
+      },
+      {
+        "id": "nundro",
+        "label": "Nundro",
+        "price": 0,
+        "image": "https://images.pangolinresinworks.com/collection-3/nundro-rockseeker-440557/1.jpg"
+      },
+      {
+        "id": "tharden",
+        "label": "Tharden",
+        "price": 0,
+        "image": "https://images.pangolinresinworks.com/collection-3/tharden-rockseeker-440559/1.jpg"
+      }
     ]
   },
   {
@@ -44220,6 +43701,7 @@
     "scale": "",
     "material": "resin",
     "images": [
+      "https://images.pangolinresinworks.com/collection-3/scarecrow-active-497230/collective.jpg",
       "https://images.pangolinresinworks.com/collection-3/scarecrow-field-497226/1.jpg",
       "https://images.pangolinresinworks.com/collection-3/scarecrow-pitchfork-497227/1.jpg",
       "https://images.pangolinresinworks.com/collection-3/scarecrow-active-497230/1.jpg",
@@ -44261,68 +43743,6 @@
         "image": "https://images.pangolinresinworks.com/collection-3/scarecrow-axe-497236/1.jpg"
       }
     ]
-  },
-  {
-    "id": "yks-232910",
-    "slug": "screaming-beholder-book-of-beasts-232910",
-    "name": "Screaming Beholder ",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Screaming Eye Tyrant from the 'Adventurers Guide - The Book of Beasts' kickstarter campaign. Late pledges still available!\r\nScreaming Eye Tyrant for use in any epic adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/screaming-beholder-book-of-beasts-232910/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/screaming-beholder-book-of-beasts-232910/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/screaming-beholder-book-of-beasts-232910/3.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": []
-  },
-  {
-    "id": "yks-232652",
-    "slug": "screaming-bugbear-book-of-beasts-232652",
-    "name": "Screaming Bugbear ",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Screaming Bugbear from the 'Adventurers Guide - The Book of Beasts' kickstarter campaign. Late pledges still available!\r\nScreaming Bugbear for use in any epic adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/screaming-bugbear-book-of-beasts-232652/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/screaming-bugbear-book-of-beasts-232652/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/screaming-bugbear-book-of-beasts-232652/3.jpg",
-      "https://images.pangolinresinworks.com/collection-3/screaming-bugbear-book-of-beasts-232652/4.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": []
-  },
-  {
-    "id": "yks-445525",
-    "slug": "shambling-mummy-445525",
-    "name": "Shambling Mummy",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Raised by dark funerary rituals, a mummy shambles from the shrouded stillness of a time-lost temple or tomb. Having been awoken from its rest, it punishes transgressors with the power of its unholy curse.\r\nMummy for use in any epic adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/shambling-mummy-445525/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/shambling-mummy-445525/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/shambling-mummy-445525/3.jpg",
-      "https://images.pangolinresinworks.com/collection-3/shambling-mummy-445525/4.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": []
   },
   {
     "id": "yks-206615",
@@ -44395,27 +43815,6 @@
     ]
   },
   {
-    "id": "yks-445528",
-    "slug": "shuffling-mummy-445528",
-    "name": "Shuffling Mummy",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Raised by dark funerary rituals, a mummy shambles from the shrouded stillness of a time-lost temple or tomb. Having been awoken from its rest, it punishes transgressors with the power of its unholy curse.\r\nMummy for use in any epic adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/shuffling-mummy-445528/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/shuffling-mummy-445528/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/shuffling-mummy-445528/3.jpg",
-      "https://images.pangolinresinworks.com/collection-3/shuffling-mummy-445528/4.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": []
-  },
-  {
     "id": "yks-234254",
     "slug": "skeleton-axemen-book-of-beasts-234254",
     "name": "Skeleton Axemen ",
@@ -44433,6 +43832,18 @@
     "createdAt": "2026-08-11",
     "themes": [
       "undead"
+    ],
+    "variations": [
+      {
+        "id": "01",
+        "label": "Pose 1",
+        "price": 3
+      },
+      {
+        "id": "02",
+        "label": "Pose 2",
+        "price": 3
+      }
     ]
   },
   {
@@ -44455,6 +43866,18 @@
     "createdAt": "2026-08-11",
     "themes": [
       "undead"
+    ],
+    "variations": [
+      {
+        "id": "01",
+        "label": "Pose 1",
+        "price": 3
+      },
+      {
+        "id": "02",
+        "label": "Pose 2",
+        "price": 3
+      }
     ]
   },
   {
@@ -44475,6 +43898,18 @@
     "createdAt": "2026-08-11",
     "themes": [
       "undead"
+    ],
+    "variations": [
+      {
+        "id": "01",
+        "label": "Pose 1",
+        "price": 3
+      },
+      {
+        "id": "02",
+        "label": "Pose 2",
+        "price": 3
+      }
     ]
   },
   {
@@ -44503,146 +43938,57 @@
   },
   {
     "id": "yks-149423",
-    "slug": "slaad-blue-149423",
-    "name": "Slaad (Blue)",
+    "slug": "slaad-149423",
+    "name": "Slaad",
     "category": "yks-miniatures",
     "tags": [],
     "price": 0,
     "currency": "EUR",
-    "description": "Limbo Toads resembled large bipedal toads and were natives of Limbo. Brutes grew to 10ft tall, 1000lb and had two long hooks of bone protruding from the back of their hands\r\nLimbo Toad (Brute) for use in any epic dungeon adventure!",
+    "description": "Limbo Toads resembled large bipedal toads and were natives of Limbo, ranging from the common Feral to the intelligent, spellcasting Mystic and the deadly Necro.\r\nSlaad for use in any epic dungeon adventure!",
     "scale": "",
     "material": "resin",
     "images": [
+      "https://images.pangolinresinworks.com/collection-3/slaad-blue-tabletop-miniature-pre-supported-149121/collective.jpg",
       "https://images.pangolinresinworks.com/collection-3/slaad-blue-149423/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/slaad-blue-149423/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/slaad-blue-149423/3.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": []
-  },
-  {
-    "id": "yks-149424",
-    "slug": "slaad-death-149424",
-    "name": "Slaad (Death)",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Limbo Toad (Necro) resembled large bipedal toads and were natives of Limbo. Necros were considered the most deadly of the Limbo Toads, focused on bringing death and pain to those around them.\r\nLimbo Toad (Necro) for use in any epic dungeon adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
       "https://images.pangolinresinworks.com/collection-3/slaad-death-149424/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/slaad-death-149424/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/slaad-death-149424/3.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": []
-  },
-  {
-    "id": "yks-149425",
-    "slug": "slaad-gray-149425",
-    "name": "Slaad (Gray)",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Limbo Toads resembled large bipedal toads and were natives of Limbo. Chaos were limbo toads that had undergone a magical metamorphosis. Compared to the common limbo toad, they were relatively small and lean.\r\nLimbo Toad (Chaos) for use in any epic dungeon adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
       "https://images.pangolinresinworks.com/collection-3/slaad-gray-149425/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/slaad-gray-149425/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/slaad-gray-149425/3.jpg",
-      "https://images.pangolinresinworks.com/collection-3/slaad-gray-149425/4.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": []
-  },
-  {
-    "id": "yks-149426",
-    "slug": "slaad-green-149426",
-    "name": "Slaad (Green)",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Limbo Toads resembled large bipedal toads and were natives of Limbo. Mystics were unusually intelligent capable of shapechange and spellcasting.\r\nLimbo Toad (Mystic) for use in any epic dungeon adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
       "https://images.pangolinresinworks.com/collection-3/slaad-green-149426/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/slaad-green-149426/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/slaad-green-149426/3.jpg"
+      "https://images.pangolinresinworks.com/collection-3/slaad-red-149427/1.jpg"
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
-  },
-  {
-    "id": "yks-149427",
-    "slug": "slaad-red-149427",
-    "name": "Slaad (Red)",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Limbo Toads resembled large bipedal toads and were natives of Limbo. Ferals were the most common and despite being the weakest of the limbo toads, they were still able to rip others apart with nothing but their teeth and claws.\r\nLimbo Toad (Feral) for use in any epic dungeon adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/slaad-red-149427/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/slaad-red-149427/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/slaad-red-149427/3.jpg",
-      "https://images.pangolinresinworks.com/collection-3/slaad-red-149427/4.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": []
-  },
-  {
-    "id": "yks-233829",
-    "slug": "sleeping-owlbear-book-of-beasts-233829",
-    "name": "Sleeping Owlbear ",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Sleeping Nightowl from the 'Adventurers Guide - The Book of Beasts' kickstarter campaign. Late pledges still available!\r\nSleeping Nightowl for use in any epic adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/sleeping-owlbear-book-of-beasts-233829/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/sleeping-owlbear-book-of-beasts-233829/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/sleeping-owlbear-book-of-beasts-233829/3.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": []
-  },
-  {
-    "id": "yks-279831",
-    "slug": "smol-plague-doctor-279831",
-    "name": "Smol Plague Doctor",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Plague doctors are specialists from the apothecary school to torch and dissolve corpses and undead in the infected regions of the city. Their weapons are also deadly against armored enemies.\r\nPlague Doctor for use in any epic adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/smol-plague-doctor-279831/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/smol-plague-doctor-279831/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/smol-plague-doctor-279831/3.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": [
-      "undead"
+    "themes": [],
+    "variations": [
+      {
+        "id": "blue",
+        "label": "Blue",
+        "price": 0,
+        "image": "https://images.pangolinresinworks.com/collection-3/slaad-blue-149423/1.jpg"
+      },
+      {
+        "id": "death",
+        "label": "Death",
+        "price": 0,
+        "image": "https://images.pangolinresinworks.com/collection-3/slaad-death-149424/1.jpg"
+      },
+      {
+        "id": "gray",
+        "label": "Gray",
+        "price": 0,
+        "image": "https://images.pangolinresinworks.com/collection-3/slaad-gray-149425/1.jpg"
+      },
+      {
+        "id": "green",
+        "label": "Green",
+        "price": 0,
+        "image": "https://images.pangolinresinworks.com/collection-3/slaad-green-149426/1.jpg"
+      },
+      {
+        "id": "red",
+        "label": "Red",
+        "price": 0,
+        "image": "https://images.pangolinresinworks.com/collection-3/slaad-red-149427/1.jpg"
+      }
     ]
   },
   {
@@ -44716,10 +44062,22 @@
         "image": "https://images.pangolinresinworks.com/collection-3/sorrowsworn-the-lonely-148428/1.jpg"
       },
       {
-        "id": "wretched",
-        "label": "Wretched",
+        "id": "wretched-1",
+        "label": "Wretched 1",
         "price": 0,
-        "image": "https://images.pangolinresinworks.com/collection-3/sorrowsworn-the-wretched-227681/1.jpg"
+        "image": "https://images.pangolinresinworks.com/collection-3/sorrowsworn-the-hungry-148427/collective.jpg"
+      },
+      {
+        "id": "wretched-2",
+        "label": "Wretched 2",
+        "price": 0,
+        "image": "https://images.pangolinresinworks.com/collection-3/sorrowsworn-the-hungry-148427/collective.jpg"
+      },
+      {
+        "id": "wretched-3",
+        "label": "Wretched 3",
+        "price": 0,
+        "image": "https://images.pangolinresinworks.com/collection-3/sorrowsworn-the-hungry-148427/collective.jpg"
       },
       {
         "id": "lost",
@@ -44844,6 +44202,7 @@
     "scale": "",
     "material": "resin",
     "images": [
+      "https://images.pangolinresinworks.com/collection-3/quaggoth-warchief-464856/collective.jpg",
       "https://images.pangolinresinworks.com/collection-3/stalking-quaggoth-464848/1.jpg",
       "https://images.pangolinresinworks.com/collection-3/lunging-quaggoth-464850/1.jpg",
       "https://images.pangolinresinworks.com/collection-3/quaggoth-stone-club-464853/1.jpg",
@@ -44884,51 +44243,6 @@
         "price": 0,
         "image": "https://images.pangolinresinworks.com/collection-3/quaggoth-stone-hatchet-464860/1.jpg"
       }
-    ]
-  },
-  {
-    "id": "yks-457083",
-    "slug": "stalking-shadow-457083",
-    "name": "Stalking Shadow",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Shadows are undead that resemble dark exaggerations of humanoid shadows.\r\nShadow for use in any epic adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/stalking-shadow-457083/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/stalking-shadow-457083/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/stalking-shadow-457083/3.jpg",
-      "https://images.pangolinresinworks.com/collection-3/stalking-shadow-457083/4.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": [
-      "undead"
-    ]
-  },
-  {
-    "id": "yks-378704",
-    "slug": "stirge-378704",
-    "name": "Stirge",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "This horrid flying creature looks like a cross between a large bat and an oversized mosquito. Its legs end in sharp pincers, and its long, needle-like proboscis slashes the air as it seeks its next meal.\r\nStrige for use in any epic adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/stirge-378704/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/stirge-378704/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/stirge-378704/collective.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": [
-      "monsters-beasts"
     ]
   },
   {
@@ -45016,27 +44330,6 @@
     "themes": [
       "busts"
     ]
-  },
-  {
-    "id": "yks-396551",
-    "slug": "swarm-of-bats-396551",
-    "name": "Swarm of Bats",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "These swarms aren't ordinary or benign assemblies of little creatures. They form as a result of some sinister or unwholesome influence.\r\nSwarm of Bats for use in any epic adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/swarm-of-bats-396551/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/swarm-of-bats-396551/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/swarm-of-bats-396551/3.jpg",
-      "https://images.pangolinresinworks.com/collection-3/swarm-of-bats-396551/4.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": []
   },
   {
     "id": "yks-396552",
@@ -45206,96 +44499,6 @@
     "themes": []
   },
   {
-    "id": "yks-163210",
-    "slug": "tavern-scatter-tabletop-props-pre-supported-163210",
-    "name": "Tavern Scatter - Tabletop Props (Pre-Supported)",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Tavern scatter for use in any epic dungeon adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/tavern-scatter-tabletop-props-pre-supported-163210/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/tavern-scatter-tabletop-props-pre-supported-163210/2.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": [
-      "terrain-scenery"
-    ]
-  },
-  {
-    "id": "yks-440559",
-    "slug": "tharden-rockseeker-440559",
-    "name": "Tharden Rockseeker",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "One of three dwarf brothers who hail from the Rockseeker Clan of Sorrolk. They are known in Andaria for their various business ventures.\r\nTharden Rockseeker for use in any epic adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/tharden-rockseeker-440559/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/tharden-rockseeker-440559/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/tharden-rockseeker-440559/3.jpg",
-      "https://images.pangolinresinworks.com/collection-3/tharden-rockseeker-440559/4.jpg",
-      "https://images.pangolinresinworks.com/collection-3/tharden-rockseeker-440559/5.jpg",
-      "https://images.pangolinresinworks.com/collection-3/tharden-rockseeker-440559/6.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": [
-      "humanoids"
-    ]
-  },
-  {
-    "id": "yks-407264",
-    "slug": "the-belviews-mongrelfolk-407264",
-    "name": "The Belviews - Mongrelfolk",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Mongrelfolk are humanoids that have undergone, or whose ancestors underwent, horrific magical transformations, to the extent that they retain only a fraction of their original being. Their humanoid bodies incorporate the features of various beasts.\r\nMongrelfolk for use in any epic adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/the-belviews-mongrelfolk-407264/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/the-belviews-mongrelfolk-407264/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/the-belviews-mongrelfolk-407264/3.jpg",
-      "https://images.pangolinresinworks.com/collection-3/the-belviews-mongrelfolk-407264/4.jpg",
-      "https://images.pangolinresinworks.com/collection-3/the-belviews-mongrelfolk-407264/5.jpg",
-      "https://images.pangolinresinworks.com/collection-3/the-belviews-mongrelfolk-407264/6.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": []
-  },
-  {
-    "id": "yks-440552",
-    "slug": "the-grinch-440552",
-    "name": "The Grinch",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "The Grinch and his loyal dog, Max, live a solitary existence inside a cave on Mount Crumpet. His main source of aggravation comes during Christmastime when his neighbours in Whoville celebrate the holidays with a bang. When the Whos decide to make Christmas bigger and brighter, the disgruntled Grinch realises there is one way to gain peace and quiet. With help from Max, the green grump hatches a scheme to pose as Santa Claus, steal Christmas and silence the Whos' holiday cheer once and for all.\r\nThe Grinch for use in any epic adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/the-grinch-440552/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/the-grinch-440552/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/the-grinch-440552/3.jpg",
-      "https://images.pangolinresinworks.com/collection-3/the-grinch-440552/4.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": []
-  },
-  {
     "id": "yks-511967",
     "slug": "themberchaud-511967",
     "name": "Themberchaud",
@@ -45323,29 +44526,7 @@
   {
     "id": "yks-387827",
     "slug": "townsfolk-beggars-387827",
-    "name": "Townsfolk - Beggars",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Townsfolk are “non-combatant” NPCs commonly found in settlements\r\nTownsfolk for use in any epic adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/townsfolk-beggars-387827/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/townsfolk-beggars-387827/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/townsfolk-beggars-387827/3.jpg",
-      "https://images.pangolinresinworks.com/collection-3/townsfolk-beggars-387827/4.jpg",
-      "https://images.pangolinresinworks.com/collection-3/townsfolk-beggars-387827/5.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": []
-  },
-  {
-    "id": "yks-383406",
-    "slug": "townsfolk-general-adults-383406",
-    "name": "Townsfolk - General Adults",
+    "name": "Townsfolk",
     "category": "yks-miniatures",
     "tags": [],
     "price": 0,
@@ -45355,81 +44536,39 @@
     "material": "resin",
     "images": [
       "https://images.pangolinresinworks.com/collection-3/townsfolk-general-adults-383406/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/townsfolk-general-adults-383406/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/townsfolk-general-adults-383406/3.jpg",
-      "https://images.pangolinresinworks.com/collection-3/townsfolk-general-adults-383406/4.jpg",
-      "https://images.pangolinresinworks.com/collection-3/townsfolk-general-adults-383406/5.jpg",
-      "https://images.pangolinresinworks.com/collection-3/townsfolk-general-adults-383406/6.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": []
-  },
-  {
-    "id": "yks-383411",
-    "slug": "townsfolk-general-children-383411",
-    "name": "Townsfolk - General Children",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Townsfolk are “non-combatant” NPCs commonly found in settlements\r\nTownsfolk for use in any epic adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
+      "https://images.pangolinresinworks.com/collection-3/townsfolk-beggars-387827/1.jpg",
       "https://images.pangolinresinworks.com/collection-3/townsfolk-general-children-383411/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/townsfolk-general-children-383411/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/townsfolk-general-children-383411/3.jpg",
-      "https://images.pangolinresinworks.com/collection-3/townsfolk-general-children-383411/4.jpg",
-      "https://images.pangolinresinworks.com/collection-3/townsfolk-general-children-383411/5.jpg",
-      "https://images.pangolinresinworks.com/collection-3/townsfolk-general-children-383411/6.jpg"
+      "https://images.pangolinresinworks.com/collection-3/townsfolk-hostages-387828/1.jpg"
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
-  },
-  {
-    "id": "yks-387828",
-    "slug": "townsfolk-hostages-387828",
-    "name": "Townsfolk - Hostages",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Townsfolk are “non-combatant” NPCs commonly found in settlements\r\nTownsfolk for use in any epic adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/townsfolk-hostages-387828/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/townsfolk-hostages-387828/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/townsfolk-hostages-387828/3.jpg",
-      "https://images.pangolinresinworks.com/collection-3/townsfolk-hostages-387828/4.jpg",
-      "https://images.pangolinresinworks.com/collection-3/townsfolk-hostages-387828/5.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": []
-  },
-  {
-    "id": "yks-235103",
-    "slug": "transforming-doppelganger-235103",
-    "name": "Transforming Doppelganger",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Doppelgangers are devious shapeshifters that take on the appearance of other humanoids, throwing off pursuit or luring victims to their doom with misdirection and disguise.\r\nDoppelganger mid transformation for use in any epic dungeon adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/transforming-doppelganger-235103/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/transforming-doppelganger-235103/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/transforming-doppelganger-235103/3.jpg",
-      "https://images.pangolinresinworks.com/collection-3/transforming-doppelganger-235103/4.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [],
+    "variations": [
+      {
+        "id": "beggars",
+        "label": "Beggars",
+        "price": 0,
+        "image": "https://images.pangolinresinworks.com/collection-3/townsfolk-beggars-387827/1.jpg"
+      },
+      {
+        "id": "general-adults",
+        "label": "General Adults",
+        "price": 0,
+        "image": "https://images.pangolinresinworks.com/collection-3/townsfolk-general-adults-383406/1.jpg"
+      },
+      {
+        "id": "general-children",
+        "label": "General Children",
+        "price": 0,
+        "image": "https://images.pangolinresinworks.com/collection-3/townsfolk-general-children-383411/1.jpg"
+      },
+      {
+        "id": "hostages",
+        "label": "Hostages",
+        "price": 0,
+        "image": "https://images.pangolinresinworks.com/collection-3/townsfolk-hostages-387828/1.jpg"
+      }
+    ]
   },
   {
     "id": "yks-146897",
@@ -45463,6 +44602,7 @@
     "scale": "",
     "material": "resin",
     "images": [
+      "https://images.pangolinresinworks.com/collection-3/tressym-bundle-223449/1.jpg",
       "https://images.pangolinresinworks.com/collection-3/tressym-225256/1.jpg",
       "https://images.pangolinresinworks.com/collection-3/elder-tressym-234862/1.jpg",
       "https://images.pangolinresinworks.com/collection-3/stretching-tressym-234863/1.jpg",
@@ -45506,51 +44646,6 @@
         "image": "https://images.pangolinresinworks.com/collection-3/stalking-tressym-234866/1.jpg"
       }
     ]
-  },
-  {
-    "id": "yks-223449",
-    "slug": "tressym-bundle-223449",
-    "name": "Tressym Bundle",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "A tressym was a magical beast resembling a small winged cat. They were also popular as familiars for good wizards.\r\nVarious Tressym for use in any epic dungeon adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/tressym-bundle-223449/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/tressym-bundle-223449/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/tressym-bundle-223449/3.jpg",
-      "https://images.pangolinresinworks.com/collection-3/tressym-bundle-223449/4.jpg",
-      "https://images.pangolinresinworks.com/collection-3/tressym-bundle-223449/5.jpg",
-      "https://images.pangolinresinworks.com/collection-3/tressym-bundle-223449/6.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": [
-      "monsters-beasts"
-    ]
-  },
-  {
-    "id": "yks-148578",
-    "slug": "troglodyte-148578",
-    "name": "Troglodyte",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Troglodytes are barbaric reptilian humanoids, coated with rough leathery scales.\r\nTroglodyte for use in any epic dungeon adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/troglodyte-148578/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/troglodyte-148578/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/troglodyte-148578/3.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": []
   },
   {
     "id": "yks-148579",
@@ -45626,6 +44721,7 @@
     "scale": "",
     "material": "resin",
     "images": [
+      "https://images.pangolinresinworks.com/collection-3/twig-blight-bundle-204906/1.jpg",
       "https://images.pangolinresinworks.com/collection-3/twig-blight-204904/1.jpg",
       "https://images.pangolinresinworks.com/collection-3/twig-blight-screamer-234851/1.jpg",
       "https://images.pangolinresinworks.com/collection-3/charging-twig-blight-234852/1.jpg",
@@ -45660,52 +44756,6 @@
         "image": "https://images.pangolinresinworks.com/collection-3/creeping-twig-blight-234853/1.jpg"
       }
     ]
-  },
-  {
-    "id": "yks-204906",
-    "slug": "twig-blight-bundle-204906",
-    "name": "Twig Blight Bundle",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Group of 3 Blights at a 30% discount!\r\nTwig blights can root in soil, which they do when living prey are scarce. While rooted, they resemble woody shrubs. When it pulls its roots free of the ground to move, a twig blight's branches twist together to form a humanoid-looking body with a head and limbs.\r\nTwig blights for use in any epic adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/twig-blight-bundle-204906/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/twig-blight-bundle-204906/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/twig-blight-bundle-204906/3.jpg",
-      "https://images.pangolinresinworks.com/collection-3/twig-blight-bundle-204906/4.jpg",
-      "https://images.pangolinresinworks.com/collection-3/twig-blight-bundle-204906/5.jpg",
-      "https://images.pangolinresinworks.com/collection-3/twig-blight-bundle-204906/6.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": []
-  },
-  {
-    "id": "yks-163433",
-    "slug": "ultimate-mimic-pack-163433",
-    "name": "Ultimate Mimic Pack",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "The mimic can use its action to polymorph into an object or back into its true, amorphous form.\r\nToothy and Brawler mimic with open and closed treasure chests for use in any epic dungeon adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/ultimate-mimic-pack-163433/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/ultimate-mimic-pack-163433/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/ultimate-mimic-pack-163433/3.jpg",
-      "https://images.pangolinresinworks.com/collection-3/ultimate-mimic-pack-163433/4.jpg",
-      "https://images.pangolinresinworks.com/collection-3/ultimate-mimic-pack-163433/5.jpg",
-      "https://images.pangolinresinworks.com/collection-3/ultimate-mimic-pack-163433/6.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": []
   },
   {
     "id": "yks-148580",
@@ -45772,6 +44822,18 @@
     "themes": [
       "monsters-beasts",
       "undead"
+    ],
+    "variations": [
+      {
+        "id": "01",
+        "label": "Pose 1",
+        "price": 3
+      },
+      {
+        "id": "02",
+        "label": "Pose 2",
+        "price": 3
+      }
     ]
   },
   {
@@ -45816,6 +44878,18 @@
     "themes": [
       "monsters-beasts",
       "undead"
+    ],
+    "variations": [
+      {
+        "id": "01",
+        "label": "Pose 1",
+        "price": 3
+      },
+      {
+        "id": "02",
+        "label": "Pose 2",
+        "price": 3
+      }
     ]
   },
   {
@@ -45861,6 +44935,18 @@
     "themes": [
       "monsters-beasts",
       "undead"
+    ],
+    "variations": [
+      {
+        "id": "01",
+        "label": "Pose 1",
+        "price": 3
+      },
+      {
+        "id": "02",
+        "label": "Pose 2",
+        "price": 3
+      }
     ]
   },
   {
@@ -45897,26 +44983,6 @@
     ]
   },
   {
-    "id": "yks-291893",
-    "slug": "vadoma-fortune-teller-pair-291893",
-    "name": "Vadoma - Fortune Teller Pair",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Driven by a need to know what lies beyond the mysteries of death, the world, and the mists, Vadoma finds spirits are instinctively drawn to her. Despite being terribly superstitous, she does all she can to help them find peace.\r\nFortune Teller for use in any epic adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/vadoma-fortune-teller-pair-291893/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/vadoma-fortune-teller-pair-291893/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/vadoma-fortune-teller-pair-291893/3.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": []
-  },
-  {
     "id": "yks-665139",
     "slug": "vampire-spawn-stalking-665139",
     "name": "Vampire Spawn",
@@ -45928,6 +44994,7 @@
     "scale": "",
     "material": "resin",
     "images": [
+      "https://images.pangolinresinworks.com/collection-3/vampire-spawn-alert-665141/collective.jpg",
       "https://images.pangolinresinworks.com/collection-3/vampire-spawn-stalking-665139/1.png",
       "https://images.pangolinresinworks.com/collection-3/vampire-spawn-alert-665141/1.png",
       "https://images.pangolinresinworks.com/collection-3/vampire-spawn-slouched-665143/1.png",
@@ -45973,26 +45040,6 @@
     ]
   },
   {
-    "id": "yks-232899",
-    "slug": "veiled-myceloid-book-of-beasts-232899",
-    "name": "Veiled Myceloid ",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Veiled Myceloid from the 'Adventurers Guide - The Book of Beasts' kickstarter campaign. Late pledges still available!\r\nVeiled Myceloid for use in any epic adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/veiled-myceloid-book-of-beasts-232899/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/veiled-myceloid-book-of-beasts-232899/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/veiled-myceloid-book-of-beasts-232899/3.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": []
-  },
-  {
     "id": "yks-175467",
     "slug": "vrock-175467",
     "name": "Vrock",
@@ -46030,29 +45077,6 @@
     "themes": [
       "monsters-beasts",
       "demons-fiends"
-    ]
-  },
-  {
-    "id": "yks-457084",
-    "slug": "waiting-shadow-457084",
-    "name": "Waiting Shadow",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Shadows are undead that resemble dark exaggerations of humanoid shadows.\r\nShadow for use in any epic adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/waiting-shadow-457084/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/waiting-shadow-457084/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/waiting-shadow-457084/3.jpg",
-      "https://images.pangolinresinworks.com/collection-3/waiting-shadow-457084/4.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": [
-      "undead"
     ]
   },
   {
@@ -46105,50 +45129,6 @@
     ]
   },
   {
-    "id": "yks-356997",
-    "slug": "wandering-worg-356997",
-    "name": "Wandering Worg",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "A worg is an evil predator that delights in hunting and devouring creatures weaker than itself. Cunning and malevolent, worgs roam across the remote wilderness or are raised by goblins and hobgoblins.\r\nWorg for use in any epic adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/wandering-worg-356997/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/wandering-worg-356997/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/wandering-worg-356997/3.jpg",
-      "https://images.pangolinresinworks.com/collection-3/wandering-worg-356997/4.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": []
-  },
-  {
-    "id": "yks-333478",
-    "slug": "warren-of-rabbitfolk-333478",
-    "name": "Warren of Rabbitfolk",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Rabbit-folk native to the Feywild, through they often migrate to the Material Plane. They love to travel on foot and rarely stay in one place for long.\r\nRabbit-folk for use in any epic adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/warren-of-rabbitfolk-333478/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/warren-of-rabbitfolk-333478/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/warren-of-rabbitfolk-333478/3.jpg",
-      "https://images.pangolinresinworks.com/collection-3/warren-of-rabbitfolk-333478/4.jpg",
-      "https://images.pangolinresinworks.com/collection-3/warren-of-rabbitfolk-333478/5.jpg",
-      "https://images.pangolinresinworks.com/collection-3/warren-of-rabbitfolk-333478/6.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": []
-  },
-  {
     "id": "yks-233159",
     "slug": "water-elemental-233159",
     "name": "Water Elemental",
@@ -46169,29 +45149,6 @@
     "themes": []
   },
   {
-    "id": "yks-231021",
-    "slug": "weapons-tabletop-props-pre-supported-231021",
-    "name": "Weapons - Tabletop Props (Pre-Supported)",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Weapon props for use in any epic dungeon adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/weapons-tabletop-props-pre-supported-231021/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/weapons-tabletop-props-pre-supported-231021/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/weapons-tabletop-props-pre-supported-231021/3.jpg",
-      "https://images.pangolinresinworks.com/collection-3/weapons-tabletop-props-pre-supported-231021/4.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": [
-      "terrain-scenery"
-    ]
-  },
-  {
     "id": "yks-148581",
     "slug": "wendigo-148581",
     "name": "Wendigo",
@@ -46203,8 +45160,7 @@
     "scale": "",
     "material": "resin",
     "images": [
-      "https://images.pangolinresinworks.com/collection-3/wendigo-148581/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/wendigo-148581/2.jpg"
+      "https://images.pangolinresinworks.com/collection-3/wendigo-148581/1.jpg"
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
@@ -46224,6 +45180,7 @@
     "scale": "",
     "material": "resin",
     "images": [
+      "https://images.pangolinresinworks.com/collection-3/wererat-axe-475685/collective.jpg",
       "https://images.pangolinresinworks.com/collection-3/wererat-machete-475683/1.jpg",
       "https://images.pangolinresinworks.com/collection-3/wererat-crossbow-475684/1.jpg",
       "https://images.pangolinresinworks.com/collection-3/wererat-axe-475685/1.jpg",
@@ -46280,15 +45237,31 @@
     "scale": "",
     "material": "resin",
     "images": [
+      "https://images.pangolinresinworks.com/collection-3/werewolf-378700/collective.jpg",
       "https://images.pangolinresinworks.com/collection-3/werewolf-378700/1.jpg",
       "https://images.pangolinresinworks.com/collection-3/werewolf-378700/2.jpg",
       "https://images.pangolinresinworks.com/collection-3/werewolf-378700/3.jpg",
       "https://images.pangolinresinworks.com/collection-3/werewolf-378700/4.jpg",
-      "https://images.pangolinresinworks.com/collection-3/werewolf-378700/collective.jpg"
+      "https://images.pangolinresinworks.com/collection-3/werewolf-378700/05.jpg"
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [],
+    "variations": [
+      {
+        "id": "standing",
+        "label": "Standing",
+        "price": 0,
+        "image":       "https://images.pangolinresinworks.com/collection-3/werewolf-378700/1.jpg"
+
+      },
+      {
+        "id": "prowling",
+        "label": "Prowling",
+        "price": 0,
+        "image": "https://images.pangolinresinworks.com/collection-3/werewolf-378700/05.jpg"
+      }
+    ]
   },
   {
     "id": "yks-378702",
@@ -46302,15 +45275,40 @@
     "scale": "",
     "material": "resin",
     "images": [
-      "https://images.pangolinresinworks.com/collection-3/wolf-378702/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/wolf-378702/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/wolf-378702/3.jpg",
-      "https://images.pangolinresinworks.com/collection-3/wolf-378702/4.jpg",
-      "https://images.pangolinresinworks.com/collection-3/wolf-378702/collective.jpg"
+     "https://images.pangolinresinworks.com/collection-3/wolf-pack-354810/1.jpg",
+     "https://images.pangolinresinworks.com/collection-3/wolf-pack-354810/2.jpg",
+     "https://images.pangolinresinworks.com/collection-3/wolf-pack-354810/3.jpg",
+     "https://images.pangolinresinworks.com/collection-3/wolf-pack-354810/4.jpg",
+     "https://images.pangolinresinworks.com/collection-3/wolf-pack-354810/5.jpg"
+     
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [],
+    "variations": [
+      {
+        "id": "running",
+        "label": "Running",
+        "price": 0,
+        "image": "https://images.pangolinresinworks.com/collection-3/wolf-pack-354810/2.jpg"
+      }, {
+        "id": "cautious",
+        "label": "Cautious",
+        "price": 0,
+        "image": "https://images.pangolinresinworks.com/collection-3/wolf-pack-354810/4.jpg"
+      }, {
+        "id": "walking",
+        "label": "Walking",
+        "price": 0,
+        "image": "https://images.pangolinresinworks.com/collection-3/wolf-pack-354810/5.jpg"
+      },
+      {
+        "id": "howling",
+        "label": "Howling",
+        "price": 0,
+        "image": "https://images.pangolinresinworks.com/collection-3/wolf-pack-354810/3.jpg"
+      }
+    ]
   },
   {
     "id": "yks-411510",
@@ -46336,7 +45334,7 @@
   {
     "id": "yks-334369",
     "slug": "worg-pair-334369",
-    "name": "Worg Pair",
+    "name": "Worg",
     "category": "yks-miniatures",
     "tags": [],
     "price": 0,
@@ -46351,7 +45349,20 @@
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [],
+    "variations":[
+       {
+        "id": "walking",
+        "label": "Walking",
+        "price": 0,
+        "image": "https://images.pangolinresinworks.com/collection-3/worg-pair-334369/2.jpg"
+      }, {
+        "id": "cautious",
+        "label": "Cautious",
+        "price": 0,
+        "image": "https://images.pangolinresinworks.com/collection-3/worg-pair-334369/3.jpg"
+      }
+    ]
   },
   {
     "id": "yks-148584",
@@ -46365,88 +45376,43 @@
     "scale": "",
     "material": "resin",
     "images": [
+      "https://images.pangolinresinworks.com/collection-3/wraith-97487/collective.jpg",
+      "https://images.pangolinresinworks.com/collection-3/lantern-wraith-book-of-beasts-233161/1.jpg",
+      "https://images.pangolinresinworks.com/collection-3/reaper-wraith-book-of-beasts-233164/1.jpg",
       "https://images.pangolinresinworks.com/collection-3/wraith-148584/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/wraith-148584/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/wraith-148584/3.jpg"
+      "https://images.pangolinresinworks.com/collection-3/wraith-swordsmen-book-of-beasts-233162/1.jpg"
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
     "themes": [
       "monsters-beasts",
       "undead"
-    ]
-  },
-  {
-    "id": "yks-233162",
-    "slug": "wraith-swordsmen-book-of-beasts-233162",
-    "name": "Wraith Swordsmen ",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Wraith Swordsmen from the 'Adventurers Guide - The Book of Beasts' kickstarter campaign. Late pledges still available!\r\nWraith Swordsmen for use in any epic adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/wraith-swordsmen-book-of-beasts-233162/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/wraith-swordsmen-book-of-beasts-233162/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/wraith-swordsmen-book-of-beasts-233162/3.jpg",
-      "https://images.pangolinresinworks.com/collection-3/wraith-swordsmen-book-of-beasts-233162/4.jpg"
     ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": [
-      "undead"
-    ]
-  },
-  {
-    "id": "yks-223125",
-    "slug": "wraiths-book-of-beasts-223125",
-    "name": "Wraiths ",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Wraith Bundle from the 'Adventurers Guide - The Book of Beasts' kickstarter campaign. Late pledges still available!\r\nThis pack includes 3 unique wraith designs, including a reaper mini boss and defeated variant.\r\nFully Pre-supported (for resin printing) in 32mm and 54mm scaling options, with chitu files provided!",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/wraiths-book-of-beasts-223125/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/wraiths-book-of-beasts-223125/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/wraiths-book-of-beasts-223125/3.jpg",
-      "https://images.pangolinresinworks.com/collection-3/wraiths-book-of-beasts-223125/4.jpg",
-      "https://images.pangolinresinworks.com/collection-3/wraiths-book-of-beasts-223125/5.jpg",
-      "https://images.pangolinresinworks.com/collection-3/wraiths-book-of-beasts-223125/6.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": [
-      "undead"
-    ]
-  },
-  {
-    "id": "yks-171129",
-    "slug": "wrath-of-the-lich-bundle-171129",
-    "name": "Wrath of the Lich Bundle",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Wrath of the Lich Bundle for use in any epic dungeon adventure!\r\nBundle Includes:\r\n1 Lich1 Wraith2 Zombies4 Skeletons7 Tombstones (scatter)5 Skulls (scatter)1 Candle Group (scatter)1 Lantern (scatter)1 Heart (scatter)1 Severed Hand (scatter)",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/wrath-of-the-lich-bundle-171129/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/wrath-of-the-lich-bundle-171129/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/wrath-of-the-lich-bundle-171129/3.jpg",
-      "https://images.pangolinresinworks.com/collection-3/wrath-of-the-lich-bundle-171129/4.jpg",
-      "https://images.pangolinresinworks.com/collection-3/wrath-of-the-lich-bundle-171129/5.jpg",
-      "https://images.pangolinresinworks.com/collection-3/wrath-of-the-lich-bundle-171129/6.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": [
-      "undead"
+    "variations": [
+      {
+        "id": "lantern",
+        "label": "Lantern",
+        "price": 0,
+        "image": "https://images.pangolinresinworks.com/collection-3/lantern-wraith-book-of-beasts-233161/1.jpg"
+      },
+      {
+        "id": "reaper",
+        "label": "Reaper",
+        "price": 0,
+        "image": "https://images.pangolinresinworks.com/collection-3/reaper-wraith-book-of-beasts-233164/1.jpg"
+      },
+      {
+        "id": "standard",
+        "label": "Standard",
+        "price": 0,
+        "image": "https://images.pangolinresinworks.com/collection-3/wraith-148584/1.jpg"
+      },
+      {
+        "id": "swordsmen",
+        "label": "Swordsmen",
+        "price": 0,
+        "image": "https://images.pangolinresinworks.com/collection-3/wraith-swordsmen-book-of-beasts-233162/1.jpg"
+      }
     ]
   },
   {
@@ -46515,86 +45481,50 @@
   {
     "id": "yks-256897",
     "slug": "yuan-ti-archer-256897",
-    "name": "Yuan-Ti Archer",
+    "name": "Yuan-Ti",
     "category": "yks-miniatures",
     "tags": [],
     "price": 0,
     "currency": "EUR",
-    "description": "Monstrous serpents with burly humanoid torsos and arms, abominations form the highest caste of yuan-ti society.\r\nYuan-Ti Archer for use in any epic dungeon adventure!",
+    "description": "Monstrous serpents with burly humanoid torsos and arms, abominations form the highest caste of yuan-ti society.\r\nYuan-Ti for use in any epic dungeon adventure!",
     "scale": "",
     "material": "resin",
     "images": [
+      "https://images.pangolinresinworks.com/collection-3/yuan-ti-archer-256897/collective.jpg",
       "https://images.pangolinresinworks.com/collection-3/yuan-ti-archer-256897/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/yuan-ti-archer-256897/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/yuan-ti-archer-256897/3.jpg",
-      "https://images.pangolinresinworks.com/collection-3/yuan-ti-archer-256897/4.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": []
-  },
-  {
-    "id": "yks-256900",
-    "slug": "yuan-ti-dual-khopesh-256900",
-    "name": "Yuan-Ti Dual Khopesh",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Monstrous serpents with burly humanoid torsos and arms, abominations form the highest caste of yuan-ti society.\r\nDual Khopesh Yuan-Ti  for use in any epic dungeon adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
       "https://images.pangolinresinworks.com/collection-3/yuan-ti-dual-khopesh-256900/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/yuan-ti-dual-khopesh-256900/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/yuan-ti-dual-khopesh-256900/3.jpg",
-      "https://images.pangolinresinworks.com/collection-3/yuan-ti-dual-khopesh-256900/4.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": []
-  },
-  {
-    "id": "yks-256890",
-    "slug": "yuan-ti-dual-scimitars-256890",
-    "name": "Yuan-Ti Dual Scimitars",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Monstrous serpents with burly humanoid torsos and arms, abominations form the highest caste of yuan-ti society.\r\nYuan-Ti for use in any epic dungeon adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
       "https://images.pangolinresinworks.com/collection-3/yuan-ti-dual-scimitars-256890/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/yuan-ti-dual-scimitars-256890/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/yuan-ti-dual-scimitars-256890/3.jpg",
-      "https://images.pangolinresinworks.com/collection-3/yuan-ti-dual-scimitars-256890/4.jpg"
+      "https://images.pangolinresinworks.com/collection-3/yuan-ti-halberd-256896/1.jpg"
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
-    "themes": []
-  },
-  {
-    "id": "yks-256896",
-    "slug": "yuan-ti-halberd-256896",
-    "name": "Yuan-Ti Halberd",
-    "category": "yks-miniatures",
-    "tags": [],
-    "price": 0,
-    "currency": "EUR",
-    "description": "Monstrous serpents with burly humanoid torsos and arms, abominations form the highest caste of yuan-ti society.\r\nYuan-Ti for use in any epic dungeon adventure!",
-    "scale": "",
-    "material": "resin",
-    "images": [
-      "https://images.pangolinresinworks.com/collection-3/yuan-ti-halberd-256896/1.jpg",
-      "https://images.pangolinresinworks.com/collection-3/yuan-ti-halberd-256896/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/yuan-ti-halberd-256896/3.jpg",
-      "https://images.pangolinresinworks.com/collection-3/yuan-ti-halberd-256896/4.jpg"
-    ],
-    "inStock": true,
-    "createdAt": "2026-08-11",
-    "themes": []
+    "themes": [],
+    "variations": [
+      {
+        "id": "archer",
+        "label": "Archer",
+        "price": 0,
+        "image": "https://images.pangolinresinworks.com/collection-3/yuan-ti-archer-256897/1.jpg"
+      },
+      {
+        "id": "dual-khopesh",
+        "label": "Dual Khopesh",
+        "price": 0,
+        "image": "https://images.pangolinresinworks.com/collection-3/yuan-ti-dual-khopesh-256900/1.jpg"
+      },
+      {
+        "id": "dual-scimitars",
+        "label": "Dual Scimitars",
+        "price": 0,
+        "image": "https://images.pangolinresinworks.com/collection-3/yuan-ti-dual-scimitars-256890/1.jpg"
+      },
+      {
+        "id": "halberd",
+        "label": "Halberd",
+        "price": 0,
+        "image": "https://images.pangolinresinworks.com/collection-3/yuan-ti-halberd-256896/1.jpg"
+      }
+    ]
   },
   {
     "id": "yks-176672",
@@ -46610,14 +45540,34 @@
     "images": [
       "https://images.pangolinresinworks.com/collection-3/zombies-176672/1.jpg",
       "https://images.pangolinresinworks.com/collection-3/zombies-176672/2.jpg",
-      "https://images.pangolinresinworks.com/collection-3/zombies-176672/3.jpg",
-      "https://images.pangolinresinworks.com/collection-3/zombies-176672/4.jpg",
       "https://images.pangolinresinworks.com/collection-3/zombies-176672/5.jpg"
     ],
     "inStock": true,
     "createdAt": "2026-08-11",
     "themes": [
       "undead"
+    ],
+    "variations": [
+      {
+        "id": "crawling",
+        "label": "Crawling",
+        "price": 0
+      },
+      {
+        "id": "reaching",
+        "label": "Reaching",
+        "price": 0
+      },
+      {
+        "id": "walking",
+        "label": "Walking",
+        "price": 0
+      },
+      {
+        "id": "fumbling",
+        "label": "Fumbling",
+        "price": 0
+      }
     ]
   },
   {
