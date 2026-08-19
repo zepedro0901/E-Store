@@ -3311,7 +3311,8 @@
     ],
     "themes": [
       "undead"
-    ]
+    ],
+    "featured": true
   },
   {
     "id": "mmf-350057",
@@ -6973,8 +6974,7 @@
     ],
     "themes": [
       "monsters-beasts"
-    ],
-    "featured": true
+    ]
   },
   {
     "id": "mmf-738699",
@@ -7958,7 +7958,8 @@
     ],
     "themes": [
       "demons-fiends"
-    ]
+    ],
+    "featured": true
   },
   {
     "id": "mmf-730253",
@@ -9960,8 +9961,7 @@
         "image": "https://images.pangolinresinworks.com/collection-1/mimic-knights-474990/2.jpg"
       }
     ],
-    "themes": [],
-    "featured": true
+    "themes": []
   },
   {
     "id": "mmf-424892",
