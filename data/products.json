@@ -1309,7 +1309,8 @@
     "themes": [
       "monsters-beasts",
       "humanoids"
-    ]
+    ],
+    "featured": true
   },
   {
     "id": "mmf-810339",
@@ -7958,8 +7959,7 @@
     ],
     "themes": [
       "demons-fiends"
-    ],
-    "featured": true
+    ]
   },
   {
     "id": "mmf-730253",
