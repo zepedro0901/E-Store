@@ -12,7 +12,7 @@ export default async function TermsPage() {
 
   return (
     <div className="mx-auto w-full max-w-3xl px-6 py-14 sm:py-20">
-      <h1 className="font-display text-4xl font-bold uppercase tracking-tight">
+      <h1 className="font-display text-4xl font-semibold tracking-tight">
         {dict.terms.title}
       </h1>
       <p className="mt-3 font-mono text-xs uppercase tracking-wide text-foreground/50">

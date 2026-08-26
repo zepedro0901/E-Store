@@ -50,7 +50,7 @@ export default async function Home() {
           <span className="font-mono text-xs uppercase tracking-[0.3em] text-accent">
             {dict.home.heroKicker}
           </span>
-          <h1 className="max-w-3xl font-display text-6xl font-bold uppercase leading-[0.95] tracking-tight sm:text-8xl">
+          <h1 className="max-w-3xl font-display text-6xl font-semibold leading-[0.95] tracking-tight sm:text-8xl">
             {dict.home.heroTitleLine1}
             <br />
             {dict.home.heroTitleLine2}
@@ -61,13 +61,13 @@ export default async function Home() {
           <div className="flex flex-wrap gap-3 pt-2">
             <Link
               href="/products"
-              className="bg-accent px-7 py-3 text-sm font-semibold uppercase tracking-wide text-accent-foreground transition-colors hover:bg-accent-hover"
+              className="rounded-sm bg-accent px-7 py-3 text-sm font-medium tracking-wide text-accent-foreground transition-colors hover:bg-accent-hover"
             >
               {dict.common.browseAllProducts}
             </Link>
             <Link
               href="#themes"
-              className="border border-border px-7 py-3 text-sm font-semibold uppercase tracking-wide text-foreground/80 transition-colors hover:border-accent/50 hover:text-accent"
+              className="rounded-sm border border-border px-7 py-3 text-sm font-medium tracking-wide text-foreground/80 transition-colors hover:border-accent/50 hover:text-accent"
             >
               {dict.home.exploreCollections}
             </Link>
@@ -95,7 +95,7 @@ export default async function Home() {
       <div className="mx-auto w-full max-w-6xl px-6 py-14">
         <section id="themes" className="mb-20 scroll-mt-20">
           <div className="mb-6 flex items-end justify-between">
-            <h2 className="font-display text-3xl font-bold uppercase tracking-tight">
+            <h2 className="font-display text-3xl font-semibold tracking-tight">
               {dict.home.shopByTheme}
             </h2>
             <span className="hidden h-px flex-1 bg-border sm:ml-8 sm:block" />
@@ -133,7 +133,7 @@ export default async function Home() {
           <section className="mb-20">
             <div className="mb-6 flex items-center justify-between">
               <div>
-                <h2 className="font-display text-3xl font-bold uppercase tracking-tight">
+                <h2 className="font-display text-3xl font-semibold tracking-tight">
                   {dict.home.featured}
                 </h2>
                 <p className="mt-1 text-sm text-foreground/55">
@@ -153,7 +153,7 @@ export default async function Home() {
 
         <section className="mb-20 border border-border bg-surface px-6 py-14 sm:px-10">
           <div className="mb-12 flex flex-col gap-2 sm:flex-row sm:items-end sm:justify-between">
-            <h2 className="font-display text-3xl font-bold uppercase tracking-tight">
+            <h2 className="font-display text-3xl font-semibold tracking-tight">
               {dict.home.processTitle}
             </h2>
             <p className="font-mono text-xs uppercase tracking-wide text-foreground/50">
@@ -169,7 +169,7 @@ export default async function Home() {
                 <span className="font-mono text-xs text-accent">
                   {String(i + 1).padStart(2, "0")}
                 </span>
-                <h3 className="mt-2 font-display text-xl font-bold uppercase tracking-tight">
+                <h3 className="mt-2 font-display text-xl font-semibold tracking-tight">
                   {item.title}
                 </h3>
                 <p className="mt-2 text-sm leading-relaxed text-foreground/60">
@@ -190,7 +190,7 @@ export default async function Home() {
             aria-hidden
             className="scale-field absolute inset-0 opacity-10 text-accent-foreground"
           />
-          <h2 className="relative font-display text-4xl font-bold uppercase tracking-tight sm:text-5xl">
+          <h2 className="relative font-display text-4xl font-semibold tracking-tight sm:text-5xl">
             {dict.home.ctaTitle}
           </h2>
           <p className="relative max-w-md text-sm opacity-90">
@@ -201,7 +201,7 @@ export default async function Home() {
           </p>
           <Link
             href="/products"
-            className="relative mt-2 bg-accent-foreground px-7 py-3 text-sm font-semibold uppercase tracking-wide text-accent transition-transform hover:scale-105"
+            className="relative mt-2 rounded-sm bg-accent-foreground px-7 py-3 text-sm font-medium tracking-wide text-accent transition-transform hover:scale-105"
           >
             {dict.common.browseAllProducts}
           </Link>

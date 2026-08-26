@@ -10,7 +10,7 @@ import { useTranslations } from "@/i18n/use-translations";
 import { EU_COUNTRIES, computeShippingCents } from "@/lib/shipping";
 
 const FIELD_CLASS =
-  "w-full border border-border bg-surface px-3 py-2 text-sm outline-none transition-colors focus:border-accent/50";
+  "w-full rounded-sm border border-border bg-surface px-3 py-2 text-sm outline-none transition-colors focus:border-accent/50";
 const LABEL_CLASS = "text-xs font-medium uppercase tracking-wide text-foreground/55";
 
 export function CheckoutForm() {
@@ -32,7 +32,7 @@ export function CheckoutForm() {
         <p className="text-foreground/60">{dict.checkout.emptyCart}</p>
         <Link
           href="/products"
-          className="rounded-full bg-accent px-6 py-3 text-sm font-semibold uppercase tracking-wide text-accent-foreground transition-colors hover:bg-accent-hover"
+          className="rounded-sm bg-accent px-6 py-3 text-sm font-medium tracking-wide text-accent-foreground transition-colors hover:bg-accent-hover"
         >
           {dict.common.browseAllProducts}
         </Link>
@@ -149,14 +149,14 @@ export function CheckoutForm() {
         <button
           type="submit"
           disabled={status === "submitting"}
-          className="mt-2 bg-accent px-7 py-3 text-sm font-semibold uppercase tracking-wide text-accent-foreground transition-colors hover:bg-accent-hover disabled:cursor-not-allowed disabled:opacity-60"
+          className="mt-2 rounded-sm bg-accent px-7 py-3 text-sm font-medium tracking-wide text-accent-foreground transition-colors hover:bg-accent-hover disabled:cursor-not-allowed disabled:opacity-60"
         >
           {status === "submitting" ? dict.checkout.sending : dict.checkout.submit}
         </button>
         <p className="text-xs text-foreground/50">{dict.checkout.disclaimer}</p>
       </form>
 
-      <div className="flex h-fit flex-col gap-4 border border-border bg-surface p-5">
+      <div className="flex h-fit flex-col gap-4 rounded-sm border border-border bg-surface p-5">
         <h2 className="font-display text-lg font-semibold tracking-wide">
           {dict.checkout.orderSummary}
         </h2>

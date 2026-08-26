@@ -23,7 +23,7 @@ export function CartView() {
         <p className="text-foreground/60">{dict.cart.empty}</p>
         <Link
           href="/products"
-          className="rounded-full bg-accent px-6 py-3 text-sm font-semibold uppercase tracking-wide text-accent-foreground transition-colors hover:bg-accent-hover"
+          className="rounded-sm bg-accent px-6 py-3 text-sm font-medium tracking-wide text-accent-foreground transition-colors hover:bg-accent-hover"
         >
           {dict.common.browseAllProducts}
         </Link>
@@ -35,7 +35,7 @@ export function CartView() {
 
   return (
     <div className="flex flex-col gap-8">
-      <p className="rounded-xl border border-accent/30 bg-accent/5 p-3 text-xs leading-relaxed text-foreground/70">
+      <p className="rounded-sm border border-accent/30 bg-accent/5 p-3 text-xs leading-relaxed text-foreground/70">
         {dict.cart.orderNotice}
       </p>
       <div className="flex flex-col divide-y divide-border border border-border">
@@ -140,25 +140,25 @@ export function CartView() {
           <button
             type="button"
             onClick={clear}
-            className="border border-border px-6 py-3 text-sm font-semibold uppercase tracking-wide text-foreground/70 transition-colors hover:border-red-400/50 hover:text-red-400"
+            className="rounded-sm border border-border px-6 py-3 text-sm font-medium tracking-wide text-foreground/70 transition-colors hover:border-red-400/50 hover:text-red-400"
           >
             {dict.cart.clearCart}
           </button>
           <Link
             href="/products"
-            className="border border-border px-6 py-3 text-sm font-semibold uppercase tracking-wide text-foreground/80 transition-colors hover:border-accent/50 hover:text-accent"
+            className="rounded-sm border border-border px-6 py-3 text-sm font-medium tracking-wide text-foreground/80 transition-colors hover:border-accent/50 hover:text-accent"
           >
             {dict.common.continueShopping}
           </Link>
           <Link
             href="/checkout"
-            className="bg-accent px-6 py-3 text-sm font-semibold uppercase tracking-wide text-accent-foreground transition-colors hover:bg-accent-hover"
+            className="rounded-sm bg-accent px-6 py-3 text-sm font-medium tracking-wide text-accent-foreground transition-colors hover:bg-accent-hover"
           >
             {dict.cart.requestToOrder}
           </Link>
         </div>
       </div>
-      <p className="w-fit self-end rounded-xl border border-accent/30 bg-accent/5 p-3 text-right text-xs leading-relaxed text-foreground/70 end-auto">
+      <p className="w-fit self-end rounded-sm border border-accent/30 bg-accent/5 p-3 text-right text-xs leading-relaxed text-foreground/70 end-auto">
         {dict.cart.freeShippingInfo}
       </p>
     </div>

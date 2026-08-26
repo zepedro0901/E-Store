@@ -13,7 +13,7 @@ export async function ProductCard({ product }: { product: Product }) {
   const { locale, dict } = await getDictionary();
 
   return (
-    <div className="group flex flex-col rounded-lg border border-border bg-surface transition-colors hover:border-accent/40">
+    <div className="group flex flex-col rounded-sm border border-border bg-surface transition-colors hover:border-accent/40">
       <Link
         href={`/products/${product.slug}`}
         className="relative block aspect-square w-full overflow-hidden rounded-t-lg bg-background"

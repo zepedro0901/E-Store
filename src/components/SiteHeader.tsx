@@ -52,7 +52,7 @@ export async function SiteHeader() {
               type="search"
               name="q"
               placeholder={dict.header.searchPlaceholder}
-              className="w-full rounded-full border border-border bg-surface py-1.5 pl-9 pr-3 text-sm outline-none transition-colors focus:border-accent/50 sm:py-2"
+              className="w-full rounded-sm border border-border bg-surface py-1.5 pl-9 pr-3 text-sm outline-none transition-colors focus:border-accent/50 sm:py-2"
             />
           </div>
         </form>

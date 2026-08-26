@@ -50,7 +50,7 @@ export function ProductDetail({
         <p className="text-justify text-sm leading-relaxed text-foreground/65">
           {product.description}
         </p>
-        <dl className="grid grid-cols-2 gap-2 rounded-xl border border-border bg-surface p-4 text-sm">
+        <dl className="grid grid-cols-2 gap-2 rounded-sm border border-border bg-surface p-4 text-sm">
           {product.scale && (
             <>
               <dt className="text-foreground/55">{dict.common.scale}</dt>
@@ -63,7 +63,7 @@ export function ProductDetail({
           <dt className="text-foreground/55">{dict.common.material}</dt>
           <dd className="capitalize">{product.material}</dd>
         </dl>
-        <p className="rounded-xl border border-border bg-surface/60 p-3 text-xs leading-relaxed text-foreground/55">
+        <p className="rounded-sm border border-border bg-surface/60 p-3 text-xs leading-relaxed text-foreground/55">
           {dict.common.materialDisclaimer}
         </p>
        

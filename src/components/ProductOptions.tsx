@@ -84,7 +84,7 @@ export function ProductOptions({
                   type="button"
                   disabled={disabled}
                   onClick={() => setVariationId(variation.id)}
-                  className={`rounded-full border px-4 py-1.5 text-sm font-medium transition-colors ${
+                  className={`rounded-sm border px-4 py-1.5 text-sm font-medium transition-colors ${
                     selected
                       ? "border-accent bg-accent text-accent-foreground"
                       : "border-border hover:border-accent/50"
@@ -103,7 +103,7 @@ export function ProductOptions({
         <span className="text-xs font-medium text-foreground/55">
           {dict.common.quantity}
         </span>
-        <div className="flex w-fit items-center rounded-full border border-border">
+        <div className="flex w-fit items-center rounded-sm border border-border">
           <button
             type="button"
             onClick={() => setQuantity((q) => Math.max(1, q - 1))}
@@ -126,7 +126,7 @@ export function ProductOptions({
         </div>
       </div>
 
-      <div className="flex flex-wrap items-center gap-3 rounded-xl border border-border bg-surface p-4">
+      <div className="flex flex-wrap items-center gap-3 rounded-sm border border-border bg-surface p-4">
         <span className="text-sm text-foreground/55">{dict.common.total}</span>
         <span className="text-2xl font-bold text-accent">
           {formatPrice(total, product.currency, locale)}
@@ -143,7 +143,7 @@ export function ProductOptions({
           type="button"
           onClick={handleAddToCart}
           disabled={!inStock}
-          className="rounded-full bg-accent px-6 py-3 text-sm font-semibold uppercase tracking-wide text-accent-foreground transition-colors hover:bg-accent-hover disabled:cursor-not-allowed disabled:opacity-40"
+          className="rounded-sm bg-accent px-6 py-3 text-sm font-medium tracking-wide text-accent-foreground transition-colors hover:bg-accent-hover disabled:cursor-not-allowed disabled:opacity-40"
         >
           {justAdded ? dict.common.addedToCart : dict.common.addToCart}
         </button>
@@ -151,7 +151,7 @@ export function ProductOptions({
           <button
             type="button"
             onClick={handleAddAllVariations}
-            className="rounded-full border border-accent px-6 py-3 text-sm font-semibold uppercase tracking-wide text-accent transition-colors hover:bg-accent hover:text-accent-foreground"
+            className="rounded-sm border border-accent px-6 py-3 text-sm font-medium tracking-wide text-accent transition-colors hover:bg-accent hover:text-accent-foreground"
           >
             {allJustAdded
               ? dict.common.addedToCart

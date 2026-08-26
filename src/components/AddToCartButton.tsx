@@ -78,7 +78,7 @@ export function AddToCartButton({
             ? interpolate(dict.addToCart.ariaAdd, { name })
             : interpolate(dict.addToCart.ariaOutOfStock, { name })
         }
-        className="shrink-0 rounded-full bg-accent px-3 py-1.5 text-xs font-semibold uppercase tracking-wide text-accent-foreground transition-colors hover:bg-accent-hover disabled:cursor-not-allowed disabled:opacity-40"
+        className="shrink-0 rounded-sm bg-accent px-3 py-1.5 text-xs font-medium tracking-wide text-accent-foreground transition-colors hover:bg-accent-hover disabled:cursor-not-allowed disabled:opacity-40"
       >
         {justAdded
           ? dict.common.added
@@ -97,7 +97,7 @@ export function AddToCartButton({
         aria-haspopup="listbox"
         aria-expanded={menuOpen}
         aria-label={interpolate(dict.addToCart.ariaChooseVariation, { name })}
-        className="flex items-center gap-1 rounded-full bg-accent px-3 py-1.5 text-xs font-semibold uppercase tracking-wide text-accent-foreground transition-colors hover:bg-accent-hover"
+        className="flex items-center gap-1 rounded-sm bg-accent px-3 py-1.5 text-xs font-medium tracking-wide text-accent-foreground transition-colors hover:bg-accent-hover"
       >
         {justAdded ? dict.common.added : dict.common.addToCart}
         <svg
@@ -118,7 +118,7 @@ export function AddToCartButton({
       {menuOpen && (
         <div
           role="listbox"
-          className="absolute left-1/2 top-full z-20 mt-1 w-48 -translate-x-1/2 rounded-lg border border-border bg-surface py-1 shadow-lg"
+          className="absolute left-1/2 top-full z-20 mt-1 w-48 -translate-x-1/2 rounded-sm border border-border bg-surface py-1 shadow-lg"
         >
           {variations.map((variation) => {
             const disabled = variation.inStock === false;

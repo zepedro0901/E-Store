@@ -30,7 +30,7 @@ export async function FilterBar({
     <form
       action={action}
       method="get"
-      className="mb-10 flex flex-wrap items-end gap-4 rounded-xl border border-border bg-surface p-4"
+      className="mb-10 flex flex-wrap items-end gap-4 rounded-sm border border-border bg-surface p-4"
     >
       <div className="flex flex-1 min-w-40 flex-col gap-1">
         <label
@@ -45,7 +45,7 @@ export async function FilterBar({
           type="text"
           defaultValue={q}
           placeholder={dict.filterBar.searchPlaceholder}
-          className="rounded-lg border border-border bg-background px-3 py-2 text-sm outline-none transition-colors focus:border-accent"
+          className="rounded-sm border border-border bg-background px-3 py-2 text-sm outline-none transition-colors focus:border-accent"
         />
       </div>
       {showCategoryFilter && (
@@ -60,7 +60,7 @@ export async function FilterBar({
             id="category"
             name="category"
             defaultValue={category ?? ""}
-            className="rounded-lg border border-border bg-background px-3 py-2 text-sm outline-none transition-colors focus:border-accent"
+            className="rounded-sm border border-border bg-background px-3 py-2 text-sm outline-none transition-colors focus:border-accent"
           >
             <option value="">{dict.filterBar.allStudios}</option>
             {categories.map((c) => (
@@ -83,7 +83,7 @@ export async function FilterBar({
             id="theme"
             name="theme"
             defaultValue={theme ?? ""}
-            className="rounded-lg border border-border bg-background px-3 py-2 text-sm outline-none transition-colors focus:border-accent"
+            className="rounded-sm border border-border bg-background px-3 py-2 text-sm outline-none transition-colors focus:border-accent"
           >
             <option value="">{dict.filterBar.allThemes}</option>
             {themes.map((t) => (
@@ -109,7 +109,7 @@ export async function FilterBar({
           step="0.01"
           inputMode="decimal"
           defaultValue={minPrice ?? ""}
-          className="w-24 rounded-lg border border-border bg-background px-3 py-2 text-sm outline-none transition-colors focus:border-accent"
+          className="w-24 rounded-sm border border-border bg-background px-3 py-2 text-sm outline-none transition-colors focus:border-accent"
         />
       </div>
       <div className="flex flex-col gap-1">
@@ -127,7 +127,7 @@ export async function FilterBar({
           step="0.01"
           inputMode="decimal"
           defaultValue={maxPrice ?? ""}
-          className="w-24 rounded-lg border border-border bg-background px-3 py-2 text-sm outline-none transition-colors focus:border-accent"
+          className="w-24 rounded-sm border border-border bg-background px-3 py-2 text-sm outline-none transition-colors focus:border-accent"
         />
       </div>
       <div className="flex flex-col gap-1">
@@ -141,7 +141,7 @@ export async function FilterBar({
           id="sort"
           name="sort"
           defaultValue={sort ?? "name-asc"}
-          className="rounded-lg border border-border bg-background px-3 py-2 text-sm outline-none transition-colors focus:border-accent"
+          className="rounded-sm border border-border bg-background px-3 py-2 text-sm outline-none transition-colors focus:border-accent"
         >
           <option value="newest">{dict.filterBar.sortNewest}</option>
           <option value="price-asc">{dict.filterBar.sortPriceAsc}</option>
@@ -151,7 +151,7 @@ export async function FilterBar({
       </div>
       <button
         type="submit"
-        className="rounded-lg bg-accent px-5 py-2 text-sm font-medium text-accent-foreground transition-colors hover:bg-accent-hover"
+        className="rounded-sm bg-accent px-5 py-2 text-sm font-medium text-accent-foreground transition-colors hover:bg-accent-hover"
       >
         {dict.filterBar.apply}
       </button>

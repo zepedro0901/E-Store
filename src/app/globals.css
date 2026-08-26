@@ -1,17 +1,17 @@
 @import "tailwindcss";
 
 :root {
-  /* Workshop dark: warm near-black, like a resin shop after hours */
-  --background: #110c07;
-  --foreground: #ece2d2;
-  --surface: #1a130b;
-  --surface-2: #241a0f;
-  --border: rgba(236, 226, 210, 0.1);
-  /* Cured resin amber, not jewelry gold */
-  --accent: #c8792f;
-  --accent-hover: #e2953f;
-  --accent-foreground: #150e07;
-  --accent-glass: rgba(200, 121, 47, 0.16);
+  /* Dark atelier: near-black graphite gallery walls, product lit like museum pieces */
+  --background: #0c0a08;
+  --foreground: #ede6d8;
+  --surface: #16130f;
+  --surface-2: #201b14;
+  --border: rgba(237, 230, 216, 0.08);
+  /* Cured resin, refined to antique brass rather than construction amber */
+  --accent: #b8863f;
+  --accent-hover: #cf9a52;
+  --accent-foreground: #14100a;
+  --accent-glass: rgba(184, 134, 63, 0.14);
 }
 
 @theme inline {
@@ -26,7 +26,7 @@
   --color-accent-glass: var(--accent-glass);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
-  --font-display: var(--font-shoulders);
+  --font-display: var(--font-fraunces);
 }
 
 body {

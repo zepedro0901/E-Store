@@ -29,7 +29,7 @@ export default async function ThankYouPage({
       <p className="max-w-md text-foreground/65">{dict.thankYou.message}</p>
       <Link
         href="/products"
-        className="mt-4 rounded-full bg-accent px-6 py-3 text-sm font-semibold uppercase tracking-wide text-accent-foreground transition-colors hover:bg-accent-hover"
+        className="mt-4 rounded-sm bg-accent px-6 py-3 text-sm font-medium tracking-wide text-accent-foreground transition-colors hover:bg-accent-hover"
       >
         {dict.thankYou.continueBrowsing}
       </Link>
