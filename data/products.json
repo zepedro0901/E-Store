@@ -9943,20 +9943,35 @@
     "createdAt": "2025-04-02",
     "variations": [
       {
-        "id": "pose-1",
-        "label": "Pose 1",
+        "id": "pose-1-knight",
+        "label": "Pose 1 Knight",
+        "price": 500,
+        "image": "https://images.pangolinresinworks.com/collection-1/mimic-knights-474990/4.jpg"
+      },{
+        "id": "pose-1-mimic",
+        "label": "Pose 1 Mimic",
         "price": 500,
         "image": "https://images.pangolinresinworks.com/collection-1/mimic-knights-474990/4.jpg"
       },
       {
-        "id": "pose-2",
-        "label": "Pose 2",
+        "id": "pose-2-knight",
+        "label": "Pose 2 Knight",
+        "price": 500,
+        "image": "https://images.pangolinresinworks.com/collection-1/mimic-knights-474990/3.jpg"
+      },{
+        "id": "pose-2-mimic",
+        "label": "Pose 2 Mimic",
         "price": 500,
         "image": "https://images.pangolinresinworks.com/collection-1/mimic-knights-474990/3.jpg"
       },
       {
-        "id": "pose-3",
-        "label": "Pose 3",
+        "id": "pose-3-knight",
+        "label": "Pose 3 Knight",
+        "price": 500,
+        "image": "https://images.pangolinresinworks.com/collection-1/mimic-knights-474990/2.jpg"
+      },{
+        "id": "pose-3-mimic",
+        "label": "Pose 3 Mimic",
         "price": 500,
         "image": "https://images.pangolinresinworks.com/collection-1/mimic-knights-474990/2.jpg"
       }
