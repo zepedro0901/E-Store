@@ -1,3 +1,4 @@
+import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
 import { ProductGrid } from "@/components/ProductGrid";
@@ -5,6 +6,19 @@ import { ScaleDivider } from "@/components/ScaleDivider";
 import { getAllProducts, getCategories, getFeaturedProducts, getThemes } from "@/lib/products";
 import { getDictionary } from "@/i18n/get-dictionary";
 import { interpolate } from "@/i18n/interpolate";
+import { SITE_NAME, pageMetadata } from "@/lib/seo";
+
+export async function generateMetadata(): Promise<Metadata> {
+  const { dict } = await getDictionary();
+  const meta = pageMetadata({
+    title: SITE_NAME,
+    description: dict.home.heroSubtitle,
+    path: "/",
+  });
+  // Use an absolute title on the homepage so the layout's "%s | Pangolin
+  // Resinworks" template doesn't duplicate the site name.
+  return { ...meta, title: { absolute: SITE_NAME } };
+}
 
 export default async function Home() {
   const { locale, dict } = await getDictionary();

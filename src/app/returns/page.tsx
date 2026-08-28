@@ -1,10 +1,15 @@
 import type { Metadata } from "next";
 import { getDictionary } from "@/i18n/get-dictionary";
 import { PolicySections } from "@/components/PolicySections";
+import { pageMetadata } from "@/lib/seo";
 
 export async function generateMetadata(): Promise<Metadata> {
   const { dict } = await getDictionary();
-  return { title: dict.returns.metaTitle };
+  return pageMetadata({
+    title: dict.returns.metaTitle,
+    description: dict.returns.intro,
+    path: "/returns",
+  });
 }
 
 export default async function ReturnsPage() {

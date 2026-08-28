@@ -12,6 +12,7 @@ import {
 import type { SortOption } from "@/types/product";
 import { getDictionary } from "@/i18n/get-dictionary";
 import { interpolate } from "@/i18n/interpolate";
+import { pageMetadata, truncate } from "@/lib/seo";
 
 export function generateStaticParams() {
   return getCategories().map((c) => ({ slug: c.slug }));
@@ -25,7 +26,18 @@ export async function generateMetadata({
   const { slug } = await params;
   const { locale, dict } = await getDictionary();
   const category = getCategoryBySlug(slug, locale);
-  return { title: category ? category.name : dict.metadata.category };
+  if (!category) return { title: dict.metadata.category };
+
+  return pageMetadata({
+    title: category.name,
+    description: category.description
+      ? truncate(category.description)
+      : interpolate(dict.products.productsCount, {
+          count: listProducts({ category: slug, locale }).total,
+        }),
+    path: `/category/${slug}`,
+    image: category.image,
+  });
 }
 
 export default async function CategoryPage({

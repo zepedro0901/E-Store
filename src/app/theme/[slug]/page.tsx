@@ -12,6 +12,7 @@ import {
 import type { SortOption } from "@/types/product";
 import { getDictionary } from "@/i18n/get-dictionary";
 import { interpolate } from "@/i18n/interpolate";
+import { pageMetadata, truncate } from "@/lib/seo";
 
 export function generateStaticParams() {
   return getThemes().map((t) => ({ slug: t.slug }));
@@ -25,7 +26,18 @@ export async function generateMetadata({
   const { slug } = await params;
   const { locale, dict } = await getDictionary();
   const theme = getThemeBySlug(slug, locale);
-  return { title: theme ? theme.name : dict.metadata.theme };
+  if (!theme) return { title: dict.metadata.theme };
+
+  return pageMetadata({
+    title: theme.name,
+    description: theme.description
+      ? truncate(theme.description)
+      : interpolate(dict.products.productsCount, {
+          count: listProducts({ theme: slug, locale }).total,
+        }),
+    path: `/theme/${slug}`,
+    image: theme.image,
+  });
 }
 
 export default async function ThemePage({

@@ -88,6 +88,8 @@ const pt: Dictionary = {
   },
   products: {
     productsCount: "{count} produtos",
+    metaDescription:
+      "Explore o nosso catálogo completo de miniaturas em resina - personagens de fantasia sombria, monstros e dragões, impressos e acabados à mão.",
   },
   filterBar: {
     search: "Pesquisar",
@@ -281,6 +283,8 @@ const pt: Dictionary = {
   },
   privacy: {
     metaTitle: "Política de Privacidade",
+    metaDescription:
+      "Como a Pangolin Resinworks recolhe, utiliza e protege os seus dados.",
     title: "Política de Privacidade",
     updated: "Última atualização: 16 de agosto de 2026",
     sections: [
@@ -348,6 +352,8 @@ const pt: Dictionary = {
   },
   terms: {
     metaTitle: "Termos de Serviço",
+    metaDescription:
+      "Os termos e condições para encomendar na Pangolin Resinworks.",
     title: "Termos de Serviço",
     updated: "Última atualização: 18 de agosto de 2026",
     sections: [

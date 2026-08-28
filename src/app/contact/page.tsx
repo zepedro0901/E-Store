@@ -1,9 +1,14 @@
 import type { Metadata } from "next";
 import { getDictionary } from "@/i18n/get-dictionary";
+import { pageMetadata } from "@/lib/seo";
 
 export async function generateMetadata(): Promise<Metadata> {
   const { dict } = await getDictionary();
-  return { title: dict.contact.metaTitle };
+  return pageMetadata({
+    title: dict.contact.metaTitle,
+    description: dict.contact.subtitle,
+    path: "/contact",
+  });
 }
 
 export default async function ContactPage() {

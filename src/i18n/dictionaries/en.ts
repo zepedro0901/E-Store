@@ -86,6 +86,8 @@ const en = {
   },
   products: {
     productsCount: "{count} products",
+    metaDescription:
+      "Browse our full catalog of resin miniatures - dark fantasy characters, monsters, and dragons, printed and finished by hand.",
   },
   filterBar: {
     search: "Search",
@@ -279,6 +281,7 @@ const en = {
   },
   privacy: {
     metaTitle: "Privacy Policy",
+    metaDescription: "How Pangolin Resinworks collects, uses, and protects your data.",
     title: "Privacy Policy",
     updated: "Last updated: August 16, 2026",
     sections: [
@@ -346,6 +349,7 @@ const en = {
   },
   terms: {
     metaTitle: "Terms of Service",
+    metaDescription: "The terms and conditions for ordering from Pangolin Resinworks.",
     title: "Terms of Service",
     updated: "Last updated: August 18, 2026",
     sections: [

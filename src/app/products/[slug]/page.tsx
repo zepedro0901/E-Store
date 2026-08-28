@@ -9,6 +9,13 @@ import {
   getThemeBySlug,
 } from "@/lib/products";
 import { getDictionary } from "@/i18n/get-dictionary";
+import {
+  breadcrumbJsonLd,
+  pageMetadata,
+  productJsonLd,
+  serializeJsonLd,
+  truncate,
+} from "@/lib/seo";
 
 export function generateStaticParams() {
   return getAllProducts().map((p) => ({ slug: p.slug }));
@@ -22,7 +29,14 @@ export async function generateMetadata({
   const { slug } = await params;
   const { locale, dict } = await getDictionary();
   const product = getProductBySlug(slug, locale);
-  return { title: product ? product.name : dict.metadata.product };
+  if (!product) return { title: dict.metadata.product };
+
+  return pageMetadata({
+    title: product.name,
+    description: truncate(product.description),
+    path: `/products/${slug}`,
+    image: product.images[0],
+  });
 }
 
 export default async function ProductPage({
@@ -40,8 +54,25 @@ export default async function ProductPage({
     .map((slug) => getThemeBySlug(slug, locale))
     .filter((t): t is NonNullable<typeof t> => Boolean(t));
 
+  const breadcrumbItems = [
+    { name: dict.common.allProducts, path: "/products" },
+    ...(category
+      ? [{ name: category.name, path: `/category/${category.slug}` }]
+      : []),
+    { name: product.name, path: `/products/${product.slug}` },
+  ];
+
   return (
     <div className="mx-auto w-full max-w-5xl px-6 py-10">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: serializeJsonLd([
+            productJsonLd(product, category?.name),
+            breadcrumbJsonLd(breadcrumbItems),
+          ]),
+        }}
+      />
       <nav className="mb-6 text-sm text-foreground/55">
         <Link href="/products" className="hover:text-accent">
           {dict.common.allProducts}

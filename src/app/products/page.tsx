@@ -6,10 +6,15 @@ import { SORT_OPTIONS, listProducts } from "@/lib/products";
 import type { SortOption } from "@/types/product";
 import { getDictionary } from "@/i18n/get-dictionary";
 import { interpolate } from "@/i18n/interpolate";
+import { pageMetadata } from "@/lib/seo";
 
 export async function generateMetadata(): Promise<Metadata> {
   const { dict } = await getDictionary();
-  return { title: dict.common.allProducts };
+  return pageMetadata({
+    title: dict.common.allProducts,
+    description: dict.products.metaDescription,
+    path: "/products",
+  });
 }
 
 export default async function ProductsPage({
