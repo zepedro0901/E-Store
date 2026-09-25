@@ -2,7 +2,6 @@
 
 **Live at [pangolinresinworks.com](https://pangolinresinworks.com)**
 
-The online store for Pangolin Resinworks, which sells hand-finished resin miniatures for tabletop games. It offers more than 1,600 fantasy miniatures, from dragons to terrain. Each one is 3D-printed to order, cured and finished by hand, and shipped across the European Union.
 
 Built with Next.js, TypeScript and PostgreSQL.
 
