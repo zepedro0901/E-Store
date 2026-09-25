@@ -1,103 +1,101 @@
 # Pangolin Resinworks
 
-**Live at [pangolinresinworks.com](https://pangolinresinworks.com)**
+> **This is a learning project, not a real business.** Pangolin Resinworks is a made-up store I created to practise two things: working with an AI coding assistant on a large codebase, and deploying a full website to production. No orders are fulfilled and no payments are taken.
 
+**Live demo:** [pangolinresinworks.com](https://pangolinresinworks.com)
 
-Built with Next.js, TypeScript and PostgreSQL.
+## Why I built this
 
-## Features
+I had two goals.
 
-**Browsing**
-- A catalogue of **1,655 miniatures** in three collections, also grouped into eight themes such as dragons, undead and terrain
-- Search, filters by collection, theme and price range, four ways to sort, and 48 products per page
-- Product pages with image galleries and a size guide
-- **Variations** such as alternative poses or sizes, each of which can have its own price, image and stock status
+1. **Learn to work with [Claude Code](https://claude.com/claude-code) on a large project.** Using an AI assistant for a short script is easy. I wanted to find out what it takes to keep one productive over three weeks and 70+ commits on a codebase with a database, an API, two languages and a 1,600-product catalogue, and to keep the result coherent and secure.
+2. **Learn how a website actually gets online.** Writing code that runs on my laptop is one thing. Hosting it, connecting a database, storing images, sending emails and pointing a domain at it are all skills I hadn't practised before.
 
-**Ordering**
-- A cart that survives page reloads, saved in the browser
-- **Order requests instead of card payments.** Because every miniature is made to order, checkout sends a request rather than taking payment. The order is saved and emailed to the shop, which replies to the customer to confirm and arrange payment.
-- Readable order numbers (e.g. `#2026-000042`) that restart every year
-- Shipping calculated for Portugal and the rest of the EU, with free-shipping thresholds
+An online shop was a good test case because it needs all of these at once: a large catalogue, search and filters, a cart, a checkout that must be protected against abuse, a database, email and SEO.
 
-**Everything else**
-- **Portuguese and English** throughout, including product names and descriptions (Portuguese by default, with a language switcher)
-- Search-engine metadata: social-sharing previews, Google product data, a sitemap and `robots.txt`
-- Shipping, returns, privacy and terms pages, plus FAQ and contact pages
-- Privacy-friendly, cookieless analytics
+## What I learned
 
-## Tech stack
+### Working with an AI assistant on a large codebase
+
+- **Plan before coding.** For bigger features, such as the Portuguese/English translation and the "shop by theme" homepage, I had Claude Code write a design spec and an implementation plan first, and I reviewed both before any code was written. They're in [`docs/`](docs/). This caught misunderstandings early, when they were cheap to fix.
+- **Give the assistant project rules.** [`AGENTS.md`](AGENTS.md) holds standing instructions the assistant reads every session. For example, this project uses a newer Next.js version than the AI was trained on, so the file tells it to check the current documentation before writing code.
+- **Work in small steps.** I committed often, in small pieces, which made each change easier to check, and easier to undo when something went wrong.
+- **Review; don't just accept.** A review of the checkout found that it trusted the prices sent by the browser, so anyone could edit a price before submitting an order. The fix makes the server look up every price itself. The lesson: AI-generated code needs the same scrutiny as anyone else's, especially where money or security is involved.
+- **Test on real devices.** Several fixes, such as iPhone zooming into form fields and text overflowing on small screens, only showed up on an actual phone.
+
+### Deploying and running a website
+
+| Service | What it does here | What I learned |
+|---|---|---|
+| **Vercel** | Hosting, automatic deploys from GitHub, analytics | Managing environment variables and secrets, and working within free-tier limits. Image optimisation was switched off after it went over its quota. |
+| **Neon** | Serverless PostgreSQL database for orders | Pooled vs direct connection strings, and creating tables with Drizzle Kit |
+| **Cloudflare R2** | Storage for all product images | Moving images out of the Git repo into object storage, and serving them from a custom subdomain instead of R2's rate-limited development URL |
+| **Resend** | Sends order emails | Sending email from a server, and making sure failures are reported instead of silently ignored |
+| **Domain & DNS** | `pangolinresinworks.com` | Connecting a custom domain, and redirecting every variant of the address to one canonical URL |
+
+One lesson stood out. The first version of the checkout's rate limiting (which stops spam orders) kept its counters in memory. On a serverless host like Vercel, each request can run on a fresh instance with its own empty memory, so the limit barely worked. Moving the counters into PostgreSQL fixed it, and it taught me how serverless hosting differs from a traditional server.
+
+## What the site does
+
+- A catalogue of **1,655 miniatures** in three collections, also grouped into eight themes
+- Search, filters by collection, theme and price range, sorting, and pagination
+- Product pages with image galleries, a size guide, and **variations** (alternative poses or sizes, each with its own price and image)
+- A cart saved in the browser that survives page reloads
+- A checkout that sends an **order request** by email rather than taking payment
+- **Portuguese and English** throughout, including product descriptions
+- SEO basics: social-sharing previews, Google product data, a sitemap and `robots.txt`
+- Shipping, returns, privacy and terms pages
+
+## How it's built
 
 | Area | Tools |
 |---|---|
 | Framework | Next.js 16 (App Router), React 19, TypeScript |
 | Styling | Tailwind CSS 4 |
-| Database | PostgreSQL (Neon), accessed through Drizzle ORM |
+| Database | PostgreSQL on Neon, accessed through Drizzle ORM |
 | Forms & validation | React Hook Form, Zod |
 | Client state | Zustand, saved to `localStorage` |
 | Email | Resend |
 | Images | Cloudflare R2 |
-| Hosting & analytics | Vercel |
+| Hosting | Vercel |
 
-## Under the hood
+A few architecture decisions worth noting:
 
-**Catalogue as data files, orders in a database.** Products, collections and themes live in JSON files in `data/`, so product pages load fast and need no database queries. PostgreSQL stores only what changes at runtime: orders, order numbers and rate-limit counters.
-
-**The server never trusts the browser's prices.** At checkout, the API receives only product IDs, variations and quantities. It looks up each item's real price on the server before saving the order, so editing prices in the browser has no effect.
-
-**Checkout is protected at several levels:**
-- Every order request is validated with a strict Zod schema, including limits on field lengths, quantities and cart size.
-- Checkout is **rate-limited** to five orders per IP address every ten minutes. The limit is stored in PostgreSQL, so it works across serverless instances.
-- Customer input is escaped before being inserted into the order email.
-- No card details ever touch the site, because payment is arranged separately once an order is accepted.
-
-**Order numbers are generated safely.** Each year has a counter row that's incremented with a single `INSERT ... ON CONFLICT DO UPDATE` statement, so two orders placed at the same time can never get the same number.
-
-**Translations fall back field by field.** Catalogue data is written in English, with optional Portuguese overrides for each field. If a translation is missing, English shows instead of a blank space.
-
-## Project structure
+- **The catalogue is stored in JSON files, and orders in a database.** Product data rarely changes, so it ships with the site and pages load without database queries. PostgreSQL holds only what changes while the site is running: orders, order numbers and rate-limit counters.
+- **The server recalculates every price.** The browser sends only product IDs and quantities.
+- **Checkout is validated and rate-limited.** Order requests are checked with a strict Zod schema and limited to five per IP address every ten minutes.
 
 ```
 src/
-├── app/                  Pages and routes (Next.js App Router)
-│   ├── api/checkout/     Order endpoint: validation, re-pricing, rate limiting
-│   ├── products/         Catalogue and product pages
-│   ├── category/, theme/ Collection and theme listings
-│   └── cart/, checkout/  Cart and checkout flow
-├── components/           UI components (gallery, filters, cart, forms, ...)
-├── db/                   Drizzle schema and database connection
-├── i18n/                 Language dictionaries, locale cookie, translation hooks
-└── lib/                  Catalogue queries, cart store, shipping, orders, email, SEO
-data/                     Catalogue: products, collections, themes
-scripts/                  One-off catalogue and image-migration tools
-pricing/                  PrusaSlicer profiles used to estimate print costs
-docs/                     Design specs and implementation plans
+├── app/            Pages and routes, including the checkout API
+├── components/     UI components
+├── db/             Database schema and connection
+├── i18n/           Portuguese and English translations
+└── lib/            Catalogue queries, cart, shipping, orders, email, SEO
+data/               Catalogue data (products, collections, themes)
+scripts/            One-off catalogue clean-up and image-migration tools
+docs/               Design specs and implementation plans
 ```
 
-## Getting started
+## Run it locally
 
-### Requirements
-
-- Node.js 20 or later
-
-### Install and run
+Requires Node.js 20 or later.
 
 ```bash
 npm install
 npm run dev
 ```
 
-Then open [http://localhost:3000](http://localhost:3000). You can browse the whole catalogue without any configuration; only checkout needs a database and email service.
+Open [http://localhost:3000](http://localhost:3000). You can browse the whole catalogue without any configuration.
 
-### Enabling checkout
-
-Create a `.env.local` file:
+Checkout also needs a database and an email service. To enable it, create a `.env.local` file:
 
 ```bash
-DATABASE_URL=postgres://...            # Pooled PostgreSQL connection (used by the app)
-DATABASE_URL_UNPOOLED=postgres://...   # Direct connection (used by Drizzle Kit)
-RESEND_API_KEY=re_...                  # Resend API key
-ORDER_NOTIFICATION_EMAIL=you@example.com  # Where new order requests are sent
-ORDER_FROM_EMAIL=orders@yourdomain.com    # Sender address (a domain verified in Resend)
+DATABASE_URL=postgres://...              # Neon pooled connection
+DATABASE_URL_UNPOOLED=postgres://...     # Neon direct connection (for Drizzle Kit)
+RESEND_API_KEY=re_...
+ORDER_NOTIFICATION_EMAIL=you@example.com # Where order requests are sent
+ORDER_FROM_EMAIL=orders@yourdomain.com   # Sender address verified in Resend
 ```
 
 Then create the database tables:
@@ -106,16 +104,11 @@ Then create the database tables:
 npx dotenv -e .env.local -- npx drizzle-kit push
 ```
 
-## Catalogue tooling
+## Next steps
 
-The catalogue was assembled and cleaned with a few Node scripts in `scripts/`:
+- **Write the automated test suite myself**, starting with pricing, shipping and checkout, as a way to learn the codebase in depth
+- Put a clear "demo project" notice on the live site itself
 
-- **`build-themes.js`** sorts all 1,600+ products into themes by matching keywords in their names, descriptions and tags.
-- **`normalize-scale.js`** converts raw measurements like "32 mm" or "75mm" into standard tabletop base sizes (Small, Medium, Large, Huge, ...).
-- **R2 migration scripts** moved product images from the repository to Cloudflare R2 and pointed the catalogue at a custom image domain.
+## Credits
 
-The `pricing/` folder holds hand-built PrusaSlicer profiles for the Anycubic Photon M5s printer. Slicing each model with them estimates its resin use and print time, which feed into pricing.
-
-## How it was built
-
-I built the whole project in about three weeks, over 70+ commits, using AI-assisted development with [Claude Code](https://claude.com/claude-code). For larger features, such as the Portuguese/English translation and the homepage "shop by theme" section, I wrote a design spec and an implementation plan before any code; they're in `docs/`.
+The miniature designs, names and images in the catalogue belong to their original creators and are used here for demonstration only.
