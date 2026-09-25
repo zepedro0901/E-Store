@@ -119,10 +119,3 @@ The `pricing/` folder holds hand-built PrusaSlicer profiles for the Anycubic Pho
 ## How it was built
 
 I built the whole project in about three weeks, over 70+ commits, using AI-assisted development with [Claude Code](https://claude.com/claude-code). For larger features, such as the Portuguese/English translation and the homepage "shop by theme" section, I wrote a design spec and an implementation plan before any code; they're in `docs/`.
-
-## Roadmap
-
-- Optional online payment once an order has been accepted
-- Automated tests for checkout, pricing and shipping rules
-- An admin view for managing orders
-- Moving the catalogue from JSON files into the database, so products can be edited without redeploying
